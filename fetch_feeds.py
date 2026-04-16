@@ -113,7 +113,12 @@ Entscheidung: {title}
                 text += block.get("text", "")
         return text.strip()[:500]
     except Exception as e:
+        err_body = ""
+        if hasattr(e, "read"):
+            try: err_body = e.read().decode("utf-8","replace")[:300]
+            except: pass
         print(f"      AI error: {type(e).__name__}: {e}")
+        if err_body: print(f"      Response: {err_body}")
         return ""
 
 # ═══════ RSS ═══════
