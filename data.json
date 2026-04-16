@@ -1,1 +1,1656 @@
-{}
+{
+  "recht_ogh": [
+    {
+      "id": "82231bea9490",
+      "title": "Urteile und Beschlüsse des OGH",
+      "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/",
+      "category": "OGH",
+      "excerpt": "Urteile und Beschlüsse des OGH",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T15:45:15.424205+00:00"
+    },
+    {
+      "id": "286ad182faa3",
+      "title": "Vorabentscheidungsersuchen an den EuGH",
+      "url": "https://www.ogh.gv.at/entscheidungen/vorabentscheidungsersuchen-eugh/",
+      "category": "OGH",
+      "excerpt": "Vorabentscheidungsersuchen an den EuGH",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T15:45:15.424205+00:00"
+    },
+    {
+      "id": "46476ae83b8e",
+      "title": "Normprüfungsanträge an den VfGH",
+      "url": "https://www.ogh.gv.at/entscheidungen/normpruefungsantraege-vfgh/",
+      "category": "OGH",
+      "excerpt": "Normprüfungsanträge an den VfGH",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T15:45:15.424205+00:00"
+    },
+    {
+      "id": "32ebffa94097",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "a313ecc819f2",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_001",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "0846827356a3",
+      "title": "OGH 21Ds8/25a",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00008_25A0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "2ae39bdbfaeb",
+      "title": "OGH 1Ob34/26w",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260408_OGH0002_0010OB00034_26W0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-08T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "397efdf33fc4",
+      "title": "OGH 15Os32/26h",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260407_OGH0002_0150OS00032_26H0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-07T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "9a5a814779f5",
+      "title": "OGH 12Os35/26b",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260327_OGH0002_0120OS00035_26B0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-27T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "4b310ef794ed",
+      "title": "OGH 11Os79/25i",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0110OS00079_25I0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "938c4343ecf2",
+      "title": "OGH 14Os24/26z",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0140OS00024_26Z0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "a474266f70d9",
+      "title": "OGH 15Os11/26w",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00011_26W0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "6b3ee8341c9c",
+      "title": "OGH 15Os118/25d",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00118_25D0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "a2a808937ab5",
+      "title": "OGH 15Os15/26h (15Os16/26f)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00015_26H0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "c14e4a491af9",
+      "title": "OGH 15Os20/26v",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00020_26V0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "7754d256e416",
+      "title": "OGH 15Os22/26p",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00022_26P0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "6c282f924e6a",
+      "title": "OGH 15Os26/26a",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00026_26A0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "c72f2c9ae816",
+      "title": "OGH 15Os8/26d",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00008_26D0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "d90365057a66",
+      "title": "OGH 15Os9/26a (15Os12/26t)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00009_26A0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "705432826b75",
+      "title": "OGH 3Ob31/26v",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0030OB00031_26V0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "Diesel, Dieselskandal, Abschalteinrichtung, Thermofenster, Emissionskontrollsystem, Emissionsgrenzwerte, Neuer Europäischer Fahrzyklus-Test, NEFZ, Realbetrieb. Siehe auch RS0135300, RS0135307, RS0135343 und RS0135338",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "AEUV Lissabon Art267; Verordnung (EG) 715/2007 Art3 Z10; Verordnung (EG) 715/2007 Art5",
+      "summary": "Der OGH behandelt in dieser Entscheidung die Frage der Haftung von Fahrzeugherstellern für die Verwendung von Abschalteinrichtungen (sogenannte \"Thermofenster\") bei Dieselfahrzeugen, die zu erhöhten Emissionen im Realbetrieb führen, obwohl die Fahrzeuge im standardisierten NEFZ-Test die EU-Emissionsgrenzwerte einhalten. Die Entscheidung behandelt, ob solche Einrichtungen gemäß der EU-Verordnung (EG) 715/2007 zulässig sind und welche Schadensersatzansprüche Käufer gegen Hersteller haben. Der OGH "
+    },
+    {
+      "id": "dea02c4e26b8",
+      "title": "OGH 7Ob12/26d",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00012_26D0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "a0ad7af04608",
+      "title": "OGH 7Ob29/26d",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00029_26D0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "c61b61b5a440",
+      "title": "OGH 7Ob8/26s",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00008_26S0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "2d9aa8295bcf",
+      "title": "OGH 7Ob9/26p",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00009_26P0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": ""
+    },
+    {
+      "id": "e366ad4a0e61",
+      "title": "OGH 15 Os 22/26p",
+      "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/beschlagnahme-von-daten-und-datentraegern/",
+      "category": "OGH",
+      "excerpt": "Beschlagnahme von Daten und Datenträgern",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    }
+  ],
+  "recht_vfgh": [
+    {
+      "id": "dd133f03d40c",
+      "title": "VfGH , E 2616/2018: Verfassungsgerichtshof leitet Prüfung des Sbg Baupolizeigesetz ein (PDF, 0.4 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH_Entscheidung_E_2616_2018_Pruefung_Sbg_Baupolizeigesetz.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH , E 2616/2018: Verfassungsgerichtshof leitet Prüfung des Sbg Baupolizeigesetz ein (PDF, 0.4 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T15:45:15.424205+00:00"
+    },
+    {
+      "id": "1cb308c2b288",
+      "title": "100 Jahre VfGH – Veranstaltungsüberblick",
+      "url": "https://www.vfgh.gv.at/verfassungsgerichtshof/100Jahre/100_Jahre_VfGH_-_Veranstaltungsueberblick.de.html",
+      "category": "VfGH",
+      "excerpt": "100 Jahre VfGH – Veranstaltungsüberblick",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T15:45:15.424205+00:00"
+    },
+    {
+      "id": "f332a738309b",
+      "title": "VfGH 15.04.2026, E 639/2026 u.a.: Projekt Verbindungsbahn Speising: Aufschiebende Wirkung nicht zuerkannt (PDF, 0.7 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Beschluss-E-639_2026-11_ua-vom-15.04.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 15.04.2026, E 639/2026 u.a.: Projekt Verbindungsbahn Speising: Aufschiebende Wirkung nicht zuerkannt (PDF, 0.7 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-15T00:00:00"
+    },
+    {
+      "id": "0699772b7750",
+      "title": "VfGH V258/2025 (V258/2025-13)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260318_25V00258_01",
+      "category": "VfGH",
+      "excerpt": "Raumordnung, Flächenwidmungsplan, Widmung, Grundlagenforschung, Baurecht, Geltungsbereich (zeitlicher) einer Verordnung, Planungsakte Verfahren, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-18T00:00:00",
+      "norm": "B-VG Art139 Abs1 Z1; Oö RaumOG 1994 §21, §36, §39; Oö RaumOG 1972 §16; Flächenwidmungsplan Nr 5 des Gemeinderats der Gemeinde Schleißheim vom 24.09.2009; VfGG §7 Abs2",
+      "summary": "Der VfGH hat über die Verfassungsmäßigkeit eines Flächenwidmungsplans der Gemeinde Schleißheim entschieden, der eine Grundstücksfläche für Grundlagenforschung widmete. Die Entscheidung betraf die Frage, ob die raumordnungsrechtliche Widmung auf Basis des damals geltenden Oö RaumOG 1994 rechtmäßig erfolgte und ob die zeitlichen Geltungsbereiche der einschlägigen Vorschriften eingehalten wurden. Der VfGH überprüfte den Planungsakt auf Einhaltung der verfassungsrechtlichen Vorgaben gem. B-VG Art. 1"
+    },
+    {
+      "id": "f42db7967d08",
+      "title": "VfGH 18.03.2026, KR 1/2025: Antrag des Rechnungshofes auf Einsichtnahme in Geschäftsbücher der FPÖ: im Wesentlichen Stattgabe (PDF, 0.6 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-KR-1_2025-vom-18.03.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 18.03.2026, KR 1/2025: Antrag des Rechnungshofes auf Einsichtnahme in Geschäftsbücher der FPÖ: im Wesentlichen Stattgabe (PDF, 0.6 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-03-18T00:00:00"
+    },
+    {
+      "id": "7c1c6b2b0be9",
+      "title": "VfGH G155/2025 ua (G155/2025-16, G209/2025-5)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00155_01",
+      "category": "VfGH",
+      "excerpt": "Kinder, Auskunftsrecht, Privat- und Familienleben, Kinder- und Jugendhilfe, Jugendfürsorge, Kindschaftsrecht, lex specialis, Auslegung verfassungskonforme, VfGH / Fristsetzung, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; B-VG Art140 Abs1 Z1 litb; B-VG Art151 Abs68; StGG Art2",
+      "summary": "Der VfGH prüfte die Vereinbarkeit von Bestimmungen des Kinder- und Jugendhilfegesetzes mit Verfassungsrecht, insbesondere hinsichtlich des Auskunftsrechts von Kindern über ihre Herkunft und des Schutzes von Privat- und Familienleben gemäß B-VG und StGG. Das Gericht konkretisierte die Grenzen zwischen allgemeinen Auskunftsrechten und speziellen Bestimmungen des Kindschaftsrechts als lex specialis und setzte Fristen für die verfassungskonforme Auslegung oder Gesetzesänderung. Die Entscheidung betr"
+    },
+    {
+      "id": "ebb85e77e02b",
+      "title": "VfGH G156/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00156_01",
+      "category": "VfGH",
+      "excerpt": "Kinder, Auskunftsrecht, Privat- und Familienleben, Kinder- und Jugendhilfe, Jugendfürsorge, Kindschaftsrecht, VfGH / Gerichtsantrag, VfGH / Verwerfungsumfang",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; B-VG Art140 Abs1 Z1 litb; B-VG Art151 Abs68; StGG Art2",
+      "summary": "Der VfGH behandelt die Verfassungsmäßigkeit von Bestimmungen der Kinder- und Jugendhilferegelung hinsichtlich des Auskunftsrechts von Kindern über ihre Herkunft und ihr Privatleben sowie deren Vereinbarkeit mit Art. 7 B-VG (Menschenwürde) und dem StGG. Die Entscheidung betrifft die grundsätzliche Frage, in welchem Umfang Kinder einen verfassungsrechtlich geschützten Anspruch auf Informationen über ihre Herkunft und familiäre Verhältnisse haben, insbesondere im Kontext der Jugendfürsorge und Kind"
+    },
+    {
+      "id": "2b8cd35c1515",
+      "title": "VfGH G73/2025 (G73/2025-21)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00073_01",
+      "category": "VfGH",
+      "excerpt": "Kompetenz Bund - Länder Arbeitsrecht, Arbeitnehmerschutz, Mutterschutz, Versteinerungstheorie, Auslegung historische, Auslegung systematische, Dienstrecht, Arbeitsrecht, Zuständigkeit, Kinder, Kompetenz Bund - Länder Dienstrecht, VfGH / Parteiantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art10 Abs1 Z11; B-VG Art12 Abs1 Z4; B-VG Art21 Abs1; B-VG Art21 Abs2; B-VG Art140 Abs1 Z1 litd",
+      "summary": "Der VfGH befasste sich mit der Kompetenzverteilung zwischen Bund und Ländern im Bereich des Mutterschutzes und Arbeitnehmerschutzes, insbesondere hinsichtlich der Frage, ob der Bund oder die Länder für entsprechende Regelungen zuständig sind. Der Gerichtshof prüfte unter Anwendung der Versteinerungstheorie sowie systematischer und historischer Auslegungsmethoden, wie die relevanten B-VG-Bestimmungen auszulegen sind und welche Kompetenzen sich daraus ergeben. Die Entscheidung klärt die Abgrenzung"
+    },
+    {
+      "id": "87196a1952e1",
+      "title": "VfGH V100/2025 (V100/2025-19)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00100_01",
+      "category": "VfGH",
+      "excerpt": "Tierschutz, Hunde, Ausbildung, Kompetenz Bund - Länder, Versteinerungstheorie, Rechtspolitik, Sicherheitspolizei örtliche, Wirkungsbereich eigener, VfGH / Prüfungsumfang, VfGH / Individualantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art10; B-VG Art11 Abs1 Z8; B-VG Art15 Abs2; B-VG Art118 Abs2; B-VG Art139 Abs1 Z3",
+      "summary": "Der VfGH prüfte die Kompetenzverteilung zwischen Bund und Ländern bei der Regelung von Hundeausbildungsanforderungen im Tierschutzrecht. Die Entscheidung behandelt die Abgrenzung von Bundeskompetenz (Tierschutz) und Landeskompetenz (örtliche Sicherheitspolizei) sowie die Anwendbarkeit der Versteinerungstheorie auf diese Materie. Der Gerichtshof konkretisierte damit die verfassungsrechtlichen Grenzen der jeweiligen Regelungsbefugnisse in diesem Querschnittsbereich."
+    },
+    {
+      "id": "cfbc1b31373c",
+      "title": "VfGH V247/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00247_01",
+      "category": "VfGH",
+      "excerpt": "Naturschutz, Vogelschutz, Verordnung, Determinierungsgebot, EU-Recht Richtlinie, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art139 Abs1 Z1; Oö Natur- und LandschaftsschutzG 2001 §27, §28, §29; Oö ArtenschutzV §5, §6, §8a, §11; Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten (Vogelschutz-RL 2009) Art1, Art5, Art9; Fauna-Flora-Habitat-Richtlinie 92/43/EWG Art12, Art13",
+      "summary": "Der VfGH überprüfte die oberösterreichische Artenschutzverordnung auf ihre Vereinbarkeit mit dem Determinierungsgebot des B-VG und den EU-Vogelschutz- sowie FFH-Richtlinien. Die Entscheidung befasst sich mit der Frage, ob die Verordnung hinreichend bestimmt ist und die europarechtlichen Vorgaben zum Schutz wildlebender Vogelarten und streng geschützter Arten korrekt umsetzt."
+    },
+    {
+      "id": "052cc3f86a2f",
+      "title": "VfGH 17.03.2026, V 100/2025: Aufhebung einer Verordnungsbestimmung über das Verbot der Schutzhundeausbildung (PDF, 0.8 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-V-100_2025-vom-17.03.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 17.03.2026, V 100/2025: Aufhebung einer Verordnungsbestimmung über das Verbot der Schutzhundeausbildung (PDF, 0.8 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-03-17T00:00:00"
+    },
+    {
+      "id": "8288d6b42207",
+      "title": "VfGH 17.03.2026, G 30/2025: Aufhebung von Bestimmungen in der Straßenverkehrsordnung betreffend Beschlagnahmung von KFZ (PDF, 0.5 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-G-30_2025-vom-17.03.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 17.03.2026, G 30/2025: Aufhebung von Bestimmungen in der Straßenverkehrsordnung betreffend Beschlagnahmung von KFZ (PDF, 0.5 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-03-17T00:00:00"
+    },
+    {
+      "id": "03624091b6c4",
+      "title": "VfGH E2000/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E02000_01",
+      "category": "VfGH",
+      "excerpt": "Meinungsäußerungsfreiheit, Entscheidungsbegründung, Strafe (Verwaltungsstrafrecht)",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art144 Abs2; EMRK Art10 Abs1; Anti-GesichtsverhüllungsG §1, §2, §3, §4, §5; SicherheitspolizeiG §81; VfGG §7 Abs1",
+      "summary": "Der VfGH befasste sich mit der Verfassungsmäßigkeit des Anti-Gesichtsverhüllungsgesetzes hinsichtlich dessen Vereinbarkeit mit der Meinungsäußerungsfreiheit gemäß EMRK Art. 10. Der Gerichtshof prüfte, ob die Strafbestimmungen des Gesetzes eine zulässige Beschränkung der Meinungsfreiheit darstellen oder ob sie diese unverhältnismäßig einschränken. Die Entscheidung behandelt die Abwägung zwischen öffentlichen Sicherheitsinteressen und grundrechtlichen Freiheitsgarantien im Kontext von Verwaltungss"
+    },
+    {
+      "id": "c12ce5292905",
+      "title": "VfGH E3487/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E03487_01",
+      "category": "VfGH",
+      "excerpt": "Privatradio, VfGH / Ablehnung, Meinungsäußerungsfreiheit, Rundfunk",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art144 Abs2; EMRK Art10; PrivatradioG §6, §9; AMD-G §11; VfGG §7 Abs1",
+      "summary": "Der VfGH hat eine Beschwerde gegen die Regelungen des Privatradiogesetzes (§6, §9) bezüglich der Zulassung von Privatradios abgelehnt. Die angefochtenen Bestimmungen verstoßen nicht gegen die Meinungsäußerungsfreiheit gemäß EMRK Art. 10 und sind mit dem Bundes-Verfassungsgesetz vereinbar. Die staatlichen Beschränkungen im Rundfunkbereich dienen dem Schutz legitimer Ziele und sind proportional ausgestaltet."
+    },
+    {
+      "id": "d619d6b77e3d",
+      "title": "VfGH G143/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25G00143_01",
+      "category": "VfGH",
+      "excerpt": "Beschwerdeverfahren (Rundfunk), Legitimation, Rundfunkgebühren, Medienrecht, Auslegung verfassungskonforme, Beitragspflicht, Rechtspolitik, Wohnsitz",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 litb; StGG Art2; ORF-G §36 Abs1 Z1 litb; ORF-Beitrags-G 2024 §3, §9",
+      "summary": "Der VfGH prüft in diesem Beschwerdeverfahren die Verfassungsmäßigkeit der Regelungen zur Rundfunkgebührenpflicht im ORF-Beitrags-Gesetz 2024, insbesondere hinsichtlich der Legitimation zur Beschwerde und der verfassungskonformen Auslegung der Beitragspflicht. Die Entscheidung behandelt zentrale Fragen zur Abgrenzung der persönlichen Leistungspflicht und deren verfassungsrechtliche Zulässigkeit unter Berücksichtigung von Rechtsstaatlichkeit und Gleichheitsgrundsätzen. Dabei wird geklärt, welche A"
+    },
+    {
+      "id": "0b34fe2352df",
+      "title": "VfGH 10.03.2026, E 2000/2025: Erfolgreiche Beschwerde gegen Anti-Gesichtsverhüllungsgesetz: Tragen einer Maske als Stilmittel freier Meinungsäußerung erlabut (PDF, 0.3 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-E-2000_2025-vom-10.03.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 10.03.2026, E 2000/2025: Erfolgreiche Beschwerde gegen Anti-Gesichtsverhüllungsgesetz: Tragen einer Maske als Stilmittel freier Meinungsäußerung erlabut (PDF, 0.3 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-03-10T00:00:00"
+    },
+    {
+      "id": "dca136e0eefb",
+      "title": "VfGH E2819/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260309_25E02819_01",
+      "category": "VfGH",
+      "excerpt": "Aufenthaltsrecht, Fremdenrecht, Asylrecht, Auslegung verfassungskonforme, Auslegung authentische, Entscheidungsbegründung, Rechtsschutz, Beschwerderecht, Verfahrensdauer überlange",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-09T00:00:00",
+      "norm": "BVG-Rassendiskriminierung ArtI Abs1; EMRK Art8; NAG §1, §2, §11, §46; AsylG 2005 §1, §2, §7, §34, §35; AVG §38",
+      "summary": "# VfGH E2819/2025\n\nDer VfGH befasste sich mit der verfassungskonformen Auslegung von Bestimmungen des Asylgesetzes 2005 und des Niederlassungs- und Aufenthaltsgesetzes im Hinblick auf Diskriminierungsverbote der Bundesverfassung und der EMRK. Die Entscheidung behandelt Fragen des Aufenthaltsrechts für Fremde und die Einhaltung von Verfahrensgarantien, insbesondere bezüglich Beschwerderechte und angemessener Entscheidungsbegründungen. Der Gerichtshof hat offenbar Mängel in der Verfahrensdauer ode"
+    },
+    {
+      "id": "f438760bbdd4",
+      "title": "VfGH 09.03.2026, V 243/2025: Aufhebung eines Erlasses über die Haartracht von Soldatinnen und Soldaten als gesetzwidrig (PDF, 0.4 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-V-243_2025-vom-09.03.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 09.03.2026, V 243/2025: Aufhebung eines Erlasses über die Haartracht von Soldatinnen und Soldaten als gesetzwidrig (PDF, 0.4 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-03-09T00:00:00"
+    },
+    {
+      "id": "f4feace06191",
+      "title": "VfGH G140/2025, V235/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260306_25G00140_01",
+      "category": "VfGH",
+      "excerpt": "Förderungen, VfGH / Parteiantrag, VfGH / Ablehnung, Vertrauensschutz, COVID (Corona)",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-06T00:00:00",
+      "norm": "B-VG Art139 Abs1 Z3, Art139 Abs1b, Art140 Abs1 Z1 litd, Art140 Abs1b; ABBAG-G §3 Abs8; VerlustersatzV des Bundesministers für Finanzen gemäß §3b Abs3 ABBAG-G BGBl II 568/2020 idF BGBl II 113/2022 Anhang Punkt 4.2.3.; VfGG §7Abs1",
+      "summary": "Der VfGH lehnte einen Parteiantrag zur Überprüfung der COVID-19-Förderungsregelungen ab, da keine hinreichende Wahrscheinlichkeit einer Verfassungsverletzung bei der Gewährung von Verlustersatzförderungen nach dem ABBAG-G gegeben war. Die Entscheidung betrifft die verfassungsrechtliche Zulässigkeit von Fördermaßnahmen während der Pandemie und deren Vereinbarkeit mit Grundrechten und Vertrauensschutzprinzipien."
+    },
+    {
+      "id": "79e6406d2bb1",
+      "title": "VfGH V248/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260306_25V00248_01",
+      "category": "VfGH",
+      "excerpt": "COVID (Corona), Förderungen, VfGH / Gerichtsantrag, Oberlandesgericht, VfGH / Prüfungsumfang, Eventualantrag, Umsatzsteuer, Selbstbindungsgesetz",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-06T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Verordnung; B-VG Art139 Abs1 Z1; StGG Art2; ABBAG-Gesetz §3b; Lockdown-UmsatzersatzV des Bundesministers für Finanzen gemäß §3b Abs3 ABBAG-G BGBl II 503/2020 Anhang I Punkt 7.4",
+      "summary": "Der VfGH prüfte die Lockdown-Umsatzersatzverordnung auf ihre Verfassungsmäßigkeit, insbesondere ob die Regelung der COVID-19-Förderungen auf Basis des ABBAG-Gesetzes den Anforderungen des B-VG an Verordnungsermächtigungen und Gleichheit genügt. Der Gerichtshof befasste sich mit dem Prüfungsumfang bei der Kontrolle von Verordnungsermächtigungen und Eventualanträgen des anfechtenden Oberlandesgerichts. Die Entscheidung betraf die verfassungsrechtliche Zulässigkeit und Ausgestaltung der Corona-bedi"
+    }
+  ],
+  "recht_eugh": [
+    {
+      "id": "326234181bd2",
+      "title": "58/Thu Apr 16 00:00:00 UTC 2026 : null - Schlussanträge des Generalanwalts in der Rechtssache C-131/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082560",
+      "category": "EuGH",
+      "excerpt": "Dris Grundsätze des Gemeinschaftsrechts Generalanwalt Richard de la Tour: Nichtansässige Studierende, die die Sekundarstufe zu einem wesentlichen Teil in Belgien besucht und dort ihren Abschluss erworben haben, sind beim Zugang zum Medizinstudium Gebietsansässigen gleichzustellen",
+      "source": "EuGH",
+      "date": "2026-04-16T08:35:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c6a3fec04a3",
+      "title": "56/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-642/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082549",
+      "category": "EuGH",
+      "excerpt": "Kommission / Deutschland (Bayerisches Familiengeld) Soziale Sicherheit der Wanderarbeitnehmer Die Indexierung des Bayerischen Familiengelds nach Maßgabe des Wohnmitgliedstaats der Kinder verstößt gegen das Unionsrecht",
+      "source": "EuGH",
+      "date": "2026-04-16T08:14:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "46285c46c1a9",
+      "title": "57/Thu Apr 16 00:00:00 UTC 2026 : null - Schlussanträge der Generalanwältin in der Rechtssache C-555/24 P",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082548",
+      "category": "EuGH",
+      "excerpt": "Medel u. a./Rat Wirtschaftlicher und sozialer Zusammenhalt Generalanwältin Ćapeta: Vereinigungen, die Richter repräsentieren, sind befugt, Nichtigkeitsklagen gegen den Beschluss des Rates zu erheben, mit dem die Etappenziele der Justizreform in Polen im Rahmen der EU-Aufbau- und Resilienzfazilität gebilligt wurden",
+      "source": "EuGH",
+      "date": "2026-04-16T08:14:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "56eaee07a76a",
+      "title": "53/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-440/23",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082523",
+      "category": "EuGH",
+      "excerpt": "European Lotto and Betting und Deutsche Lotto- und Sportwetten Freier Dienstleistungsverkehr Online-Glücksspiele: Das Unionsrecht hindert einen Mitgliedstaat nicht daran, bestimmte in anderen Mitgliedstaaten zugelassene Online-Dienstleistungen zu verbieten und die zivilrechtlichen Konsequenzen aus dem Verbot zu ziehen",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "574ffd0be8cb",
+      "title": "55/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-328/24 P",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082521",
+      "category": "EuGH",
+      "excerpt": "Mincu Pătrașcu Brâncuși / Europäische Staatsanwaltschaft Institutionelles Recht Europäische Staatsanwaltschaft: Der Gerichtshof weist das Rechtsmittel eines rumänischen Staatsbürgers gegen einen Beschluss des Gerichts der Europäischen Union zurück",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "f08825a6704c",
+      "title": "54/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in den verbundenen Rechtssachen C-50/24 bis C-56/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082522",
+      "category": "EuGH",
+      "excerpt": "[Danané u. a.] Raum der Freiheit, der Sicherheit und des Rechts Eine Haftanstalt, in der ein Asylbewerber festgehalten wird, dessen Antrag nach dem Verfahren an der Grenze bearbeitet wird, muss nicht zwingend an der Grenze des betreffenden Mitgliedstaats gelegen sein",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "ac8d5cbc96b8",
+      "title": "52/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-519/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082495",
+      "category": "EuGH",
+      "excerpt": "Nitrogénművek Eine nationale Regelung, die die Ausgleichswirkung der kostenlos zugeteilten Kohlendioxidemissionszertifikate aufhebt, verstößt gegen die Ziele der Emissionshandelsrichtlinie",
+      "source": "EuGH",
+      "date": "2026-04-16T07:49:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "abd422397f4f",
+      "title": "50/Tue Apr 14 00:00:00 UTC 2026 : Tue Apr 14 13:08:00 UTC 2026 - Urteil des Gerichtshofs in der Rechtssache C-590/23",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082382",
+      "category": "EuGH",
+      "excerpt": "Pelham (Begriff „Pastiche“) Geistiges Eigentum Der Gerichtshof äußert sich zur Tragweite der Ausnahme für „Pastiches“ im Zusammenhang mit Sampling",
+      "source": "EuGH",
+      "date": "2026-04-14T07:28:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "62f33fe01f09",
+      "title": "51/Tue Apr 14 00:00:00 UTC 2026 : Tue Apr 14 13:07:56 UTC 2026 - Urteil des Gerichtshofs in der Rechtssache C-418/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082381",
+      "category": "EuGH",
+      "excerpt": "[Obadal] Sozialpolitik Aufeinanderfolgende befristete Verträge: Die in Spanien vorgesehenen Maßnahmen zur Ahndung der missbräuchlichen Verwendung im öffentlichen Sektor sind offenbar nicht mit dem Unionsrecht vereinbar",
+      "source": "EuGH",
+      "date": "2026-04-14T07:28:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "5d0ab979af5b",
+      "title": "49/Thu Mar 26 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-412/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082053",
+      "category": "EuGH",
+      "excerpt": "Fauré Le Page Geistiges Eigentum Luxuslederwaren: Die Aufnahme einer Zahl in eine Marke, die auf ein fiktives historisches Vermächtnis hinweist, kann als irreführend für die Verkehrskreise angesehen werden",
+      "source": "EuGH",
+      "date": "2026-03-26T08:46:16+00:00",
+      "featured": false
+    }
+  ],
+  "recht_news": [
+    {
+      "id": "bda67164abb9",
+      "title": "Wohlbefinden schlägt Warenkorb: Wie Selbstoptimierung den Handel verändert",
+      "url": "https://www.derstandard.at/story/3000000316916/wohlbefinden-schlaegt-warenkorb-wie-selbstoptimierung-den-handel-veraendert?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Konsumenten investieren statt in Mode und Möbel lieber in sich selbst. Einzelhändler verlieren an Boden. Sie blicken angesichts von Kriegen, Teuerung und Bürokratie düster in die Zukunft",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "54c624977fe2",
+      "title": "WKStA ermittelt gegen Ex-Kanzler Gusenbauer – Hausdurchsuchungen in Wien und Niederösterreich",
+      "url": "https://www.derstandard.at/story/3000000316985/wksta-ermittelt-ex-kanzler-ermittlungen-und-hausdurchsuchungen-bei-ex-kanzler-gusenbauer?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die WKStA hat im Rahmen ihrer Signa-Ermittlungen erneut Hausdurchsuchungen durchgeführt. Es geht um Untreueverdacht mit einem Schaden von zehn Millionen Euro, unter anderem gegen Alfred Gusenbauer",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T14:02:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "2254dbd56508",
+      "title": "SW Umwelttechnik setzt nach Abtritt Orbáns auf Ungarn-Wende",
+      "url": "https://www.derstandard.at/story/3000000316812/sw-umwelttechnik-setzt-nach-abtritt-orbans-auf-ungarn-wende?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Das auf die Produktion von Beton-Fertigteilen spezialisierte Kärntner Familienunternehmen beschwört bessere Zeiten. Inzwischen versucht man, mit Innovationen zu punkten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T13:25:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "00d4f01e91cd",
+      "title": "Prozess gegen Mann, der Partnerin vergewaltigte, verprügelte und erpresste",
+      "url": "https://www.derstandard.at/story/3000000316919/prozess-gegen-mann-der-partnerin-vergewaltigte-verpruegelte-und-erpresste?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener 32-Jähriger soll fast zwei Jahre lang seine Lebensgefährtin malträtiert haben. Er schiebt es auf seinen Drogenkonsum",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T11:11:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "23245fdda420",
+      "title": "Benko beschwerte sich bei OGH über \"stagnierende Ermittlungen\" – warum blitzte er ab?",
+      "url": "https://www.derstandard.at/story/3000000316893/benko-beschwerte-sich-bei-ogh-ueber-stagnierende-ermittlungen-warum-blitzte-er-ab?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Signa-Gründer kritisierte die WKStA wegen der Verfahrensdauer, das Höchstgericht erteilte diesem Vorwurf eine klare Absage. Am Donnerstag wird über die Fortsetzung seiner U-Haft entschieden",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T11:06:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "ddf962df8239",
+      "title": "Lufthansa-Streik in Deutschland: Auch Flüge von und nach Österreich betroffen",
+      "url": "https://www.derstandard.at/story/3000000316913/lufthansa-streik-in-deutschland-auch-fluege-von-und-nach-oesterreich-betroffen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Das fliegende Personal der AUA-Mutter streikt weiter. Zuvor scheiterte der Versuch einer Schlichtung in den festgefahrenen Tarifverhandlungen für die Piloten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T08:52:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "a0ef90cdf0fc",
+      "title": "Inflation bei 3,2 Prozent: Teurer Sprit macht E-Autos im Vergleich immer günstiger",
+      "url": "https://www.derstandard.at/story/3000000316819/inflation-bei-32-prozent-teurer-sprit-macht-e-autos-im-vergleich-immer-guenstiger?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die hohen Ölpreise treiben die Teuerung wieder nach oben. Sie erhöhen aber auch den Kostenvorteil von Elektromobilität, der bei den schweren SUVs bereits 40 Prozent erreicht",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T07:05:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa487e657c4d",
+      "title": "Paketabgabe für alle Onlinegeschäfte? Den höheren Preis zahlt der Konsument, warnen Händler",
+      "url": "https://www.derstandard.at/story/3000000316697/paketabgabe-fuer-alle-onlinegeschaefte-den-hoeheren-preis-zahlt-der-konsument-warnen-haendler?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Im Einzelhandel gehen angesichts möglicher nationaler Paketabgaben die Emotionen hoch. Große Onlinepioniere sehen sich ebenso ausgebremst wie Landwirte mit kleinen Webshops",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T06:06:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e867d5c69e6",
+      "title": "Samenspender aufgepasst! Fallstricke privater Vereinbarungen",
+      "url": "https://www.derstandard.at/story/3000000315553/samenspender-aufgepasst-fallstricke-privater-vereinbarungen?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Warum nur medizinisch abgesicherte Samenspenden klare rechtliche Verhältnisse schaffen und private Vereinbarungen für Spender schnell zum Risiko werden können",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed359c42a377",
+      "title": "Stalkingprozess gegen Kurzzeit-Ehemann, der Ex-Gattin trotz Verbots kontaktiert",
+      "url": "https://www.derstandard.at/story/3000000316771/stalkingprozess-gegen-kurzzeit-ehemann-der-ex-gattin-trotz-verbots-kontaktiert?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener 34-Jähriger gibt zu, mit seiner geschiedenen Frau kommuniziert zu haben, obwohl einstweilige Verfügungen vorlagen. Eine Todesdrohung bestreitet er aber",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a2713dff8f8",
+      "title": "Der Flughafen Wien ist strategisch hochwichtig – und niemand weiß, wem knapp die Hälfte von ihm gehört",
+      "url": "https://www.derstandard.at/story/3000000315983/der-flughafen-wien-ist-strategisch-hochwichtig-und-niemand-weiss-wem-knapp-die-haelfte-von-ihm-gehoert?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "In einem Rechtsstreit räumt das Wirtschaftsministerium gegenüber dem Bundesverwaltungsgericht erstmals ein, dass es die Eigentümer von knapp 50 Prozent des Flughafens nicht kenne. Was steckt dahinter?",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T03:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e9df1f9c953",
+      "title": "ETF-Markt: Zuflüsse in Europa brechen ein, Irankrieg verunsichert",
+      "url": "https://www.derstandard.at/story/3000000316723/etf-markt-zufluesse-in-europa-brechen-ein-iran-krieg-verunsichert?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Im März sind die Zuflüsse in europäische ETFs auf den niedrigsten Stand seit fast einem Jahr gesunken. Gefragt waren vor allem Energiewerte",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T17:28:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "5cfa12e7cae8",
+      "title": "Rasierschaum statt KI-Traum: Bleibt Technologie das Zugpferd an der Börse?",
+      "url": "https://www.derstandard.at/story/3000000316693/rasierschaum-statt-ki-traum-bleibt-technologie-das-zugpferd-an-der-boerse?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Heuer haben am Aktienmarkt herkömmliche Branchen wie Energie, Gesundheit oder auch Güter des täglichen Bedarfs die Techriesen hinter sich gelassen. Manche Experten sehen darin Anzeichen für eine Trendwende",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T16:05:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "47b909792ea2",
+      "title": "Üppige Steuersenkungen, teurer Krieg: Können die USA wirklich endlos neue Schulden machen?",
+      "url": "https://www.derstandard.at/story/3000000316685/ueppige-steuersenkungen-teurer-krieg-koennen-die-usa-wirklich-endlos-neue-schulden-machen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Europa streitet darüber, ob drei Prozent Defizit zu hoch sind. In den USA und China soll die Neuverschuldung konstant bei sieben bis acht Prozent liegen. Nun werden Zweifel an dem Modell lauter",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T16:02:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f1e9f65ad26",
+      "title": "Ab Ende 2027 sollen selbstfahrende Busse in ausgewählten Regionen Österreichs rollen",
+      "url": "https://www.derstandard.at/story/3000000316667/ab-ende-2027-sollen-selbstfahrende-busse-in-ausgewaehlten-regionen-oesterreichs-rollen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Mobilitätsminister Peter Hanke (SPÖ) will zwei Gesetze novellieren, um den Weg für autonome Fahrzeuge freizumachen. In der Bevölkerung herrscht vielerorts Skepsis",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T14:33:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0beb2b889bd",
+      "title": "Ex-Kanzler Gusenbauer bekam Millionen von Signa. Was war seine Leistung?",
+      "url": "https://www.derstandard.at/story/3000000316782/ex-kanzler-gusenbauer-bekam-millionen-von-signa-was-war-seine-leistung?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Gusenbauer hat als Signa-Berater Millionen verdient. Der Insolvenzverwalter der Signa Holding verlangt das Geld nun zurück. Er zweifelt an der Gegenleistung des Ex-Kanzlers",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T14:06:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "576d1e79e14f",
+      "title": "Wifo-Chef Felbermayr: \"Brauchen Zeitalter der Reformen\"",
+      "url": "https://www.derstandard.at/story/3000000316776/wifo-chef-felbermayr-brauchen-zeitalter-der-reformen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die deutsch-österreichischen Handelsbeziehungen haben sich nach der Flaute wieder erholt. Jetzt brauche es Tempo bei Reformen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T14:05:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "fc681eb80235",
+      "title": "Hattmannsdorfer: \"Im Mai fehlen Diesel und Kerosin\"",
+      "url": "https://www.derstandard.at/story/3000000316810/hattmannsdorfer-im-mai-fehlen-diesel-und-kerosin?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Auch Kanzler Stocker sieht, so wie der Wirtschaftsminister, keinen Widerspruch zwischen dem jüngsten Handeln der OMV und der Spritpreisbremse",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T13:12:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "c8f4de900a1b",
+      "title": "Verleumdungsprozess gegen junge Frau, die Touristen Vergewaltigung vorwarf",
+      "url": "https://www.derstandard.at/story/3000000316636/verleumdungsprozess-gegen-junge-frau-die-touristen-vergewaltigung-vorwarf?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Eine unbescholtene 20-Jährige bezichtigte im Herbst 2024 einen Serben nach einem Two-Night-Stand fälschlicherweise eines Sexualverbrechens. Warum, möchte sie nicht sagen",
+      "source": "Der Standard Recht",
+      "date": "2026-04-15T11:12:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "51524a09ef33",
+      "title": "Der größte Investor Österreichs, den kaum jemand kennt",
+      "url": "https://www.derstandard.at/story/3000000316747/der-groesste-investor-oesterreichs-den-kaum-jemand-kennt?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Nach mehreren Jahren zeigt sich Rainer Seele, umstrittener Ex-Chef der OMV, wieder in der Öffentlichkeit. Mittlerweile arbeitet er nicht mehr für die OMV – sondern ausgerechnet für deren zweitgrößten Teilhaber aus Abu Dhabi",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T11:08:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "aac896038542",
+      "title": "Laut Fiskalrat müssen noch 4,4 Milliarden Euro im Budget eingespart werden",
+      "url": "https://www.derstandard.at/story/3000000316764/budget-laut-fiskalrat-m252ssen-44-mrd-euro-eingespart-werden?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Erst damit könne man das Budgetdefizit 2027 wie geplant auf 3,5 Prozent des BIP drücken. Das ergab eine Schnellschätzung des Fiskalratsbüros",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T10:10:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "9fd11ff61936",
+      "title": "Trade Republic führt Kundensupport ein",
+      "url": "https://www.derstandard.at/story/3000000316708/trade-republic-fuehrt-kundensupport-ein?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Über die App können Kunden ab sofort Kontakt mit einem Support-Team aufnehmen. Das Service steht täglich 24 Stunden zur Verfügung",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T09:57:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "75fbf526547d",
+      "title": "Signa-Insolvenzverwalter verhandelt über Verkauf des Park-Hyatt",
+      "url": "https://www.derstandard.at/story/3000000316739/signa-insolvenzverwalter-verhandelt-252ber-verkauf-des-park-hyatt?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Seit 2008 gehörte das nunmehrige Luxushotel der Signa. Nun soll der Innviertler Unternehmer Rainer am Gebäude interessiert sein",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T08:54:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "c402da3636c0",
+      "title": "Alles wird teurer, trotzdem sind wir statistisch nicht ärmer geworden – wie passt das zusammen?",
+      "url": "https://www.derstandard.at/story/3000000312854/alles-wird-teurer-trotzdem-sind-wir-statistisch-nicht-aermer-geworden-wie-passt-das-zusammen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Butter, Miete, Strom: Nicht nur in Österreich ist immer öfter von einer Krise der Leistbarkeit die Rede. Was dahintersteckt und warum die offiziellen Statistiken ein verzerrtes Bild vermitteln",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T07:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5a65adae1bdb",
+      "title": "Kerosin-Knappheit könnte bald in Europa ankommen, Airlines bereiten sich vor",
+      "url": "https://www.derstandard.at/story/3000000316481/kerosin-knappheit-koennte-bald-in-europa-ankommen-airlines-bereiten-sich-vor?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "In Asien fehlt Treibstoff, Fluglinien reagieren mit Stornierungen und Tankstopps. Auch Europas Luftfahrt bereitet sich auf Engpässe vor",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-15T03:00:00+00:00",
+      "featured": false
+    }
+  ],
+  "recht_intl": [
+    {
+      "id": "15dea04c8cc2",
+      "title": "Last Court Standing",
+      "url": "https://verfassungsblog.de/ecuador-constitutional-court/",
+      "category": "Ecuador",
+      "excerpt": "Democracy and the rule of law are in decay globally. In Ecuador, President Noboa continues his attempts to transform the state towards authoritarianism. So far, the Constitutional Court has successfully resisted these attempts and preserved its independence and integrity. Whether it can maintain this position will likely become clear in the coming days. Two rulings are pending that are crucial for the survival of Ecuadorian democracy. For this reason, the court is once again facing drastic intimidation. The post Last Court Standing appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-16T13:27:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c5ad220ec44",
+      "title": "When Courts Turn Into Justices",
+      "url": "https://verfassungsblog.de/brazil-stf-crisis/",
+      "category": "Brazil",
+      "excerpt": "The Brazilian Supreme Federal Court is currently facing the most severe crisis of judicial governance in its democratic history: the consolidation of individualized judicial power at the expense of collegiality. The recent Banco Master scandal exposes how conflicts of interest, opaque decision-making, and the concentration of authority in individual justices can erode the institutional foundations of a constitutional court. India experienced a very similar crisis back in 2018. The Indian episode offers a comparative mirror of remarkable clarity for understanding what is now unfolding in Brazil. The post When Courts Turn Into Justices appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-16T08:29:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "cc74c052afd3",
+      "title": "Queer, aber unpolitisch",
+      "url": "https://verfassungsblog.de/queer-aber-unpolitisch/",
+      "category": "Deutschland",
+      "excerpt": "Die Landesdirektion Sachsen hat einer Veranstaltung rund um den CSD die Versammlungseigenschaft abgesprochen. Das kann schwere Folgen für die Veranstaltung haben. Dabei macht es sich die Landesdirektion in ihrer Begründung rechtlich zu einfach und entscheidet zu pauschal. Zugleich sendet sie damit ein fatales Signal: Anstatt die queere Community in Dresden und Sachsen zu stärken, erschwert sie es der Zivilgesellschaft, für Vielfalt und Toleranz aktiv einzustehen. The post Queer, aber unpolitisch appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-16T08:21:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "669275c5b586",
+      "title": "Neutralised (Right to) Strike",
+      "url": "https://verfassungsblog.de/neutralised-right-to-strike/",
+      "category": "English Articles",
+      "excerpt": "On 13 March 2026, the European Committee of Social Rights published the decision concerning the right to strike in essential public services (EPS) in Italy. On the one hand, the decision found that the notion of EPS is too broad and underspecified. On the other hand, it found no violation of the European Social Charter relating to the (absence of) effective judicial review. The decision overlooks the constitutional and institutional peculiarities of the Italian system and shows a limited understanding of procedural realities, which effectively neutralise the judicial oversight. The post Neutralised (Right to) Strike appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T09:21:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "6881c3692f12",
+      "title": "Why Primacy Operates Differently in the Area of Freedom, Security and Justice",
+      "url": "https://verfassungsblog.de/greece-eppo-afsj/",
+      "category": "English Articles",
+      "excerpt": "The EPPO’s anti-corruption mandate meets a constitutional constraint in Greece, where only Parliament may initiate proceedings against ministers. The familiar logic of EU primacy offers no easy way through, as Union law itself leaves gaps and accommodates national procedural orders. What emerges instead is a structural limit: in criminal law, integration proceeds within – not against – constitutional tradition. The post Why Primacy Operates Differently in the Area of Freedom, Security and Justice appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T08:55:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "d391ac0ca172",
+      "title": "Das Aufenthaltsrecht besteht nicht nur aus Asyl",
+      "url": "https://verfassungsblog.de/aufenthaltsrecht-syrer/",
+      "category": "Deutschland",
+      "excerpt": "Friedrich Merz hatte Ende März erklärt, dass „rund 80 Prozent der in Deutschland jetzt sich aufhaltenden Syrerinnen und Syrer zurück in ihr Heimatland kehren“ sollen. Dazu müssten auch Personen mit anderen Aufenthaltstiteln – ggf. sogar Eingebürgerte mit doppelter Staatsbürgerschaft – das Land verlassen. Welche Aufenthaltsmöglichkeiten gibt es für Schutzsuchende, wenn der Grund für den humanitären Schutz entfällt? Für einen großen Anteil der Betroffenen gibt es bereits eine Alternative zum Asylrecht: Die Beantragung jedes beliebigen anderen Aufenthaltstitels schützt rechtssicher vor einem eventuellen Widerruf syrischer Anerkennungen. The post Das Aufenthaltsrecht besteht nicht nur aus Asyl appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T08:00:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "dce0d5d8eafa",
+      "title": "The Case for Constitutional Disobedience",
+      "url": "https://verfassungsblog.de/hungarian_constitutional-disobedience/",
+      "category": "English Articles",
+      "excerpt": "With Péter Magyar’s landslide victory in the Hungarian parliamentary elections in April 2026, hopes of a return to democracy have rarely been as high as now. The electoral victory has the potential to turn into a constitutional moment for Hungary, yet it is overshadowed by a profound constitutional dilemma: Is it justified to disobey the constitution to rebuild democracy and the rule of law? I argue that constitutional disobedience may not only be justified but legally required in favour of substantive constitutional values and democratic rebuilding. The post The Case for Constitutional Disobedience appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-14T08:51:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "36510971ba34",
+      "title": "Two-Thirds Majority Is Essential but Not Enough",
+      "url": "https://verfassungsblog.de/essential-but-not-enough/",
+      "category": "English Articles",
+      "excerpt": "We can start now rebuilding our democracy and constitutionalism. TISZA Party, led by Péter Magyar, secured a constitutional majority on 12 April 2026. This broad democratic authorization allows for the creation of a new constitution, but it will take time, a lot of effort, and careful consideration. A constitutional majority provides an exceptional form of democratic authorization. Yet, especially in reconstruction contexts, it risks reproducing the very patterns of concentrated and exclusionary lawmaking that characterized the previous regime. The post Two-Thirds Majority Is Essential but Not Enough appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T15:46:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "7439f962b9d3",
+      "title": "Marketplace of Malpractice",
+      "url": "https://verfassungsblog.de/supreme-court-conversion-chiles-salazar/",
+      "category": "English Articles",
+      "excerpt": "Every day we depend upon the counsel of our doctors, lawyers, engineers, accountants, architects, and pharmacists. Yet, in a startling decision, the Supreme Court recently struck down Colorado’s ban on “conversion therapy” for minors in an opinion that threatens to undermine the professional advice on which we all constantly rely. The Court's reasoning is simply nonsense in the context of the professional speech that all of us rely on all the time. The post Marketplace of Malpractice appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T14:18:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "171a977f4c35",
+      "title": "State Bodies",
+      "url": "https://verfassungsblog.de/transgender-india/",
+      "category": "English Articles",
+      "excerpt": "India's New Trans Rights Act reorganises the terms on which transgender lives become intelligible to law. Its animating logic, that trans identity is an “acquirable characteristic” the state must verify rather than an irreducible human experience it must recognise, directly confronts the constitutional architecture erected by the Indian Supreme Court in previous case law. The Act re-medicalises identity, re-bureaucratises recognition, and risks criminalising both community kinship structures and legitimate gender-affirming care. The post State Bodies appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T09:59:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "61c4a4f93b5a",
+      "title": "When Government Lawyers Say No",
+      "url": "https://www.ejiltalk.org/when-government-lawyers-say-no/",
+      "category": "EJIL Analysis",
+      "excerpt": "There are times when government lawyers (including military legal advisors) are faced with a stark choice. Their political masters (or their superiors in the military) are clearly set on pursing a certain course of action that seems pretty patently illegal. The stakes are exceptionally high, including very possibly in lives lost. The pressure of raw […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-04-13T06:22:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "9aba040b1fbc",
+      "title": "Beyond Intermediaries",
+      "url": "https://verfassungsblog.de/genai-dsa/",
+      "category": "English Articles",
+      "excerpt": "Recent investigations into the dissemination of illegal content generated by Grok have exposed a structural gap in the EU’s legislative framework: while the Digital Services Act equips the European Commission with far-reaching powers over large online platforms, it does not clearly capture generative AI systems per se. As a result, the Commission may be able to act against platforms integrating such systems (such as X), but not necessarily against the systems themselves (such as Grok). This asymmetry raises a broader question that has increasingly gained attention in policy and academic debates: can generative AI applications be brought within the scope of the DSA? The post Beyond Intermediaries appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-12T19:22:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "5b904dcfdae4",
+      "title": "Announcements: Iran War Discussion; CfS ClimateXLaw Conference; CfP Law and Security; NILOS Moot Court Competition; ANZSIL Annual Conference; CfS Journal du Droit Transnational; Working Group of Young Scholars of International Law; Contemporary Societal Challenges and the Role of International Law; Jour Fixe Event Series",
+      "url": "https://www.ejiltalk.org/announcements-iran-war-discussion-cfs-climatexlaw-conference-cfp-law-and-security-nilos-moot-court-competition-anzsil-annual-conference-cfs-journal-du-droit-transnational-working-group-of-young/",
+      "category": "Announcements and Events",
+      "excerpt": "1. The Iran War, the Use of Force and the new Middle East Discussion. The SLS International Law sections will be hosting Marc Weller (Chatham House) in a discussion with Solon Solomon (BUL) on ‘The Iran War, the Use of Force and the new Middle East’. The event will be held on 30 April at […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-04-12T09:00:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "2fcc03f1e3fb",
+      "title": "Neither What Italy Needed, Nor What it Deserved",
+      "url": "https://verfassungsblog.de/nor-what-it-deserved/",
+      "category": "English Articles",
+      "excerpt": "On 22 and 23 March 2026, the Italian electorate rejected a constitutional reform of the judiciary. This vote, while unlikely to deal a decisive blow to Meloni’s government, has already had notable political repercussions – most prominently, the resignations of two key figures within the Ministry of Justice. However, when situating the reform in the broader Italian political context, it goes too far to conclude that it would have pushed Italy in a direction similar to Hungary’s. The post Neither What Italy Needed, Nor What it Deserved appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-11T08:13:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "b213e825f7bf",
+      "title": "After Collapse",
+      "url": "https://verfassungsblog.de/after-collapse/",
+      "category": "English Articles",
+      "excerpt": "Ten years after the Hungarian government began its campaign against Central European University, Hungary now stands on the brink of a political turning point: elections that could finally shake the system built by Fidesz. With opposition leader Péter Magyar leading in the polls, an old prediction is suddenly coming true. Yet it raises a more unsettling question: even if the system collapses, can Hungary simply rebuild what once proved so vulnerable to illiberal capture? The post After Collapse appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-10T20:25:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb9722e68d1b",
+      "title": "Nach dem Kollaps",
+      "url": "https://verfassungsblog.de/nach-dem-kollaps/",
+      "category": "Hungary",
+      "excerpt": "Zehn Jahre nachdem die ungarische Regierung ihre Kampagne gegen die Central European University begonnen hat, steht Ungarn nun an der Schwelle zu einem politischen Wendepunkt: Wahlen, die das von Fidesz errichtete System erstmals ins Wanken bringen könnten. Mit Oppositionsführer Péter Magyar an der Spitze der Umfragen bewahrheitet sich plötzlich eine alte Prognose. Zugleich drängt sich eine beunruhigendere Frage auf: Selbst wenn das System zusammenbricht – kann Ungarn einfach das wiederaufbauen, was sich einst als so anfällig für illiberale Vereinnahmung erwiesen hat? The post Nach dem Kollaps appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-10T20:22:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "fe5f5d950905",
+      "title": "A Win That Isn’t",
+      "url": "https://verfassungsblog.de/a-win-that-isnt/",
+      "category": "English Articles",
+      "excerpt": "Last week, the U.S. government asked the Supreme Court to bless its attempt to put the country’s citizenship attribution rule into the service of its anti-immigrant agenda. At issue was the constitutionality and legality of the President’s Executive Order 14160. It seeks to deny citizenship to children born to non-citizen mothers who are undocumented or lawfully but temporarily present and non-citizen fathers who do not possess a green card. After Wednesday’s oral argument, there is broad consensus that the Court is unlikely to do so. The post A Win That Isn’t appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T17:23:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "c97d2abf9193",
+      "title": "Beating (Authoritarian) Populism with (Democratic) Populism",
+      "url": "https://verfassungsblog.de/beating-populism-with-populism/",
+      "category": "English Articles",
+      "excerpt": "Viktor Orbán, Hungary’s prime minister since 2010, is set to lose the parliamentary elections on 12 April 2026. According to recent polls, Fidesz’ main rival, centre-right Tisza, seems to be within reach of attaining a two-thirds constitutional majority. While this may provide conditions for re-establishing democratic institutions, it also implies that Tisza would not be constrained by any meaningful democratic controls. Avoiding the double trap of meeting populist expectations and stabilizing institutionally unconstrained powers are two major tasks the new government needs to perform. The post Beating (Authoritarian) Populism with (Democratic) Populism appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T10:56:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "096435f73af5",
+      "title": "Three Lessons from the UN Declaration on Enslavement",
+      "url": "https://verfassungsblog.de/un-resolution-enslavement/",
+      "category": "English Articles",
+      "excerpt": "On 25 March 2026, the United Nations General Assembly adopted, led by African and Caribbean states, the Declaration on the Trafficking of Enslaved Africans and Racialised Chattel Enslavement of Africans as the Gravest Crime Against Humanity. The Declaration can be read as operating within the language of foundational instruments of international law while simultaneously pushing their limits through a set of decisive doctrinal moves. Seen in this light, the Declaration offers at least three lessons for international law today. The post Three Lessons from the UN Declaration on Enslavement appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T09:45:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "5b8ecf3b19ee",
+      "title": "Holding Fast",
+      "url": "https://verfassungsblog.de/holding-fast/",
+      "category": "English Articles",
+      "excerpt": "Perhaps the most memorable line in Hemingway’s The Sun Also Rises appears in an otherwise minor exchange. Bill Gorton asks the dissolute, perpetually broke Mike Campbell how he went bankrupt. “Two ways,” Campbell replies. “Gradually, and then suddenly.” Campbell’s road to ruin will strike a familiar chord for those of us who study the rule of law in Turkey. After gradual and continuous deterioration, March 2026 will stand apart. It marks one full year since Ekrem İmamoğlu was placed in detention and his trial formally began. The post Holding Fast appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T08:16:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "44d104e00723",
+      "title": "Contra la violencia machista",
+      "url": "https://verfassungsblog.de/spanien-gewaltschutz-frauen-deepfakes/",
+      "category": "Deutschland",
+      "excerpt": "Während Deutschland beim Schutz von Frauen an bürokratischer Zersplitterung und uferlosen Diskussionen um Straftatbestände scheitert, hat Spanien den Kampf gegen Gewalt gegen Frauen mit beispielloser Entschlossenheit zur Staatsräson erhoben. Von spezialisierten Gerichten bis zur synchronisierten GPS-Überwachung von Tätern und Opfern zeigt das \"spanische Modell\", wie ein konsequenter Opferschutz die Femizid-Rate im Vergleich zu Deutschland halbieren kann. Was muss sich hierzulande ändern, damit Schutz kein Zufallsprodukt mehr ist? The post Contra la violencia machista appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-08T19:46:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "29d63fe7459f",
+      "title": "Criminalization without Harm",
+      "url": "https://verfassungsblog.de/georgia-criminalization/",
+      "category": "English Articles",
+      "excerpt": "On March 4, 2026, the Georgian Parliament passed yet another wave of anti-democratic changes to the Law on Grants and the Criminal Code. The law now criminalizes political expression if individuals or civil society organizations receive foreign support without prior government authorization. Beyond clear violations of freedom of expression and association, the Georgian case reveals a structural gap in criminal law theory and practice – the lack of substantive limits on criminalization. At the same time, the Georgian case shows that this need not be so: at least two concrete rules against criminalization emerge from the Georgian case. The post Criminalization without Harm appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-08T13:27:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "57c5212f4ec2",
+      "title": "After Intervention: The Persistent Absent Third Party Issue in the Sapodilla Cayes Case",
+      "url": "https://www.ejiltalk.org/after-intervention-the-persistent-absent-third-party-issue-in-the-sapodilla-cayes-case/",
+      "category": "EJIL Analysis",
+      "excerpt": "On 19 March, the ICJ delivered a judgment allowing Guatemala to intervene as a non-party in Sovereignty over the Sapodilla Cayes/Cayos Zapotillos (Belize v. Honduras). In this case, Belize is seeking a declaration that, as opposed to Honduras, it “is sovereign over the Sapodilla Cayes”, a number of islands off the shores of Belize, Guatemala, […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-04-08T07:00:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "90e5eedc468b",
+      "title": "Weaponizing Necessity",
+      "url": "https://verfassungsblog.de/cuba-blockade/",
+      "category": "English Articles",
+      "excerpt": "On March 30, 2026, reports indicated that the US would allow a Russian oil tanker carrying 730,000 barrels of crude oil to dock in Cuba, delivering much-needed fuel to an island that had faced an effective US oil blockade since January 29, 2026. The arrival underscored the severity of Cuba’s energy crisis, produced by a deliberate escalation of US economic coercion, using both sanctions and tariffs. As tools of economic warfare, tariffs operate as forms of state crime that produce systemic harm and human suffering in Cuba and across the region. The post Weaponizing Necessity appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T16:57:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "3d236678e543",
+      "title": "The IOC’s Great Leap Backwards on Genetic Sex Testing",
+      "url": "https://verfassungsblog.de/ioc-genetic-sex-testing/",
+      "category": "English Articles",
+      "excerpt": "On 26 March, the International Olympic Committee released its Policy on the Protection of the Female (Women’s) Category in Olympic Sport. Now, to be eligible for the Olympic competitions, all women and girls will have to undergo a genetic test that screens for the SRY gene. This sharp policy change has been in the cards since Kirsty Coventry took the helm of the IOC last year. This post provides a first critical analysis of this U-turn on genetic sex testing, revealing its scientific, procedural, and legal shortcomings. The post The IOC’s Great Leap Backwards on Genetic Sex Testing appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T11:49:35+00:00",
+      "featured": false
+    }
+  ],
+  "national": [
+    {
+      "id": "ec80d9ac567b",
+      "title": "Causa Ott: Neue Ermittlungen mit wohl 36.368 Betroffenen",
+      "url": "https://orf.at/stories/3427114/",
+      "category": "Inland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T17:43:46+02:00",
+      "featured": false
+    },
+    {
+      "id": "155c49761f76",
+      "title": "Studie vorgestellt: Babler will neues Medienfördersystem",
+      "url": "https://orf.at/stories/3427108/",
+      "category": "Medien",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:45:54+02:00",
+      "featured": false
+    },
+    {
+      "id": "4f9c6b5c3110",
+      "title": "Entwurf zu Integrationspflicht: Haft bei Betrug möglich",
+      "url": "https://orf.at/stories/3427106/",
+      "category": "Inland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:27:32+02:00",
+      "featured": false
+    },
+    {
+      "id": "b94dea5051be",
+      "title": "Kreml äußert sich zu Kritik von russischer Bloggerin",
+      "url": "https://orf.at/stories/3427104/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:18:23+02:00",
+      "featured": false
+    },
+    {
+      "id": "326418cdcfb5",
+      "title": "Suchanfragen: Google soll Daten mit Konkurrenz teilen",
+      "url": "https://orf.at/stories/3427102/",
+      "category": "IT",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:02:10+02:00",
+      "featured": false
+    },
+    {
+      "id": "9e9b376728c8",
+      "title": "Datenklau für Putin?: So wurden 36.368 Polizisten an Spione verraten",
+      "url": "https://www.falter.at/zeitung/20260416/so-wurden-36368-polizisten-an-spione-verraten",
+      "category": "Politik",
+      "excerpt": "Sensible persönliche Daten von 36.368 österreichischen Polizisten, Staatsschützern und verdeckten Ermittlern landeten in der Schreibtischschublade eines FPÖ-Politikers – und bei mutmaßlichen Kreml-Agenten. Ein Betroffener will nun Schadenersatz, zehntausende seiner Kolleginnen und Kollegen könnten es ihm gleichtun. Das Protokoll eines geheimen MonsterverfahrensLesen Sie den kompletten Artikel auf FALTER.at",
+      "source": "Falter",
+      "date": "2026-04-16T16:00:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "d47a7bf60f73",
+      "title": "Ukraine meldet höchste Totenzahl heuer",
+      "url": "https://orf.at/stories/3427084/",
+      "category": "Ausland",
+      "excerpt": "Bei heftigen russischen Angriffen in der Ukraine sind in der Nacht auf Donnerstag mindestens 18 Menschen getötet und mehr als hundert verletzt worden. Das ist die höchste Opferzahl, die es binnen 24 Stunden in diesem Jahr bisher gab. Russland attackierte mehrere Regionen in der Ukraine in Wellen, laut Präsident Wolodymyr Selenskyj sollen dabei fast 700 Drohnen sowie Raketen und Marschflugkörper eingesetzt worden sein.",
+      "source": "ORF",
+      "date": "2026-04-16T15:45:05+02:00",
+      "featured": false
+    },
+    {
+      "id": "61ffc479fc92",
+      "title": "EuGH macht Weg frei für Glücksspielerstattungen",
+      "url": "https://orf.at/stories/3427093/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T15:37:55+02:00",
+      "featured": false
+    },
+    {
+      "id": "dee87ddc44c6",
+      "title": "Ärger für Jonas Kaufmann: Ermittlungen am Teatro San Carlo in Neapel",
+      "url": "https://kurier.at/kultur/musik-oper-neapel-jonas-kaufmann-san-carlo/403151192",
+      "category": "Kultur",
+      "excerpt": "Am Teatro San Carlo in Neapel gibt es laut italienischen Medienberichten Ermittlungen wegen angeblich betrügerischer Verwendung von Geldern, von denen mehrere internationale Künstler, darunter auch Startenor Jonas Kaufmann, erfasst sind. Dass gegen Kaufmann ermittelt wird, wurde der ARD bestätigt. Bei der Affäre gehe es laut BR Klassik um Zahlungen für Leistungen, die nicht erbracht worden seien. Der Tenor weist die Vorwürfe zurück.Auf Instagram betont Kaufmann, dass er \"erfüllt\" habe, was \"vertraglich vereinbart war\". Er habe gerüchteweise von den Ermittlungen gehört. \"In diesem Fall bin ich aber doch erstaunt, meinen Namen in Zusammenhang mit Ermittlungen zu lesen.\"",
+      "source": "Kurier",
+      "date": "2026-04-16T15:26:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "b8913e86222b",
+      "title": "„Sie hat kalte Füße bekommen“: Deshalb platzte SPÖ-Putsch in NÖ",
+      "url": "https://kurier.at/chronik/niederoesterreich/hergovich-koenigsberger-ludwig-spoe-niederoesterreich-babler-seltenheim/403151189",
+      "category": "PLUS - Chronik/Niederösterreich",
+      "excerpt": "Weiter wie bisher, so lautet das Motto, das die SPÖ Niederösterreich am Mittwoch ausgegeben hat.Wie berichtet, hatte das erweiterte Landesparteipräsidium in der Landeshauptstadt St. Pölten getagt, um über die Zukunft von Landesparteichef Sven Hergovich und Staatssekretärin Ulrike Königsberger-Ludwig zu entscheiden. Dass die roten Granden nach nur zwei Stunden die Parteizentrale schon wieder verließen, hatte seinen Grund: Bereits tags zuvor soll nach einem Vier-Augen-Gespräch zwischen Hergovich und Königsberger-Ludwig klar gewesen sein, dass die Staatssekretärin und Stellvertreterin beim Landesparteitag am 30. Mai nicht gegen Hergovich antreten wird.Wien blieb plötzlich ruhig„Sie hat kalte Füße bekommen“, sagte ein Insider aus der Partei zum KURIER. Der Grund: Es sei rasch klar gewesen, das",
+      "source": "Kurier",
+      "date": "2026-04-16T15:20:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "22ea81712675",
+      "title": "Wien sperrt die ersten zwei straffälligen Kinder ab Mai weg",
+      "url": "https://kurier.at/chronik/wien/wien-unterbringung-geschlossene-wg-jugendkriminalitaet/403151186",
+      "category": "PLUS - Chronik/Wien",
+      "excerpt": "Die Fenster der geschlossenen Einrichtung sind aus Panzerglas, die Türen extra verstärkt. Das Haus, das die Stadt Wien „am Rande von Simmering“ gepachtet hat, umfasst 140 Quadratmeter, der Garten hat 1.500 Quadratmeter. Hier werden ab Mai Burschen im Alter zwischen elf und 13 Jahren untergebracht, die schwere Straftaten begangen haben – sie sind in Autos, Marktstände oder Apotheken eingebrochen oder überfielen mit Messern Gleichaltrige in Parks und raubten sie aus. Und das in einem Ausmaß und mit einer Brutalität, die es „früher nicht gegeben hat“, wie Johannes Köhler, Leiter der Wiener Kinder- und Jugendhilfe (MA 11) am Donnerstag bei einer Pressekonferenz betonte.Handy mit einer NummerJährlich können dort bis zu 16 junge Intensivtäter betreut werden. Ein Aufenthalt kann bis zu zwölf Woch",
+      "source": "Kurier",
+      "date": "2026-04-16T15:18:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "868184900c32",
+      "title": "Pflege am Limit: Ohne Zuwanderung geht es nicht mehr",
+      "url": "https://kurier.at/chronik/niederoesterreich/pflege-zuwanderung-pflegeheim-ukraine/403151145",
+      "category": "Chronik/Niederösterreich",
+      "excerpt": "Die Personalnot in der Pflege ist längst kein abstraktes Zukunftsszenario mehr, sondern Alltag in vielen Einrichtungen. Es zeigt sich: Ohne qualifizierte Zuwanderung wäre der Betrieb vieler Pflegeeinrichtungen kaum mehr aufrechtzuerhalten. „Ich möchte wieder als Krankenschwester arbeiten“, sagt Nataliia Makarova. Neben ihr sitzt Inna Shkarupa. Beide flüchteten 2022 aus der Ukraine und versuchen seither in am österreichischen Arbeitsmarkt Fuß zu fassen. Damit sind sie zwei von vielen. Rund 14.621 Ukrainerinnen und Ukrainern leben derzeit in Niederösterreich. Anfang war schwierig„Am Anfang war es sehr schwierig, wir mussten das Leben ganz von neu beginnen“, erzählt Shkarupa. Besonders die deutsche Sprache ist ein großes Hindernis, berichten die Beiden. Sie meldeten sich, wie viele andere, be",
+      "source": "Kurier",
+      "date": "2026-04-16T15:10:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "919166b77bee",
+      "title": "Österreich öffnet die Tore für Bollywood - Filmabkommen unterzeichnet",
+      "url": "https://kurier.at/kultur/oesterreich-oeffnet-die-tore-fuer-bollywood-filmabkommen-unterzeichnet/403151182",
+      "category": "Kultur",
+      "excerpt": "Bollywood hat eine neue Bromance: Mit einer filmreifen Umarmung haben Wirtschaftsminister Wolfgang Hattmannsdorfer (ÖVP) und sein indischer Amtskollege Prayush Goyal am heutigen Donnerstag in Neu-Delhi ein wegweisendes österreichisch-indisches Filmabkommen besiegelt. Goyal stürmte zu Beginn der Zeremonie in der Regierungsresidenz Hyderabad House auf Hattmannsdorfer zu und herzte ihn innig. Das Abkommen soll Bollywood-Filme nach Österreich bringen, auch mit Förderversprechen.\"Mit diesem Abkommen öffnen wir Österreich als Drehstandort für einen der größten Filmmärkte der Welt. Wir holen mehr internationale Produktionen nach Österreich, stärken unsere Kreativwirtschaft und positionieren Österreich gleichzeitig als Film-, Kultur- und Tourismusstandort\", erklärte Hattmannsdorfer. Das Abkommen s",
+      "source": "Kurier",
+      "date": "2026-04-16T15:10:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "9d4f04ac8540",
+      "title": "Neunjährige in Ebreichsdorf von Jugendlichen bedroht und verletzt",
+      "url": "https://kurier.at/chronik/niederoesterreich/neunjaehrige-verletzungen-drohung-anzeige/403151157",
+      "category": "PLUS - Chronik/Niederösterreich",
+      "excerpt": "Ein Vorfall am Dienstag beschäftigt die Polizei in Ebreichsdorf (Bezirk Baden). Ein neunjähriges Mädchen berichtete, von mehreren Jugendlichen auf E-Scootern zunächst verbal provoziert, dann am Heimweg eingekreist, beschimpft und bedroht worden zu sein.Einer der Angreifer habe auch ein Klappmesser bei sich gehabt, behauptet das Mädchen, es sei mit einem Stock verletzt worden und konnte erst durch das Eingreifen einer Passantin befreit werden, die den Zwischenfall beobachtet hatte und einschritt.Die Polizei bestätigt einen Vorfall, bei dem eine Neunjährige von Jugendlichen leicht verletzt wurde. Es liege eine Anzeige wegen Körperverletzung vor.Die Verdächtigen konnten bereits ausgeforscht werden. Weitere Ermittlungen laufen.",
+      "source": "Kurier",
+      "date": "2026-04-16T15:09:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "c601c13f1add",
+      "title": "Der Klang der kleinen Teilchen",
+      "url": "https://kurier.at/wien-wills-wissen/der-klang-der-kleinen-teilchen/403151184",
+      "category": "Entgeltliche Einschaltung",
+      "excerpt": "Gerade die kleinsten Dinge stellen uns oft vor größte Herausforderungen: Winzige Partikel etwa, klein wie das Millionstel eines Sandkorns. Sie gelangen als Feinstaub in unsere Luft oder als Nanoplastik in Gewässer, und so in unsere Nahrungskette und Körper. Aufgrund ihrer Kleinheit lassen sie sich jedoch nur schwer analysieren.An der TU Wien wurde eine neue Technologie entwickelt, mit der man solche Partikel schneller und präziser nachweisen kann als bisher. Es begann als theoretische Idee, als naturwissenschaftliche Grundlagenforschung – inzwischen ist daraus das Spin-off Invisible-Light Lab entstanden, das diese Technik weiterentwickelt und damit neue Forschungsergebnisse gesellschaftlich und wirtschaftlich nutzbar macht.Der Beat einer (Mess)RevolutionDas Grundprinzip ist revolutionär un",
+      "source": "Kurier",
+      "date": "2026-04-16T15:09:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "d78b96168177",
+      "title": "Forschung: Frauen leisten im Job mehr, profitieren aber weniger",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/frauen-arbeit-karriere-benachteiligung-forschung/403151181",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "In vielen Unternehmen gilt das Prinzip: Wer die Extrameile geht, wird belohnt. Eine neue Studie unter Beteiligung von WU-Professorin Isabella Grabner zeigt jedoch, dass dieser Grundsatz nicht für alle gleichermaßen zählt. Frauen übernehmen deutlich häufiger freiwillig Office Housework. Damit sind Aufgaben gemeint, welche die Gemeinschaft fördern. Frauen übernehmen hingegen weniger „Office Glamour Work. Damit sind strategische, sichtbare Projekte gemeint, die oft auch förderlich für die Karriere sind. Die Ergebnisse der Studie konkret: Frauen übernehmen fast doppelt so häufig Office Housework wie Männer, sind aber rund ein Drittel seltener an karrierefördernder Office Glamour Work beteiligt.UngleichgewichtNeben der Aufgabenverteilung untersuchte das Forschungsteam auch, wie diese Zusatzleis",
+      "source": "Kurier",
+      "date": "2026-04-16T15:03:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "586c3281989b",
+      "title": "Erschöpft",
+      "url": "https://kurier.at/kolumnen/ohrwaschl/erschoepfung-fleischerschoepfungstag-timmy-wal-orf-stiftrungsrat-lederer-chuzpe-spoe-streit-ungarn/403150582",
+      "category": "Kolumnen/Ohrwaschl",
+      "excerpt": "Diese Woche war Fleischerschöpfungstag. So gut wie alle Medien haben den von „Vier Pfoten“ ausgerufenen Unfug rapportiert, dass wir die für 2026 vorgesehene Fleischration schon verzehrt hätten. Ob die pro futuro eingefrorenen gefüllten Paprika, das Rahmbeuschel und der Kalbsbraten da mitgerechnet sind, ist eh schon, pardon pour l’expression, wurscht.Auch Buckelwal Timmy ist erschöpft – vom Leben und von denen, die ihn nicht das Leben lassen lassen. Tierschützer, Demonstranten, selbst ernannte Walexperten, Verrückte, Bild und der Bundespräsident, alle weideten sich Stunde um Stunde an der Wal-Qual und bewiesen bis zur Erschöpfung: Der Mensch ist nicht das besser Tier.Wir sind auch erschöpft: Vom Hauen, Stechen und der Chuzpe der Lederers, Strobls & Co. im ORF; vom fortgesetzten Hauen und St",
+      "source": "Kurier",
+      "date": "2026-04-16T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e2f6d46c4ac9",
+      "title": "Entscheidung in Sekunden: Wie KI Wiener Ärzte entlastet",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/alarm-auf-der-intensivstation-kann-ki-jetzt-leben-retten/403151170",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Vitalzeichenverläufe, Laborergebnisse, Röntgenaufnahmen, Krankenhausleitlinien, Medikationsdaten, Allergien, Ernährungspläne: In einem Krankenhaus arbeiten Ärzt*innen täglich mit enormen Mengen individueller Daten. Diese Daten bilden die Grundlage für eine Vielzahl von Entscheidungen. Insbesondere auf Intensivstationen und in perioperativen Bereichen müssen Ärzt*innen große Mengen an Patient*innen-Daten in Echtzeit interpretieren und gleichzeitig unter Zeitdruck kritische Entscheidungen treffen.UnterstützungManchmal bleiben nur Sekunden zum Handeln. Befindet sich ein Patient oder eine Patientin in einer lebensbedrohlichen Situation und schlagen alle Systeme Alarm – etwa bei einem septischen Schock infolge einer Infektion – ist schnelles Eingreifen erforderlich. Dazu gehört auch, alle verfü",
+      "source": "Kurier",
+      "date": "2026-04-16T14:52:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "5a4e6f31ec41",
+      "title": "4x Irland in 5 Tagen: Die schönsten Routen für Natur, Kultur und authentische Erlebnisse",
+      "url": "https://kurier.at/cm/irland-reiseroute-5-tage-dublin-belfast/403148847",
+      "category": "Werbung",
+      "excerpt": "",
+      "source": "Kurier",
+      "date": "2026-04-16T14:52:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "7fdedc33eaf1",
+      "title": "Mutter oder Schwester? Dieses Foto sorgt für Verwirrung im Netz",
+      "url": "https://kurier.at/trend-hub/oma-enkelkinder-mit-38-brittany-desborough/403150518",
+      "category": "Trend Hub",
+      "excerpt": "Die US-Amerikanerin Brittany Desborough ist Mutter von vier Kindern und seit vielen Jahren mit ihrer Jugendliebe zusammen. Was auf den ersten Blick wie ein ganz gewöhnliches Familienleben wirkt, sorgt im Netz regelmäßig für erstaunte Reaktionen, vor allem dann, wenn sie gemeinsam mit ihrer ältesten Tochter Makenzie auftritt. Der Grund: Brittany ist 38 Jahre alt, ihre Tochter 20, und beide werden aufgrund ihres ähnlich jugendlichen Erscheinungsbilds häufig für Schwestern oder sogar Zwillinge gehalten. Noch überraschender ist, dass Brittany bereits mit 38 Großmutter geworden ist, da auch Makenzie früh Mutter wurde. Mit ihrer Geschichte begeistern sie zahlreiche Fans in den sozialen Medien.Mit 38 Jahren Oma gewordenKennengelernt haben sich Brittany und ihr Ehemann Chris als Jugendliche auf ei",
+      "source": "Kurier",
+      "date": "2026-04-16T14:51:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "fb013fe31845",
+      "title": "Victoria Beckham zu Brooklyn: Haben versucht, bestmögliche Eltern zu sein",
+      "url": "https://kurier.at/stars/victoria-beckham-zu-frage-nach-brooklyn-haben-versucht-bestmoegliche-eltern-zu-sein/403151176",
+      "category": "Stars",
+      "excerpt": "Wochen nach den schweren Vorwürfen von Brooklyn Beckham gegen seine berühmten Eltern hat Ex-Spice-Girl Victoria Beckham über die Liebe zu all ihren Kindern gesprochen. \"Wir lieben unsere Kinder so sehr. Wir haben immer versucht, die bestmöglichen Eltern zu sein\", sagte die Designerin, die am 17. April ihren 52. Geburtstag feiert, dem Wall Street Journal. Angaben der Zeitung zufolge wurde Beckham explizit auf Brooklyn angesprochen, seinen Namen sagte sie demnach aber nicht. Brooklyn Peltz Beckham hatte sich im Jänner mit einem Beitrag in den sozialen Medien von seinen Eltern losgesagt. \"Ich möchte mich nicht mit meiner Familie versöhnen\", schrieb er auf Instagram. In dem Beitrag erhob er mehrere Vorwürfe gegen seine Eltern, dabei ging es auch um seine Ehefrau Nicola Peltz. Der frühere engli",
+      "source": "Kurier",
+      "date": "2026-04-16T14:42:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "341a6288773a",
+      "title": "Studie zu Vermögenssteuer: SPÖ sieht sich bestärkt",
+      "url": "https://orf.at/stories/3427087/",
+      "category": "Inland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T14:42:27+02:00",
+      "featured": false
+    },
+    {
+      "id": "00adad57a7c9",
+      "title": "Eurofan-Café: Apfelstrudel trifft auf Full English Breakfast",
+      "url": "https://kurier.at/chronik/wien/esc-eurofan-cafe-kaffeehaeuser/403151169",
+      "category": "PLUS - Chronik/Wien",
+      "excerpt": "Der Löffel klirrt leise im Porzellan, auf dem Teller steht ein Stück Apfelstrudel, daneben liegt die aufgeschlagene Zeitung. Für die meisten Wiener ein typischer Kaffeehausbesuch. Anfang Mai könnte sich das Bild verändern: statt Torte und Wiener Melange dominieren vielleicht English Breakfast und Grappa die Bestellungen der Gäste.Zumindest im Café Landtmann am Ring, denn dort übernehmen während des ESC zwei Länder das Kommando: Großbritannien und San Marino. Von 3. bis 17. Mai wird das Traditionshaus zu einem internationalen Treffpunkt und ist damit eines von 20 Wiener Kaffeehäusern, das Teil des Projekts „Eurofan-Café“ ist.Länder ausgelostInsgesamt 35 Länder wurden per Verlosung auf die Lokale verteilt, jedes übernimmt eine Gastgeberrolle. Die Idee dahinter: Wien soll sich während des ESC",
+      "source": "Kurier",
+      "date": "2026-04-16T14:42:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "ba78c92702f0",
+      "title": "Ott-Prozess: Neue Ermittlungen mit potenziell tausenden Betroffenen",
+      "url": "https://kurier.at/politik/inland/ott-prozess-neue-ermittlungen-mit-potenziell-tausenden-betroffenen/403151173",
+      "category": "Politik/Inland",
+      "excerpt": "Ehe am Montag am Wiener Landesgericht der Spionage-Prozess gegen den früheren BVT-Chefinspektor Egisto Ott fortgesetzt wird, haben sich die Strafverfolgungsbehörden zu einem ungewöhnlichen Schritt entschieden. Über die Ediktsdatei der Justiz wurden 36.368 Bedienstete des Innenministeriums, die am Stichtag 1. Februar 2018 ihren Dienst versahen, von einem neuen Ermittlungsstrang gegen Ott informiert. Der Vorwurf der Verletzung der Geheimhaltungspflicht steht im Raum.Ott wird von der Staatsanwaltschaft Wien verdächtigt, am 4. März 2020 das elektronische Gesamtpersonalverzeichnis des Innenministeriums weitergegeben zu haben, bei dem es sich aus Sicht der Anklagebehörde um ein nicht allgemein zugängliches und der Geheimhaltung unterliegendes Dokument handelt. Es umfasste personenbezogene sowie ",
+      "source": "Kurier",
+      "date": "2026-04-16T14:41:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "6362f9fb5666",
+      "title": "Von Liverpool bis Juventus: Tiefe Trauer um Alexander Manninger",
+      "url": "https://kurier.at/sport/fussball/alexander-manninger-liverpool-juventus-arsenal-tod-trauer-reaktionen/403151155",
+      "category": "Sport/Fußball",
+      "excerpt": "Der plötzliche Tod von Alexander Manninger sorgt für internationale Trauer. Die vielen Vereine und Wegbegleiter des Salzburgers melden sich nach dem schrecklichen Unfall am Donnerstag.Juventus Turin schrieb auf x.com: „Heute ist ein unglaublich trauriger Tag. Er ist nicht nur ein großer Athlet gegangen, sondern ein Mann mit seltenen Werten: Bescheidenheit, Hingabe und einer außergewöhnlichen beruflichen Seriosität. Juventus drückt sein Beileid zum Tod von Alex Manninger aus und schließt sich dem Schmerz der Familie an.“FC Arsenal schrieb: „Jeder bei Arsenal ist schockiert und tief betrübt über den tragischen Tod unseres ehemaligen Torhüters. Alle unsere Gedanken sind in dieser unglaublich traurigen Zeit bei seiner Familie und seinen Liebsten. Ruhe in Frieden, Alex.“Juventus-Kollege und Wel",
+      "source": "Kurier",
+      "date": "2026-04-16T14:36:05+00:00",
+      "featured": false
+    }
+  ],
+  "international": [
+    {
+      "id": "e1cc3fd6a5cf",
+      "title": "Iran-Liveblog: ++ Südlibanon: Israelischer Angriff zerstört letzte Brücke ++",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html",
+      "category": "Tagesschau",
+      "excerpt": "Ein israelischer Angriff hat die letzte Brücke zwischen dem Südlibanon und dem Rest des Landes gekappt. Israel und der Libanon werden laut US-Präsident Trump heute auf höchster Ebene sprechen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T17:17:48+02:00",
+      "featured": false
+    },
+    {
+      "id": "b0abde9af824",
+      "title": "EU-Kommission genehmigt deutschen Industriestrompreis",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-kommission-industriestrompreis-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Deutschland darf seine Industrie künftig mit einem vergünstigten Strompreis unterstützen. Die EU-Kommission genehmigte die Maßnahme - davon profitieren können vor allem die Stahl-, Zement- und Chemieindustrie.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T16:28:09+02:00",
+      "featured": false
+    },
+    {
+      "id": "b9d261fbda6b",
+      "title": "Lufthansa stellt Betrieb der Tochtergesellschaft CityLine ein",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-stilllegung-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Hohe Kerosinpreise und die aktuellen Streiks sorgen für eine angespannte Lage bei der Lufthansa. Als Reaktion wird der Betrieb der Regionaltochter CityLine vorzeitig eingestellt. Doch auch bei der Kernmarke sollen Kürzungen folgen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T16:15:15+02:00",
+      "featured": false
+    },
+    {
+      "id": "c209591a411e",
+      "title": "Teure Energie: Iran-Krieg befeuert Inflation in der Eurozone",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-energiepreise-iran-krieg-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Im März ist die Teuerungsrate im Euroraum stärker gestiegen als zunächst geschätzt. Laut Eurostat sind die Preise im Schnitt um 2,6 Prozent gegenüber dem Vorjahresmonat nach oben gegangen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T15:56:47+02:00",
+      "featured": false
+    },
+    {
+      "id": "5df1de4ccc28",
+      "title": "Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail",
+      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+      "category": "New York Times",
+      "excerpt": "Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and threatened more attacks. The war’s mounting economic toll has put political pressure on President Trump to find an off-ramp.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:44:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "9d359c817c30",
+      "title": "Die Schweiz als Hafen für die Mafia? Das Fedpol registriert eine Zunahme von Geldwäscherei",
+      "url": "https://www.nzz.ch/schweiz/die-schweiz-als-hafen-fuer-die-mafia-das-fedpol-registriert-eine-zunahme-von-geldwaescherei-ld.1933990",
+      "category": "NZZ",
+      "excerpt": "Weil sie wirtschaftlich erfolgreich und politisch stabil sei, ziehe die Schweiz die Organisierte Kriminalität an, erklärt Fedpol Direktorin Eva Wildi-Cortés.",
+      "source": "NZZ",
+      "date": "2026-04-16T15:43:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "412950a91593",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+      "category": "New York Times",
+      "excerpt": "",
+      "source": "New York Times",
+      "date": "2026-04-16T15:42:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "67ba1cbd27e4",
+      "title": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
+      "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Malema is appealing against the decision, which means he is not going to prison immediately.",
+      "source": "BBC World",
+      "date": "2026-04-16T15:39:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "21138e21e541",
+      "title": "LIVE-TICKER - Iran-Krieg: Trump verkündet Waffenruhe in Libanon",
+      "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292",
+      "category": "NZZ",
+      "excerpt": "Die USA und Israel greifen Iran an. Teheran hat heftige Gegenangriffe lanciert. Die Folgen des Konflikts sind weltweit spürbar. Die neuesten Entwicklungen im Live-Ticker.",
+      "source": "NZZ",
+      "date": "2026-04-16T15:38:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "58dd326932c6",
+      "title": "Millionaires fund last-ditch attempt to save humpback whale stranded in Germany",
+      "url": "https://www.theguardian.com/world/2026/apr/16/millionaires-fund-last-ditch-attempt-to-save-humpback-whale-stranded-in-germany",
+      "category": "Germany",
+      "excerpt": "Critics say efforts to rescue the animal, nicknamed Tommy, unlikely to succeed and could lead to further harmA last-ditch effort to rescue a wayward whale that has transfixed Germans for weeks has begun in the Baltic Sea despite criticism it has little chance of success and could further harm the 12-tonne creature.The male humpback whale was first spotted last month near Timmendorfer Strand on the northern coast of Germany, giving rise to its nickname Timmy. It has repeatedly become stranded and then freed itself after human assistance but it is now stranded again, with rescuers saying it is fighting a losing battle for its life. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:37:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "f060f39866d3",
+      "title": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
+      "url": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
+      "category": "Speeches and Statements",
+      "excerpt": "For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:36:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "f29cbb091908",
+      "title": "Badenoch says revelations that Mandelson failed security vetting shows Starmer misled MPs– UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+      "category": "Politics",
+      "excerpt": "The Conservative party leader said the prime minister misled parliamentariansSwinney says this is a manifesto for the whole of Scotland.He confirms that the SNP would argue for the Scottish power to have more control over energy policy (still largely reserved to Westminter). He says:The problem is not that we do not have the energy. The problem is that Westminster has the power. This election is our opportunity to take those powers and put them into Scotland’s hands. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:35:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "597561b619cd",
+      "title": "Former Trump lawyer John Eastman disbarred over efforts to overturn 2020 election",
+      "url": "https://www.theguardian.com/us-news/2026/apr/16/lawyer-john-eastman-disbarred-2020-election-trump",
+      "category": "Donald Trump",
+      "excerpt": "California supreme court upholds lower court decision as Eastman says he will appeal to US supreme courtJohn Eastman, a lawyer who played a key role in Donald Trump’s efforts to subvert the 2020 election, officially lost his law license in California on Wednesday.The California supreme court upheld a 2024 ruling from a state judge, who recommended Eastman be disbarred. Eastman “exhibited gross negligence by making false statements about the 2020 election without conducting any meaningful investigation or verification of the information he was relying upon”, Judge Yvette Roland wrote in 2024. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:35:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "bd2875bccb16",
+      "title": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
+      "url": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+      "category": "International Relations",
+      "excerpt": "Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:35:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "5fa3bf45c3ae",
+      "title": "Middle East crisis live: US to block Iranian ports for ‘as long as it takes’ and is ready to restart combat if talks fail, Hegseth warns",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+      "category": "US-Israel war on Iran",
+      "excerpt": "Pentagon chief said that the US is ‘reloading with more power than before’ and Iran has choice of ‘the easy way or the hard way’US and Iran in indirect talks to extend two-week ceasefireIran has stopped all petrochemical exports to prioritise domestic supply and prevent shortages of raw materials, Reuters reported.The state-owned National Petrochemical Company ordered firms to suspend exports until further notice. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:32:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "92a952fc9185",
+      "title": "Bilanz 2025: Bosch schreibt das erst Mal seit 2009 Verluste",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-verluste-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Der Technologiekonzern Bosch hat im vergangenen Jahr zum ersten Mal seit 2009 Verluste eingefahren. Hauptgründe seien Kosten durch Stellenabbau und Zölle. Weitere Stellenstreichungen sind für dieses Jahr geplant.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T15:31:42+02:00",
+      "featured": false
+    },
+    {
+      "id": "b7f301a5ee75",
+      "title": "Marco Rubio and Lebanese President Discuss Cease-Fire Efforts",
+      "url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "excerpt": "President Trump had said that Israeli and Lebanese leaders would speak directly, but a Lebanese official said the country’s president had rejected the idea.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:29:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "15ff79e937d8",
+      "title": "Turkish police detain 162 people over online posts about school shootings",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+      "source": "BBC World",
+      "date": "2026-04-16T15:23:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "d895a06a70c1",
+      "title": "Wohnungsnot in der Schweiz und Verschärfung der Lex Koller: «Der Bericht des Bundesrats ist eine Frechheit», sagt der Raiffeisen-Chefökonom",
+      "url": "https://www.nzz.ch/wirtschaft/wohnungsnot-in-der-schweiz-warum-die-verschaerfung-der-lex-koller-nicht-hilft-ld.1933961",
+      "category": "NZZ",
+      "excerpt": "Als Reaktion auf die 10-Millionen-Initiative der SVP will der Bundesrat es Ausländern erschweren, in der Schweiz Immobilien zu kaufen. Der Raiffeisen-Chefökonom Fredy Hasenmaile kritisiert die Vorlage.",
+      "source": "NZZ",
+      "date": "2026-04-16T15:21:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "2987c475035e",
+      "title": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+      "url": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "excerpt": "Stocks may be soaring again, but the war in Iran has started to pinch the finances of many Americans.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:13:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "f2e4b301068c",
+      "title": "Archbishop of Canterbury backs pope’s calls for peace amid Trump feud",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/16/archbishop-of-canterbury-sarah-mullally-pope-leo-peace-trump",
+      "category": "Sarah Mullally",
+      "excerpt": "Sarah Mullally urges Anglicans to join Leo’s ‘courageous’ call and says human cost of war is incalculableThe archbishop of Canterbury has said she is standing in solidarity with Pope Leo XIV’s calls for peace amid his public feud with Donald Trump.Days after the US president objected to comments from the head of the Catholic church suggesting a “delusion of omnipotence” was fuelling the US-Israeli war in Iran, Sarah Mullally urged Anglicans to join Leo’s “courageous” call. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:02:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "08d95f7126d0",
+      "title": "NSW electric buses, trains and light rail services to run entirely on renewable energy from 2027 in $1.9bn deal",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/16/nsw-electric-buses-trains-and-light-rail-services-to-run-entirely-on-renewable-energy-from-2027-in-19bn-deal",
+      "category": "New South Wales",
+      "excerpt": "Exclusive: Minns government announces contract with Snowy Energy to power public transport in seven-year contractGet our breaking news email, free app or daily news podcastElectric bus, train and light rail services in New South Wales will run on fully renewable energy from next year under a new $1.9bn deal, the state government says.The Minns government on Friday announced it had signed a contract with Snowy Energy to bring all public transport operations in the state under a single renewable energy agreement for the first time. The seven-year deal comes into effect from July 2027 and will last until 2034. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:00:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "253881b47c2e",
+      "title": "‘One of the dumbest crimes ever’: car-share firms remove fuel cards from Melbourne vehicles after spate of thefts",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/17/one-of-the-dumbest-crimes-ever-car-share-firms-remove-fuel-cards-from-melbourne-vehicles-after-spate-of-thefts",
+      "category": "Australia news",
+      "excerpt": "Users of share cars will need to pay for fuel themselves before seeking reimbursement, leaving them temporarily out of pocketGet our breaking news email, free app or daily news podcastAustralia’s two biggest car-share companies, GoGet and Flexicar, have removed fuel cards from their Melbourne vehicles after a spate of break-ins and thefts that a senior GoGet executive described as “one of the dumbest crimes ever”.The change will force users of share cars to pay for fuel themselves before seeking reimbursement, leaving them temporarily out of pocket amid record-high fuel prices caused by the US-Israel war on Iran. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:00:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "c40b12afc88b",
+      "title": "Wall Street seems to have decided the recession risk is over. Can the Australian market do the same?",
+      "url": "https://www.theguardian.com/world/2026/apr/17/wall-street-seems-to-have-decided-the-recession-risk-is-over-can-the-australian-market-do-the-same",
+      "category": "US-Israel war on Iran",
+      "excerpt": "Experts say US market ‘may have run ahead of itself’, while the ASX 200’s more modest recovery is due in part to Australia’s reliance on fuel importsGet our breaking news email, free app or daily news podcastOne day the IMF warns of a global recession, the next day stocks on Wall Street hit a record high.From looking at the complete U-turn in fortunes in America, you wouldn’t know the world was in the grips of an unprecedented energy shock. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:00:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "bd48798d8e93",
+      "title": "Campaigners seek listed status for historic trig points that mapped Britain",
+      "url": "https://www.theguardian.com/culture/2026/apr/16/campaigners-say-first-and-last-ordnance-survey-trig-points-should-be-listed",
+      "category": "Heritage",
+      "excerpt": "Pillars at Cold Ashby, Northamptonshire, and Thorny Gale, Cumbria, bookended the project that modernised mappingHeritage campaigners are bidding for listing status for two concrete pillars hailed as “modest obelisks of modernity in the countryside”.These functional 120cm (4ft) stone or concrete “trig points” formed part of a 6,500-strong network of surveying posts that were vital for the development of modern mapping. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T15:00:04+00:00",
+      "featured": false
+    }
+  ],
+  "_meta": {
+    "last_updated": "2026-04-16T15:45:15.424205+00:00"
+  }
+}
