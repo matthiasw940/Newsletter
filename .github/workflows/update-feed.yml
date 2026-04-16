@@ -25,69 +25,10 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4 lxml
 
-      - name: Check fetch_feeds version
-        run: head -3 fetch_feeds.py
-
-      - name: Inline RIS test
-        run: |
-          python3 << 'PYTEST'
-          import json
-          from urllib.request import urlopen, Request
-          url = "https://data.bka.gv.at/ris/api/v2.6/Judikatur?Applikation=Justiz&Gericht=OGH&ImRisSeit=ZweiWochen&DokumenteProSeite=OneHundred&Seitennummer=1"
-          req = Request(url, headers={"User-Agent":"Mozilla/5.0","Accept":"application/json"})
-          data = json.loads(urlopen(req, timeout=25).read())
-          results = data.get("OgdSearchResult",{}).get("OgdDocumentResults",{})
-          if isinstance(results, dict): results = results.get("OgdDocumentReference",[])
-          if isinstance(results, dict): results = [results]
-          print(f"Total results: {len(results)}")
-          for doc in results[:5]:
-              m = doc.get("Data",{}).get("Metadaten",{})
-              jud = m.get("Judikatur",{})
-              jmeta = jud.get("Justiz",{})
-              gz_obj = jud.get("Geschaeftszahl",{})
-              gz_item = gz_obj.get("item","") if isinstance(gz_obj,dict) else gz_obj
-              if isinstance(gz_item, list): gz_item = gz_item[0] if gz_item else ""
-              normen_obj = jud.get("Normen",{})
-              normen_item = normen_obj.get("item","") if isinstance(normen_obj,dict) else normen_obj
-              if isinstance(normen_item, str): normen_item = [normen_item] if normen_item else []
-              schlagw = jud.get("Schlagworte","")
-              rg_obj = jmeta.get("Rechtsgebiete",{})
-              rg_item = rg_obj.get("item","") if isinstance(rg_obj,dict) else rg_obj
-              anmerk = jmeta.get("Anmerkung","")
-              et = jmeta.get("Entscheidungstexte",{})
-              et_item = et.get("item",{}) if isinstance(et,dict) else {}
-              if isinstance(et_item,list): et_item = et_item[0] if et_item else {}
-              et_url = et_item.get("DokumentUrl","") if isinstance(et_item,dict) else ""
-              print(f"\n  GZ: {gz_item}")
-              print(f"  Normen: {normen_item}")
-              print(f"  Schlagworte: {str(schlagw)[:200]}")
-              print(f"  Rechtsgebiet: {rg_item}")
-              print(f"  Anmerkung: {str(anmerk)[:200]}")
-              print(f"  URL: {et_url}")
-          PYTEST
-
       - name: Fetch feeds and update data.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_feeds.py
-
-      - name: Debug OGH in data.json
-        run: |
-          python3 -c "
-          import json
-          with open('data.json') as f: d=json.load(f)
-          ogh=[a for a in d.get('recht_ogh',[]) if a.get('source')=='RIS']
-          print(f'RIS OGH entries: {len(ogh)}')
-          for a in ogh[:5]:
-              print(f'  {a[\"title\"]}')
-              print(f'    norm: \"{a.get(\"norm\",\"MISSING\")}\"')
-              print(f'    excerpt: \"{a.get(\"excerpt\",\"\")[:200]}\"')
-              print(f'    keys: {list(a.keys())}')
-              print()
-          web=[a for a in d.get('recht_ogh',[]) if a.get('source')!='RIS']
-          print(f'Website OGH entries: {len(web)}')
-          for a in web[:3]:
-              print(f'  {a[\"title\"]}')
-              print(f'    excerpt: \"{a.get(\"excerpt\",\"\")[:100]}\"')
-          "
 
       - name: Commit and push
         run: |
