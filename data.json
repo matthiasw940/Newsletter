@@ -1440,6 +1440,16 @@
       "featured": false
     },
     {
+      "id": "5df1de4ccc28",
+      "title": "Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail",
+      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+      "category": "New York Times",
+      "excerpt": "Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and threatened more attacks. The war’s mounting economic toll has put political pressure on President Trump to find an off-ramp.",
+      "source": "New York Times",
+      "date": "2026-04-16T15:29:33+00:00",
+      "featured": false
+    },
+    {
       "id": "15ff79e937d8",
       "title": "Turkish police detain 162 people over online posts about school shootings",
       "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
@@ -1517,16 +1527,6 @@
       "excerpt": "Meenu Batra, the state’s only licensed Punjabi, Hindi and Urdu interpreter, says she was treated ‘like a criminal’Sign up for the Breaking News US email to get newsletter alerts in your inboxA Texas court interpreter who was arrested by ICE after living in the US for more than 35 years is speaking out from detention, saying she has been “treated like a criminal” and fears being deported to a country where she has never been.Meenu Batra is the only licensed Punjabi, Hindi and Urdu court interpreter in the state, and has served as an interpreter for hundreds of people in immigration court. Continue reading...",
       "source": "The Guardian",
       "date": "2026-04-16T15:00:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "5df1de4ccc28",
-      "title": "Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail",
-      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
-      "category": "New York Times",
-      "excerpt": "Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and threatened more attacks, even as the war’s economic toll puts pressure on President Trump.",
-      "source": "New York Times",
-      "date": "2026-04-16T14:58:08+00:00",
       "featured": false
     },
     {
@@ -1651,6 +1651,6 @@
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T15:30:09.930225+00:00"
+    "last_updated": "2026-04-16T15:32:44.461660+00:00"
   }
 }
