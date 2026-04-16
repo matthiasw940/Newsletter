@@ -2,7 +2,6 @@ name: Update Newsletter Feeds
 
 on:
   schedule:
-    # 04:00 UTC = ~06:00 Wiener Zeit (CEST)
     - cron: '0 4 * * *'
   workflow_dispatch:
 
@@ -26,15 +25,22 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4 lxml
 
-      - name: Fetch feeds and update data.json
-        run: python fetch_feeds.py
-
-      - name: Commit and push
+      - name: Debug RIS API
         run: |
-          git config user.name "Newsletter Bot"
-          git config user.email "bot@newsletter.local"
-          git add data.json
-          git diff --cached --quiet || {
-            git commit -m "🗞️ $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          }
+          curl -s "https://data.bka.gv.at/ris/api/v2.6/Judikatur?Applikation=Justiz&Gericht=OGH&ImRisSeit=ZweiWochen&DokumenteProSeite=OneHundred&Seitennummer=1" | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin)
+          results=d.get('OgdSearchResult',{}).get('OgdDocumentResults',{})
+          if isinstance(results,dict): results=results.get('OgdDocumentReference',[])
+          if isinstance(results,dict): results=[results]
+          for doc in results[:3]:
+              m=doc.get('Data',{}).get('Metadaten',{})
+              jud=m.get('Judikatur',{})
+              print('=== GZ:', jud.get('Geschaeftszahl',{}))
+              print('    Norm:', jud.get('Norm',{}))
+              print('    Kurzinfo:', str(jud.get('Kurzinformation',''))[:300])
+              print('    Rechtssatz:', str(jud.get('Rechtssatz',''))[:300])
+              print('    Justiz keys:', list(jud.get('Justiz',{}).keys()))
+              print('    ALL jud keys:', list(jud.keys()))
+              print()
+          "
