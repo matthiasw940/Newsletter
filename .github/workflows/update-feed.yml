@@ -25,8 +25,26 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4 lxml
 
+      - name: Check fetch_feeds version
+        run: head -3 fetch_feeds.py
+
       - name: Fetch feeds and update data.json
         run: python fetch_feeds.py
+
+      - name: Debug OGH data
+        run: |
+          python3 -c "
+          import json
+          with open('data.json') as f: d=json.load(f)
+          ogh=d.get('recht_ogh',[])
+          print(f'OGH total: {len(ogh)}')
+          for a in ogh[:5]:
+              print(f'  {a[\"title\"]}')
+              print(f'    norm: {a.get(\"norm\",\"MISSING\")}')
+              print(f'    excerpt: {a.get(\"excerpt\",\"\")[:200]}')
+              print(f'    source: {a[\"source\"]}')
+              print()
+          "
 
       - name: Commit and push
         run: |
