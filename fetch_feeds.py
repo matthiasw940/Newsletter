@@ -117,6 +117,7 @@ def ris_justiz(gericht, label):
     arts = []
     try:
         raw = http_get(url)
+        print(f"    DEBUG: {raw[:1000].decode('utf-8','replace')}")
         data = json.loads(raw)
         results = data.get("OgdSearchResult", {}).get("OgdDocumentResults", [])
         if isinstance(results, dict): results = results.get("OgdDocumentReference", [])
