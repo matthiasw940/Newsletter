@@ -31,12 +31,172 @@
       "date": "2026-04-16T12:47:49.493472+00:00"
     },
     {
+      "id": "c2c920d0c853",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00"
+    },
+    {
+      "id": "9e93dd4a1e3e",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_001&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00"
+    },
+    {
+      "id": "f80eaf9aa259",
+      "title": "OGH 21Ds8/25a",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00008_25A0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00"
+    },
+    {
+      "id": "c6bc081190e6",
+      "title": "OGH 1Ob34/26w",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260408_OGH0002_0010OB00034_26W0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-08T00:00:00"
+    },
+    {
+      "id": "82578685803b",
+      "title": "OGH 15Os32/26h",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260407_OGH0002_0150OS00032_26H0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-07T00:00:00"
+    },
+    {
       "id": "e366ad4a0e61",
       "title": "OGH 15 Os 22/26p",
       "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/beschlagnahme-von-daten-und-datentraegern/",
       "category": "OGH",
       "excerpt": "Beschlagnahme von Daten und Datenträgern",
       "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "09f2d6f1f17b",
+      "title": "OGH 14Os24/26z",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0140OS00024_26Z0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "fc2ea09365f3",
+      "title": "OGH 15Os118/25d",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00118_25D0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "8980a0156264",
+      "title": "OGH 15Os15/26h (15Os16/26f)",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00015_26H0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "1e3be90ad601",
+      "title": "OGH 15Os20/26v",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00020_26V0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "21ec0eaa1a86",
+      "title": "OGH 15Os8/26d",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00008_26D0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "592923d581bd",
+      "title": "OGH 3Ob31/26v",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20260325_OGH0002_0030OB00031_26V0000_000",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "e553d17acb55",
+      "title": "OGH 7Ob12/26d",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00012_26D0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "ea8360b65f00",
+      "title": "OGH 7Ob29/26d",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00029_26D0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "b1d29071fc66",
+      "title": "OGH 7Ob8/26s",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00008_26S0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "b658c6bb300a",
+      "title": "OGH 7Ob9/26p",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0070OB00009_26P0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-25T00:00:00"
+    },
+    {
+      "id": "3d9f16f3eb55",
+      "title": "OGH 11Ns19/26x",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0110NS00019_26X0000_000&IncludeSelf=True",
+      "category": "OGH (Strafrecht)",
+      "excerpt": "",
+      "source": "RIS",
       "featured": false,
       "date": "2026-03-25T00:00:00"
     },
@@ -51,14 +211,44 @@
       "date": "2026-03-24T00:00:00"
     },
     {
-      "id": "aff5322148fe",
-      "title": "OGH 9 Ob 20/26w",
-      "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/auch-prosumer-koennen-verbraucher-sein/",
-      "category": "OGH",
-      "excerpt": "Auch „Prosumer“ können Verbraucher sein",
-      "source": "ogh.gv.at",
+      "id": "befeccbffa8c",
+      "title": "OGH 10Ob1/26h",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00001_26H0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
       "featured": false,
-      "date": "2026-03-18T00:00:00"
+      "date": "2026-03-24T00:00:00"
+    },
+    {
+      "id": "0ed4cc32c2f5",
+      "title": "OGH 10Ob14/26w",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00014_26W0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-24T00:00:00"
+    },
+    {
+      "id": "938e50b639b9",
+      "title": "OGH 10Ob19/26f",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00019_26F0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-24T00:00:00"
+    },
+    {
+      "id": "80281232feb7",
+      "title": "OGH 10Ob2/26f",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00002_26F0000_000&IncludeSelf=True",
+      "category": "OGH (Zivilrecht)",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-24T00:00:00"
     }
   ],
   "recht_vfgh": [
@@ -621,6 +811,16 @@
   ],
   "national": [
     {
+      "id": "cee8f09c2da1",
+      "title": "Salzburger Festspiele trauern um Heinrich Wiesmüller",
+      "url": "https://www.derstandard.at/story/3000000316975/salzburger-festspiele-trauern-um-heinrich-wiesmueller?ref=rss",
+      "category": "Der Standard Newsroom",
+      "excerpt": "Der frühere Präsident und langjährige Unterstützer der Festspiele sorgte für eine Imagekorrektur",
+      "source": "Der Standard Newsroom",
+      "date": "2026-04-16T13:03:46+00:00",
+      "featured": false
+    },
+    {
       "id": "93eab51ebfb2",
       "title": "Ex-ÖFB-Keeper Manninger tödlich verunglückt",
       "url": "https://www.derstandard.at/story/3000000316971/ex-oefb-keeper-manninger-toedlich-verunglueckt?ref=rss",
@@ -858,16 +1058,6 @@
       "excerpt": "Einigung zwischen VÖZ und Gewerkschaft GPA - Sätze für ständige freie Mitarbeiterinnen und Mitarbeiter werden um 2,9 Prozent erhöht",
       "source": "Der Standard Newsroom",
       "date": "2026-04-16T10:33:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "74d0b3d32cee",
-      "title": "Nach Anzeige von Sebastian Kurz: Staatsanwaltschaft ermittelt gegen Thomas Schmid",
-      "url": "https://www.derstandard.at/story/3000000316934/postenschacher-prozess-falschaussage-ermittlungen-gegen-schmid?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Ex-Kanzler Sebastian Kurz hatte Anzeige erstattet. Jetzt ermittelt die Staatsanwaltschaft Linz wegen des Verdachts der falschen Zeugenaussage im Wöginger-Prozess",
-      "source": "Der Standard",
-      "date": "2026-04-16T10:23:20+00:00",
       "featured": false
     }
   ],
@@ -1124,6 +1314,6 @@
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T13:01:57.189808+00:00"
+    "last_updated": "2026-04-16T13:05:49.496694+00:00"
   }
 }
