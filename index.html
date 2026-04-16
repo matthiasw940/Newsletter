@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lesezeichen — Kuratierte Links</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#1a1a1a;--paper:#f5f0e8;--paper-warm:#ede7db;--accent:#c1272d;
+  --muted:#8a8070;--rule:#c8bfb0;
+  --serif:'Playfair Display',Georgia,serif;
+  --body:'Source Serif 4',Georgia,serif;
+  --sans:'DM Sans',Helvetica,sans-serif;
+  --tab-podcasts:#6b21a8;--tab-recht:#c1272d;--tab-national:#2d6a4f;--tab-international:#1d3557;
+  --sub-ogh:#b91c1c;--sub-news:#d97706;--sub-intl:#7c3aed;--sub-eugh:#0369a1;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:999;opacity:.03;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");background-size:200px}
+
+/* MASTHEAD */
+.masthead{text-align:center;padding:2.5rem 2rem 1.2rem;border-bottom:3px double var(--rule)}
+.masthead::before{content:'✦';display:block;font-size:.7rem;letter-spacing:1em;color:var(--accent);margin-bottom:.6rem}
+.masthead h1{font-family:var(--serif);font-size:clamp(2rem,5vw,3.5rem);font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.masthead .tagline{font-family:var(--sans);font-size:.73rem;letter-spacing:.25em;text-transform:uppercase;color:var(--muted);margin-top:.5rem}
+
+/* EDITION BAR */
+.edition-bar{display:flex;justify-content:space-between;align-items:center;padding:.5rem 2rem;border-bottom:1px solid var(--rule);font-family:var(--sans);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.last-updated{font-size:.63rem;opacity:.7}
+.bar-right{display:flex;align-items:center;gap:1rem}
+.lang-toggle{display:flex;gap:.3rem}
+.lang-btn{background:none;border:1px solid var(--rule);padding:.18rem .5rem;font-family:var(--sans);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);cursor:pointer;transition:all .25s}
+.lang-btn.active{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.lang-btn:hover:not(.active){border-color:var(--ink);color:var(--ink)}
+
+/* MAIN TABS */
+.tab-nav{display:flex;justify-content:center;border-bottom:2px solid var(--rule);max-width:980px;margin:0 auto}
+.tab-btn{position:relative;background:none;border:none;padding:.9rem 1.5rem;font-family:var(--sans);font-size:.68rem;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);cursor:pointer;transition:color .25s}
+.tab-btn::after{content:'';position:absolute;bottom:-2px;left:0;right:0;height:2px;background:transparent;transition:background .3s}
+.tab-btn:hover{color:var(--ink)}
+.tab-btn[data-tab="podcasts"].active{color:var(--tab-podcasts)}.tab-btn[data-tab="podcasts"].active::after{background:var(--tab-podcasts)}
+.tab-btn[data-tab="recht"].active{color:var(--tab-recht)}.tab-btn[data-tab="recht"].active::after{background:var(--tab-recht)}
+.tab-btn[data-tab="national"].active{color:var(--tab-national)}.tab-btn[data-tab="national"].active::after{background:var(--tab-national)}
+.tab-btn[data-tab="international"].active{color:var(--tab-international)}.tab-btn[data-tab="international"].active::after{background:var(--tab-international)}
+.tab-count{display:inline-block;font-size:.56rem;background:var(--paper-warm);border:1px solid var(--rule);padding:.04rem .38rem;border-radius:9px;margin-left:.35rem;font-weight:400;letter-spacing:0;vertical-align:middle}
+
+/* SUB TABS (inside Recht) */
+.sub-nav{display:flex;justify-content:center;gap:0;max-width:980px;margin:0 auto;border-bottom:1px solid var(--rule);background:var(--paper-warm)}
+.sub-btn{background:none;border:none;padding:.65rem 1.2rem;font-family:var(--sans);font-size:.6rem;font-weight:500;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);cursor:pointer;transition:all .2s;position:relative}
+.sub-btn::after{content:'';position:absolute;bottom:-1px;left:.5rem;right:.5rem;height:2px;background:transparent;transition:background .25s}
+.sub-btn:hover{color:var(--ink)}
+.sub-btn[data-sub="ogh"].active{color:var(--sub-ogh)}.sub-btn[data-sub="ogh"].active::after{background:var(--sub-ogh)}
+.sub-btn[data-sub="at_news"].active{color:var(--sub-news)}.sub-btn[data-sub="at_news"].active::after{background:var(--sub-news)}
+.sub-btn[data-sub="intl_law"].active{color:var(--sub-intl)}.sub-btn[data-sub="intl_law"].active::after{background:var(--sub-intl)}
+.sub-btn[data-sub="eugh"].active{color:var(--sub-eugh)}.sub-btn[data-sub="eugh"].active::after{background:var(--sub-eugh)}
+.sub-btn[data-sub="vfgh"].active{color:#9333ea}.sub-btn[data-sub="vfgh"].active::after{background:#9333ea}
+.sub-count{font-size:.52rem;background:var(--paper);border:1px solid var(--rule);padding:.02rem .32rem;border-radius:8px;margin-left:.3rem}
+
+.section-accent{height:3px;max-width:980px;margin:0 auto;transition:background .4s}
+.section-accent.podcasts{background:linear-gradient(90deg,var(--tab-podcasts),transparent)}
+.section-accent.recht{background:linear-gradient(90deg,var(--tab-recht),transparent)}
+.section-accent.national{background:linear-gradient(90deg,var(--tab-national),transparent)}
+.section-accent.international{background:linear-gradient(90deg,var(--tab-international),transparent)}
+
+.container{max-width:980px;margin:0 auto;padding:0 2rem}
+.tab-content,.sub-content{display:none}
+.tab-content.active,.sub-content.active{display:block}
+
+/* PODCASTS */
+.podcast-section{padding:2rem 0}
+.podcast-intro{text-align:center;font-family:var(--body);font-style:italic;font-weight:300;font-size:1rem;color:var(--muted);margin-bottom:2rem}
+.podcast-card{margin-bottom:2rem;animation:fadeUp .5s ease both}
+.podcast-card:nth-child(2){animation-delay:.1s}.podcast-card:nth-child(3){animation-delay:.2s}
+.podcast-label{display:flex;align-items:baseline;gap:.8rem;margin-bottom:.8rem}
+.podcast-order{font-family:var(--serif);font-size:2rem;font-weight:700;color:var(--tab-podcasts);opacity:.3;line-height:1}
+.podcast-meta h3{font-family:var(--serif);font-size:1.1rem;font-weight:700;line-height:1.3}
+.podcast-meta .podcast-desc{font-family:var(--sans);font-size:.7rem;color:var(--muted);letter-spacing:.05em;margin-top:.12rem}
+.podcast-card iframe{border-radius:6px;width:100%}
+.podcast-divider{border:none;border-top:1px solid var(--rule);margin:0 0 2rem}
+
+/* ARTICLES */
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+.day-group{padding:1.8rem 0;border-bottom:1px solid var(--rule);animation:fadeUp .5s ease both}
+.day-group:last-child{border-bottom:none}
+.day-header{display:flex;align-items:baseline;gap:.8rem;margin-bottom:1.4rem}
+.day-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-top:2px}
+.day-label{font-family:var(--sans);font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.day-line{flex:1;height:1px;background:var(--rule)}
+
+.articles{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem 2.2rem}
+.article{position:relative;padding-bottom:1rem}
+.article.featured{grid-column:1/-1;border-bottom:1px solid var(--rule);padding-bottom:1.4rem;margin-bottom:.3rem}
+.article-cat{font-family:var(--sans);font-size:.6rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;margin-bottom:.3rem}
+.article h3{font-family:var(--serif);font-size:1.1rem;font-weight:700;line-height:1.3;margin-bottom:.35rem}
+.article.featured h3{font-size:1.4rem}
+.article.at-highlight{border-left:3px solid #c1272d;padding-left:1rem;background:linear-gradient(90deg,rgba(193,39,45,.04),transparent)}
+.article h3 a{color:var(--ink);text-decoration:none;background-image:linear-gradient(var(--accent),var(--accent));background-size:0% 2px;background-position:0 100%;background-repeat:no-repeat;transition:background-size .35s,color .2s;padding-bottom:2px}
+.article h3 a:hover{color:var(--accent);background-size:100% 2px}
+.article .excerpt{font-family:var(--body);font-size:.88rem;font-weight:300;color:var(--muted);line-height:1.5}
+.article .source{font-family:var(--sans);font-size:.65rem;color:var(--muted);margin-top:.4rem;letter-spacing:.04em}
+.source-badge{display:inline-block;background:var(--paper-warm);border:1px solid var(--rule);padding:.03rem .32rem;border-radius:3px;font-size:.58rem;margin-right:.25rem}
+.empty-state{text-align:center;padding:3rem 2rem;color:var(--muted);font-style:italic;font-size:.95rem}
+.loading{text-align:center;padding:3rem;font-family:var(--sans);font-size:.78rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
+.loading::after{content:'';display:inline-block;width:11px;height:11px;border:2px solid var(--rule);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin-left:.5rem;vertical-align:middle}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+footer{text-align:center;padding:2rem 2rem 2.5rem;border-top:3px double var(--rule);margin-top:1rem}
+footer p{font-family:var(--sans);font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--muted)}
+footer .ornament{font-size:1rem;color:var(--accent);margin-bottom:.4rem}
+
+/* MODAL */
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(26,26,26,.6);backdrop-filter:blur(4px);z-index:100;justify-content:center;align-items:center}
+.modal-overlay.open{display:flex;animation:fadeIn .25s}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+.modal{background:var(--paper);border:1px solid var(--rule);width:90%;max-width:500px;padding:1.8rem;position:relative;animation:slideUp .3s}
+@keyframes slideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.modal h2{font-family:var(--serif);font-size:1.2rem;margin-bottom:1rem}
+.modal label{display:block;font-family:var(--sans);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:.25rem;margin-top:.7rem}
+.modal input,.modal textarea,.modal select{width:100%;padding:.5rem .65rem;font-family:var(--body);font-size:.88rem;border:1px solid var(--rule);background:var(--paper-warm);color:var(--ink);outline:none;transition:border-color .2s}
+.modal input:focus,.modal textarea:focus,.modal select:focus{border-color:var(--accent)}
+.modal textarea{resize:vertical;min-height:55px}
+.modal select{appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%238a8070' d='M6 8L1 3h10z'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right .7rem center;padding-right:2rem}
+.modal-actions{display:flex;gap:.7rem;margin-top:1.2rem;justify-content:flex-end}
+.btn-cancel{background:none;border:1px solid var(--rule);padding:.45rem 1rem;font-family:var(--sans);font-size:.73rem;letter-spacing:.08em;cursor:pointer;color:var(--muted);transition:all .2s}
+.btn-cancel:hover{border-color:var(--ink);color:var(--ink)}
+.btn-save{background:var(--ink);border:1px solid var(--ink);color:var(--paper);padding:.45rem 1.3rem;font-family:var(--sans);font-size:.73rem;letter-spacing:.08em;cursor:pointer;transition:all .2s}
+.btn-save:hover{background:var(--accent);border-color:var(--accent)}
+.close-modal{position:absolute;top:.8rem;right:1rem;background:none;border:none;font-size:1.2rem;cursor:pointer;color:var(--muted);line-height:1}
+.close-modal:hover{color:var(--ink)}
+.checkbox-row{display:flex;align-items:center;gap:.5rem;margin-top:.7rem}
+.checkbox-row input[type="checkbox"]{width:auto;accent-color:var(--accent)}
+.checkbox-row label{margin:0}
+.add-section{text-align:center;padding:1.3rem 0}
+.add-section.hidden{display:none}
+.add-btn{background:none;border:1px dashed var(--rule);padding:.6rem 1.3rem;font-family:var(--sans);font-size:.73rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);cursor:pointer;transition:all .3s}
+.add-btn:hover{border-color:var(--accent);color:var(--accent);border-style:solid}
+
+@media(max-width:700px){
+  .articles{grid-template-columns:1fr;gap:1rem}
+  .article.featured{grid-column:1}
+  .masthead{padding:1.8rem 1.2rem 1rem}
+  .container{padding:0 1rem}
+  .edition-bar{padding:.5rem 1rem;flex-wrap:wrap;gap:.4rem}
+  .tab-btn{padding:.7rem .6rem;font-size:.58rem;letter-spacing:.1em}
+  .sub-btn{padding:.5rem .6rem;font-size:.54rem}
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <h1 id="site-title">Lesezeichen</h1>
+  <p class="tagline" id="site-tagline">Kuratierte Links & Leseempfehlungen</p>
+</header>
+<div class="edition-bar">
+  <div><span id="edition-label">Persönliches Archiv</span> <span class="last-updated" id="last-updated"></span></div>
+  <div class="bar-right"><div class="lang-toggle">
+    <button class="lang-btn active" onclick="setLang('de')">DE</button>
+    <button class="lang-btn" onclick="setLang('en')">EN</button>
+  </div></div>
+</div>
+
+<!-- MAIN TABS -->
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="podcasts" onclick="switchTab('podcasts')"><span class="tab-label" data-key="tabPodcasts">Podcasts</span></button>
+  <button class="tab-btn" data-tab="recht" onclick="switchTab('recht')"><span class="tab-label" data-key="tabRecht">AT Recht</span></button>
+  <button class="tab-btn" data-tab="national" onclick="switchTab('national')"><span class="tab-label" data-key="tabNational">National</span> <span class="tab-count" id="count-national">0</span></button>
+  <button class="tab-btn" data-tab="international" onclick="switchTab('international')"><span class="tab-label" data-key="tabInternational">International</span> <span class="tab-count" id="count-international">0</span></button>
+</nav>
+
+<!-- SUB TABS (Recht) -->
+<nav class="sub-nav" id="sub-nav" style="display:none">
+  <button class="sub-btn active" data-sub="ogh" onclick="switchSub('ogh')"><span class="sub-label" data-key="subOgh">OGH Urteile</span> <span class="sub-count" id="count-ogh">0</span></button>
+  <button class="sub-btn" data-sub="at_news" onclick="switchSub('at_news')"><span class="sub-label" data-key="subNews">AT Recht News</span> <span class="sub-count" id="count-at_news">0</span></button>
+  <button class="sub-btn" data-sub="intl_law" onclick="switchSub('intl_law')"><span class="sub-label" data-key="subIntl">Intl. Recht</span> <span class="sub-count" id="count-intl_law">0</span></button>
+  <button class="sub-btn" data-sub="eugh" onclick="switchSub('eugh')"><span class="sub-label" data-key="subEugh">EuGH Urteile</span> <span class="sub-count" id="count-eugh">0</span></button>
+  <button class="sub-btn" data-sub="vfgh" onclick="switchSub('vfgh')"><span class="sub-label" data-key="subVfgh">VfGH Urteile</span> <span class="sub-count" id="count-vfgh">0</span></button>
+</nav>
+
+<div class="section-accent podcasts" id="section-accent"></div>
+
+<main class="container">
+  <!-- PODCASTS -->
+  <div class="tab-content active" id="content-podcasts">
+    <section class="podcast-section">
+      <p class="podcast-intro" id="podcast-intro">Dein Morgenritual — jeden Tag in dieser Reihenfolge.</p>
+      <div class="podcast-card"><div class="podcast-label"><span class="podcast-order">1</span><div class="podcast-meta"><h3>Morgenjournal um 8</h3><p class="podcast-desc" data-key="descMJ">ORF Ö1 — Die wichtigsten Nachrichten des Tages</p></div></div>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2J5elDOCyAs4XgAKfhBW9b?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+      <hr class="podcast-divider">
+      <div class="podcast-card"><div class="podcast-label"><span class="podcast-order">2</span><div class="podcast-meta"><h3>The Headlines</h3><p class="podcast-desc" data-key="descHL">The New York Times — Schlagzeilen jeden Werktagmorgen</p></div></div>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0pymDUChxmrkH41tOT33Uc?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+      <hr class="podcast-divider">
+      <div class="podcast-card"><div class="podcast-label"><span class="podcast-order">3</span><div class="podcast-meta"><h3>Bloomberg Daybreak Europe</h3><p class="podcast-desc" data-key="descBB">Bloomberg — Märkte, Politik & Weltwirtschaft um 7 Uhr London</p></div></div>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2OkpUUTl7dafPaS0DP0p5Q?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+    </section>
+  </div>
+
+  <!-- RECHT (with sub-tabs) -->
+  <div class="tab-content" id="content-recht">
+    <div class="sub-content active" id="sub-ogh"></div>
+    <div class="sub-content" id="sub-at_news"></div>
+    <div class="sub-content" id="sub-intl_law"></div>
+    <div class="sub-content" id="sub-eugh"></div>
+    <div class="sub-content" id="sub-vfgh"></div>
+  </div>
+
+  <!-- NATIONAL -->
+  <div class="tab-content" id="content-national"></div>
+
+  <!-- INTERNATIONAL -->
+  <div class="tab-content" id="content-international"></div>
+</main>
+
+<div class="add-section hidden" id="add-section">
+  <button class="add-btn" id="add-article-btn" onclick="openModal()">+ Artikel hinzufügen</button>
+</div>
+
+<footer><div class="ornament">✦</div><p id="footer-text">Zusammengestellt mit Sorgfalt</p></footer>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modal">
+  <div class="modal">
+    <button class="close-modal" onclick="closeModal()">×</button>
+    <h2 id="modal-title">Neuer Artikel</h2>
+    <label id="lbl-tab">Bereich</label>
+    <select id="art-tab"><option value="recht_news">AT Recht News</option><option value="recht_intl">Intl. Recht</option><option value="national">National</option><option value="international">International</option></select>
+    <label id="lbl-title">Titel</label><input type="text" id="art-title" placeholder="Artikel-Titel">
+    <label id="lbl-url">URL</label><input type="url" id="art-url" placeholder="https://...">
+    <label id="lbl-cat">Kategorie</label><input type="text" id="art-category" placeholder="z.B. Zivilrecht, EU">
+    <label id="lbl-excerpt">Kurzbeschreibung</label><textarea id="art-excerpt" placeholder="Worum geht es?"></textarea>
+    <label id="lbl-source">Quelle</label><input type="text" id="art-source" placeholder="z.B. RIS, Der Standard">
+    <div class="checkbox-row"><input type="checkbox" id="art-featured"><label id="lbl-featured">Hervorgehoben</label></div>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeModal()" id="btn-cancel-text">Abbrechen</button>
+      <button class="btn-save" onclick="saveArticle()" id="btn-save-text">Speichern</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ==================== I18N ====================
+const i18n={de:{
+  title:'Lesezeichen',tagline:'Kuratierte Links & Leseempfehlungen',edition:'Persönliches Archiv',
+  footer:'Zusammengestellt mit Sorgfalt',addBtn:'+ Artikel hinzufügen',modalTitle:'Neuer Artikel',
+  lblTab:'Bereich',lblTitle:'Titel',lblUrl:'URL',lblCat:'Kategorie',lblExcerpt:'Kurzbeschreibung',
+  lblSource:'Quelle',lblFeatured:'Hervorgehoben',btnCancel:'Abbrechen',btnSave:'Speichern',
+  empty:'Noch keine Artikel in diesem Bereich.',via:'via',updated:'Aktualisiert',loading:'Laden',
+  tabPodcasts:'Podcasts',tabRecht:'AT Recht',tabNational:'National',tabInternational:'International',
+  subOgh:'OGH Urteile',subNews:'AT Recht News',subIntl:'Intl. Recht',subEugh:'EuGH Urteile',subVfgh:'VfGH Urteile',
+  podcastIntro:'Dein Morgenritual — jeden Tag in dieser Reihenfolge.',
+  descMJ:'ORF Ö1 — Die wichtigsten Nachrichten des Tages',
+  descHL:'The New York Times — Schlagzeilen jeden Werktagmorgen',
+  descBB:'Bloomberg — Märkte, Politik & Weltwirtschaft um 7 Uhr London',
+  months:['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
+},en:{
+  title:'Bookmarks',tagline:'Curated Links & Reading Notes',edition:'Personal Archive',
+  footer:'Curated with care',addBtn:'+ Add Article',modalTitle:'New Article',
+  lblTab:'Section',lblTitle:'Title',lblUrl:'URL',lblCat:'Category',lblExcerpt:'Short Description',
+  lblSource:'Source',lblFeatured:'Featured',btnCancel:'Cancel',btnSave:'Save',
+  empty:'No articles in this section yet.',via:'via',updated:'Updated',loading:'Loading',
+  tabPodcasts:'Podcasts',tabRecht:'AT Law',tabNational:'National',tabInternational:'International',
+  subOgh:'OGH Decisions',subNews:'AT Law News',subIntl:'Intl. Law',subEugh:'CJEU Decisions',subVfgh:'VfGH Decisions',
+  podcastIntro:'Your morning ritual — every day in this order.',
+  descMJ:"ORF Ö1 — Austria's top news",descHL:'NYT — Top stories every weekday morning',
+  descBB:'Bloomberg — Markets, politics & economy by 7am London',
+  months:['January','February','March','April','May','June','July','August','September','October','November','December']
+}};
+
+let lang='de',mainTab='podcasts',subTab='ogh';
+let feedData={recht_ogh:[],recht_news:[],recht_intl:[],recht_eugh:[],national:[],international:[],_meta:{}};
+const t=k=>i18n[lang][k]||k;
+
+function setLang(l){lang=l;document.querySelectorAll('.lang-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`.lang-btn[onclick="setLang('${l}')"]`).classList.add('active');
+  document.documentElement.lang=l;applyLang();renderAll()}
+
+function applyLang(){
+  const s=(id,key)=>{const el=document.getElementById(id);if(el)el.textContent=t(key)};
+  s('site-title','title');s('site-tagline','tagline');s('edition-label','edition');s('footer-text','footer');
+  s('add-article-btn','addBtn');s('modal-title','modalTitle');s('lbl-tab','lblTab');s('lbl-title','lblTitle');
+  s('lbl-url','lblUrl');s('lbl-cat','lblCat');s('lbl-excerpt','lblExcerpt');s('lbl-source','lblSource');
+  s('lbl-featured','lblFeatured');s('btn-cancel-text','btnCancel');s('btn-save-text','btnSave');
+  s('podcast-intro','podcastIntro');
+  document.querySelectorAll('.tab-label,.sub-label').forEach(el=>el.textContent=t(el.dataset.key));
+  document.querySelectorAll('.podcast-desc').forEach(el=>{if(el.dataset.key)el.textContent=t(el.dataset.key)});
+  updateTimestamp();
+}
+
+function updateTimestamp(){const m=feedData._meta;if(m&&m.last_updated){
+  const d=new Date(m.last_updated);
+  document.getElementById('last-updated').textContent=` · ${t('updated')}: ${d.toLocaleDateString(lang==='de'?'de-AT':'en-GB',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'})}`;
+}}
+
+// ==================== DATA ====================
+async function loadData(){
+  try{const r=await fetch('data.json?t='+Date.now());if(r.ok){feedData=await r.json();console.log('✓ data.json loaded')}}
+  catch(e){console.warn('data.json not found:',e)}
+  renderAll();updateTimestamp();
+}
+
+// ==================== TAB SWITCHING ====================
+function switchTab(tab){
+  mainTab=tab;
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`.tab-btn[data-tab="${tab}"]`).classList.add('active');
+  document.querySelectorAll('.tab-content').forEach(c=>c.classList.remove('active'));
+  document.getElementById(`content-${tab}`).classList.add('active');
+  document.getElementById('section-accent').className='section-accent '+tab;
+  document.getElementById('sub-nav').style.display=tab==='recht'?'flex':'none';
+  const add=document.getElementById('add-section');
+  add.classList.toggle('hidden',tab==='podcasts');
+}
+
+function switchSub(sub){
+  subTab=sub;
+  document.querySelectorAll('.sub-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`.sub-btn[data-sub="${sub}"]`).classList.add('active');
+  document.querySelectorAll('.sub-content').forEach(c=>c.classList.remove('active'));
+  document.getElementById(`sub-${sub}`).classList.add('active');
+}
+
+// ==================== RENDERING ====================
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+function groupByDay(arts){
+  const g={};
+  [...arts].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).forEach(a=>{
+    const d=new Date(a.date);if(isNaN(d))return;
+    const k=d.toISOString().slice(0,10);
+    const label=d.toLocaleDateString(lang==='de'?'de-AT':'en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+    if(!g[k])g[k]={label,articles:[]};g[k].articles.push(a);
+  });return Object.values(g);
+}
+
+function renderArticleList(el,arts,colorVar){
+  if(!arts||!arts.length){el.innerHTML=`<div class="empty-state"><p>${t('empty')}</p></div>`;return}
+  const groups=groupByDay(arts);
+  el.innerHTML=groups.map((g,i)=>{
+    if(g.articles.length>0)g.articles[0]._featured=true;
+    return`<section class="day-group" style="animation-delay:${i*.06}s">
+      <div class="day-header"><div class="day-dot" style="background:var(${colorVar})"></div><span class="day-label">${g.label}</span><div class="day-line"></div></div>
+      <div class="articles">${g.articles.map(a=>{
+        const isAT = (a.category||'').includes('Österreich') || (a.category||'').includes('🇦🇹');
+        const cls = 'article' + (a._featured?' featured':'') + (isAT?' at-highlight':'');
+        return `<article class="${cls}">
+        <div class="article-cat" style="color:var(${colorVar})">${esc(a.category||'')}</div>
+        <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3>
+        ${a.excerpt?`<p class="excerpt">${esc(a.excerpt)}</p>`:''}
+        ${a.source?`<p class="source"><span class="source-badge">${esc(a.source)}</span></p>`:''}
+      </article>`}).join('')}</div></section>`;
+  }).join('');
+}
+
+function renderAll(){
+  // Recht sub-tabs
+  const tabs={ogh:{data:'recht_ogh',color:'--sub-ogh'},at_news:{data:'recht_news',color:'--sub-news'},
+    intl_law:{data:'recht_intl',color:'--sub-intl'},eugh:{data:'recht_eugh',color:'--sub-eugh'},
+    vfgh:{data:'recht_vfgh',color:'--sub-eugh'}};
+  for(const[sub,cfg]of Object.entries(tabs)){
+    const arts=feedData[cfg.data]||[];
+    const countEl=document.getElementById(`count-${sub}`);if(countEl)countEl.textContent=arts.length;
+    renderArticleList(document.getElementById(`sub-${sub}`),arts,cfg.color);
+  }
+  // National
+  const natArts=feedData.national||[];
+  document.getElementById('count-national').textContent=natArts.length;
+  renderArticleList(document.getElementById('content-national'),natArts,'--tab-national');
+  // International
+  const intArts=feedData.international||[];
+  document.getElementById('count-international').textContent=intArts.length;
+  renderArticleList(document.getElementById('content-international'),intArts,'--tab-international');
+}
+
+// ==================== MODAL ====================
+function openModal(){document.getElementById('modal').classList.add('open');document.getElementById('art-title').focus()}
+function closeModal(){document.getElementById('modal').classList.remove('open');clearForm()}
+function clearForm(){['art-title','art-url','art-category','art-excerpt','art-source'].forEach(id=>document.getElementById(id).value='');document.getElementById('art-featured').checked=false}
+
+function saveArticle(){
+  const title=document.getElementById('art-title').value.trim();if(!title)return;
+  const tab=document.getElementById('art-tab').value;
+  if(!feedData[tab])feedData[tab]=[];
+  feedData[tab].unshift({id:'manual-'+Date.now(),title,url:document.getElementById('art-url').value.trim()||'#',
+    category:document.getElementById('art-category').value.trim()||'—',
+    excerpt:document.getElementById('art-excerpt').value.trim(),
+    source:document.getElementById('art-source').value.trim(),
+    featured:document.getElementById('art-featured').checked,
+    date:new Date().toISOString()});
+  renderAll();closeModal();
+}
+
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+loadData();
+</script>
+</body>
+</html>
