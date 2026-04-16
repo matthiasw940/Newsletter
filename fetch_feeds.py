@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Newsletter v9 — Fixed: Normen (not Norm), Schlagworte as summary."""
+"""Newsletter v10 — Force-refresh: replaces old entries, correct Normen field."""
 import json,hashlib,re,traceback,xml.etree.ElementTree as ET
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
@@ -44,11 +44,26 @@ def trim(arts,max_n=MAX):
             if dt>=cutoff:out.append(a)
         except:out.append(a)
     return out[:max_n]
-def merge(existing,new_arts):
-    urls={a["url"] for a in existing};arts=list(existing)
+
+def merge_smart(existing, new_arts):
+    """Merge: new articles replace old ones with same URL (to pick up new fields)."""
+    by_url = {}
+    for a in existing:
+        by_url[a["url"]] = a
     for a in new_arts:
-        if a["url"] not in urls:arts.append(a);urls.add(a["url"])
-    return arts
+        old = by_url.get(a["url"])
+        if old is None:
+            by_url[a["url"]] = a
+        else:
+            # New entry has more data? Replace.
+            if a.get("norm") and not old.get("norm"):
+                by_url[a["url"]] = a
+            elif a.get("rechtsgebiet") and not old.get("rechtsgebiet"):
+                by_url[a["url"]] = a
+            elif len(a.get("excerpt","")) > len(old.get("excerpt","")) + 20:
+                by_url[a["url"]] = a
+    return list(by_url.values())
+
 def title_dedup(articles):
     seen={};out=[]
     for a in articles:
@@ -94,7 +109,7 @@ def fetch_rss(feeds,name):
         except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}")
     return arts
 
-# ═══════ RIS JUSTIZ (OGH) — v9: Normen (not Norm), Schlagworte ═══════
+# ═══════ RIS JUSTIZ (OGH) — v10: correct field Normen, Schlagworte ═══════
 def ris_justiz(gericht,label):
     print(f"  [{label}] RIS REST API v2.6...")
     params={"Applikation":"Justiz","Gericht":gericht,"ImRisSeit":"ZweiWochen","DokumenteProSeite":"OneHundred","Seitennummer":"1","Dokumenttyp.SucheInRechtssaetzen":"true","Dokumenttyp.SucheInEntscheidungstexten":"true"}
@@ -106,49 +121,54 @@ def ris_justiz(gericht,label):
         if isinstance(results,dict):results=[results]
         if not isinstance(results,list):results=[]
         for doc in results:
-            d=doc.get("Data",{}).get("Metadaten",{});allg=d.get("Allgemein",{});jud=d.get("Judikatur",{});jmeta=jud.get("Justiz",{})
+            d=doc.get("Data",{}).get("Metadaten",{})
+            allg=d.get("Allgemein",{})
+            jud=d.get("Judikatur",{})
+            jmeta=jud.get("Justiz",{})
             # 1. GZ
             gz=(get_item(jud.get("Geschaeftszahl",{})) or [""])[0].strip()
             if not gz:continue
-            # 2. Dates & URLs
+            # 2. Datum
             datum=str(jud.get("Entscheidungsdatum","") or "").strip()
-            # Entscheidungstext-URL from Justiz.Entscheidungstexte
+            # 3. URL from Entscheidungstexte
             et=jmeta.get("Entscheidungstexte",{})
             et_item=et.get("item",{}) if isinstance(et,dict) else {}
             if isinstance(et_item,list):et_item=et_item[0] if et_item else {}
+            if not isinstance(et_item,dict):et_item={}
             doc_url=str(et_item.get("DokumentUrl","") or allg.get("DokumentUrl","") or "").strip()
             entsch_art=str(et_item.get("Entscheidungsart","") or "").strip()
-            # 3. NORMEN — field is "Normen" not "Norm"!
+            # 4. NORMEN — key is "Normen" (plural!) not "Norm"
             normen=get_item(jud.get("Normen",{}))
             norm_str="; ".join(normen[:5]) if normen else ""
-            # 4. Rechtsgebiet
+            # 5. Rechtsgebiet
             rechtsgebiet=(get_item(jmeta.get("Rechtsgebiete",{})) or [""])[0]
-            # 5. Schlagworte — this is the summary/keywords
+            # 6. Schlagworte = summary keywords
             schlagworte=strip(jud.get("Schlagworte",""))
-            # 6. Anmerkung — additional context
+            # 7. Anmerkung
             anmerkung=strip(jmeta.get("Anmerkung",""))
-            # 7. Rechtssatznummern
-            rsn=get_item(jmeta.get("Rechtssatznummern",{}))
-            rsn_str=", ".join(rsn[:3]) if rsn else ""
-            # Build excerpt from Schlagworte + Anmerkung
+            # Build excerpt
             parts=[]
             if schlagworte:parts.append(schlagworte)
             if entsch_art:parts.append(entsch_art)
             if anmerkung:parts.append(anmerkung)
             excerpt=". ".join(parts) if parts else ""
             final_url=doc_url or f"https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Gericht={gericht}&Geschaeftszahl={gz}"
-            arts.append(dict(
+            art=dict(
                 id=mid(final_url),title=f"{label} {gz}",url=final_url,
                 category=rechtsgebiet or label,
                 excerpt=excerpt[:800],source="RIS",featured=False,
                 date=pdate(datum),rechtsgebiet=rechtsgebiet,
-                norm=norm_str,rsn=rsn_str
-            ))
+                norm=norm_str,rsn=""
+            )
+            # Debug: print first few with norm data
+            if len(arts)<3:
+                print(f"    >> {gz}: norm=\"{norm_str[:80]}\" schlagw=\"{schlagworte[:60]}\" rg={rechtsgebiet}")
+            arts.append(art)
         print(f"    \u2713 {len(arts)} decisions")
     except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}");traceback.print_exc()
     return arts
 
-# ═══════ RIS VfGH — v9: also fix Normen field ═══════
+# ═══════ RIS VfGH ═══════
 def ris_vfgh():
     print(f"  [VfGH] RIS REST API v2.6...")
     params={"Applikation":"Vfgh","ImRisSeit":"DreiMonaten","DokumenteProSeite":"OneHundred","Seitennummer":"1"}
@@ -165,7 +185,6 @@ def ris_vfgh():
             if not gz:continue
             datum=str(jud.get("Entscheidungsdatum","") or "").strip()
             doc_url=str(allg.get("DokumentUrl","") or "").strip()
-            # Normen with "en"
             normen=get_item(jud.get("Normen",{}))
             norm_str="; ".join(normen[:5]) if normen else ""
             schlagworte=strip(jud.get("Schlagworte",""))
@@ -249,25 +268,26 @@ def fetch_eugh():
         except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}")
     return arts
 
-# ═══════ GZ DEDUP ═══════
+# ═══════ GZ DEDUP — v10: RIS always wins if it has norm data ═══════
 def dedup_gz(articles,pattern):
-    gz_map={};no_gz=[];web={"ogh.gv.at","vfgh.gv.at"}
+    gz_map={};no_gz=[]
     for a in articles:
         m=re.search(pattern,a.get("title","")+" "+a.get("url",""))
         gz=m.group(1).strip() if m else ""
         if not gz:no_gz.append(a);continue
-        if gz not in gz_map:gz_map[gz]=a
+        if gz not in gz_map:
+            gz_map[gz]=a
         else:
             ex=gz_map[gz]
-            # Prefer RIS (has norm data) but keep longer excerpt from website
-            if a["source"]=="RIS" and ex["source"] in web:
-                if len(ex.get("excerpt",""))>len(a.get("excerpt","")) and not a.get("excerpt"):
-                    a["excerpt"]=ex["excerpt"]
+            # RIS with norm data always wins
+            if a.get("norm") and not ex.get("norm"):
                 gz_map[gz]=a
-            elif a["source"] in web and ex["source"]=="RIS":
-                if len(a.get("excerpt",""))>len(ex.get("excerpt","")) and not ex.get("excerpt"):
-                    ex["excerpt"]=a["excerpt"]
-            elif len(a.get("excerpt",""))>len(ex.get("excerpt","")):gz_map[gz]=a
+            elif ex.get("norm") and not a.get("norm"):
+                pass  # keep existing
+            elif a["source"]=="RIS" and ex["source"]!="RIS":
+                gz_map[gz]=a
+            elif len(a.get("excerpt",""))>len(ex.get("excerpt","")):
+                gz_map[gz]=a
     return list(gz_map.values())+no_gz
 
 OGH_GZ=r"(\d+\s*(?:Ob|Os|Nc|Fsc|Bkv|ObA|ObS)\s*\d+/\d+\w?)"
@@ -281,24 +301,42 @@ FEEDS_INTERNATIONAL=[("https://www.derstandard.at/rss/international","Der Standa
 
 # ═══════ MAIN ═══════
 def main():
-    print(f"\U0001f4f0  Newsletter v9 \u2014 {NOW.strftime('%Y-%m-%d %H:%M UTC')}\n")
+    print(f"\U0001f4f0  Newsletter v10 \u2014 {NOW.strftime('%Y-%m-%d %H:%M UTC')}\n")
+    # v10: Start fresh for recht tabs to clear stale entries without norm data
     ex={}
     if DATA.exists():
         with open(DATA,"r",encoding="utf-8") as f:ex=json.load(f)
     r={}
+
     print("\u2550\u2550 OGH Urteile \u2550\u2550")
-    ogh=ris_justiz("OGH","OGH");ogh+=fetch_ogh_website();ogh=merge(ex.get("recht_ogh",[]),ogh)
-    r["recht_ogh"]=trim(dedup_gz(ogh,OGH_GZ));print(f"  \u2192 Total: {len(r['recht_ogh'])}\n")
+    ogh=ris_justiz("OGH","OGH")
+    ogh+=fetch_ogh_website()
+    # v10: merge_smart replaces old entries if new has more data
+    ogh=merge_smart(ex.get("recht_ogh",[]),ogh)
+    r["recht_ogh"]=trim(dedup_gz(ogh,OGH_GZ))
+    print(f"  \u2192 Total: {len(r['recht_ogh'])}\n")
+
     print("\u2550\u2550 VfGH Urteile \u2550\u2550")
-    vfgh=ris_vfgh();vfgh+=fetch_vfgh_website();vfgh=merge(ex.get("recht_vfgh",[]),vfgh)
-    r["recht_vfgh"]=trim(dedup_gz(vfgh,VFGH_GZ),20);print(f"  \u2192 Total: {len(r['recht_vfgh'])}\n")
+    vfgh=ris_vfgh();vfgh+=fetch_vfgh_website()
+    vfgh=merge_smart(ex.get("recht_vfgh",[]),vfgh)
+    r["recht_vfgh"]=trim(dedup_gz(vfgh,VFGH_GZ),20)
+    print(f"  \u2192 Total: {len(r['recht_vfgh'])}\n")
+
     print("\u2550\u2550 EuGH Urteile \u2550\u2550")
-    r["recht_eugh"]=trim(merge(ex.get("recht_eugh",[]),fetch_eugh()));print(f"  \u2192 Total: {len(r['recht_eugh'])}\n")
+    eugh=fetch_eugh()
+    r["recht_eugh"]=trim(merge_smart(ex.get("recht_eugh",[]),eugh))
+    print(f"  \u2192 Total: {len(r['recht_eugh'])}\n")
+
     for tab,feeds in [("recht_news",FEEDS_AT_NEWS),("recht_intl",FEEDS_INTL_LAW),("national",FEEDS_NATIONAL),("international",FEEDS_INTERNATIONAL)]:
-        print(f"\u2550\u2550 {tab} \u2550\u2550");new_arts=fetch_rss(feeds,tab);merged=merge(ex.get(tab,[]),new_arts)
-        r[tab]=trim(title_dedup(merged));print(f"  \u2192 Total: {len(r[tab])}\n")
+        print(f"\u2550\u2550 {tab} \u2550\u2550")
+        new_arts=fetch_rss(feeds,tab)
+        merged=merge_smart(ex.get(tab,[]),new_arts)
+        r[tab]=trim(title_dedup(merged))
+        print(f"  \u2192 Total: {len(r[tab])}\n")
+
     r["_meta"]={"last_updated":NOW.isoformat()}
     with open(DATA,"w",encoding="utf-8") as f:json.dump(r,f,ensure_ascii=False,indent=2)
-    total=sum(len(r[k]) for k in r if k!="_meta");print(f"\u2713 data.json \u2014 {total} articles total")
+    total=sum(len(r[k]) for k in r if k!="_meta")
+    print(f"\u2713 data.json \u2014 {total} articles total")
 
 if __name__=="__main__":main()
