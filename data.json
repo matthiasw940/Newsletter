@@ -301,6 +301,17 @@
       "date": "2026-04-15T00:00:00"
     },
     {
+      "id": "0699772b7750",
+      "title": "VfGH V258/2025 (V258/2025-13)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260318_25V00258_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-18T00:00:00",
+      "norm": ""
+    },
+    {
       "id": "f42db7967d08",
       "title": "VfGH 18.03.2026, KR 1/2025: Antrag des Rechnungshofes auf Einsichtnahme in Geschäftsbücher der FPÖ: im Wesentlichen Stattgabe (PDF, 0.6 MB)",
       "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-KR-1_2025-vom-18.03.2026.pdf",
@@ -331,6 +342,61 @@
       "date": "2026-03-17T00:00:00"
     },
     {
+      "id": "7c1c6b2b0be9",
+      "title": "VfGH G155/2025 ua (G155/2025-16, G209/2025-5)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00155_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "ebb85e77e02b",
+      "title": "VfGH G156/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00156_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "2b8cd35c1515",
+      "title": "VfGH G73/2025 (G73/2025-21)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00073_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "87196a1952e1",
+      "title": "VfGH V100/2025 (V100/2025-19)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00100_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "cfbc1b31373c",
+      "title": "VfGH V247/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00247_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": ""
+    },
+    {
       "id": "0b34fe2352df",
       "title": "VfGH 10.03.2026, E 2000/2025: Erfolgreiche Beschwerde gegen Anti-Gesichtsverhüllungsgesetz: Tragen einer Maske als Stilmittel freier Meinungsäußerung erlabut (PDF, 0.3 MB)",
       "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-E-2000_2025-vom-10.03.2026.pdf",
@@ -339,6 +405,39 @@
       "source": "vfgh.gv.at",
       "featured": false,
       "date": "2026-03-10T00:00:00"
+    },
+    {
+      "id": "03624091b6c4",
+      "title": "VfGH E2000/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E02000_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "c12ce5292905",
+      "title": "VfGH E3487/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E03487_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "d619d6b77e3d",
+      "title": "VfGH G143/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25G00143_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": ""
     },
     {
       "id": "f438760bbdd4",
@@ -351,24 +450,37 @@
       "date": "2026-03-09T00:00:00"
     },
     {
-      "id": "684569eed22d",
-      "title": "VfGH 04.03.2026, E 102/2025: \"Bannmeile\" gilt auch während der Sitzungspausen von gesetzgebenden Körperschaften (PDF, 0.2 MB)",
-      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-E-102_2025-vom-04.03.2026.pdf",
+      "id": "dca136e0eefb",
+      "title": "VfGH E2819/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260309_25E02819_01",
       "category": "VfGH",
-      "excerpt": "VfGH 04.03.2026, E 102/2025: \"Bannmeile\" gilt auch während der Sitzungspausen von gesetzgebenden Körperschaften (PDF, 0.2 MB)",
-      "source": "vfgh.gv.at",
+      "excerpt": "",
+      "source": "RIS",
       "featured": false,
-      "date": "2026-03-04T00:00:00"
+      "date": "2026-03-09T00:00:00",
+      "norm": ""
     },
     {
-      "id": "e16f87095f39",
-      "title": "VfGH 03.03.2026, V 59/2025: Aufhebung von Teilen einer Verordnung des Gemeinderates der Stadt St. Pölten (Bebauungsplan) (PDF, 0.5 MB)",
-      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-V-59_2025-vom-03.03.2026.pdf",
+      "id": "f4feace06191",
+      "title": "VfGH G140/2025, V235/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260306_25G00140_01",
       "category": "VfGH",
-      "excerpt": "VfGH 03.03.2026, V 59/2025: Aufhebung von Teilen einer Verordnung des Gemeinderates der Stadt St. Pölten (Bebauungsplan) (PDF, 0.5 MB)",
-      "source": "vfgh.gv.at",
+      "excerpt": "",
+      "source": "RIS",
       "featured": false,
-      "date": "2026-03-03T00:00:00"
+      "date": "2026-03-06T00:00:00",
+      "norm": ""
+    },
+    {
+      "id": "79e6406d2bb1",
+      "title": "VfGH V248/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260306_25V00248_01",
+      "category": "VfGH",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-06T00:00:00",
+      "norm": ""
     }
   ],
   "recht_eugh": [
@@ -979,6 +1091,16 @@
   ],
   "national": [
     {
+      "id": "d47a7bf60f73",
+      "title": "Ukraine meldet höchste Totenzahl heuer",
+      "url": "https://orf.at/stories/3427084/",
+      "category": "Ausland",
+      "excerpt": "Bei heftigen russischen Angriffen in der Ukraine sind in der Nacht auf Donnerstag mindestens 18 Menschen getötet und mehr als hundert verletzt worden. Das ist die höchste Opferzahl, die es binnen 24 Stunden in diesem Jahr bisher gab. Russland attackierte mehrere Regionen in der Ukraine in Wellen, laut Präsident Wolodymyr Selenskyj sollen dabei fast 700 Drohnen sowie Raketen und Marschflugkörper eingesetzt worden sein.",
+      "source": "ORF",
+      "date": "2026-04-16T15:45:05+02:00",
+      "featured": false
+    },
+    {
       "id": "61ffc479fc92",
       "title": "EuGH macht Weg frei für Glücksspielerstattungen",
       "url": "https://orf.at/stories/3427093/",
@@ -1016,6 +1138,26 @@
       "excerpt": "Diese Woche befasste sich der U-Ausschuss einerseits mit Pilnaceks Smartwatch, andererseits mit einem einst geplanten Immobiliendeal, der einige Fragen aufwirft",
       "source": "Der Standard",
       "date": "2026-04-16T13:29:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d88bb2cc7b4",
+      "title": "NÖ: 420 Anzeigen bei internationaler Schwerpunktaktion auf A4",
+      "url": "https://kurier.at/chronik/niederoesterreich/noe-420-anzeigen-bei-internationaler-schwerpunktaktion-auf-a4/403151108",
+      "category": "Chronik/Niederösterreich",
+      "excerpt": "420 Anzeigen sind im Rahmen einer zweitägigen internationalen Schwerpunktaktion auf dem Verkehrskontrollplatz in Bruck an der Leitha entlang der Ostautobahn (A4) erfolgt.Insgesamt wurden 37 Busse kontrolliert, in 33 Fällen gab es Beanstandungen. Zwölf Kennzeichen wurden aufgrund von Mängeln abgenommen, rund 52.000 Euro an Organstrafverfügungen und vorläufigen Sicherheitsleistungen eingehoben, zog die niederösterreichische Polizei am Donnerstag in einer Aussendung Bilanz.213 Anzeigen erfolgten wegen schwerer technischer Mängel. 168 Mal wurden Verstöße gegen die Sozialvorschriften geahndet. In 2",
+      "source": "Kurier",
+      "date": "2026-04-16T13:24:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "9922f558534b",
+      "title": "Gegen Hass im Netz: Dieser neue Algorithmus soll helfen",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/kampg-gegen-hass-im-netz-forschung-tu-wien/403151113",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "In sozialen Netzwerken geht es bisweilen wild zu. Unterschiedliche Meinungen prallen aufeinander, die stark polarisieren. Konflikte entstehen. Hass wird verbreitet. Um diese Dynamiken besser verstehen zu können, entwickelte ein Forscherteam um Prof. Stefan Neumann von der TU Wien ein Verfahren, das nicht von starren Lagern ausgeht, sondern Meinungen als überlappende Intervalle modelliert. Neumann: „Statt einzelne Meinungen gegenüberzustellen, versuchen wir innerhalb der Kommunikation unter anderem, Gemeinsamkeiten in Details zu finden.“ Der Ansatz ist neu. Meinungsintervalle In der Vergangenhe",
+      "source": "Kurier",
+      "date": "2026-04-16T13:23:23+00:00",
       "featured": false
     },
     {
@@ -1197,39 +1339,29 @@
       "source": "Der Standard Newsroom",
       "date": "2026-04-16T12:40:35+00:00",
       "featured": false
-    },
-    {
-      "id": "14a4b48b480f",
-      "title": "Verkehrsunfall: Ex-ÖFB-Goalie Manninger ist tot",
-      "url": "https://kurier.at/sport/fussball/manninger-oefb-tod-arsenal-tormann/403151100",
-      "category": "Sport/Fußball",
-      "excerpt": "Große Trauer um Alexander Manninger: Der ehemalige ÖFB-Teamtorhüter ist bei einem tragischen Verkehrsunfall ums Leben gekommen. Die Kollision ereignete sich am Morgen an einem ungesicherten Bahnübergang, für den 47-Jährigen kam jede Hilfe zu spät.Manninger spielte im Laufe seiner großen Karriere für internationale Spitzenklubs wie Arsenal, Juventus und Liverpool und 33 Mal für Österreichs Nationalteam.Der Unfall passierte am Donnerstag gegen 8.40 Uhr kurz nach der Haltestelle Pabing in Salzburg, als es zu einem Zusammenstoß zwischen seinem Fahrzeug und einer Lokalbahn kam. Während der Pkw schw",
-      "source": "Kurier",
-      "date": "2026-04-16T12:39:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "03857054f7a8",
-      "title": "Das kleine Dschibuti im Zentrum geopolitischer Machtkämpfe",
-      "url": "https://www.derstandard.at/story/3000000316861/das-kleine-dschibuti-im-zentrum-geopolitischer-machtkaempfe?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Das ostafrikanische Land beherbergt zahlreiche ausländische Militärbasen und liegt an einer wichtigen Handelsroute, der erneut Gefahr droht",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T12:37:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "1f7860601328",
-      "title": "Serie \"Only Margo\": Mit der Stillpumpe auf OnlyFans",
-      "url": "https://kurier.at/kultur/only-margo-apple-serie-elle-fanning-michelle-pfeiffer-mutter/403151049",
-      "category": "Kultur",
-      "excerpt": "Margo (Elle Fanning) mag Fantasie. Fantasie ist besser als die echte Welt. Schon als Kind hat sie mit Puppen gespielt und neue Welten erschaffen. Dass diese Puppen Wrestling-Actionfiguren waren und die Fantasie dabei war, dass sie ihnen Namen wie \"Mr. Pantypants\" gegeben hat, ist die eine Sache. Die andere ist, dass Margo wirklich gern und gut schreibt. Das bestätigt auch ihr Literaturprofessor. Der ist allerdings ein befangener Zeuge, denn er fängt mit Margo ein Verhältnis an. Affäre mit FolgenUnd bald hat das Folgen: Als der dritte Test immer noch zeigt, dass sie schwanger ist, hat Margo ein",
-      "source": "Kurier",
-      "date": "2026-04-16T12:35:26+00:00",
-      "featured": false
     }
   ],
   "international": [
+    {
+      "id": "b9d261fbda6b",
+      "title": "Lufthansa stellt Betrieb der Tochtergesellschaft Cityline ein",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-stilllegung-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Hohe Kerosinpreise und die aktuellen Streiks sorgen für eine angespannte Lage bei der Lufthansa. Als Reaktion wird der Betrieb der Regionaltochter Cityline vorzeitig eingestellt. Doch auch bei der Kernmarke sollen Kürzungen folgen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T15:52:52+02:00",
+      "featured": false
+    },
+    {
+      "id": "b96d70aadb4a",
+      "title": "Internationale Energieagentur warnt vor Kerosin-Knappheit in Europa",
+      "url": "https://www.tagesschau.de/wirtschaft/kerosin-knappheit-sperrung-strasse-hormus-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Die Blockade der Straße von Hormus setzt die ganze Luftfahrtbranche unter Druck. Nun warnt der Direktor der Internationalen Energieagentur eindringlich vor einem Kerosin-Mangel. Die Vorräte reichten nur noch für wenige Wochen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T15:52:07+02:00",
+      "featured": false
+    },
     {
       "id": "e1cc3fd6a5cf",
       "title": "Iran-Liveblog: ++ Südlibanon: Israelischer Angriff zerstört letzte Brücke ++",
@@ -1278,6 +1410,36 @@
       "excerpt": "Der Discounter Penny wirbt mit zusätzlichen Rabatten - die gelten aber nur für Kundinnen und Kunden, die die Penny-App nutzen. Verbraucherschützer halten das für diskriminierend. Ein Gericht sieht das anders.",
       "source": "Tagesschau",
       "date": "2026-04-16T14:09:50+02:00",
+      "featured": false
+    },
+    {
+      "id": "dc335a7672c3",
+      "title": "Ex-keeper Manninger dies after car hit by train",
+      "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+      "source": "BBC World",
+      "date": "2026-04-16T13:53:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "761374aa3d48",
+      "title": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
+      "url": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
+      "category": "Illegal Immigration",
+      "excerpt": "In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government.",
+      "source": "New York Times",
+      "date": "2026-04-16T13:50:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "7ff06a54e555",
+      "title": "UK’s Covid vaccine programme must rebuild trust before next pandemic strikes, inquiry warns",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/16/covid-jab-injury-payments-must-be-urgently-reformed-says-inquiry-chair",
+      "category": "Covid inquiry",
+      "excerpt": "Heather Hallett hails vaccine scheme but criticises rule that only those meeting 60% disabled threshold can get payoutsThe UK’s Covid vaccination programme was “an extraordinary feat” with protective jabs developed and delivered in record time, but work is now needed to rebuild trust in vaccines and ensure better access before the next pandemic strikes, an official inquiry has found.Lady Hallett, the chair of the statutory inquiry into the pandemic, said the vaccine rollout and the identification of an inexpensive steroid that saved the lives of thousands of UK patients, were “two of the succe",
+      "source": "The Guardian",
+      "date": "2026-04-16T13:41:23+00:00",
       "featured": false
     },
     {
@@ -1429,59 +1591,9 @@
       "source": "New York Times",
       "date": "2026-04-16T13:03:43+00:00",
       "featured": false
-    },
-    {
-      "id": "768a1222c988",
-      "title": "Carbon Removal Industry Reels as Microsoft Retreats",
-      "url": "https://www.nytimes.com/2026/04/16/climate/microsoft-carbon-removal.html",
-      "category": "Global Warming",
-      "excerpt": "Once held up as a key solution to climate change, a field that aims to remove carbon from the atmosphere is struggling to catch on.",
-      "source": "New York Times",
-      "date": "2026-04-16T13:01:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "f17145e88701",
-      "title": "Eine Streichliste im Auftrag des Kanzleramtes",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-streichliste-jugendhilfe-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Bürokratie abbauen, Milliarden sparen - doch zu welchem Preis? Eine Liste mit Sparvorschlägen aus dem Kanzleramt könnte etwa die Jugend- und Eingliederungshilfe massiv verändern. Nun wird Kritik laut. Von J.-P. Bartels und N. Kohnert.",
-      "source": "Tagesschau",
-      "date": "2026-04-16T13:00:10+02:00",
-      "featured": false
-    },
-    {
-      "id": "f3574aaf5e0b",
-      "title": "China und die Vereinigten Arabischen Emirate wollen ihre Beziehungen vertiefen",
-      "url": "https://www.nzz.ch/international/china-sucht-naehe-zu-den-emiraten-xi-jinping-trifft-kronprinzen-ld.1933718",
-      "category": "NZZ",
-      "excerpt": "Auf der Suche nach neuen Partnern wenden sich die Machthaber in Peking verstärkt dem Nahen Osten zu. Es geht dabei auch um Europa.",
-      "source": "NZZ",
-      "date": "2026-04-16T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cec588353ffe",
-      "title": "Trump’s triumphal arch plan for US capital faces key federal review vote",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/trumps-triumphal-arch-capitol-review",
-      "category": "Donald Trump",
-      "excerpt": "Design among projects before US Commission of Fine Arts as lawsuits challenge scale and impactDonald Trump’s design for the triumphal arch he wants built at an entrance to the US capital comes up for a review and possible vote on Thursday by a key federal agency. It is one of several projects the US president is pursuing alongside a White House ballroom to leave his lasting footprint on Washington.Trump said on social media that the arch “will be the GREATEST and MOST BEAUTIFUL Triumphal Arch, anywhere in the World” and a “wonderful addition to the Washington D.C. area for all Americans to enj",
-      "source": "The Guardian",
-      "date": "2026-04-16T12:58:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "737c693d66fe",
-      "title": "What the U.S. Blockade Means for Iran’s Economy",
-      "url": "https://www.nytimes.com/2026/04/16/business/economy/iran-oil-blockade.html",
-      "category": "US and Israeli Attack on Iran (2026)",
-      "excerpt": "Putting a stop to Iranian shipping will further add to Iran’s economic pain, analysts said, but it might not be enough to force concessions or lessen the global energy crunch.",
-      "source": "New York Times",
-      "date": "2026-04-16T12:58:14+00:00",
-      "featured": false
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T13:41:50.751071+00:00"
+    "last_updated": "2026-04-16T13:53:41.112806+00:00"
   }
 }
