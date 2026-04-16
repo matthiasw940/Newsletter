@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4 lxml
 
-      - name: Debug RIS API
+      - name: Debug RIS API deep
         run: |
           curl -s "https://data.bka.gv.at/ris/api/v2.6/Judikatur?Applikation=Justiz&Gericht=OGH&ImRisSeit=ZweiWochen&DokumenteProSeite=OneHundred&Seitennummer=1" | python3 -c "
           import json,sys
@@ -33,14 +33,20 @@ jobs:
           results=d.get('OgdSearchResult',{}).get('OgdDocumentResults',{})
           if isinstance(results,dict): results=results.get('OgdDocumentReference',[])
           if isinstance(results,dict): results=[results]
-          for doc in results[:3]:
+          for doc in results[:2]:
               m=doc.get('Data',{}).get('Metadaten',{})
               jud=m.get('Judikatur',{})
+              jus=jud.get('Justiz',{})
               print('=== GZ:', jud.get('Geschaeftszahl',{}))
-              print('    Norm:', jud.get('Norm',{}))
-              print('    Kurzinfo:', str(jud.get('Kurzinformation',''))[:300])
-              print('    Rechtssatz:', str(jud.get('Rechtssatz',''))[:300])
-              print('    Justiz keys:', list(jud.get('Justiz',{}).keys()))
-              print('    ALL jud keys:', list(jud.keys()))
+              print('    Normen field:', json.dumps(jud.get('Normen',{}),ensure_ascii=False)[:500])
+              print('    Schlagworte:', json.dumps(jud.get('Schlagworte',{}),ensure_ascii=False)[:300])
+              print('    Rechtsgebiete:', json.dumps(jus.get('Rechtsgebiete',{}),ensure_ascii=False)[:300])
+              print('    Rechtssatznummern:', json.dumps(jus.get('Rechtssatznummern',{}),ensure_ascii=False)[:300])
+              print('    Entscheidungstexte:', json.dumps(jus.get('Entscheidungstexte',{}),ensure_ascii=False)[:500])
+              print('    Anmerkung:', json.dumps(jus.get('Anmerkung',{}),ensure_ascii=False)[:300])
+              print()
+              # Also dump one full Rechtssatznummer URL to see if we can fetch details
+              rsn=jus.get('Rechtssatznummern',{})
+              print('    RSN raw:', json.dumps(rsn,ensure_ascii=False)[:400])
               print()
           "
