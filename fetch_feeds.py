@@ -160,6 +160,7 @@ def ris_justiz(gericht, label):
 
             # Norm: array of cited laws
             normen = get_item(jud.get("Norm",{}))
+            if gz and len(arts)<3: print(f"    DEBUG {gz}: norm={normen[:2]}, kurz={kurz[:80]}, rg={rechtsgebiet}")
             norm_str = "; ".join(normen[:4]) if normen else ""
 
             # Rechtsgebiet & Fachgebiet
