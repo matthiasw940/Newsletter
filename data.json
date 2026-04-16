@@ -61,6 +61,45 @@
       "date": "2026-04-09T00:00:00"
     },
     {
+      "id": "32ebffa94097",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "rsn": ""
+    },
+    {
+      "id": "a313ecc819f2",
+      "title": "OGH 21Ds6/25g",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00006_25G0000_001",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "rsn": ""
+    },
+    {
+      "id": "0846827356a3",
+      "title": "OGH 21Ds8/25a",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260409_OGH0002_0210DS00008_25A0000_000",
+      "category": "Strafrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-04-09T00:00:00",
+      "rechtsgebiet": "Strafrecht",
+      "norm": "",
+      "rsn": ""
+    },
+    {
       "id": "c6bc081190e6",
       "title": "OGH 1Ob34/26w",
       "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260408_OGH0002_0010OB00034_26W0000_000&IncludeSelf=True",
@@ -154,14 +193,17 @@
       "date": "2026-03-25T00:00:00"
     },
     {
-      "id": "592923d581bd",
+      "id": "705432826b75",
       "title": "OGH 3Ob31/26v",
-      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJR_20260325_OGH0002_0030OB00031_26V0000_000",
-      "category": "OGH (Zivilrecht)",
-      "excerpt": "",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0030OB00031_26V0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "Diesel, Dieselskandal, Abschalteinrichtung, Thermofenster, Emissionskontrollsystem, Emissionsgrenzwerte, Neuer Europäischer Fahrzyklus-Test, NEFZ, Realbetrieb. Siehe auch RS0135300, RS0135307, RS0135343 und RS0135338",
       "source": "RIS",
       "featured": false,
-      "date": "2026-03-25T00:00:00"
+      "date": "2026-03-25T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "AEUV Lissabon Art267; Verordnung (EG) 715/2007 Art3 Z10; Verordnung (EG) 715/2007 Art5",
+      "rsn": "RS0142803"
     },
     {
       "id": "e553d17acb55",
@@ -227,45 +269,6 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Strafrecht",
       "fachgebiet": "",
-      "norm": ""
-    },
-    {
-      "id": "3d84213ee19c",
-      "title": "OGH 15Os22/26p",
-      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00022_26P0000_000&IncludeSelf=True",
-      "category": "Strafrecht",
-      "excerpt": "",
-      "source": "RIS",
-      "featured": false,
-      "date": "2026-03-25T00:00:00",
-      "rechtsgebiet": "Strafrecht",
-      "fachgebiet": "",
-      "norm": ""
-    },
-    {
-      "id": "403f5abcdcac",
-      "title": "OGH 15Os26/26a",
-      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00026_26A0000_000&IncludeSelf=True",
-      "category": "Strafrecht",
-      "excerpt": "",
-      "source": "RIS",
-      "featured": false,
-      "date": "2026-03-25T00:00:00",
-      "rechtsgebiet": "Strafrecht",
-      "fachgebiet": "",
-      "norm": ""
-    },
-    {
-      "id": "ce8a94a24bd3",
-      "title": "OGH 15Os9/26a (15Os12/26t)",
-      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00009_26A0000_000&IncludeSelf=True",
-      "category": "Strafrecht",
-      "excerpt": "",
-      "source": "RIS",
-      "featured": false,
-      "date": "2026-03-25T00:00:00",
-      "rechtsgebiet": "Strafrecht",
-      "fachgebiet": "Suchtgiftdelikte",
       "norm": ""
     }
   ],
@@ -597,6 +600,16 @@
       "featured": false
     },
     {
+      "id": "54c624977fe2",
+      "title": "WKStA ermittelt gegen Ex-Kanzler Gusenbauer – Hausdurchsuchungen in Wien und Niederösterreich",
+      "url": "https://www.derstandard.at/story/3000000316985/wksta-ermittelt-ex-kanzler-ermittlungen-und-hausdurchsuchungen-bei-ex-kanzler-gusenbauer?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die WKStA hat im Rahmen ihrer Signa-Ermittlungen erneut Hausdurchsuchungen durchgeführt. Es geht um Untreueverdacht mit einem Schaden von zehn Millionen Euro, unter anderem gegen Gusenbauer",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T14:02:52+00:00",
+      "featured": false
+    },
+    {
       "id": "2254dbd56508",
       "title": "SW Umwelttechnik setzt nach Abtritt Orbáns auf Ungarn-Wende",
       "url": "https://www.derstandard.at/story/3000000316812/sw-umwelttechnik-setzt-nach-abtritt-orbans-auf-ungarn-wende?ref=rss",
@@ -824,16 +837,6 @@
       "excerpt": "In Asien fehlt Treibstoff, Fluglinien reagieren mit Stornierungen und Tankstopps. Auch Europas Luftfahrt bereitet sich auf Engpässe vor",
       "source": "Der Standard Wirtschaft",
       "date": "2026-04-15T03:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a83530e8353c",
-      "title": "Goldman Sachs, JPMorgan, Citi und Wells Fargo: US-Großbanken verdienen prächtig",
-      "url": "https://www.derstandard.at/story/3000000316622/goldman-sachs-jpmorgan-citi-und-wells-fargo-us-grossbanken-verdienen-praechtig?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die volatilen Märkte spielen den Investmentbanken in die Hände. Auch das Geschäft mit Fusionen und Übernahmen läuft noch immer gut",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-14T18:30:00+00:00",
       "featured": false
     }
   ],
@@ -1091,6 +1094,36 @@
   ],
   "national": [
     {
+      "id": "c46605f6437c",
+      "title": "Signa: Hausdurchsuchungen bei Ex-Kanzler Gusenbauer",
+      "url": "https://orf.at/stories/3427107/",
+      "category": "Inland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:30:51+02:00",
+      "featured": false
+    },
+    {
+      "id": "4f9c6b5c3110",
+      "title": "Entwurf zu Integrationspflicht: Haft bei Betrug möglich",
+      "url": "https://orf.at/stories/3427106/",
+      "category": "Inland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:27:32+02:00",
+      "featured": false
+    },
+    {
+      "id": "b94dea5051be",
+      "title": "Kreml äußert sich zu Kritik von russischer Bloggerin",
+      "url": "https://orf.at/stories/3427104/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:18:23+02:00",
+      "featured": false
+    },
+    {
       "id": "326418cdcfb5",
       "title": "Suchanfragen: Google soll Daten mit Konkurrenz teilen",
       "url": "https://orf.at/stories/3427102/",
@@ -1148,6 +1181,46 @@
       "excerpt": "",
       "source": "ORF",
       "date": "2026-04-16T14:17:48+02:00",
+      "featured": false
+    },
+    {
+      "id": "6d596c7f24c3",
+      "title": "Thomas Schmid: Kronzeuge wird Beschuldigter",
+      "url": "https://kurier.at/video/aktuelle-videos/video-thomas-schmid-kronzeuge-wird-beschuldigter/403151152",
+      "category": "Video/Aktuelle Videos",
+      "excerpt": "",
+      "source": "Kurier",
+      "date": "2026-04-16T14:16:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "9f448217215f",
+      "title": "Polizeieinsatz in Linz endet tödlich: 27-Jähriger griff mit Schere an",
+      "url": "https://kurier.at/video/aktuelle-videos/video-polizeieinsatz-in-linz-endet-toedlich-27-jaehriger-griff-mit-schere-an/403151146",
+      "category": "Video/Aktuelle Videos",
+      "excerpt": "",
+      "source": "Kurier",
+      "date": "2026-04-16T14:13:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "55010920e9a6",
+      "title": "Wiener Neustadt: Privatinitiative rettet Montessori-Kindergarten",
+      "url": "https://kurier.at/chronik/niederoesterreich/kindergarten-kinderbetreuung-montessori-kinder/403151139",
+      "category": "PLUS - Chronik/Niederösterreich",
+      "excerpt": "Wiener Neustadt ist die Stadt mit dem höchsten Bevölkerungszuwachs. Mit einem Plus von zuletzt 1,8 Prozent liegt man österreichweit im Spitzenfeld, im vergangenen Herbst knackte Wiener Neustadt die 50.000-Einwohner-Marke.Das rasante Wachstum bringt für die Stadtverwaltung große Herausforderungen mit sich, beispielsweise was die Kinderbetreuung anbelangt. In derzeit 100 Gruppen sind heuer 1.800 Kinder in den nö. Landeskindergärten der Stadt untergebracht, in privaten Einrichtungen und Krabbelstuben kommen nochmals 700 Mädchen und Buben dazu.HiobsbotschaftAngesichts dieser Entwicklung schmerzt der Verlust jedes einzelnen Betreuungsplatzes. Deshalb war es für Bildungsstadtrat Philipp Gruber (ÖVP) auch eine bittere Nachricht, als Anfang des Jahres bekannt wurde, dass der als Orel-Privatkinderg",
+      "source": "Kurier",
+      "date": "2026-04-16T14:10:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "edb95643ea4a",
+      "title": "Gustav Klimt und die Medizin",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/gustav-klimt-und-die-medizin/403151142",
+      "category": "Entgeltliche Einschaltung",
+      "excerpt": "Die im Josephinum, den Sammlungen der Medizinischen Universität Wien, präsentierte Ausstellung widmet sich erstmals umfassend den vielfältigen Beziehungen zwischen Klimts Kunst, Wissenschaft und medizinischem Fortschritt in Wien um 1900. Sie zeigt, wie sehr die intellektuelle Atmosphäre dieser Zeit – geprägt von bahnbrechenden naturwissenschaftlichen Erkenntnissen, neuen medizinischen Methoden und einem offenen Dialog zwischen den Disziplinen – Gustav Klimts Denken und Schaffen beeinflusste.Im historischen Hörsaal des Josephinums werden rund 25 originale Klimt-Zeichnungen, die aus renommierten österreichischen Institutionen und Sammlungen stammen, gezeigt, sowie von ausgewählten Privatsammler:innen, deren Bilder bislang selten öffentlich zugänglich waren. Veranschaulicht werden Klimts Arbe",
+      "source": "Kurier",
+      "date": "2026-04-16T14:09:23+00:00",
       "featured": false
     },
     {
@@ -1269,76 +1342,6 @@
       "source": "Der Standard",
       "date": "2026-04-16T13:29:27+00:00",
       "featured": false
-    },
-    {
-      "id": "4d88bb2cc7b4",
-      "title": "NÖ: 420 Anzeigen bei internationaler Schwerpunktaktion auf A4",
-      "url": "https://kurier.at/chronik/niederoesterreich/noe-420-anzeigen-bei-internationaler-schwerpunktaktion-auf-a4/403151108",
-      "category": "Chronik/Niederösterreich",
-      "excerpt": "420 Anzeigen sind im Rahmen einer zweitägigen internationalen Schwerpunktaktion auf dem Verkehrskontrollplatz in Bruck an der Leitha entlang der Ostautobahn (A4) erfolgt.Insgesamt wurden 37 Busse kontrolliert, in 33 Fällen gab es Beanstandungen. Zwölf Kennzeichen wurden aufgrund von Mängeln abgenommen, rund 52.000 Euro an Organstrafverfügungen und vorläufigen Sicherheitsleistungen eingehoben, zog die niederösterreichische Polizei am Donnerstag in einer Aussendung Bilanz.213 Anzeigen erfolgten wegen schwerer technischer Mängel. 168 Mal wurden Verstöße gegen die Sozialvorschriften geahndet. In 2",
-      "source": "Kurier",
-      "date": "2026-04-16T13:24:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "9922f558534b",
-      "title": "Gegen Hass im Netz: Dieser neue Algorithmus soll helfen",
-      "url": "https://kurier.at/wissen/wien-wills-wissen/kampg-gegen-hass-im-netz-forschung-tu-wien/403151113",
-      "category": "Wissen/Wien Wills Wissen",
-      "excerpt": "In sozialen Netzwerken geht es bisweilen wild zu. Unterschiedliche Meinungen prallen aufeinander, die stark polarisieren. Konflikte entstehen. Hass wird verbreitet. Um diese Dynamiken besser verstehen zu können, entwickelte ein Forscherteam um Prof. Stefan Neumann von der TU Wien ein Verfahren, das nicht von starren Lagern ausgeht, sondern Meinungen als überlappende Intervalle modelliert. Neumann: „Statt einzelne Meinungen gegenüberzustellen, versuchen wir innerhalb der Kommunikation unter anderem, Gemeinsamkeiten in Details zu finden.“ Der Ansatz ist neu. Meinungsintervalle In der Vergangenhe",
-      "source": "Kurier",
-      "date": "2026-04-16T13:23:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "3edbe64f82da",
-      "title": "Wie lebt es sich mit einem Roboter in Wien? Forscherin macht den Test",
-      "url": "https://kurier.at/wissen/wien-wills-wissen/roboter-tova-leben-ki-test-forschung-experiment-wien/403151109",
-      "category": "Wissen/Wien Wills Wissen",
-      "excerpt": "Sie leben ziemlich genau ein Jahr lang mit Tova in Ihrer Wohnung in Wien zusammen. Was kann Tova alles?Emily Genatowski: Derzeit sind die Funktionen noch sehr limitiert. Aber das Ziel ist, dass Tova eines Tages im Haushalt eine echte Unterstützung ist. Dass der Roboter beispielsweise das Geschirr selbstständig waschen und die Wäsche machen kann oder auch Essen zubereitet.Roboter sind doch heutzutage schon in der Lage, Wäsche zu waschen – oder nicht?Einige speziell entwickelte Systeme können das leisten. Aber Tova ist ein humanoider Forschungsprototyp. Weltweit konzentriert sich die Ingenieurar",
-      "source": "Kurier",
-      "date": "2026-04-16T13:15:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f6d84956532",
-      "title": "Energiehandel: Möglicher Treibstoffmangel ab Pfingsten",
-      "url": "https://orf.at/stories/3427081/",
-      "category": "Wirtschaft",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T13:14:11+02:00",
-      "featured": false
-    },
-    {
-      "id": "69bec71375a9",
-      "title": "Stehen somit 3,8 Millionen Euro: Bushido siegte vor Gericht",
-      "url": "https://kurier.at/stars/stehen-somit-38-millionen-euro-bushido-siegte-vor-gericht/403151111",
-      "category": "Stars",
-      "excerpt": "In einem Rechtsstreit um seinen Anteil aus der Zwangsversteigerung mehrerer Villen in Kleinmachnow hat das deutsche Oberlandesgericht in Brandenburg an der Havel zugunsten des Rappers Bushido entschieden. Man habe \"eine Berufung des Herrn A.-C. zurückgewiesen\", sagte eine Sprecherin des Gerichtes. Dem Rapper stünden somit rund 3,8 Millionen Euro aus dem Zwangsversteigerungserlös zu, ergänzte die Gerichtssprecherin.Das Villenensemble und die Grundstücke mit einer Gesamtfläche von mehr als 16.600 Quadratmetern waren beim Amtsgericht Potsdam um rund 7,4 Millionen Euro versteigert worden. Als einz",
-      "source": "Kurier",
-      "date": "2026-04-16T13:13:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "4986fd809c1c",
-      "title": "Spitzen Sie die Ohren!",
-      "url": "https://kurier.at/wissen/wien-wills-wissen/spitzen-sie-die-ohren/403151106",
-      "category": "Entgeltliche Einschaltung",
-      "excerpt": "Was unterscheidet kreischende Tafelkreide und schrillende Wecker von Vogelgezwitscher und sanftem Meeresrauschen? Ganz klar: Unsere hochkomplexe Schall-Wahrnehmung! Wunderwelt des SchallsAber weshalb empfinden wir manche Geräusche als nervtötend und andere als angenehm? Lüften Sie dieses und viele weitere Geheimnisse aus der Wunderwelt des Schalls am Tag gegen Lärm am 29. April 2026 an der Österreichischen Akademie der Wissenschaften. Kundig begleitet von unseren Expert*innen des Instituts für Schallforschung erkunden Sie auf 27 Mitmachstationen, wie Schall entsteht, wie er errechnet werden kann – und wann er zum Lärm wird. Sie finden heraus, wie laut Ihre Stimme sein kann, wie gut Sie hören und wie Sie Ihr Hörvermögen schützen. Sie werden erfahren, wie Tiere unter dem Lärm leiden – und be",
-      "source": "Kurier",
-      "date": "2026-04-16T13:04:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "cee8f09c2da1",
-      "title": "Salzburger Festspiele trauern um Heinrich Wiesmüller",
-      "url": "https://www.derstandard.at/story/3000000316975/salzburger-festspiele-trauern-um-heinrich-wiesmueller?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Der frühere Präsident und langjährige Unterstützer der Festspiele sorgte für eine Imagekorrektur",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T13:03:46+00:00",
-      "featured": false
     }
   ],
   "international": [
@@ -1403,6 +1406,36 @@
       "featured": false
     },
     {
+      "id": "772d0bf2460f",
+      "title": "Shakespeare Bought One Property in London. Now We Know Exactly Where.",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/shakespeare-london-property-house.html",
+      "category": "Theater",
+      "excerpt": "In confirming the precise location of William Shakespeare’s Blackfriars house, a British scholar raises fresh questions about what he intended to do with it.",
+      "source": "New York Times",
+      "date": "2026-04-16T14:28:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "9a230b12b3b4",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Drama in der Ostsee: Der neue Rettungsversuch für den gestrandeten Wal wird auf Freitag verschoben",
+      "url": "https://www.nzz.ch/wissenschaft/wal-timmy-in-der-ostsee-antworten-auf-die-wichtigsten-fragen-ld.1932015",
+      "category": "NZZ",
+      "excerpt": "Seit dem 31. März sitzt das Tier vor der Insel Poel fest. Nun soll ein neuer Rettungsversuch unternommen werden. Das sind die Antworten auf die wichtigsten Fragen zum gestrandeten Buckelwal.",
+      "source": "NZZ",
+      "date": "2026-04-16T14:26:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "6c873291741b",
+      "title": "India pushes for women's quota bill as row over parliamentary seats intensifies",
+      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
+      "source": "BBC World",
+      "date": "2026-04-16T14:26:17+00:00",
+      "featured": false
+    },
+    {
       "id": "07ec30b58c3a",
       "title": "Marktbericht:  Chip-Supermacht Taiwan - TSMC ist nicht zu bremsen",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-16-4-26-100.html",
@@ -1410,6 +1443,36 @@
       "excerpt": "TSMC ist der weltgrößte Chip-Auftragsfertiger und weiterhin nicht zu stoppen. Das Unternehmen aus Taiwan produziert einen Erfolg nach dem anderen - Treiber ist dabei auch das Thema Künstliche Intelligenz.",
       "source": "Tagesschau",
       "date": "2026-04-16T14:21:54+02:00",
+      "featured": false
+    },
+    {
+      "id": "5113f6531aff",
+      "title": "Hegseth says US is ‘locked and loaded’ to finish job of destroying Iran energy grid",
+      "url": "https://www.theguardian.com/us-news/2026/apr/16/pete-hegseth-iran-energy-infrastructure",
+      "category": "Pete Hegseth",
+      "excerpt": "US defense secretary said Iran’s energy infrastructure is ‘not destroyed yet’ at presser where he also lambasted the mediaIran’s energy infrastructure is “not destroyed yet” and the US is “locked and loaded” to finish the job, Pete Hegseth, the defense secretary, said on Thursday as he called many of the press corps gathered the moral equivalent of the Pharisees who conspired to destroy Jesus Christ.Hegseth’s comments from the Pentagon podium came as a naval blockade of Iranian ports began this week and he called on Tehran to accept a nuclear deal or face consequences for its remaining infrastructure, power generation and energy industry. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T14:19:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "19b07e2bdfef",
+      "title": "China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending",
+      "url": "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html",
+      "category": "China",
+      "excerpt": "A steep slide in housing prices has left consumers less prosperous and less willing to spend, but the government is pouring money into new rail lines and other projects.",
+      "source": "New York Times",
+      "date": "2026-04-16T14:19:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "f29cbb091908",
+      "title": "Scottish retailers dismiss SNP proposal to cap price of essential foods as a ‘potty gimmick’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+      "category": "Politics",
+      "excerpt": "Scottish Retail Consortium blames rising supply chain and commodity costs as it also hits out at ‘relentless rises in statutory costs imposed by government’ Swinney says this is a manifesto for the whole of Scotland.He confirms that the SNP would argue for the Scottish power to have more control over energy policy (still largely reserved to Westminter). He says:The problem is not that we do not have the energy. The problem is that Westminster has the power. This election is our opportunity to take those powers and put them into Scotland’s hands. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T14:16:19+00:00",
       "featured": false
     },
     {
@@ -1430,6 +1493,16 @@
       "excerpt": "Der Karikaturist Peter Gut kommentiert in seinen wöchentlichen Zeichnungen für die NZZ das Weltgeschehen.",
       "source": "NZZ",
       "date": "2026-04-16T14:14:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "5fa3bf45c3ae",
+      "title": "Middle East crisis live: US to block Iranian ports for ‘as long as it takes’ and is ready to restart combat if talks fail, Hegseth warns",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+      "category": "US-Israel war on Iran",
+      "excerpt": "Pentagon chief said that the US is ‘reloading with more power than before’ and Iran has choice of ‘the easy way or the hard way’US and Iran in indirect talks to extend two-week ceasefireIran has stopped all petrochemical exports to prioritise domestic supply and prevent shortages of raw materials, Reuters reported.The state-owned National Petrochemical Company ordered firms to suspend exports until further notice. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T14:12:11+00:00",
       "featured": false
     },
     {
@@ -1521,79 +1594,9 @@
       "source": "New York Times",
       "date": "2026-04-16T13:58:14+00:00",
       "featured": false
-    },
-    {
-      "id": "dc335a7672c3",
-      "title": "Ex-keeper Manninger dies after car hit by train",
-      "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
-      "source": "BBC World",
-      "date": "2026-04-16T13:53:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "836dc4804989",
-      "title": "Pope says ‘world is being ravaged by a handful of tyrants’ amid feud with Trump’s White House",
-      "url": "https://www.theguardian.com/world/2026/apr/16/pope-leo-xiv-tyrants-trump-spat",
-      "category": "Pope Leo XIV",
-      "excerpt": "Pontiff denounces world leaders that invoke religion to justify US-Israel war on Iran, after US bishops offer him supportSign up for the Breaking News US email to get newsletter alerts in your inboxPope Leo XIV has said that the world is being “ravaged by a handful of tyrants” who spend billions on war, in comments that will be seen as another sharp escalation in his almost week-long feud with the White House over the US-Israel war on Iran.The first American-born pontiff did not mention Donald Trump by name, but used his speech in Cameroon on Thursday to denounce world leaders that invoke religion to justify violence against other nations. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T13:53:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "761374aa3d48",
-      "title": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
-      "url": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
-      "category": "Illegal Immigration",
-      "excerpt": "In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government.",
-      "source": "New York Times",
-      "date": "2026-04-16T13:50:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ff06a54e555",
-      "title": "UK’s Covid vaccine programme must rebuild trust before next pandemic strikes, inquiry warns",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/16/covid-jab-injury-payments-must-be-urgently-reformed-says-inquiry-chair",
-      "category": "Covid inquiry",
-      "excerpt": "Heather Hallett hails vaccine scheme but criticises rule that only those meeting 60% disabled threshold can get payoutsThe UK’s Covid vaccination programme was “an extraordinary feat” with protective jabs developed and delivered in record time, but work is now needed to rebuild trust in vaccines and ensure better access before the next pandemic strikes, an official inquiry has found.Lady Hallett, the chair of the statutory inquiry into the pandemic, said the vaccine rollout and the identification of an inexpensive steroid that saved the lives of thousands of UK patients, were “two of the succe",
-      "source": "The Guardian",
-      "date": "2026-04-16T13:41:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "5df1de4ccc28",
-      "title": "Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail",
-      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
-      "category": "New York Times",
-      "excerpt": "Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and threatened more attacks, even as the war’s economic toll puts pressure on President Trump.",
-      "source": "New York Times",
-      "date": "2026-04-16T13:37:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "21138e21e541",
-      "title": "LIVE-TICKER - Iran-Krieg: Deutsche Bundeswehr erwägt Minenräumung in der Strasse von Hormuz +++ Hegseth droht Iran, Kampfhandlungen wieder aufzunehmen",
-      "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292",
-      "category": "NZZ",
-      "excerpt": "Die USA und Israel greifen Iran an. Teheran hat heftige Gegenangriffe lanciert. Die Folgen des Konflikts sind weltweit spürbar. Die neuesten Entwicklungen im Live-Ticker.",
-      "source": "NZZ",
-      "date": "2026-04-16T13:37:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "96662d74574c",
-      "title": "Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map",
-      "url": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html",
-      "category": "Europe",
-      "excerpt": "Corruption and economic mismanagement brought down Hungary’s authoritarian leader. Will his political disciples avoid those pitfalls?",
-      "source": "New York Times",
-      "date": "2026-04-16T13:35:19+00:00",
-      "featured": false
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T14:18:30.211084+00:00"
+    "last_updated": "2026-04-16T14:31:38.553595+00:00"
   }
 }
