@@ -1,1 +1,1069 @@
-{}
+{
+  "recht_ogh": [
+    {
+      "id": "286ad182faa3",
+      "title": "Vorabentscheidungsersuchen an den EuGH",
+      "url": "https://www.ogh.gv.at/entscheidungen/vorabentscheidungsersuchen-eugh/",
+      "category": "OGH",
+      "excerpt": "Vorabentscheidungsersuchen an den EuGH",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T12:47:49.493472+00:00"
+    },
+    {
+      "id": "46476ae83b8e",
+      "title": "Normprüfungsanträge an den VfGH",
+      "url": "https://www.ogh.gv.at/entscheidungen/normpruefungsantraege-vfgh/",
+      "category": "OGH",
+      "excerpt": "Normprüfungsanträge an den VfGH",
+      "source": "ogh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T12:47:49.493472+00:00"
+    }
+  ],
+  "recht_vfgh": [
+    {
+      "id": "dd133f03d40c",
+      "title": "VfGH , E 2616/2018: Verfassungsgerichtshof leitet Prüfung des Sbg Baupolizeigesetz ein (PDF, 0.4 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH_Entscheidung_E_2616_2018_Pruefung_Sbg_Baupolizeigesetz.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH , E 2616/2018: Verfassungsgerichtshof leitet Prüfung des Sbg Baupolizeigesetz ein (PDF, 0.4 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T12:47:49.493472+00:00"
+    },
+    {
+      "id": "1cb308c2b288",
+      "title": "100 Jahre VfGH – Veranstaltungsüberblick",
+      "url": "https://www.vfgh.gv.at/verfassungsgerichtshof/100Jahre/100_Jahre_VfGH_-_Veranstaltungsueberblick.de.html",
+      "category": "VfGH",
+      "excerpt": "100 Jahre VfGH – Veranstaltungsüberblick",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-16T12:47:49.493472+00:00"
+    },
+    {
+      "id": "f332a738309b",
+      "title": "VfGH 15.04.2026, E 639/2026 u.a.: Projekt Verbindungsbahn Speising: Aufschiebende Wirkung nicht zuerkannt (PDF, 0.7 MB)",
+      "url": "https://www.vfgh.gv.at/downloads/VfGH-Beschluss-E-639_2026-11_ua-vom-15.04.2026.pdf",
+      "category": "VfGH",
+      "excerpt": "VfGH 15.04.2026, E 639/2026 u.a.: Projekt Verbindungsbahn Speising: Aufschiebende Wirkung nicht zuerkannt (PDF, 0.7 MB)",
+      "source": "vfgh.gv.at",
+      "featured": false,
+      "date": "2026-04-15T00:00:00"
+    }
+  ],
+  "recht_eugh": [
+    {
+      "id": "326234181bd2",
+      "title": "58/Thu Apr 16 00:00:00 UTC 2026 : null - Schlussanträge des Generalanwalts in der Rechtssache C-131/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082560",
+      "category": "EuGH",
+      "excerpt": "Dris Grundsätze des Gemeinschaftsrechts Generalanwalt Richard de la Tour: Nichtansässige Studierende, die die Sekundarstufe zu einem wesentlichen Teil in Belgien besucht und dort ihren Abschluss erworben haben, sind beim Zugang zum Medizinstudium Gebietsansässigen gleichzustellen",
+      "source": "EuGH",
+      "date": "2026-04-16T08:35:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c6a3fec04a3",
+      "title": "56/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-642/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082549",
+      "category": "EuGH",
+      "excerpt": "Kommission / Deutschland (Bayerisches Familiengeld) Soziale Sicherheit der Wanderarbeitnehmer Die Indexierung des Bayerischen Familiengelds nach Maßgabe des Wohnmitgliedstaats der Kinder verstößt gegen das Unionsrecht",
+      "source": "EuGH",
+      "date": "2026-04-16T08:14:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "46285c46c1a9",
+      "title": "57/Thu Apr 16 00:00:00 UTC 2026 : null - Schlussanträge der Generalanwältin in der Rechtssache C-555/24 P",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082548",
+      "category": "EuGH",
+      "excerpt": "Medel u. a./Rat Wirtschaftlicher und sozialer Zusammenhalt Generalanwältin Ćapeta: Vereinigungen, die Richter repräsentieren, sind befugt, Nichtigkeitsklagen gegen den Beschluss des Rates zu erheben, mit dem die Etappenziele der Justizreform in Polen im Rahmen der EU-Aufbau- und Resilienzfazilität gebilligt wurden",
+      "source": "EuGH",
+      "date": "2026-04-16T08:14:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "56eaee07a76a",
+      "title": "53/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-440/23",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082523",
+      "category": "EuGH",
+      "excerpt": "European Lotto and Betting und Deutsche Lotto- und Sportwetten Freier Dienstleistungsverkehr Online-Glücksspiele: Das Unionsrecht hindert einen Mitgliedstaat nicht daran, bestimmte in anderen Mitgliedstaaten zugelassene Online-Dienstleistungen zu verbieten und die zivilrechtlichen Konsequenzen aus dem Verbot zu ziehen",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "574ffd0be8cb",
+      "title": "55/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-328/24 P",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082521",
+      "category": "EuGH",
+      "excerpt": "Mincu Pătrașcu Brâncuși / Europäische Staatsanwaltschaft Institutionelles Recht Europäische Staatsanwaltschaft: Der Gerichtshof weist das Rechtsmittel eines rumänischen Staatsbürgers gegen einen Beschluss des Gerichts der Europäischen Union zurück",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "f08825a6704c",
+      "title": "54/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in den verbundenen Rechtssachen C-50/24 bis C-56/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082522",
+      "category": "EuGH",
+      "excerpt": "[Danané u. a.] Raum der Freiheit, der Sicherheit und des Rechts Eine Haftanstalt, in der ein Asylbewerber festgehalten wird, dessen Antrag nach dem Verfahren an der Grenze bearbeitet wird, muss nicht zwingend an der Grenze des betreffenden Mitgliedstaats gelegen sein",
+      "source": "EuGH",
+      "date": "2026-04-16T08:02:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "ac8d5cbc96b8",
+      "title": "52/Thu Apr 16 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-519/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082495",
+      "category": "EuGH",
+      "excerpt": "Nitrogénművek Eine nationale Regelung, die die Ausgleichswirkung der kostenlos zugeteilten Kohlendioxidemissionszertifikate aufhebt, verstößt gegen die Ziele der Emissionshandelsrichtlinie",
+      "source": "EuGH",
+      "date": "2026-04-16T07:49:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "abd422397f4f",
+      "title": "50/Tue Apr 14 00:00:00 UTC 2026 : Tue Apr 14 13:08:00 UTC 2026 - Urteil des Gerichtshofs in der Rechtssache C-590/23",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082382",
+      "category": "EuGH",
+      "excerpt": "Pelham (Begriff „Pastiche“) Geistiges Eigentum Der Gerichtshof äußert sich zur Tragweite der Ausnahme für „Pastiches“ im Zusammenhang mit Sampling",
+      "source": "EuGH",
+      "date": "2026-04-14T07:28:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "62f33fe01f09",
+      "title": "51/Tue Apr 14 00:00:00 UTC 2026 : Tue Apr 14 13:07:56 UTC 2026 - Urteil des Gerichtshofs in der Rechtssache C-418/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082381",
+      "category": "EuGH",
+      "excerpt": "[Obadal] Sozialpolitik Aufeinanderfolgende befristete Verträge: Die in Spanien vorgesehenen Maßnahmen zur Ahndung der missbräuchlichen Verwendung im öffentlichen Sektor sind offenbar nicht mit dem Unionsrecht vereinbar",
+      "source": "EuGH",
+      "date": "2026-04-14T07:28:06+00:00",
+      "featured": false
+    }
+  ],
+  "recht_news": [
+    {
+      "id": "00d4f01e91cd",
+      "title": "Prozess gegen Mann, der Partnerin vergewaltigte, verprügelte und erpresste",
+      "url": "https://www.derstandard.at/story/3000000316919/prozess-gegen-mann-der-partnerin-vergewaltigte-verpruegelte-und-erpresste?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener 32-Jähriger soll fast zwei Jahre lang seine Lebensgefährtin malträtiert haben. Er schiebt es auf seinen Drogenkonsum",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T11:11:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e867d5c69e6",
+      "title": "Samenspender aufgepasst! Fallstricke privater Vereinbarungen",
+      "url": "https://www.derstandard.at/story/3000000315553/samenspender-aufgepasst-fallstricke-privater-vereinbarungen?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Warum nur medizinisch abgesicherte Samenspenden klare rechtliche Verhältnisse schaffen und private Vereinbarungen für Spender schnell zum Risiko werden können",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed359c42a377",
+      "title": "Stalkingprozess gegen Kurzzeit-Ehemann, der Ex-Gattin trotz Verbots kontaktiert",
+      "url": "https://www.derstandard.at/story/3000000316771/stalkingprozess-gegen-kurzzeit-ehemann-der-ex-gattin-trotz-verbots-kontaktiert?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener 34-Jähriger gibt zu, mit seiner geschiedenen Frau kommuniziert zu haben, obwohl einstweilige Verfügungen vorlagen. Eine Todesdrohung bestreitet er aber",
+      "source": "Der Standard Recht",
+      "date": "2026-04-16T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c8f4de900a1b",
+      "title": "Verleumdungsprozess gegen junge Frau, die Touristen Vergewaltigung vorwarf",
+      "url": "https://www.derstandard.at/story/3000000316636/verleumdungsprozess-gegen-junge-frau-die-touristen-vergewaltigung-vorwarf?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Eine unbescholtene 20-Jährige bezichtigte im Herbst 2024 einen Serben nach einem Two-Night-Stand fälschlicherweise eines Sexualverbrechens. Warum, möchte sie nicht sagen",
+      "source": "Der Standard Recht",
+      "date": "2026-04-15T11:12:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb23aac5deb7",
+      "title": "Prozess gegen 62-jährigen Antisemiten, der nicht vor Gericht erscheint",
+      "url": "https://www.derstandard.at/story/3000000316594/prozess-gegen-62-jaehrigen-antisemiten-der-nicht-vor-gericht-erscheint?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein 13-fach Vorbestrafter soll einen Unternehmer beschimpft, verletzt und sich gegen seine Festnahme gewehrt haben",
+      "source": "Der Standard Recht",
+      "date": "2026-04-14T13:44:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "47c05e63a944",
+      "title": "Prozess gegen 30-Jährigen, der mit Polizisten statt Unmündigen chattete",
+      "url": "https://www.derstandard.at/story/3000000316449/prozess-gegen-40-jaehrigen-der-mit-polizisten-statt-unmuendigen-chattete?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener Angestellter forderte vermeintlich Zwölfjährige auf, sich bei sexuellen Handlungen abzulichten. In Wahrheit schrieb er mit deutschen Ermittlern",
+      "source": "Der Standard Recht",
+      "date": "2026-04-14T12:20:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "c958aa251340",
+      "title": "Was gilt, wenn der Arbeitgeber die Ausbildung vorfinanziert?",
+      "url": "https://www.derstandard.at/story/3000000316298/was-gilt-wenn-der-arbeitgeber-die-ausbildung-vorfinanziert?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Unter welchen Bedingungen können Arbeitgeber die Kosten zurückfordern, wenn die Ausbildung schon vor dem Dienstverhältnis bezahlt wurde? Mit dieser Frage befasste sich jüngst das Höchstgericht",
+      "source": "Der Standard Recht",
+      "date": "2026-04-14T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "dbaf62a4deb5",
+      "title": "Europarat-Vertrag soll unabhängige Anwaltschaft sichern – Österreich wartet ab",
+      "url": "https://www.derstandard.at/story/3000000316300/europarat-vertrag-soll-unabhaengige-anwaltschaft-sichern-oesterreich-wartet-ab?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Vielerorts geraten Rechtsanwältinnen und Rechtsanwälte unter politischen Druck. Eine internationale Konvention soll eine unabhängige Berufsausübung garantieren",
+      "source": "Der Standard Recht",
+      "date": "2026-04-14T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ecc7bc158248",
+      "title": "Prozess gegen psychotischen Gehörlosen, der mit Messer auf die Wega traf",
+      "url": "https://www.derstandard.at/story/3000000316168/prozess-gegen-psychotischen-gehoerlosen-der-mit-messer-auf-die-wega-traf?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein 29-jähriger psychisch Kranker soll versucht haben, drei Polizisten zu ermorden und soll daher untergebracht werden. Die Verteidiger erkennen keinen Mordversuch",
+      "source": "Der Standard Recht",
+      "date": "2026-04-13T13:59:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c5f46df85cb",
+      "title": "St. Pölten: VfGH kippt Totalverbot für sichtbare Photovoltaik",
+      "url": "https://www.derstandard.at/story/3000000315976/st-poelten-vfgh-kippt-totalverbot-fuer-sichtbare-photovoltaik?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Der VfGH hebt absolutes Verbot sichtbarer Photovoltaikanlagen auf und stärkt damit Klimaschutz und Eigentumsfreiheit gegenüber pauschalem Ortsbildschutz",
+      "source": "Der Standard Recht",
+      "date": "2026-04-13T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "926a08bc69d2",
+      "title": "Hund vor dem Geschäft: Wer haftet, wenn etwas passiert?",
+      "url": "https://www.derstandard.at/story/3000000315799/hund-vor-dem-geschaeft-wer-haftet-wenn-etwas-passiert?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Warum der \"Hundeparkplatz\" kein Schutz ist, wann Geschäfte nicht haften und wieso Tierhalter:innen trotzdem in der Verantwortung bleiben",
+      "source": "Der Standard Recht",
+      "date": "2026-04-13T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6f23bc09c1ac",
+      "title": "Brustimplantat geplatzt, Schuld ungeklärt: Hersteller haftet laut Höchstgericht dennoch",
+      "url": "https://www.derstandard.at/story/3000000316103/brustimplantat-geplatzt-schuld-ungeklaert-hersteller-haftet-laut-hoechstgericht-dennoch?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Vor Gericht konnte nicht geklärt werden, wer für den Fehler verantwortlich war. Laut dem Obersten Gerichtshof (OGH) haftet in so einer Situation der Produzent",
+      "source": "Der Standard Recht",
+      "date": "2026-04-11T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1f12acd746fc",
+      "title": "Prozess gegen 38-jährigen unbelehrbaren Verkehrsrowdy",
+      "url": "https://www.derstandard.at/story/3000000316123/prozess-gegen-38-jaehrigen-unbelehrbaren-verkehrsrowdy?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein dreifach einschlägig Vorbestrafter soll eine Mopedfahrerin mit seinem Auto erst fahrlässig verletzt und danach genötigt haben. Er sieht sich nur teilschuldig",
+      "source": "Der Standard Recht",
+      "date": "2026-04-10T11:38:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "00ec936cd47c",
+      "title": "Noch einmal für alle: Das Versenden von Dick-Pics ist strafbar!",
+      "url": "https://www.derstandard.at/story/3000000315865/noch-einmal-fuer-alle-das-versenden-von-dick-pics-ist-strafbar?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Was das Gesetz gegen Cyberflashing bedeutet, warum Verfahren eingestellt werden können und welche rechtlichen Schritte Betroffenen dennoch offenstehen",
+      "source": "Der Standard Recht",
+      "date": "2026-04-10T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "cb4dc57022b6",
+      "title": "Raubprozess gegen 25-Jährigen, der Opfer zwang, \"Liquid Ecstasy\" zu trinken",
+      "url": "https://www.derstandard.at/story/3000000315977/r?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein Vorbestrafter soll einen 52-Jährigen in dessen Wohnung misshandelt, verletzt und betäubt haben, ehe er mit der Beute verschwand",
+      "source": "Der Standard Recht",
+      "date": "2026-04-09T12:49:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "2f8df9cc50f6",
+      "title": "Prozess gegen 18-Jährige um pikante Aufnahmen der Nebenbuhlerin",
+      "url": "https://www.derstandard.at/story/3000000315814/prozess-gegen-18-jaehrige-um-pikante-aufnahmen-der-nebenbuhlerin?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Eine unbescholtene Schülerin soll mit dem legal erworbenen Passwort auf ein Konto ihres Ex-Freundes zugegriffen und dort Bilder seiner neuen Freundin kopiert haben",
+      "source": "Der Standard Recht",
+      "date": "2026-04-09T05:00:00+00:00",
+      "featured": false
+    }
+  ],
+  "recht_intl": [
+    {
+      "id": "4c5ad220ec44",
+      "title": "When Courts Turn Into Justices",
+      "url": "https://verfassungsblog.de/brazil-stf-crisis/",
+      "category": "Brazil",
+      "excerpt": "The Brazilian Supreme Federal Court is currently facing the most severe crisis of judicial governance in its democratic history: the consolidation of individualized judicial power at the expense of collegiality. The recent Banco Master scandal exposes how conflicts of interest, opaque decision-making, and the concentration of authority in individual justices can erode the institutional foundations of a constitutional court. India experienced a very similar crisis back in 2018. The Indian episode",
+      "source": "Verfassungsblog",
+      "date": "2026-04-16T08:29:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "cc74c052afd3",
+      "title": "Queer, aber unpolitisch",
+      "url": "https://verfassungsblog.de/queer-aber-unpolitisch/",
+      "category": "Deutschland",
+      "excerpt": "Die Landesdirektion Sachsen hat einer Veranstaltung rund um den CSD die Versammlungseigenschaft abgesprochen. Das kann schwere Folgen für die Veranstaltung haben. Dabei macht es sich die Landesdirektion in ihrer Begründung rechtlich zu einfach und entscheidet zu pauschal. Zugleich sendet sie damit ein fatales Signal: Anstatt die queere Community in Dresden und Sachsen zu stärken, erschwert sie es der Zivilgesellschaft, für Vielfalt und Toleranz aktiv einzustehen. The post Queer, aber unpolitisch",
+      "source": "Verfassungsblog",
+      "date": "2026-04-16T08:21:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "669275c5b586",
+      "title": "Neutralised (Right to) Strike",
+      "url": "https://verfassungsblog.de/neutralised-right-to-strike/",
+      "category": "English Articles",
+      "excerpt": "On 13 March 2026, the European Committee of Social Rights published the decision concerning the right to strike in essential public services (EPS) in Italy. On the one hand, the decision found that the notion of EPS is too broad and underspecified. On the other hand, it found no violation of the European Social Charter relating to the (absence of) effective judicial review. The decision overlooks the constitutional and institutional peculiarities of the Italian system and shows a limited underst",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T09:21:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "6881c3692f12",
+      "title": "Why Primacy Operates Differently in the Area of Freedom, Security and Justice",
+      "url": "https://verfassungsblog.de/greece-eppo-afsj/",
+      "category": "English Articles",
+      "excerpt": "The EPPO’s anti-corruption mandate meets a constitutional constraint in Greece, where only Parliament may initiate proceedings against ministers. The familiar logic of EU primacy offers no easy way through, as Union law itself leaves gaps and accommodates national procedural orders. What emerges instead is a structural limit: in criminal law, integration proceeds within – not against – constitutional tradition. The post Why Primacy Operates Differently in the Area of Freedom, Security and Justic",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T08:55:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "d391ac0ca172",
+      "title": "Das Aufenthaltsrecht besteht nicht nur aus Asyl",
+      "url": "https://verfassungsblog.de/aufenthaltsrecht-syrer/",
+      "category": "Deutschland",
+      "excerpt": "Friedrich Merz hatte Ende März erklärt, dass „rund 80 Prozent der in Deutschland jetzt sich aufhaltenden Syrerinnen und Syrer zurück in ihr Heimatland kehren“ sollen. Dazu müssten auch Personen mit anderen Aufenthaltstiteln – ggf. sogar Eingebürgerte mit doppelter Staatsbürgerschaft – das Land verlassen. Welche Aufenthaltsmöglichkeiten gibt es für Schutzsuchende, wenn der Grund für den humanitären Schutz entfällt? Für einen großen Anteil der Betroffenen gibt es bereits eine Alternative zum Asylr",
+      "source": "Verfassungsblog",
+      "date": "2026-04-15T08:00:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "dce0d5d8eafa",
+      "title": "The Case for Constitutional Disobedience",
+      "url": "https://verfassungsblog.de/hungarian_constitutional-disobedience/",
+      "category": "English Articles",
+      "excerpt": "With Péter Magyar’s landslide victory in the Hungarian parliamentary elections in April 2026, hopes of a return to democracy have rarely been as high as now. The electoral victory has the potential to turn into a constitutional moment for Hungary, yet it is overshadowed by a profound constitutional dilemma: Is it justified to disobey the constitution to rebuild democracy and the rule of law? I argue that constitutional disobedience may not only be justified but legally required in favour of subs",
+      "source": "Verfassungsblog",
+      "date": "2026-04-14T08:51:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "36510971ba34",
+      "title": "Two-Thirds Majority Is Essential but Not Enough",
+      "url": "https://verfassungsblog.de/essential-but-not-enough/",
+      "category": "English Articles",
+      "excerpt": "We can start now rebuilding our democracy and constitutionalism. TISZA Party, led by Péter Magyar, secured a constitutional majority on 12 April 2026. This broad democratic authorization allows for the creation of a new constitution, but it will take time, a lot of effort, and careful consideration. A constitutional majority provides an exceptional form of democratic authorization. Yet, especially in reconstruction contexts, it risks reproducing the very patterns of concentrated and exclusionary",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T15:46:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "7439f962b9d3",
+      "title": "Marketplace of Malpractice",
+      "url": "https://verfassungsblog.de/supreme-court-conversion-chiles-salazar/",
+      "category": "English Articles",
+      "excerpt": "Every day we depend upon the counsel of our doctors, lawyers, engineers, accountants, architects, and pharmacists. Yet, in a startling decision, the Supreme Court recently struck down Colorado’s ban on “conversion therapy” for minors in an opinion that threatens to undermine the professional advice on which we all constantly rely. The Court's reasoning is simply nonsense in the context of the professional speech that all of us rely on all the time. The post Marketplace of Malpractice appeared fi",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T14:18:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "171a977f4c35",
+      "title": "State Bodies",
+      "url": "https://verfassungsblog.de/transgender-india/",
+      "category": "English Articles",
+      "excerpt": "India's New Trans Rights Act reorganises the terms on which transgender lives become intelligible to law. Its animating logic, that trans identity is an “acquirable characteristic” the state must verify rather than an irreducible human experience it must recognise, directly confronts the constitutional architecture erected by the Indian Supreme Court in previous case law. The Act re-medicalises identity, re-bureaucratises recognition, and risks criminalising both community kinship structures and",
+      "source": "Verfassungsblog",
+      "date": "2026-04-13T09:59:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "9aba040b1fbc",
+      "title": "Beyond Intermediaries",
+      "url": "https://verfassungsblog.de/genai-dsa/",
+      "category": "English Articles",
+      "excerpt": "Recent investigations into the dissemination of illegal content generated by Grok have exposed a structural gap in the EU’s legislative framework: while the Digital Services Act equips the European Commission with far-reaching powers over large online platforms, it does not clearly capture generative AI systems per se. As a result, the Commission may be able to act against platforms integrating such systems (such as X), but not necessarily against the systems themselves (such as Grok). This asym",
+      "source": "Verfassungsblog",
+      "date": "2026-04-12T19:22:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "2fcc03f1e3fb",
+      "title": "Neither What Italy Needed, Nor What it Deserved",
+      "url": "https://verfassungsblog.de/nor-what-it-deserved/",
+      "category": "English Articles",
+      "excerpt": "On 22 and 23 March 2026, the Italian electorate rejected a constitutional reform of the judiciary. This vote, while unlikely to deal a decisive blow to Meloni’s government, has already had notable political repercussions – most prominently, the resignations of two key figures within the Ministry of Justice. However, when situating the reform in the broader Italian political context, it goes too far to conclude that it would have pushed Italy in a direction similar to Hungary’s. The post Neither ",
+      "source": "Verfassungsblog",
+      "date": "2026-04-11T08:13:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "b213e825f7bf",
+      "title": "After Collapse",
+      "url": "https://verfassungsblog.de/after-collapse/",
+      "category": "English Articles",
+      "excerpt": "Ten years after the Hungarian government began its campaign against Central European University, Hungary now stands on the brink of a political turning point: elections that could finally shake the system built by Fidesz. With opposition leader Péter Magyar leading in the polls, an old prediction is suddenly coming true. Yet it raises a more unsettling question: even if the system collapses, can Hungary simply rebuild what once proved so vulnerable to illiberal capture? The post After Collapse a",
+      "source": "Verfassungsblog",
+      "date": "2026-04-10T20:25:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb9722e68d1b",
+      "title": "Nach dem Kollaps",
+      "url": "https://verfassungsblog.de/nach-dem-kollaps/",
+      "category": "Hungary",
+      "excerpt": "Zehn Jahre nachdem die ungarische Regierung ihre Kampagne gegen die Central European University begonnen hat, steht Ungarn nun an der Schwelle zu einem politischen Wendepunkt: Wahlen, die das von Fidesz errichtete System erstmals ins Wanken bringen könnten. Mit Oppositionsführer Péter Magyar an der Spitze der Umfragen bewahrheitet sich plötzlich eine alte Prognose. Zugleich drängt sich eine beunruhigendere Frage auf: Selbst wenn das System zusammenbricht – kann Ungarn einfach das wiederaufbauen,",
+      "source": "Verfassungsblog",
+      "date": "2026-04-10T20:22:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "fe5f5d950905",
+      "title": "A Win That Isn’t",
+      "url": "https://verfassungsblog.de/a-win-that-isnt/",
+      "category": "English Articles",
+      "excerpt": "Last week, the U.S. government asked the Supreme Court to bless its attempt to put the country’s citizenship attribution rule into the service of its anti-immigrant agenda. At issue was the constitutionality and legality of the President’s Executive Order 14160. It seeks to deny citizenship to children born to non-citizen mothers who are undocumented or lawfully but temporarily present and non-citizen fathers who do not possess a green card. After Wednesday’s oral argument, there is broad consen",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T17:23:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "c97d2abf9193",
+      "title": "Beating (Authoritarian) Populism with (Democratic) Populism",
+      "url": "https://verfassungsblog.de/beating-populism-with-populism/",
+      "category": "English Articles",
+      "excerpt": "Viktor Orbán, Hungary’s prime minister since 2010, is set to lose the parliamentary elections on 12 April 2026. According to recent polls, Fidesz’ main rival, centre-right Tisza, seems to be within reach of attaining a two-thirds constitutional majority. While this may provide conditions for re-establishing democratic institutions, it also implies that Tisza would not be constrained by any meaningful democratic controls. Avoiding the double trap of meeting populist expectations and stabilizing i",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T10:56:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "096435f73af5",
+      "title": "Three Lessons from the UN Declaration on Enslavement",
+      "url": "https://verfassungsblog.de/un-resolution-enslavement/",
+      "category": "English Articles",
+      "excerpt": "On 25 March 2026, the United Nations General Assembly adopted, led by African and Caribbean states, the Declaration on the Trafficking of Enslaved Africans and Racialised Chattel Enslavement of Africans as the Gravest Crime Against Humanity. The Declaration can be read as operating within the language of foundational instruments of international law while simultaneously pushing their limits through a set of decisive doctrinal moves. Seen in this light, the Declaration offers at least three lesso",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T09:45:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "5b8ecf3b19ee",
+      "title": "Holding Fast",
+      "url": "https://verfassungsblog.de/holding-fast/",
+      "category": "English Articles",
+      "excerpt": "Perhaps the most memorable line in Hemingway’s The Sun Also Rises appears in an otherwise minor exchange. Bill Gorton asks the dissolute, perpetually broke Mike Campbell how he went bankrupt. “Two ways,” Campbell replies. “Gradually, and then suddenly.” Campbell’s road to ruin will strike a familiar chord for those of us who study the rule of law in Turkey. After gradual and continuous deterioration, March 2026 will stand apart. It marks one full year since Ekrem İmamoğlu was placed in detention",
+      "source": "Verfassungsblog",
+      "date": "2026-04-09T08:16:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "44d104e00723",
+      "title": "Contra la violencia machista",
+      "url": "https://verfassungsblog.de/spanien-gewaltschutz-frauen-deepfakes/",
+      "category": "Deutschland",
+      "excerpt": "Während Deutschland beim Schutz von Frauen an bürokratischer Zersplitterung und uferlosen Diskussionen um Straftatbestände scheitert, hat Spanien den Kampf gegen Gewalt gegen Frauen mit beispielloser Entschlossenheit zur Staatsräson erhoben. Von spezialisierten Gerichten bis zur synchronisierten GPS-Überwachung von Tätern und Opfern zeigt das \"spanische Modell\", wie ein konsequenter Opferschutz die Femizid-Rate im Vergleich zu Deutschland halbieren kann. Was muss sich hierzulande ändern, damit S",
+      "source": "Verfassungsblog",
+      "date": "2026-04-08T19:46:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "29d63fe7459f",
+      "title": "Criminalization without Harm",
+      "url": "https://verfassungsblog.de/georgia-criminalization/",
+      "category": "English Articles",
+      "excerpt": "On March 4, 2026, the Georgian Parliament passed yet another wave of anti-democratic changes to the Law on Grants and the Criminal Code. The law now criminalizes political expression if individuals or civil society organizations receive foreign support without prior government authorization. Beyond clear violations of freedom of expression and association, the Georgian case reveals a structural gap in criminal law theory and practice – the lack of substantive limits on criminalization. At the sa",
+      "source": "Verfassungsblog",
+      "date": "2026-04-08T13:27:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "90e5eedc468b",
+      "title": "Weaponizing Necessity",
+      "url": "https://verfassungsblog.de/cuba-blockade/",
+      "category": "English Articles",
+      "excerpt": "On March 30, 2026, reports indicated that the US would allow a Russian oil tanker carrying 730,000 barrels of crude oil to dock in Cuba, delivering much-needed fuel to an island that had faced an effective US oil blockade since January 29, 2026. The arrival underscored the severity of Cuba’s energy crisis, produced by a deliberate escalation of US economic coercion, using both sanctions and tariffs. As tools of economic warfare, tariffs operate as forms of state crime that produce systemic harm ",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T16:57:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "3d236678e543",
+      "title": "The IOC’s Great Leap Backwards on Genetic Sex Testing",
+      "url": "https://verfassungsblog.de/ioc-genetic-sex-testing/",
+      "category": "English Articles",
+      "excerpt": "On 26 March, the International Olympic Committee released its Policy on the Protection of the Female (Women’s) Category in Olympic Sport. Now, to be eligible for the Olympic competitions, all women and girls will have to undergo a genetic test that screens for the SRY gene. This sharp policy change has been in the cards since Kirsty Coventry took the helm of the IOC last year. This post provides a first critical analysis of this U-turn on genetic sex testing, revealing its scientific, procedural",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T11:49:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "48f2a4a82c53",
+      "title": "Verabschiedungskultur jenseits des Rechts",
+      "url": "https://verfassungsblog.de/afd-migration-parteitag/",
+      "category": "Deutschland",
+      "excerpt": "Das „Regierungsprogramm“ der AfD in Sachsen-Anhalt kreist rund um das Thema Migration. Viele der migrationspolitischen Forderungen sind nur auf Europa- und Bundesebene umsetzbar. Aber auch diejenigen, die auf Landesebene angesiedelt sind, scheitern bei ihrer Umsetzung an vielen Stellen an Grenzen, die ihnen das Recht setzt – ihre Umsetzung ist überwiegend unzulässig. Es ist trotzdem vorstellbar, dass die AfD ihre rechtswidrigen Forderungen teilweise umsetzt. Nicht zuletzt die aktuelle Landesregi",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T09:13:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "579872d0c586",
+      "title": "The Frequencies of Freedom",
+      "url": "https://verfassungsblog.de/the-frequencies-of-freedom/",
+      "category": "English Articles",
+      "excerpt": "On 26 February, the CJEU found that not renewing the license of the government-critical radio channel Klubrádió violates EU law (case C 92/23). The judgment constitutionally foregrounded media freedom as a central benchmark for the enforcement of telecom rules. Moreover, it rejected Hungary’s argument of formal legal compliance and focused on the holistic silencing potential of the respective decision. Finally, the Court recognised the imperative for a domestic regulatory framework that effectiv",
+      "source": "Verfassungsblog",
+      "date": "2026-04-07T07:50:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "f335c5bf0fa1",
+      "title": "Amalia González Caballero de Castillo Ledón",
+      "url": "https://verfassungsblog.de/outstanding-women-04-26/",
+      "category": "English Articles",
+      "excerpt": "“Will we women have the strength necessary to do away with the traditional Mexican concept of a democracy without women?” What sounds like an oxymoron today was the very real question women all around the world had to face in the 20th century. Fortunately, the answer to this question posed by Amalia González Caballero de Castillo Ledón would eventually be affirmative – after 24 years of struggle to obtain women’s suffrage. The post Amalia González Caballero de Castillo Ledón appeared first on Ve",
+      "source": "Verfassungsblog",
+      "date": "2026-04-02T15:35:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "af47ecca33e4",
+      "title": "Das Ende der Versicherung der Ehe",
+      "url": "https://verfassungsblog.de/krankenversicherung-ehe/",
+      "category": "Deutschland",
+      "excerpt": "Die FinanzKommission Gesundheit empfiehlt, „die beitragsfreie Krankenversicherung für Ehegatten und ihnen gleichgestellte Lebenspartner ohne Kinder unter sechs Jahren abzuschaffen.“ Dabei ist nicht die Abschaffung der beitragsfreien Mitversicherung von Partner*innen an sich erklärungsbedürftig, sondern ihre Bindung an die Ehe. Statt die beitragsfreie Familienversicherung weiterhin an die Ehe zu koppeln, sollte sie sich konsequent an der Übernahme von Sorgeverantwortung orientieren, um alle Famil",
+      "source": "Verfassungsblog",
+      "date": "2026-04-02T13:15:39+00:00",
+      "featured": false
+    }
+  ],
+  "national": [
+    {
+      "id": "b28379f1a0a0",
+      "title": "Bis zu drei Jahre Haft: Ministerin Bauer fordert hohe Gefängnisstrafen für Integrationsverweigerer",
+      "url": "https://www.derstandard.at/story/3000000316888/bis-zu-drei-jahre-haft-ministerin-bauer-fordert-hohe-gefaengnisstrafen-fuer-integrationsverweigerer?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Die Verhandlungen über das neue Integrationsprogramm sind laut Claudia Bauer (ÖVP) ins Stocken geraten. Ein Grund ist ein Gesetzesentwurf aus ihrem eigenen Haus",
+      "source": "Der Standard",
+      "date": "2026-04-16T11:49:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f2ee365ce2d",
+      "title": "Wien sperrt ab Mai die ersten zwei strafunmündigen Intensivtäter weg",
+      "url": "https://www.derstandard.at/story/3000000316898/wien-sperrt-ab-mai-die-ersten-zwei-strafunmuendigen-intensivtaeter-weg?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Sechs bis zwölf Wochen sollen die Kinder und Jugendlichen in Simmering angehalten werden. Dort werden sie sozialpädagogisch betreut. Die Maßnahme soll aber auch abschrecken",
+      "source": "Der Standard",
+      "date": "2026-04-16T11:44:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "5ec0048b7c87",
+      "title": "Überstunden, Bürokratie, Lehrermangel: Schuldirektionen oft überlastet",
+      "url": "https://www.derstandard.at/story/3000000316939/220berstunden-b252rokratie-lehrermangel-direktionen-oft-252berlastet?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das zeigt eine Befragung unter 2200 Schuldirektorinnen und -direktoren. Die Forderung nach mehr Unterstützungspersonal, digitalen Lösungen und rechtlichen Anpassungen bleibt",
+      "source": "Der Standard",
+      "date": "2026-04-16T10:57:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "74d0b3d32cee",
+      "title": "Nach Anzeige von Sebastian Kurz: Staatsanwaltschaft ermittelt gegen Thomas Schmid",
+      "url": "https://www.derstandard.at/story/3000000316934/postenschacher-prozess-falschaussage-ermittlungen-gegen-schmid?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Ex-Kanzler Sebastian Kurz hatte Anzeige erstattet. Jetzt ermittelt die Staatsanwaltschaft Linz wegen des Verdachts der falschen Zeugenaussage im Wöginger-Prozess",
+      "source": "Der Standard",
+      "date": "2026-04-16T10:23:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "a979d4662fc6",
+      "title": "Gericht: Identitätsfeststellung am Peršmanhof war rechtswidrig",
+      "url": "https://www.derstandard.at/story/3000000316842/gericht-identitaetsfeststellung-am-persmanhof-war-rechtswidrig?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Die Entscheidung über die erste von bisher drei Maßnahmenbeschwerden ist da. Das Landesverwaltungsgericht Kärnten gibt einer Campteilnehmerin recht",
+      "source": "Der Standard",
+      "date": "2026-04-16T08:32:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "79a9a3e6d7f8",
+      "title": "16.880 Anmeldungen in Österreich für 1950 Medizin-Studienplätze",
+      "url": "https://www.derstandard.at/story/3000000316877/16880-anmeldungen-in-oesterreich-fuer-1950-medizin-studienplaetze?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Auf einen Studienplatz für Human- oder Zahnmedizin kommen im Schnitt mehr als acht Bewerber. Auf Wien alleine entfallen 8235 Anmeldungen",
+      "source": "Der Standard",
+      "date": "2026-04-16T07:20:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3d21eb809fc",
+      "title": "Teuer, aber wenig für Arme: Soll die Regierung beim Familienbonus sparen?",
+      "url": "https://www.derstandard.at/story/3000000316676/teuer-aber-wenig-fuer-arme-soll-die-regierung-beim-familienbonus-sparen?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Was Befürworter als gerechte Entlastung sehen, halten Kritiker für ein überzogenes Goodie mit sozialer Schwachseite: Der Familienbonus bietet Sparpotenzial – wenn die ÖVP an ihrem Prestigeprojekt rütteln lässt",
+      "source": "Der Standard",
+      "date": "2026-04-16T07:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "070fad985d58",
+      "title": "Fünf-Tages-Revolte in der SPÖ: Warum zog Königsberger-Ludwig zurück?",
+      "url": "https://www.derstandard.at/story/3000000316854/fuenf-tages-revolte-in-der-spoe-warum-zog-koenigsberger-ludwig-zurueck?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Ulrike Königsberger-Ludwig wollte sich als verbindliche Alternative zu Niederösterreichs SPÖ-Chef Sven Hergovich präsentieren. Doch offenbar hat sie die Stimmung falsch eingeschätzt",
+      "source": "Der Standard",
+      "date": "2026-04-16T06:38:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "b301b2237843",
+      "title": "IT-Experte aus Bundeskriminalamt über \"Anlöten\" von Pilnaceks Smartwatch",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000316691/u-ausschuss-befragt-ex-signa-manager-dessen-haus-pilnacek-kaufen-wollte?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Christoph Stadlhuber und Verwandte wollten 2023 ihr Haus in Rossatzbach verkaufen. Interesse zeigten Pilnacek und Karin Wurm, doch um die Finanzierungspläne gibt es Fragen",
+      "source": "Der Standard",
+      "date": "2026-04-16T05:07:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "8aafb5f8bbef",
+      "title": "Königsberger-Ludwig zog Kandidatur für SPNÖ-Vorsitz zurück",
+      "url": "https://www.derstandard.at/story/3000000316835/k246nigsberger-ludwig-zog-kandidatur-f252r-spn214-vorsitz-zur252ck?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Es findet keine Kampfabstimmung am Landesparteitag statt. Hergovich wird sich zur Wiederwahl stellen und bei der Landtagswahl 2028 als Spitzenkandidat antreten",
+      "source": "Der Standard",
+      "date": "2026-04-15T16:29:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "ef07244aae9d",
+      "title": "Hochegger und Pilnacek, eine Zufallsbekanntschaft mit Folgen",
+      "url": "https://www.derstandard.at/story/3000000316794/hochegger-und-pilnacek-eine-zufallsbekanntschaft-mit-folgen?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Am Mittwoch wurde im U-Ausschuss Ex-Lobbyist Peter Hochegger zu seinen Wahrnehmungen in der Causa Pilnacek befragt. Er will gehört haben, dass Pilnacek auf 1,3 Millionen aus Dubai wartete",
+      "source": "Der Standard",
+      "date": "2026-04-15T14:59:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "3c380b2372f0",
+      "title": "Vorarlberger Landtag erlaubt \"präventiven Wolfsabschuss\"",
+      "url": "https://www.derstandard.at/story/3000000316825/vorarlberger-landtag-erlaubt-pr228ventiven-wolfsabschuss?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Durch eine Änderung des Jagdgesetzes wird der Abschuss erleichtert. Die Tiere dürfen bei unmittelbarer Gefahr für Menschen oder Nutztiere getötet werden",
+      "source": "Der Standard",
+      "date": "2026-04-15T14:26:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "324dc73751b4",
+      "title": "Die Stadt Salzburg macht fünf Plätze zur Begegnungszone",
+      "url": "https://www.derstandard.at/story/3000000316741/die-stadt-salzburg-macht-fuenf-plaetze-zur-begegnungszone?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Bäume statt Durchzugsverkehr vor dem Salzburger Festspielhaus. Der Shared Space wird vom Neutor bis zur Salzach niveaugleich mit Granit gepflastert",
+      "source": "Der Standard",
+      "date": "2026-04-15T12:10:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "b89265b7933d",
+      "title": "Grüne fordern nach rechtswidriger Auflösung von JöH-Kundgebung Konsequenzen",
+      "url": "https://www.derstandard.at/story/3000000316790/gruene-fordern-nach-rechtswidriger-aufloesung-von-joeh-kundgebung-konsequenzen?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Laut Verwaltungsgericht wurden \"auf bloßen Zuruf\" der FPÖ Identitätsfeststellungen durchgeführt, Plakate eingezogen und die Kundgebung in der Wiener Innenstadt aufgelöst",
+      "source": "Der Standard",
+      "date": "2026-04-15T12:05:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "a206d3d44b12",
+      "title": "Mehr Zeit: Wie Lernapps Lehrpersonal im Unterricht entlasten sollen",
+      "url": "https://www.derstandard.at/story/3000000316377/mehr-zeit-wie-lernapps-lehrpersonal-im-unterricht-entlasten-sollen?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Mit 8,4 Millionen Euro fördert das Bildungsministerium Schulen bei der Anschaffung von Lernapps. Abgeholt wurde bisher nur die Hälfte des Semesterbudgets",
+      "source": "Der Standard",
+      "date": "2026-04-15T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9319ae57e2a6",
+      "title": "\"Projekt völlig überholt\": Wiener Grüne starten Kampagne gegen Lobautunnel",
+      "url": "https://www.derstandard.at/story/3000000316781/lobau-tunnel-wiener-gr252ne-starten-kampagne-gegen-gro223projekt?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Mit Plakaten soll Stimmung gegen das Großprojekt gemacht werden. Am Samstag findet zudem in Essling eine Demonstration von Umweltinitiativen statt",
+      "source": "Der Standard",
+      "date": "2026-04-15T11:23:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "5a1c309ae01b",
+      "title": "Verletzter bei Beilattacke in Linzer Innenstadt – mutmaßlicher Täter gefasst",
+      "url": "https://www.derstandard.at/story/3000000316773/-verletzter-bei-axtattacke-in-linzer-innenstadt-t228ter-gefasst?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Ein 30-Jähriger ging am Mittwoch auf einen 40-jährigen Passanten los und verletzte ihn schwer. Der Hintergrund der Tat ist noch unklar",
+      "source": "Der Standard",
+      "date": "2026-04-15T11:09:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "cb728f70e231",
+      "title": "Länger arbeiten, mehr verdienen: Regierung besiegelt \"Aktivpension\"",
+      "url": "https://www.derstandard.at/story/3000000316694/laenger-arbeiten-mehr-verdienen-regierung-besiegelt-aktivpension?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Mehr netto soll Ältere motivieren, länger im Job zu bleiben oder in der Pension dazuzuverdienen",
+      "source": "Der Standard",
+      "date": "2026-04-15T11:08:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "23d39a3ab2fc",
+      "title": "Spionage-Gesetzesentwurf: Großer Schritt – der auch Ressourcen braucht",
+      "url": "https://www.derstandard.at/story/3000000316688/spionage-gesetzesentwurf-grosser-schritt-der-auch-ressourcen-braucht?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das neue Gesetz soll künftig auch Spionage gegen andere Staaten unter Strafe stellen. Experten sehen darin einen wichtigen Fortschritt – jedoch nur, wenn auch das notwendige Personal zur Verfügung gestellt wird",
+      "source": "Der Standard",
+      "date": "2026-04-15T06:38:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "e1cd377a85ed",
+      "title": "Polizist will Pilnaceks Smartwatch nur gesichert, aber nicht ausgewertet haben",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000316528/u-ausschuss-befragt-peter-hochegger-zu-pilnacek-und-geld-aus-dubai?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Am Vormittag war der Ex-Lobbiyst Peter Hochegger geladen. Er sagte zu \"Geld aus Dubai\" für einen geplanten Hauskauf und Vorgängen rund um Pilnaceks Laptop aus",
+      "source": "Der Standard",
+      "date": "2026-04-15T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "04fc4a0ee6ea",
+      "title": "Alltag der Gen Z laut Ö3-Jugendstudie: Fleisch, Sport, Online-Shopping und Waxing",
+      "url": "https://www.derstandard.at/story/3000000316689/alltag-der-gen-z-laut-oe3-jugendstudie-fleisch-sport-online-shopping-und-waxing?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "13.500 junge Erwachsene im Alter von 16 bis 25 Jahre wurden befragt. 87 Prozent sind mit dem eigenen Leben zufrieden, fast gleich viele sehen die Zukunft der Welt pessimistisch",
+      "source": "Der Standard",
+      "date": "2026-04-15T05:56:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "e49a267dfbab",
+      "title": "Spektakulärer Waffenfund nach dem Tod eines blauen Polizeigewerkschafters",
+      "url": "https://www.derstandard.at/story/3000000316535/blauer-pensionierter-polizist-starb-in-niederoesterreich-beim-baumfaellen--spaeter-grossaufgebot-und-waffenfunde-in-seinem-haus-der-einsatz-wirft-fragen-auf-?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Der Mann wurde von einem Baum erschlagen. In seinem Haus lösten Hinterbliebene einen Großeinsatz aus, weil sie teils nicht registrierte Waffen und Sprengstoff fanden",
+      "source": "Der Standard",
+      "date": "2026-04-15T05:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7350f6b5df57",
+      "title": "Außenpolitischer Ausschuss verurteilt Todesstrafe in Israel",
+      "url": "https://www.derstandard.at/story/3000000316673/au223enpolitischer-ausschuss-verurteilt-todesstrafe-in-israel?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Der beschlossene Antrag von Regierungsparteien und Grünen fordert die Regierung auf, im bilateralen Dialog und gemeinsam mit EU-Partnern deutlich Stellung zu beziehen",
+      "source": "Der Standard",
+      "date": "2026-04-14T16:31:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ad87f566f6e",
+      "title": "Nationalrat für Prüfung von Schließung von Imam-Ali-Zentrum",
+      "url": "https://www.derstandard.at/story/3000000316671/nationalrat-f252r-pr252fung-von-schlie223ung-von-imam-ali-zentrum?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Die Parlamentsparteien stellen die mögliche Schließung des Zentrums in Wien-Floridsdorf in den Raum. Dieses steht im Verdacht, Verbindungen zum iranischen Regime zu pflegen",
+      "source": "Der Standard",
+      "date": "2026-04-14T16:11:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "65227a620741",
+      "title": "Wird es bis 2040 weniger Spitäler in Österreich geben?",
+      "url": "https://www.derstandard.at/story/3000000316524/wird-es-bis-2040-weniger-spitaeler-in-oesterreich-geben?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das Burgenland hat seit März eine eigene Herzchirurgie, der Bund legte gegen das Vorgehen nun Beschwerde ein. Gespräche in der \"Reformpartnerschaft\" deuten Richtung Spitalreduktion",
+      "source": "Der Standard",
+      "date": "2026-04-14T15:15:16+00:00",
+      "featured": false
+    }
+  ],
+  "international": [
+    {
+      "id": "5bc5faeb7ed5",
+      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+      "source": "BBC World",
+      "date": "2026-04-16T12:42:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "03857054f7a8",
+      "title": "Das kleine Dschibuti im Zentrum geopolitischer Machtkämpfe",
+      "url": "https://www.derstandard.at/story/3000000316861/das-kleine-dschibuti-im-zentrum-geopolitischer-machtkaempfe?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das ostafrikanische Land beherbergt zahlreiche ausländische Militärbasen und liegt an einer wichtigen Handelsroute, der erneut Gefahr droht",
+      "source": "Der Standard",
+      "date": "2026-04-16T12:37:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "67ba1cbd27e4",
+      "title": "South African opposition figure Malema sentenced to five years in prison",
+      "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
+      "source": "BBC World",
+      "date": "2026-04-16T12:36:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "00a217feb629",
+      "title": "Till Backhaus, der deutsche \"Wal-Minister\", steht unter Druck",
+      "url": "https://www.derstandard.at/story/3000000316932/till-backhaus-der-deutsche-wal-minister-steht-unter-druck?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Zuerst wollte der 67-jährige Umweltminister von Mecklenburg-Vorpommern Timmy nicht retten, nun erfolgte die Kehrtwende",
+      "source": "Der Standard",
+      "date": "2026-04-16T11:46:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "3960662d0a58",
+      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+      "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
+      "source": "BBC World",
+      "date": "2026-04-16T11:10:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "f9aab13fac36",
+      "title": "Festnahmen nach versuchtem Brandanschlag auf Londoner Synagoge",
+      "url": "https://www.derstandard.at/story/3000000316940/festnahmen-nach-versuchtem-brandanschlag-auf-londoner-synagoge?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Ein Mann und eine Frau sollen in der Nacht auf Mittwoch Molotowcocktails geworfen haben. Die Tat wird als antisemitisches Hassverbrechen eingestuft",
+      "source": "Der Standard",
+      "date": "2026-04-16T11:04:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "15ff79e937d8",
+      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+      "source": "BBC World",
+      "date": "2026-04-16T11:01:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "b9b05c78da3b",
+      "title": "Brazil's former spy chief released from ICE detention",
+      "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
+      "source": "BBC World",
+      "date": "2026-04-16T11:00:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "4bef76381d29",
+      "title": "US-Demokraten wollen Amtsenthebung von Verteidigungsminister Hegseth",
+      "url": "https://www.derstandard.at/story/3000000316931/us-demokraten-wollen-amtsenthebung-von-verteidigungsminister-hegseth?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Die Demokraten führen sechs Vorwürfe an. Ihr Vorhaben hat jedoch geringe Erfolgsaussichten, da die Republikaner über eine Mehrheit im Repräsentantenhaus und im Senat verfügen",
+      "source": "Der Standard",
+      "date": "2026-04-16T10:21:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "e3f166d1d9e4",
+      "title": "Scherbenhaufen: Vance soll im Iran-Konflikt retten, was Trump verspielt hat",
+      "url": "https://www.derstandard.at/story/3000000316874/scherbenhaufen-vance-soll-im-irankonflikt-retten-was-trump-verspielt-hat?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Die Verhandlungen zur Durchsetzung eines Friedens mit dem Iran sind eine fast unmögliche Mission für Donald Trumps Vizepräsidenten, der nun um seine Zukunft als Maga-Erbe bangen muss",
+      "source": "Der Standard",
+      "date": "2026-04-16T10:01:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "1462e1aac0c0",
+      "title": "Einstiger Weggefährte und Pastor Iványi: \"Orbán gehört nach rechtsstaatlichem Verfahren ins Gefängnis\"",
+      "url": "https://www.derstandard.at/story/3000000316805/pastor-ivanyi-orban-gehoert-nach-rechtsstaatlichem-verfahren-ins-gefaengnis?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Gábor Iványi war während des Kommunismus ein Freund Viktor Orbáns. Heute wirft der evangelische Pastor seinem ehemaligen Vertrauten Morallosigkeit, Lügen und Korruption vor",
+      "source": "Der Standard",
+      "date": "2026-04-16T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5860c40e03eb",
+      "title": "Südkorea jagt mit Einsatzkräften und Drohnen einen praktisch ausgestorbenen Wolf",
+      "url": "https://www.derstandard.at/story/3000000316860/suedkorea-jagt-mit-einsatzkraeften-und-drohnen-einen-praktisch-ausgestorbenen-wolf?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das Tier war vor mehr als einer Woche aus einem Aufzuchtprogramm in Zentralkorea ausgebrochen und entwischt seitdem immer wieder den Suchtrupps",
+      "source": "Der Standard",
+      "date": "2026-04-16T09:04:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "b7f65a7eb648",
+      "title": "Modi sagt \"Grüß Gott\": Österreichs Abkommen mit Indien für Wirtschaft und Verteidigung",
+      "url": "https://www.derstandard.at/story/3000000316905/modi-sagt-gruess-gott-oesterreichs-abkommen-mit-indien-fuer-wirtschaft-und-verteidigung?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Christian Stockers erste Asienreise führt den Bundeskanzler nach Delhi. Dort betonen er und Narendra Modi eine engere Zusammenarbeit – auch in militärischen Fragen",
+      "source": "Der Standard",
+      "date": "2026-04-16T09:00:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "d7a5d967086a",
+      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
+      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "source": "BBC World",
+      "date": "2026-04-16T08:28:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "85815a1d6679",
+      "title": "Meghan says she was 'most trolled person in the world'",
+      "url": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
+      "source": "BBC World",
+      "date": "2026-04-16T08:24:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "6c873291741b",
+      "title": "India to decide women's quota bill as row over parliamentary seats intensifies",
+      "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
+      "source": "BBC World",
+      "date": "2026-04-16T08:20:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "882e3514c3b9",
+      "title": "China's economy grows faster than expected despite Iran war",
+      "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
+      "source": "BBC World",
+      "date": "2026-04-16T07:08:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "a5f78532bc07",
+      "title": "Cool Hand Luke actress Joy Harmon dies aged 87",
+      "url": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Harmon was best known for a car-washing scene in the Paul Newman prison drama.",
+      "source": "BBC World",
+      "date": "2026-04-16T05:52:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "14a8f61865bd",
+      "title": "Shakespeare's 'missing' home mapped with discovery",
+      "url": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613.",
+      "source": "BBC World",
+      "date": "2026-04-16T05:02:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a9af4593d7d",
+      "title": "US-Militär tötete erneut angebliche Drogenschmuggler auf See",
+      "url": "https://www.derstandard.at/story/3000000316856/us-milit228r-t246tete-erneut-drogenschmuggler-auf-see?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Mehrfach hat das US-Militär bereits mutmaßliche Schmugglerboote angegriffen und deren Besatzung getötet. Diesmal starben laut US-Angaben drei Personen",
+      "source": "Der Standard",
+      "date": "2026-04-16T04:16:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad177535ab08",
+      "title": "Mehrere Tote nach russischen und ukrainischen Drohnenangriffen gemeldet",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000316674/mehrere-tote-nach-russischen-und-ukrainischen-drohnenangriffen-gemeldet?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "In der Ukraine soll ein Zwölfjähriger nach russischen Angriffen getötet worden sein. Russland meldet zwei tote Minderjährige in Folge von ukrainischen Angriffen",
+      "source": "Der Standard",
+      "date": "2026-04-16T04:02:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "dfed4135a3bb",
+      "title": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+      "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
+      "source": "BBC World",
+      "date": "2026-04-16T03:45:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "debd8da9f282",
+      "title": "Kriegsverbrecher Ratko Mladić erlitt Schlaganfall",
+      "url": "https://www.derstandard.at/story/3000000316855/kriegsverbrecher-ramladic-erlitt-schlaganfall?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das gab der Sohn des verurteilten früheren Armeechefs bekannt. Demnach handelt es sich um einen leichten Schlaganfall",
+      "source": "Der Standard",
+      "date": "2026-04-16T03:43:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "df3754fb23a5",
+      "title": "Former US Marine pilot loses appeal against extradition from Australia",
+      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
+      "source": "BBC World",
+      "date": "2026-04-16T02:17:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fe881c0c74e",
+      "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
+      "source": "BBC World",
+      "date": "2026-04-16T01:55:12+00:00",
+      "featured": false
+    }
+  ],
+  "_meta": {
+    "last_updated": "2026-04-16T12:47:49.493472+00:00"
+  }
+}
