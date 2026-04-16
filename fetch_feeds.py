@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Newsletter v8 — Fixed norm extraction, Falter, title-dedup."""
+"""Newsletter v9 — Fixed: Normen (not Norm), Schlagworte as summary."""
 import json,hashlib,re,traceback,xml.etree.ElementTree as ET
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
@@ -52,8 +52,8 @@ def merge(existing,new_arts):
 def title_dedup(articles):
     seen={};out=[]
     for a in articles:
-        key=re.sub(r"[^a-zaeoeue0-9 ]","",a["title"].lower())[:40].strip()
-        key=re.sub(r"\b(der|die|das|und|in|von|fuer|mit|auf|zu|im|am|ist|ein|eine|nach|vor|ueber|wird|hat|bei|als|den|dem|des|sich|nicht|auch|noch|wie|aus)\b","",key).strip()
+        key=re.sub(r"[^a-z0-9 ]","",a["title"].lower())[:40].strip()
+        key=re.sub(r"\b(der|die|das|und|in|von|mit|auf|zu|im|am|ist|ein|eine|nach|vor|wird|hat|bei|als|den|dem|des|sich|nicht|auch|noch|wie|aus)\b","",key).strip()
         key=re.sub(r"\s+"," ",key)[:30]
         if key and key in seen:
             if len(a.get("excerpt",""))>len(seen[key].get("excerpt","")):
@@ -94,7 +94,7 @@ def fetch_rss(feeds,name):
         except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}")
     return arts
 
-# ═══════ RIS JUSTIZ (OGH) — FIXED variable order ═══════
+# ═══════ RIS JUSTIZ (OGH) — v9: Normen (not Norm), Schlagworte ═══════
 def ris_justiz(gericht,label):
     print(f"  [{label}] RIS REST API v2.6...")
     params={"Applikation":"Justiz","Gericht":gericht,"ImRisSeit":"ZweiWochen","DokumenteProSeite":"OneHundred","Seitennummer":"1","Dokumenttyp.SucheInRechtssaetzen":"true","Dokumenttyp.SucheInEntscheidungstexten":"true"}
@@ -112,28 +112,43 @@ def ris_justiz(gericht,label):
             if not gz:continue
             # 2. Dates & URLs
             datum=str(jud.get("Entscheidungsdatum","") or "").strip()
-            doc_url=str(allg.get("DokumentUrl","") or "").strip()
-            gesamt_url=str(jud.get("GesamteEntscheidungUrl","") or "").strip()
-            # 3. Normen FIRST
-            normen=get_item(jud.get("Norm",{}))
-            norm_str="; ".join(normen[:4]) if normen else ""
-            # 4. Rechtsgebiet AFTER normen
+            # Entscheidungstext-URL from Justiz.Entscheidungstexte
+            et=jmeta.get("Entscheidungstexte",{})
+            et_item=et.get("item",{}) if isinstance(et,dict) else {}
+            if isinstance(et_item,list):et_item=et_item[0] if et_item else {}
+            doc_url=str(et_item.get("DokumentUrl","") or allg.get("DokumentUrl","") or "").strip()
+            entsch_art=str(et_item.get("Entscheidungsart","") or "").strip()
+            # 3. NORMEN — field is "Normen" not "Norm"!
+            normen=get_item(jud.get("Normen",{}))
+            norm_str="; ".join(normen[:5]) if normen else ""
+            # 4. Rechtsgebiet
             rechtsgebiet=(get_item(jmeta.get("Rechtsgebiete",{})) or [""])[0]
-            fachgebiet=(get_item(jmeta.get("Fachgebiete",{})) or [""])[0]
-            # 5. Kurzinformation
-            kurz=strip(jud.get("Kurzinformation",""))
-            # 6. Build excerpt
+            # 5. Schlagworte — this is the summary/keywords
+            schlagworte=strip(jud.get("Schlagworte",""))
+            # 6. Anmerkung — additional context
+            anmerkung=strip(jmeta.get("Anmerkung",""))
+            # 7. Rechtssatznummern
+            rsn=get_item(jmeta.get("Rechtssatznummern",{}))
+            rsn_str=", ".join(rsn[:3]) if rsn else ""
+            # Build excerpt from Schlagworte + Anmerkung
             parts=[]
-            if norm_str:parts.append(norm_str)
-            if kurz:parts.append(kurz)
-            excerpt=" \u2014 ".join(parts) if parts else ""
-            final_url=gesamt_url or doc_url or f"https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Gericht={gericht}&Geschaeftszahl={gz}"
-            arts.append(dict(id=mid(final_url),title=f"{label} {gz}",url=final_url,category=rechtsgebiet or fachgebiet or label,excerpt=excerpt[:800],source="RIS",featured=False,date=pdate(datum),rechtsgebiet=rechtsgebiet,fachgebiet=fachgebiet,norm=norm_str))
+            if schlagworte:parts.append(schlagworte)
+            if entsch_art:parts.append(entsch_art)
+            if anmerkung:parts.append(anmerkung)
+            excerpt=". ".join(parts) if parts else ""
+            final_url=doc_url or f"https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Gericht={gericht}&Geschaeftszahl={gz}"
+            arts.append(dict(
+                id=mid(final_url),title=f"{label} {gz}",url=final_url,
+                category=rechtsgebiet or label,
+                excerpt=excerpt[:800],source="RIS",featured=False,
+                date=pdate(datum),rechtsgebiet=rechtsgebiet,
+                norm=norm_str,rsn=rsn_str
+            ))
         print(f"    \u2713 {len(arts)} decisions")
     except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}");traceback.print_exc()
     return arts
 
-# ═══════ RIS VfGH ═══════
+# ═══════ RIS VfGH — v9: also fix Normen field ═══════
 def ris_vfgh():
     print(f"  [VfGH] RIS REST API v2.6...")
     params={"Applikation":"Vfgh","ImRisSeit":"DreiMonaten","DokumenteProSeite":"OneHundred","Seitennummer":"1"}
@@ -150,12 +165,15 @@ def ris_vfgh():
             if not gz:continue
             datum=str(jud.get("Entscheidungsdatum","") or "").strip()
             doc_url=str(allg.get("DokumentUrl","") or "").strip()
+            # Normen with "en"
+            normen=get_item(jud.get("Normen",{}))
+            norm_str="; ".join(normen[:5]) if normen else ""
+            schlagworte=strip(jud.get("Schlagworte",""))
             kurz=strip(jud.get("Kurzinformation",""))
-            normen=get_item(jud.get("Norm",{}));norm_str="; ".join(normen[:4]) if normen else ""
             parts=[]
-            if norm_str:parts.append(norm_str)
+            if schlagworte:parts.append(schlagworte)
             if kurz:parts.append(kurz)
-            excerpt=" \u2014 ".join(parts) if parts else ""
+            excerpt=". ".join(parts) if parts else ""
             arts.append(dict(id=mid(doc_url or gz),title=f"VfGH {gz}",url=doc_url or "https://www.ris.bka.gv.at/Vfgh/",category="VfGH",excerpt=excerpt[:800],source="RIS",featured=False,date=pdate(datum),norm=norm_str))
         print(f"    \u2713 {len(arts)} decisions")
     except Exception as e:print(f"    \u2717 {type(e).__name__}: {e}");traceback.print_exc()
@@ -241,12 +259,14 @@ def dedup_gz(articles,pattern):
         if gz not in gz_map:gz_map[gz]=a
         else:
             ex=gz_map[gz]
-            if a["source"]=="RIS" and ex["source"] in web and a.get("norm"):
-                if len(ex.get("excerpt",""))>len(a.get("excerpt","")):a["excerpt"]=ex["excerpt"]
+            # Prefer RIS (has norm data) but keep longer excerpt from website
+            if a["source"]=="RIS" and ex["source"] in web:
+                if len(ex.get("excerpt",""))>len(a.get("excerpt","")) and not a.get("excerpt"):
+                    a["excerpt"]=ex["excerpt"]
                 gz_map[gz]=a
-            elif a["source"] in web and ex["source"]=="RIS" and ex.get("norm"):
-                if len(a.get("excerpt",""))>len(ex.get("excerpt","")):ex["excerpt"]=a["excerpt"]
-            elif a["source"] in web and ex["source"] not in web:gz_map[gz]=a
+            elif a["source"] in web and ex["source"]=="RIS":
+                if len(a.get("excerpt",""))>len(ex.get("excerpt","")) and not ex.get("excerpt"):
+                    ex["excerpt"]=a["excerpt"]
             elif len(a.get("excerpt",""))>len(ex.get("excerpt","")):gz_map[gz]=a
     return list(gz_map.values())+no_gz
 
@@ -261,7 +281,7 @@ FEEDS_INTERNATIONAL=[("https://www.derstandard.at/rss/international","Der Standa
 
 # ═══════ MAIN ═══════
 def main():
-    print(f"\U0001f4f0  Newsletter v8 \u2014 {NOW.strftime('%Y-%m-%d %H:%M UTC')}\n")
+    print(f"\U0001f4f0  Newsletter v9 \u2014 {NOW.strftime('%Y-%m-%d %H:%M UTC')}\n")
     ex={}
     if DATA.exists():
         with open(DATA,"r",encoding="utf-8") as f:ex=json.load(f)
