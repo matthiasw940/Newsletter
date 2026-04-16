@@ -1,0 +1,40 @@
+name: Update Newsletter Feeds
+
+on:
+  schedule:
+    # 04:00 UTC = ~06:00 Wiener Zeit (CEST)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4 lxml
+
+      - name: Fetch feeds and update data.json
+        run: python fetch_feeds.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Newsletter Bot"
+          git config user.email "bot@newsletter.local"
+          git add data.json
+          git diff --cached --quiet || {
+            git commit -m "🗞️ $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          }
