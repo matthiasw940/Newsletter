@@ -587,6 +587,16 @@
   ],
   "recht_news": [
     {
+      "id": "4200da7a4553",
+      "title": "WKStA: Ermittlungen und Hausdurchsuchungen bei Ex-Kanzler Gusenbauer",
+      "url": "https://www.derstandard.at/story/3000000316985/wksta-ermittlungen-und-hausdurchsuchungen-bei-ex-kanzler-gusenbauer?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die WKStA hat im Rahmen ihrer Signa-Ermittlungen Hausdurchsuchungen an verschiedenen Adressen von Alfred Gusenbauer durchgeführt. Das gab sie am Donnerstag bekannt",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T14:02:52+00:00",
+      "featured": false
+    },
+    {
       "id": "2254dbd56508",
       "title": "SW Umwelttechnik setzt nach Abtritt Orbáns auf Ungarn-Wende",
       "url": "https://www.derstandard.at/story/3000000316812/sw-umwelttechnik-setzt-nach-abtritt-orbans-auf-ungarn-wende?ref=rss",
@@ -824,16 +834,6 @@
       "excerpt": "Die volatilen Märkte spielen den Investmentbanken in die Hände. Auch das Geschäft mit Fusionen und Übernahmen läuft noch immer gut",
       "source": "Der Standard Wirtschaft",
       "date": "2026-04-14T18:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bbfd6323cb36",
-      "title": "Milchpreis unter Druck: Molkereien sehen Bauern in ihrer Existenz bedroht",
-      "url": "https://www.derstandard.at/story/3000000316590/milchpreis-unter-druck-molkereien-sehen-bauern-in-ihrer-existenz-bedroht?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Europa produziert deutlich mehr Milch, die Preise verfielen. Helmut Petschar, Präsident des Milchverbands, ortet bei Butter Wertevernichtung und fordert von Supermärkten ein Ende der Rabattaktionen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-14T17:13:43+00:00",
       "featured": false
     }
   ],
@@ -1091,6 +1091,26 @@
   ],
   "national": [
     {
+      "id": "326418cdcfb5",
+      "title": "Suchanfragen: Google soll Daten mit Konkurrenz teilen",
+      "url": "https://orf.at/stories/3427102/",
+      "category": "IT",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-16T16:02:10+02:00",
+      "featured": false
+    },
+    {
+      "id": "9e9b376728c8",
+      "title": "Datenklau für Putin?: So wurden 36.368 Polizisten an Spione verraten",
+      "url": "https://www.falter.at/zeitung/20260416/so-wurden-36368-polizisten-an-spione-verraten",
+      "category": "Politik",
+      "excerpt": "Sensible persönliche Daten von 36.368 österreichischen Polizisten, Staatsschützern und verdeckten Ermittlern landeten in der Schreibtischschublade eines FPÖ-Politikers – und bei mutmaßlichen Kreml-Agenten. Ein Betroffener will nun Schadenersatz, zehntausende seiner Kolleginnen und Kollegen könnten es ihm gleichtun. Das Protokoll eines geheimen MonsterverfahrensLesen Sie den kompletten Artikel auf FALTER.at",
+      "source": "Falter",
+      "date": "2026-04-16T16:00:00+02:00",
+      "featured": false
+    },
+    {
       "id": "d47a7bf60f73",
       "title": "Ukraine meldet höchste Totenzahl heuer",
       "url": "https://orf.at/stories/3427084/",
@@ -1128,6 +1148,76 @@
       "excerpt": "",
       "source": "ORF",
       "date": "2026-04-16T14:17:48+02:00",
+      "featured": false
+    },
+    {
+      "id": "774bd091ba11",
+      "title": "Frühlingsgemüse: Wiens beste Adressen für Spargel",
+      "url": "https://www.falter.at/lokalfuehrer/wiens-beste-adressen-fuer-spargel",
+      "category": "Lokale nach Angebot",
+      "excerpt": "Mit dem Frühling geht auch die Spargelsaison einher, die im Regelfall in der zweiten Aprilhälfte beginnt und bis in den…Lesen Sie den kompletten Artikel auf FALTER.at",
+      "source": "Falter",
+      "date": "2026-04-16T13:55:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "5a6f0574da4c",
+      "title": "Die .eu Domain wird 20 Jahre alt und Europa feiert",
+      "url": "https://kurier.at/cm/die-eu-domain-wird-20-jahre-alt-und-europa-feiert/403151101",
+      "category": "Werbung",
+      "excerpt": "Am 7. April 2006 war das europäische Internet für einen kurzen Moment im Ausnahmezustand. Innerhalb von nur 24 Stunden wurden über eine Million Domains registriert, der offizielle Startschuss für die .eu Domain löste damals einen großen Andrang aus. Gedacht war sie für Unternehmen und Projekte mit grenzüberschreitender Ausrichtung. Zwei Jahrzehnte später ist es ruhiger geworden rund um die europäische Top Level Domain.Stabil, sicher aber im Schatten anderer DomainendungenDie Registerstelle EURid zieht zum Jubiläum eine solide Bilanz. Rund 3,8 Millionen aktive .eu-Adressen stehen zu Buche, und die technische Infrastruktur weist laut EU-Kommission seit zwei Jahrzehnten keine einzige Sekunde Ausfallzeit auf. Auch beim Thema Nachhaltigkeit setzte die .eu früh Akzente, denn bereits 2012 wurde d",
+      "source": "Kurier",
+      "date": "2026-04-16T13:49:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "9b6a57b36232",
+      "title": "Wollte Tomaten kaufen: Mann geht in Supermarkt und wird Lottomillionär",
+      "url": "https://kurier.at/chronik/welt/rubbellos-millionengewinn-millionaer-supermarkt/403151091",
+      "category": "Chronik/Welt",
+      "excerpt": "Für einen US-Amerikaner entpuppte sich sein Ausflug zum Supermarkt als absoluter Glücksfall. Wie The Ohio Lottery in einer Pressemitteilung berichtet, kaufte sich der Mann einen Lottoschein und konnte mehr als drei Millionen US-Dollar (2,5 Millionen Euro) gewinnen. Mann realisierte nicht, dass er 3 Millionen gewonnen hatIn der Erklärung heißt es, dass der Lottospieler normalerweise seine Scheine morgens auf dem Weg zur Arbeit im selben Laden kaufte. Doch diesmal war er im Supermarkt, um lediglich ein paar Tomaten zu besorgen, und beschloss kurzerhand, dort ein paar Rubbellose zu kaufen. Nachdem er mit dem ersten Los 20 US-Dollar gewonnen hatte, entschloss er sich, seinen Gewinn in ein weiteres Los zu investieren. Millionär will mit Gewinn Haus abbezahlenDer Mann rubbelte anschließend ein F",
+      "source": "Kurier",
+      "date": "2026-04-16T13:46:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "7dd84ae2ef2c",
+      "title": "Mann beißt eigenen Hund und leistet Widerstand: Polizeieinsatz in Wien",
+      "url": "https://kurier.at/chronik/wien/mann-beisst-eigenen-hund-und-leistet-widerstand-polizeieinsatz-in-wien/403151133",
+      "category": "Chronik/Wien",
+      "excerpt": "Ein 31-jähriger Österreicher sorgte am Mittwochvormittag für einen ungewöhnlichen Polizeieinsatz im Wiener Theresienbadpark. Der Mann soll sich zunächst auffällig verhalten haben und später seinen eigenen Hund in den Nacken gebissen haben.Beamte der Polizeidiensthundeeinheit Wien führten zu diesem Zeitpunkt im Park einen Tierhalteschwerpunkt durch und wurden auf den Mann mit einem Listenhund aufmerksam.Flucht und WiderstandAls die Polizisten den Mann ansprechen wollten, soll dieser seinen Hund in der Hundezone zurückgelassen haben und geflüchtet sein. Trotz mehrfacher Aufforderungen habe er sich unkooperativ verhalten und die Beamten beschimpft. Der Verdächtige soll einem Polizisten einen Schlag gegen die Hand versetzt haben, als dieser versuchte, ihn zur Hundezone zurückzubegleiten. Mit s",
+      "source": "Kurier",
+      "date": "2026-04-16T13:44:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "310096e5fc59",
+      "title": "Knapp überlebt: Eisbrocken fällt vom Himmel in Wohnzimmer von Bewohner",
+      "url": "https://kurier.at/chronik/welt/eisbrocken-fallen-vom-himmel-wohnung-wohnzimmer-los-angeles/403151022",
+      "category": "Chronik/Welt",
+      "excerpt": "Es klingt wie eine Szene aus einem Science-Fiction-Film, als der Bewohner Yuder Grau plötzlich einen lauten Knall in seinem Wohnzimmer in Whittier (Los Angeles) hörte. Am 10. April gegen 11:15 Uhr fiel ein großer Eisblock durch die Decke seines Wohnzimmers und landete auf seinem Sofa. Woher der mysteriöse Block stammt, ist unklar. Eisblock aus dem Himmel?Glücklicherweise wurde bei dem Einschlag niemand verletzt. Laut der Hausbesitzerin, Thania Magaña, zeigten Flugdaten, dass zum Zeitpunkt des Vorfalls ein Flugzeug direkt über die Nachbarschaft flog. Sie erklärte gegenüber NBC Los Angeles: \"Ich spiele die Szene immer wieder im Kopf durch und frage mich, was wohl passiert wäre.\" Grau habe während des Einschlags ein Mittagsschläfchen in seinem Schlaf- statt Wohnzimmer geplant, was ihm wohl da",
+      "source": "Kurier",
+      "date": "2026-04-16T13:38:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "cdfb4f8f52a0",
+      "title": "Darling, ich bin im Kino",
+      "url": "https://kurier.at/info/die-besten-bilder-des-tages-photography-press-photo/402277865",
+      "category": "Info",
+      "excerpt": "",
+      "source": "Kurier",
+      "date": "2026-04-16T13:36:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "1cef0c5b47b5",
+      "title": "Solidarität in der Krise: Warum wir uns weniger helfen",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/klimakrise-wirtschaftskrise-solidaritaet-forschung-ceu-stadtplanung/403151124",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Klimakrise, Teuerung, geopolitische Spannungen – mehrere Krisen wirken gleichzeitig und fordern den gesellschaftlichen Zusammenhalt heraus. Doch Solidarität, so die Forscherin Sarah Ware von der Central European University (CEU), ist heute mehr als ein moralisches Ideal. „Solidarität muss bedeuten, für, mit und an der Seite jener zu handeln, die von Ausgrenzung, Diskriminierung oder den Folgen der Klimakrise besonders betroffen sind“, sagt sie.Zeit und RaumDamit rückt ein zentraler Punkt in den Fokus: Solidarität ist ungleich verteilt. Wer Zeit hat, sich zu engagieren, über Ressourcen verfügt oder politisch mitbestimmen kann, hat strukturell bessere Voraussetzungen. „Solidarität ist ein Akt der Fürsorge, der Zeit und Raum braucht“, so Ware. Doch genau diese Ressourcen geraten unter Druck –",
+      "source": "Kurier",
+      "date": "2026-04-16T13:33:11+00:00",
       "featured": false
     },
     {
@@ -1249,99 +1339,19 @@
       "source": "Der Standard Newsroom",
       "date": "2026-04-16T13:00:00+00:00",
       "featured": false
-    },
-    {
-      "id": "185ab59923aa",
-      "title": "Babler will Medien, die ihren Managern Boni zahlen, keine Gemeinwohlförderung geben [premium]",
-      "url": "https://www.diepresse.com/20772818/babler-will-medien-die-ihren-managern-boni-zahlen-keine-gemeinwohlfoerderung-geben",
-      "category": "Die Presse",
-      "excerpt": "Vizekanzler Andreas Babler (SPÖ) stellte die Studie zur Journalismusförderung, die Grundlage für die anstehende Reform ist. Der Fokus liegt auf kleinen und gemeinwohlorientierten Medien. So sollen Medien in Zukunft einen Zuschlag für Digitalabos erhalten.",
-      "source": "Die Presse",
-      "date": "2026-04-16T12:59:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "90b601bc5c91",
-      "title": "Razzia in der Causa Signa: Alfred Gusenbauer im Visier der Ermittler",
-      "url": "https://kurier.at/wirtschaft/razzia-in-der-causa-signa-alfred-gusenbauer-im-visier-der-ermittler/403151105",
-      "category": "PLUS - Wirtschaft",
-      "excerpt": "Im Zuge der Ermittlungen rund um den zusammengebrochenen Immobilien‑ und Handelskonzern Signa hat die Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) ihre Untersuchungen zuletzt deutlich ausgeweitet. Wie mehrere Insider dem KURIER am Donnerstag berichteten, sollen im Rahmen der Causa Signa auch Hausdurchsuchungen an verschiedenen Adressen in Wien und angeblich auch in der Wachau durchgeführt worden sein, die Alfred Gusenbauer betreffen, den Ex-SPÖ-Bundeskanzler und langjährigen Aufsichtsratschef der Signa Holding und Signa-Beirat. Die Ermittlungen sollen in Zusammenhang mit Provisionsza",
-      "source": "Kurier",
-      "date": "2026-04-16T12:57:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "e44bbc5f8acd",
-      "title": "Hass im Netz: Warum extreme Inhalte so erfolgreich sind",
-      "url": "https://kurier.at/wissen/wien-wills-wissen/hass-im-netz-uni-wien-forschung-soziale-medien/403151035",
-      "category": "Wissen/Wien Wills Wissen",
-      "excerpt": "Hass im Netz ist längst Alltag: Ein erheblicher Teil der Menschen in Österreich kommt online mit beleidigenden oder herab-würdigenden Inhalten in Kontakt. Besonders häufig tritt das auf Social Media und unter Jüngeren auf. Was bedeutet das für öffentliche Debatten und demokratische Teilhabe?Prof. Hajo Boomgaarden vom Institut für Kommunikationswissenschaft der Universität Wien erklärt, welche Dynamiken dahinterstehen und wo Handlungsbedarf besteht.Soziale Netzwerke galten lange als Motor demokratischer Teilhabe. Heute werden sie oft als Brandbeschleuniger für Polarisierung, Hass und Fake News ",
-      "source": "Kurier",
-      "date": "2026-04-16T12:54:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "7fcfc3df8aca",
-      "title": "Australien bangt um Versorgungssicherheit",
-      "url": "https://orf.at/stories/3427061/",
-      "category": "Chronik",
-      "excerpt": "Ein gewaltiges Feuer in einer wichtigen Ölraffinerie in Australien sorgt für Unsicherheit bei der Versorgung mit Treibstoffen. Wie die meisten Länder im Südpazifik ist auch Australien in hohem Maße auf Öllieferungen aus dem Nahen Osten angewiesen, die wegen der Sperre der Straße von Hormus derzeit aber ausbleiben. Der Großbrand verschärft die Lage nun. Zusätzliche Importe sollen den Treibstoffausfall ersetzen können.",
-      "source": "ORF",
-      "date": "2026-04-16T12:53:58+02:00",
-      "featured": false
-    },
-    {
-      "id": "f0debd0bb149",
-      "title": "IEA-Chef warnt: EU hat nur mehr Kerosin für sechs Wochen, Flugausfälle drohen",
-      "url": "https://kurier.at/politik/ausland/iran-krieg-israel-usa-angriff-nahostkrieg-livebericht-16-april/403136057",
-      "category": "Politik/Ausland",
-      "excerpt": "Israel und die USA haben am 28. Februar mit Militärschlägen gegen den Iran begonnen.Am 8. April einigten sich die Konfliktparteien auf einen zweiwöchigen Waffenstillstand. Die Friedensverhandlungen sind jedoch gescheitert. Wie es nach dem 22. April weiter geht, ist offen.Die Anzeichen auf eine zweite Gesprächsrunde zwischen den USA und dem Iran verdichten sich. Die USA sind guter Dinge, der Iran zeigt sich offen, droht aber mit Ausweitung der Seeblockade aufs Rote Meer.Der Iran soll eine teilweise Öffnung der Straße von Hormus in Erwägung ziehen, verlangt aber ein Ende des Sanktionen.Der Chef ",
-      "source": "Kurier",
-      "date": "2026-04-16T12:47:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "efc4e9d49b2f",
-      "title": "Lorenzo Viotti dirigiert Sommernachtskonzert der Wiener Philharmoniker",
-      "url": "https://kurier.at/kultur/musik-klassik-sommernachtskonzert-schoenbrunn-viotti-dirigiert/403151103",
-      "category": "Kultur",
-      "excerpt": "Ursprünglich war gar nicht klar, ob es das Sommernachtskonzert der Wiener Philharmoniker vor Schloss Schönbrunn heuer wieder geben wird.Denn die Stadt Wien strich ihre Förderung. Vor zwei Wochen nun gab es doch hellgrünes Licht: Statt 250.000 Euro kommen heuer 100.000 Euro von der Stadt, das Konzert kann stattfinden. Sohin gaben die Philharmoniker nun Details bekannt. Erstmals wird am 19. Juni Lorenzo Viotti das Konzert dirigieren, Bryn Terfel ist der Starsolist. Auf dem Programm stehen Werke von u. a. Puccini, Verdi, Wagner, Massenet und Ravel. Und man fand eine neue Geldquelle: Erstmals ist ",
-      "source": "Kurier",
-      "date": "2026-04-16T12:44:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "a50b607c8e37",
-      "title": "EuGH: Glücksspieler können auf Rückforderungen hoffen",
-      "url": "https://kurier.at/wirtschaft/verbot-online-gluecksspiele-eugh-rueckforderungen/403151092",
-      "category": "Wirtschaft",
-      "excerpt": "Der Europäische Gerichtshof (EuGH) hat der Erstattung von verlorenen Einsätzen bei unerlaubten Glücksspielen im Netz den Weg geebnet. EU-Recht stehe weder nationalen Glücksspiel-Verboten noch Rückerstattungsklagen von Verbraucherinnen und Verbrauchern entgegen, entschieden die Richterinnen und Richter in Luxemburg.Anlass des Urteils war ein Fall aus Deutschland: Ein Spieler hatte zwischen Juni 2019 und Juli 2021 bei zwei maltesischen Online-Glücksspielanbietern mehrere Einsätze bei virtuellen Automatenspielen und Wetten auf Lotterieziehungen verloren. Damals waren Glücksspiele im Netz in Deuts",
-      "source": "Kurier",
-      "date": "2026-04-16T12:44:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ef1fade1b18",
-      "title": "EU plant Maßnahmen gegen drohenden Kerosinmangel",
-      "url": "https://orf.at/stories/3427075/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T12:44:20+02:00",
-      "featured": false
-    },
-    {
-      "id": "429f3ce029c0",
-      "title": "Causa ORF – Ein Schaden für uns alle",
-      "url": "https://www.derstandard.at/story/3000000316900/causa-orf-ein-schaden-fuer-uns-alle?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Es geht nicht nur um viel Geld der ORF-Beitragszahler, sondern auch um massiven Vertrauensverlust",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T12:40:35+00:00",
-      "featured": false
     }
   ],
   "international": [
+    {
+      "id": "c209591a411e",
+      "title": "Teure Energie: Iran-Krieg befeuert Inflation in der Eurozone",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-energiepreise-iran-krieg-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Im März ist die Teuerungsrate im Euroraum stärker gestiegen als zunächst geschätzt. Laut Eurostat sind die Preise im Schnitt um 2,6 Prozent gegenüber dem Vorjahresmonat nach oben gegangen.",
+      "source": "Tagesschau",
+      "date": "2026-04-16T15:56:47+02:00",
+      "featured": false
+    },
     {
       "id": "b9d261fbda6b",
       "title": "Lufthansa stellt Betrieb der Tochtergesellschaft Cityline ein",
@@ -1413,6 +1423,46 @@
       "featured": false
     },
     {
+      "id": "67ba1cbd27e4",
+      "title": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
+      "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Malema is appealing against the decision, which means he is not going to prison immediately.",
+      "source": "BBC World",
+      "date": "2026-04-16T14:06:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "6360f6c93222",
+      "title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+      "url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "excerpt": "Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.",
+      "source": "New York Times",
+      "date": "2026-04-16T14:00:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "5bc5faeb7ed5",
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+      "source": "BBC World",
+      "date": "2026-04-16T13:59:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "bd2875bccb16",
+      "title": "Why China Won’t Lean Hard on Iran",
+      "url": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+      "category": "International Relations",
+      "excerpt": "Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.",
+      "source": "New York Times",
+      "date": "2026-04-16T13:58:14+00:00",
+      "featured": false
+    },
+    {
       "id": "dc335a7672c3",
       "title": "Ex-keeper Manninger dies after car hit by train",
       "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
@@ -1420,6 +1470,16 @@
       "excerpt": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
       "source": "BBC World",
       "date": "2026-04-16T13:53:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "836dc4804989",
+      "title": "Pope says ‘world is being ravaged by a handful of tyrants’ amid feud with Trump’s White House",
+      "url": "https://www.theguardian.com/world/2026/apr/16/pope-leo-xiv-tyrants-trump-spat",
+      "category": "Pope Leo XIV",
+      "excerpt": "Pontiff denounces world leaders that invoke religion to justify US-Israel war on Iran, after US bishops offer him supportSign up for the Breaking News US email to get newsletter alerts in your inboxPope Leo XIV has said that the world is being “ravaged by a handful of tyrants” who spend billions on war, in comments that will be seen as another sharp escalation in his almost week-long feud with the White House over the US-Israel war on Iran.The first American-born pontiff did not mention Donald Trump by name, but used his speech in Cameroon on Thursday to denounce world leaders that invoke religion to justify violence against other nations. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-16T13:53:24+00:00",
       "featured": false
     },
     {
@@ -1531,69 +1591,9 @@
       "source": "NZZ",
       "date": "2026-04-16T13:20:20+00:00",
       "featured": false
-    },
-    {
-      "id": "c4f55ba3fa44",
-      "title": "News of BBC jobs cuts ‘real concern‘, says UK’s culture secretary",
-      "url": "https://www.theguardian.com/media/2026/apr/16/bbc-jobs-cuts-real-concern-says-lisa-nandy-culture-secretary",
-      "category": "BBC",
-      "excerpt": "Lisa Nandy says BBC staff have been strongly affected and have expressed frustration that high-paid presenters and executives are unlikely to be affectedThe BBC’s sudden announcement of 2,000 job cuts has had a “very strong effect” on staff, the UK’s culture secretary, Lisa Nandy, has said, as employees expressed frustration that highly paid presenters and senior staff would not be the prime targets of the cuts.Nandy, who has been having conversations with BBC staff during discussions about the broadcaster’s charter renewal, is understood to be keen that staff are involved in making the cost-c",
-      "source": "The Guardian",
-      "date": "2026-04-16T13:14:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "b96365adb19f",
-      "title": "Starmer tells social media firms: ‘Things can’t go on like this’",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/16/keir-starmer-social-media-firms-no-10-meeting",
-      "category": "Social media ban",
-      "excerpt": "PM demands real world changes in Downing Street meeting with senior figures from Meta, TikTok, Google and XKeir Starmer has told social media bosses “things can’t go on like this” in a meeting about internet safety at Downing Street.The prime minister summoned senior figures from Meta, TikTok, Google, Snapchat’s owner and X to No 10 on Thursday morning as the government considers imposing new restrictions on platforms, including an Australia-style ban for under-16s. Meta owns Facebook and Instagram, and Google owns YouTube. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T13:07:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "7828de2629d3",
-      "title": "Die Unihockey-Weltmeisterin wärmt vor dem Match nicht nur die Muskeln, sondern auch das Gehirn auf – so wird auf dem Spielfeld jede Situation einfacher",
-      "url": "https://www.nzz.ch/sport/freizeitsport/die-unihockey-weltmeisterin-waermt-vor-dem-match-nicht-nur-die-muskeln-sondern-auch-das-gehirn-auf-so-wird-auf-dem-spielfeld-jede-situation-einfacher-ld.1929511",
-      "category": "NZZ",
-      "excerpt": "Das Gehirn trainieren, damit der Körper effizienter arbeitet – neurozentriertes Training wird im Leistungssport immer wichtiger.",
-      "source": "NZZ",
-      "date": "2026-04-16T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c53da31bde12",
-      "title": "Glücksspiel-Verluste: EuGH ebnet Weg für Rückforderungen",
-      "url": "https://www.tagesschau.de/wirtschaft/gluecksspiel-verluste-eugh-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Das höchste europäische Gericht stärkt die Position von Glücksspielern: Rückforderungen bei unerlaubten Online-Angeboten sind möglich. Die Entscheidung hat auch Folgen für Verfahren in Deutschland.",
-      "source": "Tagesschau",
-      "date": "2026-04-16T13:05:51+02:00",
-      "featured": false
-    },
-    {
-      "id": "412950a91593",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
-      "category": "New York Times",
-      "excerpt": "",
-      "source": "New York Times",
-      "date": "2026-04-16T13:03:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "844977768fc3",
-      "title": "Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.",
-      "url": "https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html",
-      "category": "Russian Invasion of Ukraine (2022)",
-      "excerpt": "An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.",
-      "source": "New York Times",
-      "date": "2026-04-16T13:03:43+00:00",
-      "featured": false
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T13:53:41.112806+00:00"
+    "last_updated": "2026-04-16T14:10:10.620651+00:00"
   }
 }
