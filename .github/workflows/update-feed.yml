@@ -25,41 +25,15 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4 lxml
 
-      - name: Debug Rechtssatz detail
+      - name: Fetch feeds and update data.json
+        run: python fetch_feeds.py
+
+      - name: Commit and push
         run: |
-          echo "=== Fetching Rechtssatz RS0142803 ==="
-          curl -s "https://data.bka.gv.at/ris/api/v2.6/Judikatur?Applikation=Justiz&Gericht=OGH&Rechtssatznummer=RS0142803&DokumenteProSeite=Twenty&Seitennummer=1" | python3 -c "
-          import json,sys
-          d=json.load(sys.stdin)
-          results=d.get('OgdSearchResult',{}).get('OgdDocumentResults',{})
-          if isinstance(results,dict): results=results.get('OgdDocumentReference',[])
-          if isinstance(results,dict): results=[results]
-          if not isinstance(results,list): results=[]
-          print(f'Found {len(results)} results')
-          for doc in results[:1]:
-              m=doc.get('Data',{}).get('Metadaten',{})
-              jud=m.get('Judikatur',{})
-              print('ALL keys:', list(jud.keys()))
-              print('Kurzinfo:', str(jud.get('Kurzinformation',''))[:500])
-              print('Rechtssatz:', str(jud.get('Rechtssatz',''))[:500])
-              print('Normen:', json.dumps(jud.get('Normen',{}),ensure_ascii=False)[:300])
-              print('Schlagworte:', json.dumps(jud.get('Schlagworte',{}),ensure_ascii=False)[:300])
-          " 2>&1 || echo "Rechtssatz query failed"
-          echo ""
-          echo "=== Fetching Rechtssatz RS0142800 ==="
-          curl -s "https://data.bka.gv.at/ris/api/v2.6/Judikatur?Applikation=Justiz&Gericht=OGH&Rechtssatznummer=RS0142800&DokumenteProSeite=Twenty&Seitennummer=1" | python3 -c "
-          import json,sys
-          d=json.load(sys.stdin)
-          results=d.get('OgdSearchResult',{}).get('OgdDocumentResults',{})
-          if isinstance(results,dict): results=results.get('OgdDocumentReference',[])
-          if isinstance(results,dict): results=[results]
-          if not isinstance(results,list): results=[]
-          print(f'Found {len(results)} results')
-          for doc in results[:1]:
-              m=doc.get('Data',{}).get('Metadaten',{})
-              jud=m.get('Judikatur',{})
-              print('ALL keys:', list(jud.keys()))
-              print('Kurzinfo:', str(jud.get('Kurzinformation',''))[:500])
-              print('Rechtssatz:', str(jud.get('Rechtssatz',''))[:500])
-              print('Normen:', json.dumps(jud.get('Normen',{}),ensure_ascii=False)[:300])
-          " 2>&1 || echo "Rechtssatz query failed"
+          git config user.name "Newsletter Bot"
+          git config user.email "bot@newsletter.local"
+          git add data.json
+          git diff --cached --quiet || {
+            git commit -m "🗞️ $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          }
