@@ -621,6 +621,46 @@
   ],
   "national": [
     {
+      "id": "93eab51ebfb2",
+      "title": "Ex-ÖFB-Keeper Manninger tödlich verunglückt",
+      "url": "https://www.derstandard.at/story/3000000316971/ex-oefb-keeper-manninger-toedlich-verunglueckt?ref=rss",
+      "category": "Der Standard Newsroom",
+      "excerpt": "Der Salzburger war einer der profiliertesten Keeper seiner Generation. Im Alter von 48 Jahren verstarb er bei einem Verkehrsunfall",
+      "source": "Der Standard Newsroom",
+      "date": "2026-04-16T13:00:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "d32daa77ec1a",
+      "title": "Michael Mittermeier: \"Ich habe den Begriff Arschgeweih erfunden\"",
+      "url": "https://www.derstandard.at/story/3000000316656/michael-mittermeier-ich-habe-den-begriff-arschgeweih-erfunden?ref=rss",
+      "category": "Der Standard Newsroom",
+      "excerpt": "Der bayrische Komiker Michael Mittermeier eröffnet in Wien einen neuen Comedy-Club. Dort treffen ab Mitte April Nachwuchsstimmen auf altgediente Bühnenprofis",
+      "source": "Der Standard Newsroom",
+      "date": "2026-04-16T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "039ce7de25bb",
+      "title": "Robert Bárány: Der unerwünschte Nobelpreisträger",
+      "url": "https://www.derstandard.at/story/3000000316555/robert-barany-der-unerwuenschte-nobelpreistraeger?ref=rss",
+      "category": "Der Standard Newsroom",
+      "excerpt": "In Wien angefeindet und an einer wissenschaftlichen Karriere gehindert, folgte der erste österreichische Nobelpreisträger eher unfreiwillig dem Ruf nach Uppsala",
+      "source": "Der Standard Newsroom",
+      "date": "2026-04-16T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "cc4dd82cd496",
+      "title": "Tech Bros wollen aus ADHS und Autismus Profit schlagen: Bitte nicht!",
+      "url": "https://www.derstandard.at/story/3000000316797/tech-bros-wollen-aus-adhs-und-autismus-profit-schlagen-bitte-nicht?ref=rss",
+      "category": "Der Standard Newsroom",
+      "excerpt": "Konzerne hypen ADHS und Autismus als lukrativen Vorteil im KI-Zeitalter. Ein zynischer Trend, der die enorme Belastung der Betroffenen ausblendet",
+      "source": "Der Standard Newsroom",
+      "date": "2026-04-16T13:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "429f3ce029c0",
       "title": "Causa ORF – Ein Schaden für uns alle",
       "url": "https://www.derstandard.at/story/3000000316900/causa-orf-ein-schaden-fuer-uns-alle?ref=rss",
@@ -828,46 +868,6 @@
       "excerpt": "Ex-Kanzler Sebastian Kurz hatte Anzeige erstattet. Jetzt ermittelt die Staatsanwaltschaft Linz wegen des Verdachts der falschen Zeugenaussage im Wöginger-Prozess",
       "source": "Der Standard",
       "date": "2026-04-16T10:23:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bef76381d29",
-      "title": "US-Demokraten wollen Amtsenthebung von Verteidigungsminister Hegseth",
-      "url": "https://www.derstandard.at/story/3000000316931/us-demokraten-wollen-amtsenthebung-von-verteidigungsminister-hegseth?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Die Demokraten führen sechs Vorwürfe an. Ihr Vorhaben hat jedoch geringe Erfolgsaussichten, da die Republikaner über eine Mehrheit im Repräsentantenhaus und im Senat verfügen",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T10:21:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "7f941ecb093e",
-      "title": "Braunbär verletzte Jogger in der Slowakei",
-      "url": "https://www.derstandard.at/story/3000000316933/braunb228r-verletzte-jogger-in-der-slowakei?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Der Mann konnte trotz Blessuren am Brustkorb zu einem nahe gelegenen Zugbahnhof flüchten und selbst Hilfe alarmieren",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T10:18:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "458b7e16d11e",
-      "title": "Sigrid Maurer fordert Rücktritt von ORF-Stiftungsräten Lederer, Schütze, Westenthaler und Prantner",
-      "url": "https://www.derstandard.at/story/3000000316930/sigrid-maurer-fordert-ruecktritt-von-orf-stiftungsraeten-lederer-schuetze-westenthaler-und-prantner?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Grüne Mediensprecherin: \"Es braucht jetzt eine grundlegende Reform der Leitung und Aufsicht im ORF, die Parteien müssen dort raus, Expertise und eine gesunde Unternehmenskultur müssen rein\"",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T10:13:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "e5459cf011e4",
-      "title": "Die herausfordernde und teure Suche nach Lithium und Kupfer",
-      "url": "https://www.derstandard.at/story/3000000315067/die-herausfordernde-und-teure-suche-nach-lithium-und-kupfer?ref=rss",
-      "category": "Der Standard Newsroom",
-      "excerpt": "Die Metalle sind Schlüsselressourcen der Energiewende und stark nachgefragt. Neue Lagerstätten aufzuspüren, erfordert neben Beharrlichkeit und Wissen auch eine Portion Glück",
-      "source": "Der Standard Newsroom",
-      "date": "2026-04-16T10:01:56+00:00",
       "featured": false
     }
   ],
@@ -1124,6 +1124,6 @@
     }
   ],
   "_meta": {
-    "last_updated": "2026-04-16T12:58:57.422515+00:00"
+    "last_updated": "2026-04-16T13:01:57.189808+00:00"
   }
 }
