@@ -1,69 +1,69 @@
 {
   "weather": {
-    "temp_current": 17.2,
-    "humidity": 56,
-    "wind": 9.3,
-    "temp_max": 18.5,
-    "temp_min": 12.8,
+    "temp_current": 18.3,
+    "humidity": 44,
+    "wind": 8.7,
+    "temp_max": 21.5,
+    "temp_min": 13.2,
     "precip": 0.0,
-    "description": "Bewölkt",
-    "emoji": "☁️",
-    "code": 3,
+    "description": "Überwiegend klar",
+    "emoji": "🌤️",
+    "code": 1,
     "hourly": [
       {
         "hour": "06:00",
-        "temp": 12.8,
+        "temp": 13.3,
         "code": 3,
         "emoji": "☁️",
         "precip": 0
       },
       {
         "hour": "08:00",
-        "temp": 13.1,
-        "code": 3,
-        "emoji": "☁️",
+        "temp": 14.0,
+        "code": 1,
+        "emoji": "🌤️",
         "precip": 0
       },
       {
         "hour": "10:00",
-        "temp": 15.6,
-        "code": 3,
-        "emoji": "☁️",
+        "temp": 17.1,
+        "code": 1,
+        "emoji": "🌤️",
         "precip": 0
       },
       {
         "hour": "12:00",
-        "temp": 17.4,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 3
+        "temp": 19.3,
+        "code": 2,
+        "emoji": "⛅",
+        "precip": 0
       },
       {
         "hour": "14:00",
-        "temp": 16.3,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 18
+        "temp": 21.1,
+        "code": 2,
+        "emoji": "⛅",
+        "precip": 0
       },
       {
         "hour": "16:00",
-        "temp": 17.6,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 3
+        "temp": 21.3,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 0
       },
       {
         "hour": "18:00",
-        "temp": 18.0,
+        "temp": 21.3,
         "code": 2,
         "emoji": "⛅",
         "precip": 0
       },
       {
         "hour": "20:00",
-        "temp": 17.0,
-        "code": 3,
-        "emoji": "☁️",
+        "temp": 19.1,
+        "code": 1,
+        "emoji": "🌤️",
         "precip": 0
       }
     ]
@@ -201,7 +201,7 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Strafrecht",
       "norm": "",
-      "summary": ""
+      "summary": "• **Rechtsgebiet und betroffene Normen:** Die Gerichtsentscheidung des Obersten Gerichtshofs betrifft das Strafrecht und das Medienrecht, mit zentralen Bezügen zu § 111 Abs 1 und 2 StGB (üble Nachrede) sowie zu §§ 6, 7a, 7b und § 37 Abs 1 MedienG.\n\n• **Sachverhalt:** Ein Polizeibeamter N* wurde durch ein Facebook-Posting des Angeklagten S* vom 21. Februar 2021 mit seinem Lichtbild und einem Begleittext beschuldigt, bei einer Demonstration eskalierend gehandelt zu haben und einen 82-jährigen unschuldigen Mann zu Boden gerissen und verhört zu haben.\n\n• **Zentrale Rechtsfrage:** Die zentrale Frage war, ob die Beschlüsse des Landesgerichts Wiener Neustadt und des Oberlandesgerichts Wien gegen die Bestimmungen des Mediengesetzes, insbesondere gegen § 37 Abs 1 MedienG, verstoßen.\n\n• **Entscheidung des Gerichts:** Der Oberste Gerichtshof stellte fest, dass beide angefochtenen Beschlüsse § 37 Abs 1 MedienG verletzen, hob den Beschluss des Oberlandesgerichts Wien auf und wies die Beschwerde des Privatanklägers N* gegen den Beschluss des Landesgerichts ab.\n\n• **Praktische Bedeutung:** Die Entscheidung verdeutlicht die Bedeutung medienrechtlicher Schutzbestimmungen bei Veröffentlichungen in sozialen Medien und setzt Standards für die gerichtliche Behandlung von Fällen der üblen Nachrede im digitalen Raum."
     },
     {
       "id": "c14e4a491af9",
@@ -214,7 +214,7 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Strafrecht",
       "norm": "",
-      "summary": ""
+      "summary": "# 5 Stichpunkte zur OGH-Entscheidung 15Os20/26v\n\n• Das Rechtsgebiet dieser Entscheidung ist das Strafrecht und betrifft die Anwendung von § 107b Abs. 1, Abs. 3a Z 1 und Abs. 4 zweiter Fall des österreichischen Strafgesetzbuches, die das Verbrechen der fortgesetzten Gewaltausübung regeln.\n\n• Der Sachverhalt betrifft zwei Angeklagte (I* S* und * T*), die über mehr als ein Jahr hinweg ihre unmündigen Kinder durch wiederholte körperliche Misshandlungen, Körperverletzungen, gefährliche Drohungen mit Tötungsabsichten und psychische Misshandlungen terrorisiert haben.\n\n• Die zentrale Rechtsfrage war, ob die Nichtigkeitsbeschwerden und Berufungen der Angeklagten gegen das Urteil des Landesgerichts Innsbruck vom 12. November 2025 berechtigt sind und zu einer Aufhebung oder Änderung des Urteils führen sollten.\n\n• Der Oberste Gerichtshof hat die Nichtigkeitsbeschwerden zurückgewiesen und die Berufungen zur Entscheidung an das Oberlandesgericht Innsbruck weitergeleitet, wodurch das erstinstanzliche Schuldurteil in Bezug auf die formalen Einsprüche bestätigt wurde.\n\n• Die praktische Bedeutung dieser Entscheidung liegt darin, dass sie das Schutzniveau für Kinder vor familiärer Gewalt unterstreicht und zeigt, dass Gerichte fortgesetzte Misshandlungen und psychische Misshandlungen im familiären Kontext ernst nehmen und verfolgen."
     },
     {
       "id": "7754d256e416",
@@ -279,7 +279,7 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Zivilrecht",
       "norm": "AEUV Lissabon Art267; Verordnung (EG) 715/2007 Art3 Z10; Verordnung (EG) 715/2007 Art5",
-      "summary": ""
+      "summary": "# 5 Stichpunkte zur OGH-Entscheidung 3Ob31/26v\n\n• Das Rechtsgebiet dieser Entscheidung ist das Zivilrecht mit Fokus auf Unionsrecht, wobei die relevanten Normen Artikel 267 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV), Artikel 3 Nummer 10 und Artikel 5 der Verordnung (EG) 715/2007 sowie die Durchführungsverordnung (EG) 692/2008 betroffen sind.\n\n• Der Sachverhalt betrifft einen Rechtsstreit zwischen dem Kläger Mag. K* und der Beklagten Š* a.s. um 7.000 EUR, wobei es um die Qualifikation von Abschalteinrichtungen bei einem Dieselfahrzeug mit Abgasrückführungs- und Abgasnachbehandlungssystemen geht.\n\n• Die zentrale Rechtsfrage ist, ob die Wirksamkeit des gesamten Emissionskontrollsystems oder nur einzelner Konstruktionsteile maßgeblich ist, um eine Abschalteinrichtung als unzulässig zu qualifizieren, und ob zusätzlich Emissionsgrenzwertüberschreitungen erforderlich sind.\n\n• Das Gericht hat beschlossen, gemäß Artikel 267 AEUV mehrere Fragen zur Vorabentscheidung dem Gerichtshof der Europäischen Union vorzulegen, da die Auslegung des Emissionskontrollrechts erhebliche Unsicherheiten aufweist.\n\n• Die praktische Bedeutung dieser Entscheidung liegt darin, dass die Vorabentscheidung des EuGH Klarheit für zukünftige Verfahren zu Abschalteinrichtungen bei Dieselfahrzeugen schafft und somit Auswirkungen auf Hersteller- und Verbraucherschutzrechte hat."
     },
     {
       "id": "dea02c4e26b8",
@@ -318,7 +318,7 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
-      "summary": ""
+      "summary": "• **Rechtsgebiet und betroffene Normen:** Die Entscheidung des Obersten Gerichtshofs betrifft das Zivilrecht, insbesondere die Frage der Entstehung von Dienstbarkeiten an Grundstücken durch vertragliche Vereinbarung oder Ersitzung, wobei konkrete Normen im Entscheidungstext nicht angegeben sind.\n\n• **Sachverhalt:** Ein Grundstückseigentümer verlangt die Feststellung einer Telefonleitungsdienstbarkeit über das Nachbargrundstück, da eine Telefonleitung bereits seit 1986 mit Zustimmung der damaligen Rechtsvorgänger verlegt worden war, und möchte nun auch eine Glasfaserleitung verlegen, wogegen die aktuellen Beklagten ihre Zustimmung verweigern.\n\n• **Zentrale Rechtsfrage:** Die zentrale Frage lautete, ob dem Kläger als Eigentümer des herrschenden Grundstücks gegenüber den Beklagten eine privatrechtliche Dienstbarkeit für eine Telefonleitung oder ein Glasfaserkabel aufgrund Ersitzung oder einer vor 2009 geschlossenen vertraglichen Vereinbarung zusteht.\n\n• **Entscheidung des Gerichts:** Der Oberste Gerichtshof wies die Revision des Klägers zurück und bestätigte damit die Entscheidung der Vorinstanzen, wonach weder eine privatrechtliche Dienstbarkeit durch Vertrag noch durch Ersitzung entstanden ist.\n\n• **Praktische Bedeutung:** Die Entscheidung zeigt, dass eine bloße Zustimmung zur Verlegung einer Leitung durch den Bund nicht automatisch eine privatrechtliche Dienstbarkeit begründet, sondern nur ein öffentlich-rechtliches Leitungsrecht des Bundes für Telekommunikationsanlagen entst"
     },
     {
       "id": "2d9aa8295bcf",
@@ -331,7 +331,7 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
-      "summary": ""
+      "summary": "• **Rechtsgebiet und betroffene Normen:** Die Entscheidung des Obersten Gerichtshofs betrifft das Zivilrecht und behandelt die Auslegung von Allgemeinen Versicherungsbedingungen für eine Grundfähigkeitsversicherung mit Deckung bei schwerer Krankheit, insbesondere die Voraussetzungen für die Versicherungsleistung bei Krebserkrankungen.\n\n• **Sachverhalt:** Der Kläger erkrankte an einem soliden Hodentumor der Größe 3,5 x 4 x 3,5 cm, der im Februar 2024 operativ entfernt wurde, wobei sich der Tumor auf das Organ beschränkte und weder Metastasen noch Lymphknotenbefall vorhanden waren.\n\n• **Zentrale Rechtsfrage:** Es musste geklärt werden, ob ein Hodentumor der beschriebenen Größe und Ausdehnung die vertraglichen Voraussetzungen einer versicherten schweren Krebserkrankung erfüllt, insbesondere ob die Anforderung eines soliden Tumors ab der Tumorgröße T2 vorliegen muss.\n\n• **Entscheidung des Gerichts:** Der Oberste Gerichtshof gab der Revision des Klägers keine Folge und bestätigte damit die vorherigen Gerichtsentscheidungen, wonach die Versicherungsleistung nicht zu zahlen ist.\n\n• **Praktische Bedeutung:** Die Entscheidung verdeutlicht, dass bei der Beurteilung von Versicherungsleistungen bei Krebserkrankungen die medizinischen Klassifikationskriterien der anerkannten Fachrichtungen maßgeblich sind und dass die bloße Tumorgröße nicht ausreicht, wenn andere Voraussetzungen wie die TNM-Klassifikation nicht erfüllt sind."
     },
     {
       "id": "e366ad4a0e61",
@@ -380,7 +380,7 @@
       "date": "2026-03-24T00:00:00",
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
-      "summary": ""
+      "summary": "# 5 Stichpunkte zur Gerichtsentscheidung OGH 10Ob14/26w\n\n• Das Rechtsgebiet dieser Entscheidung ist das Zivilrecht, wobei die betroffenen Normen in der Entscheidung nicht näher spezifiziert sind, jedoch Regelungen zum Mietrecht und zur Wiener Wohnbauinitiative 2011 relevant sind.\n\n• Der Sachverhalt betrifft eine Mieterin, die aufgrund eines im September 2017 abgeschlossenen Mietvertrags vom 1. Februar 2018 bis 31. Juli 2024 eine Wohnung in einer Wohnhausanlage mit 156 Wohnungen mietete, welche im Rahmen der Wiener Wohnbauinitiative 2011 mit Darlehen der Stadt Wien finanziert wurde.\n\n• Die zentrale Rechtsfrage dieser Revision betrifft die Auslegung und Gültigkeit der Mietpreisbildung sowie der Wertsicherungsklausel im Mietvertrag unter Berücksichtigung der Vorgaben der Wiener Wohnbauinitiative 2011, die strenge Mietzinsobergrenzen und Finanzierungsbedingungen vorsieht.\n\n• Der Oberste Gerichtshof gab der Revision der beklagten Partei Folge und hob die Urteile beider Vorinstanzen auf, wobei er die Rechtssache zur neuerlichen Entscheidung nach Verfahrensergänzung an das Erstgericht zurückverwies.\n\n• Die praktische Bedeutung dieser Entscheidung liegt darin, dass sie Auswirkungen auf die Auslegung von Mietverträgen im Rahmen der geförderten Wohnbauinitiativen Wiens hat und möglicherweise zur Klarstellung der verbindlichen Mietpreisgrenzen und deren Geltungsdauer beiträgt."
     }
   ],
   "recht_vfgh": [
@@ -415,6 +415,18 @@
       "date": "2026-04-15T00:00:00"
     },
     {
+      "id": "0699772b7750",
+      "title": "VfGH V258/2025 (V258/2025-13)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260318_25V00258_01",
+      "category": "VfGH",
+      "excerpt": "Raumordnung, Flächenwidmungsplan, Widmung, Grundlagenforschung, Baurecht, Geltungsbereich (zeitlicher) einer Verordnung, Planungsakte Verfahren, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-18T00:00:00",
+      "norm": "B-VG Art139 Abs1 Z1; Oö RaumOG 1994 §21, §36, §39; Oö RaumOG 1972 §16; Flächenwidmungsplan Nr 5 des Gemeinderats der Gemeinde Schleißheim vom 24.09.2009; VfGG §7 Abs2",
+      "summary": ""
+    },
+    {
       "id": "f42db7967d08",
       "title": "VfGH 18.03.2026, KR 1/2025: Antrag des Rechnungshofes auf Einsichtnahme in Geschäftsbücher der FPÖ: im Wesentlichen Stattgabe (PDF, 0.6 MB)",
       "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-KR-1_2025-vom-18.03.2026.pdf",
@@ -445,6 +457,90 @@
       "date": "2026-03-17T00:00:00"
     },
     {
+      "id": "7c1c6b2b0be9",
+      "title": "VfGH G155/2025 ua (G155/2025-16, G209/2025-5)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00155_01",
+      "category": "VfGH",
+      "excerpt": "Kinder, Auskunftsrecht, Privat- und Familienleben, Kinder- und Jugendhilfe, Jugendfürsorge, Kindschaftsrecht, lex specialis, Auslegung verfassungskonforme, VfGH / Fristsetzung, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; B-VG Art140 Abs1 Z1 litb; B-VG Art151 Abs68; StGG Art2",
+      "summary": ""
+    },
+    {
+      "id": "ebb85e77e02b",
+      "title": "VfGH G156/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00156_01",
+      "category": "VfGH",
+      "excerpt": "Kinder, Auskunftsrecht, Privat- und Familienleben, Kinder- und Jugendhilfe, Jugendfürsorge, Kindschaftsrecht, VfGH / Gerichtsantrag, VfGH / Verwerfungsumfang",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; B-VG Art140 Abs1 Z1 litb; B-VG Art151 Abs68; StGG Art2",
+      "summary": "• **Rechtsgebiet und betroffene Normen:** Die Entscheidung des Verfassungsgerichtshofs betrifft das Verfassungs- und Verwaltungsrecht und bezieht sich auf zentrale bundesverfassungsrechtliche Bestimmungen wie Artikel 7 Absatz 1 des B-VG, Artikel 140 Absatz 1 sowie Artikel 151 Absatz 68 des B-VG und ergänzend auf das Staatsgrundgesetz Artikel 2.\n\n• **Sachverhalt:** Der Sachverhalt betrifft Angelegenheiten der Kinder- und Jugendhilfe in Niederösterreich sowie Fragen der Auskunfts- und Informationspflichten nach niederösterreichischem Landesrecht, wobei auch Bestimmungen der Europäischen Menschenrechtskonvention Artikel 8 relevant sind.\n\n• **Zentrale Rechtsfrage:** Die zentrale Rechtsfrage besteht darin, wie Bestimmungen des niederösterreichischen Kinder- und Jugendhilfegesetzes, des Auskunftsgesetzes und des Informationsgesetzes 2025 mit den bundesverfassungsrechtlichen Garantien und europäischen Menschenrechten vereinbar sind.\n\n• **Entscheidung des Gerichts:** Der Verfassungsgerichtshof erließ mit seiner Geschäftszahl G156/2025 ua ein Erkenntnis als Entscheidungsart und dokumentierte damit eine verbindliche Aussage zu der in Frage stehenden Verfassungsmäßigkeit der angefochtenen Bestimmungen.\n\n• **Praktische Bedeutung:** Die Entscheidung vom 17. März 2026 hat erhebliche praktische Bedeutung für die Anwendung des niederösterreichischen Kinder- und Jugendhilfesystems sowie für die Gewährung von Auskunfts- und Informationsrechten in dieser Bundeslandmaterie."
+    },
+    {
+      "id": "e93d9abfe7fa",
+      "title": "VfGH G158/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00158_01",
+      "category": "VfGH",
+      "excerpt": "Sozialhilfe, Unterhalt, Mindestsicherung, Auslegung verfassungskonforme, Rechtspolitik, Einkünfte, Zivilrecht, Grundsatz- und Ausführungsgesetzgebung, Lebensgemeinschaft, VfGH / Gerichtsantrag, VfGH / Prüfungsumfang",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; StGG Art2; StGG Art5; Stmk SozialunterstützungsG §2, §3, §6 Abs1, §8",
+      "summary": ""
+    },
+    {
+      "id": "2b8cd35c1515",
+      "title": "VfGH G73/2025 (G73/2025-21)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00073_01",
+      "category": "VfGH",
+      "excerpt": "Kompetenz Bund - Länder Arbeitsrecht, Arbeitnehmerschutz, Mutterschutz, Versteinerungstheorie, Auslegung historische, Auslegung systematische, Dienstrecht, Arbeitsrecht, Zuständigkeit, Kinder, Kompetenz Bund - Länder Dienstrecht, VfGH / Parteiantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art10 Abs1 Z11; B-VG Art12 Abs1 Z4; B-VG Art21 Abs1; B-VG Art21 Abs2; B-VG Art140 Abs1 Z1 litd",
+      "summary": "# 5 Stichpunkte zur Gerichtsentscheidung VfGH G73/2025\n\n• Rechtsgebiet und betroffene Normen: Die Entscheidung betrifft das Dienst- und Personalvertretungsrecht der Landesbediensteten und prüft die Verfassungsmäßigkeit von Bestimmungen des Bundes-Verfassungsgesetzes (B-VG) in den Artikeln 10, 12, 21 und 140 sowie Bestimmungen des Oberösterreichischen Landes-Vertragsbedienstetengesetzes und des Mutterschutzgesetzes 1979.\n\n• Sachverhalt: Der Verfassungsgerichtshof hatte sich mit einer Beschwerde auseinanderzusetzen, die die Anwendung von Mutterschutzbestimmungen und deren Vereinbarkeit mit den bundesverfassungsrechtlichen Kompetenzbestimmungen für Landesbedienstete zum Gegenstand hatte.\n\n• Zentrale Rechtsfrage: Die zentrale Frage lautete, ob die Regelungen zum Mutterschutz für Landesbedienstete verfassungskonform sind und ob die Kompetenzverteilung zwischen Bund und Ländern bezüglich dieser Materie eingehalten wurde.\n\n• Entscheidung des Gerichts: Der Verfassungsgerichtshof erließ ein Erkenntnis, in dem er die Verfassungsmäßigkeit der angefochtenen Normen prüfte und einen Rechtssatz formulierte, der die Auslegung der maßgeblichen Verfassungsbestimmungen konkretisierte.\n\n• Praktische Bedeutung: Die Entscheidung hat erhebliche praktische Auswirkungen auf die Gewährung von Mutterschutzrechten für Landesbedienstete in Oberösterreich und klärt die Kompetenzverteilung zwischen Bund und Ländern in dieser wichtigen Materie des Personalvertretungsrechts."
+    },
+    {
+      "id": "f37c2fee1e33",
+      "title": "VfGH G76/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25G00076_01",
+      "category": "VfGH",
+      "excerpt": "Sozialhilfe, Unterhalt, Mindestsicherung, Auslegung verfassungskonforme, Rechtspolitik, Einkünfte, Zivilrecht, Grundsatz- und Ausführungsgesetzgebung, Eigentumseingriff, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 lita; StGG Art2; StGG Art5; Sozialhilfe-GrundsatzG §3, §5, §7",
+      "summary": ""
+    },
+    {
+      "id": "87196a1952e1",
+      "title": "VfGH V100/2025 (V100/2025-19)",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00100_01",
+      "category": "VfGH",
+      "excerpt": "Tierschutz, Hunde, Ausbildung, Kompetenz Bund - Länder, Versteinerungstheorie, Rechtspolitik, Sicherheitspolizei örtliche, Wirkungsbereich eigener, VfGH / Prüfungsumfang, VfGH / Individualantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art10; B-VG Art11 Abs1 Z8; B-VG Art15 Abs2; B-VG Art118 Abs2; B-VG Art139 Abs1 Z3",
+      "summary": ""
+    },
+    {
+      "id": "cfbc1b31373c",
+      "title": "VfGH V247/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260317_25V00247_01",
+      "category": "VfGH",
+      "excerpt": "Naturschutz, Vogelschutz, Verordnung, Determinierungsgebot, EU-Recht Richtlinie, VfGH / Gerichtsantrag",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-17T00:00:00",
+      "norm": "B-VG Art139 Abs1 Z1; Oö Natur- und LandschaftsschutzG 2001 §27, §28, §29; Oö ArtenschutzV §5, §6, §8a, §11; Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten (Vogelschutz-RL 2009) Art1, Art5, Art9; Fauna-Flora-Habitat-Richtlinie 92/43/EWG Art12, Art13",
+      "summary": "# Stichpunkte zur Gerichtsentscheidung VfGH V247/2025\n\n• Das Rechtsgebiet dieser Entscheidung ist der Naturschutz und die betroffenen Normen sind das Bundesverfassungsgesetz Artikel 139 Absatz 1 Ziffer 1, das Oberösterreichische Natur- und Landschaftsschutzgesetz 2001 sowie die Oberösterreichische Artenschutzverordnung in Kombination mit europäischen Schutzrichtlinien für Vogelarten und Lebensräume.\n\n• Der Sachverhalt betrifft einen Gerichtsantrag auf Aufhebung von Sonderbestimmungen der Oberösterreichischen Artenschutzverordnung, die die Jagd auf Rabenkrähen und Elstern regeln, sowie die Frage der Zulässigkeit von Einschränkungen des Jagdgebiets und der Schutzzeiten.\n\n• Die zentrale Rechtsfrage lautet, ob die Sonderbestimmungen der Oberösterreichischen Artenschutzverordnung zur Jagdregelung auf bestimmte Vogelarten mit den geltenden Naturschutzgesetzen und europäischen Schutzrichtlinien vereinbar sind.\n\n• Das Verfassungsgericht lehnte den Gerichtsantrag ab und bestätigte die Gesetzwidrigkeit nicht, wodurch § 8a sowie die Wort- und Zeichenfolge \"und 8a\" in § 6 der Oberösterreichischen Artenschutzverordnung als rechtmäßig bestätigt wurden.\n\n• Die praktische Bedeutung dieser Entscheidung liegt darin, dass Bundesländer weiterhin durch Verordnung Ausnahmeregelungen zum Schutz von Vogelarten erlassen können, wenn dies im öffentlichen Interesse liegt und europäische Schutzrichtlinien eingehalten werden."
+    },
+    {
       "id": "0b34fe2352df",
       "title": "VfGH 10.03.2026, E 2000/2025: Erfolgreiche Beschwerde gegen Anti-Gesichtsverhüllungsgesetz: Tragen einer Maske als Stilmittel freier Meinungsäußerung erlabut (PDF, 0.3 MB)",
       "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-E-2000_2025-vom-10.03.2026.pdf",
@@ -453,6 +549,42 @@
       "source": "vfgh.gv.at",
       "featured": false,
       "date": "2026-03-10T00:00:00"
+    },
+    {
+      "id": "03624091b6c4",
+      "title": "VfGH E2000/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E02000_01",
+      "category": "VfGH",
+      "excerpt": "Meinungsäußerungsfreiheit, Entscheidungsbegründung, Strafe (Verwaltungsstrafrecht)",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art144 Abs2; EMRK Art10 Abs1; Anti-GesichtsverhüllungsG §1, §2, §3, §4, §5; SicherheitspolizeiG §81; VfGG §7 Abs1",
+      "summary": "• **Rechtsgebiet und betroffene Normen**: Die Entscheidung betrifft das Verfassungsrecht und die Meinungsfreiheit, wobei insbesondere das Anti-Gesichtsverhüllungsgesetz (§1-§5), die Europäische Menschenrechtskonvention (Art. 10 Abs. 1), das Bundesverfassungsgesetz (Art. 144 Abs. 2) und das Verfassungsgerichtsgesetz (§7 Abs. 1) relevant sind.\n\n• **Sachverhalt**: Ein Beschwerdeführer trug während einer Fernsehaufzeichnung eine Maske mit dem Gesicht von Wladimir Putin, um während eines Gesprächs mit dem FPÖ-Obmann Herbert Kickl auf dessen kritikloses Verhältnis zur russischen Regierung hinzuweisen und wurde daraufhin mit einer Geldstrafe gemäß Anti-Gesichtsverhüllungsgesetz bestraft.\n\n• **Zentrale Rechtsfrage**: Die zentrale Frage lautete, ob das Tragen einer Gesichtsverhüllung in Form einer Maske als Stilmittel zur freien Meinungsäußerung unter die Ausnahmen des Anti-Gesichtsverhüllungsgesetzes fällt oder ob dies einen strafbaren Verstoß darstellt.\n\n• **Entscheidung des Gerichts**: Der Verfassungsgerichtshof hob die Geldstrafe auf und entschied, dass die Maske als Ausnahmfall gemäß §2 Abs. 2 des Anti-Gesichtsverhüllungsgesetzes von der Meinungsäußerungsfreiheit gedeckt ist, da sie nicht zur Identitätsverschleierung, sondern zu politischen Aussagezwecken verwendet wurde.\n\n• **Praktische Bedeutung**: Das Urteil etabliert, dass Gesichtsverhüllungen im Rahmen der freien Meinungsäußerung zulässig sind und der Katalog der Ausnahmen des Anti-Gesichtsverhüllungsgesetzes nicht abschließ"
+    },
+    {
+      "id": "c12ce5292905",
+      "title": "VfGH E3487/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25E03487_01",
+      "category": "VfGH",
+      "excerpt": "Privatradio, VfGH / Ablehnung, Meinungsäußerungsfreiheit, Rundfunk",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art144 Abs2; EMRK Art10; PrivatradioG §6, §9; AMD-G §11; VfGG §7 Abs1",
+      "summary": ""
+    },
+    {
+      "id": "d619d6b77e3d",
+      "title": "VfGH G143/2025 ua",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260310_25G00143_01",
+      "category": "VfGH",
+      "excerpt": "Beschwerdeverfahren (Rundfunk), Legitimation, Rundfunkgebühren, Medienrecht, Auslegung verfassungskonforme, Beitragspflicht, Rechtspolitik, Wohnsitz",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-10T00:00:00",
+      "norm": "B-VG Art7 Abs1 / Gesetz; B-VG Art140 Abs1 Z1 litb; StGG Art2; ORF-G §36 Abs1 Z1 litb; ORF-Beitrags-G 2024 §3, §9",
+      "summary": ""
     },
     {
       "id": "f438760bbdd4",
@@ -465,24 +597,16 @@
       "date": "2026-03-09T00:00:00"
     },
     {
-      "id": "684569eed22d",
-      "title": "VfGH 04.03.2026, E 102/2025: \"Bannmeile\" gilt auch während der Sitzungspausen von gesetzgebenden Körperschaften (PDF, 0.2 MB)",
-      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-E-102_2025-vom-04.03.2026.pdf",
+      "id": "dca136e0eefb",
+      "title": "VfGH E2819/2025",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260309_25E02819_01",
       "category": "VfGH",
-      "excerpt": "VfGH 04.03.2026, E 102/2025: \"Bannmeile\" gilt auch während der Sitzungspausen von gesetzgebenden Körperschaften (PDF, 0.2 MB)",
-      "source": "vfgh.gv.at",
+      "excerpt": "Aufenthaltsrecht, Fremdenrecht, Asylrecht, Auslegung verfassungskonforme, Auslegung authentische, Entscheidungsbegründung, Rechtsschutz, Beschwerderecht, Verfahrensdauer überlange",
+      "source": "RIS",
       "featured": false,
-      "date": "2026-03-04T00:00:00"
-    },
-    {
-      "id": "e16f87095f39",
-      "title": "VfGH 03.03.2026, V 59/2025: Aufhebung von Teilen einer Verordnung des Gemeinderates der Stadt St. Pölten (Bebauungsplan) (PDF, 0.5 MB)",
-      "url": "https://www.vfgh.gv.at/downloads/VfGH-Erkenntnis-V-59_2025-vom-03.03.2026.pdf",
-      "category": "VfGH",
-      "excerpt": "VfGH 03.03.2026, V 59/2025: Aufhebung von Teilen einer Verordnung des Gemeinderates der Stadt St. Pölten (Bebauungsplan) (PDF, 0.5 MB)",
-      "source": "vfgh.gv.at",
-      "featured": false,
-      "date": "2026-03-03T00:00:00"
+      "date": "2026-03-09T00:00:00",
+      "norm": "BVG-Rassendiskriminierung ArtI Abs1; EMRK Art8; NAG §1, §2, §11, §46; AsylG 2005 §1, §2, §7, §34, §35; AVG §38",
+      "summary": "# 5 Stichpunkte zur Gerichtsentscheidung VfGH E2819/2025\n\n• **Rechtsgebiet und betroffene Normen:** Die Entscheidung behandelt das Fremdenrecht und Asylrecht in Österreich und bezieht sich insbesondere auf das Bundesverfassungsgesetz gegen Rassendiskriminierung, die Europäische Menschenrechtskonvention Artikel 8, das Niederlassungs- und Aufenthaltsgesetz, das Asylgesetz 2005 und das Allgemeine Verwaltungsverfahrensgesetz.\n\n• **Sachverhalt:** Eine syrische Staatsangehörige beantragte die Erteilung einer \"Rot-Weiß-Rot-Karte plus\" zur Familienzusammenführung mit ihrem asylberechtigten Ehemann, woraufhin die Behörde das Verfahren aussetzte, weil gegen den Ehemann ein Aberkennungsverfahren des Asylstatus eingeleitet worden war.\n\n• **Zentrale Rechtsfrage:** Ob die Aussetzung eines Familiensammenführungsverfahrens aufgrund eines parallel laufenden Aberkennungsverfahrens gegen den asylberechtigten Ehepartner mit Verfassungsrecht vereinbar ist und ob der Asylstatus während eines Aberkennungsverfahrens weiter bestand hat.\n\n• **Entscheidung des Gerichts:** Der Verfassungsgerichtshof befand, dass die Aussetzung des Verfahrens eine Verletzung des Gleichbehandlungsgebotes von Fremden untereinander darstellt und dass der Asylstatus bis zur rechtskräftigen Aberkennung fortbesteht, weswegen die Behörde das Verfahren zur Familienzusammenführung nicht hätte aussetzen dürfen.\n\n• **Praktische Bedeutung:** Die Entscheidung stärkt die Rechtsposition von Familienmitgliedern von Asylberechtigten, da "
     }
   ],
   "recht_eugh": [
@@ -598,6 +722,96 @@
     }
   ],
   "recht_news": [
+    {
+      "id": "6f9e3167f8e4",
+      "title": "Reiten als Sonderbedarf? OGH zu teuren Kinderhobbys im Unterhalt",
+      "url": "https://www.derstandard.at/story/3000000316936/reiten-als-sonderbedarf-ogh-zu-teuren-kinderhobbys-im-unterhalt?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Die OGH-Entscheidung zum Dressurreiten zeigt, wann außergewöhnliche Kosten für Kinder als Sonderbedarf gelten und wo die finanzielle Grenze der Eltern liegt",
+      "source": "Der Standard Recht",
+      "date": "2026-04-17T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8eca71d95e8a",
+      "title": "René Benko bleibt weitere zwei Monate in U-Haft",
+      "url": "https://www.derstandard.at/story/3000000317046/rene-benko-bleibt-weitere-zwei-monate-in-u-haft?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Das Gericht geht weiterhin von \"dringendem\" Tatverdacht und Tatbegehungsgefahr aus",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T07:49:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "605f7c0d470f",
+      "title": "Wirtschaftshistoriker Tooze: \"Die Zeit der umfassenden Dominanz der USA ist vorbei\"",
+      "url": "https://www.derstandard.at/story/3000000316853/wirtschaftshistoriker-tooze-die-zeit-der-umfassenden-dominanz-der-usa-ist-vorbei?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Führt Donald Trump Krieg im Iran und interveniert in Venezuela, um China zu schwächen und die US-Hegemonie abzusichern? Über so eine strategische Weitsicht verfügt der US-Präsident nicht, sagt Adam Tooze. Das macht ihm erst recht Sorgen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T07:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b34e2b326582",
+      "title": "Pilotinnen und Piloten der Lufthansa streiken auch am Freitag",
+      "url": "https://www.derstandard.at/story/3000000317022/pilotinnen-und-piloten-der-lufthansa-streiken-auch-am-freitag?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Zahlreiche Flugausfälle sind zu erwarten. Die Lufthansa- und Cargo-Piloten wollen höhere Beiträge zu ihren Betriebsrenten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T06:29:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "9c97cd00aa60",
+      "title": "Wifo will Senkung von CO2-Abgaben, IWF warnt vor \"verfälschtem Preissignal\"",
+      "url": "https://www.derstandard.at/story/3000000317017/hohe-strompreise-trotz-erneuerbarer-wifo-f252r-strommarktreform?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Laut Wifo treiben die Kosten für CO2-Zertifikate fossiler Kraftwerke den einheitlichen Großhandelspreis in die Höhe, während erneuerbare Energien kaum laufende Kosten verursachen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T05:13:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "582761682dfd",
+      "title": "ÖVP-Politiker Hanger beendet Beleidigungsprozess mit Vergleich",
+      "url": "https://www.derstandard.at/story/3000000316969/oevp-politiker-hanger-beendet-beleidigungsprozess-mit-vergleich?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Ein unbescholtener 51-Jähriger hat den Nationalratsabgeordneten in einem Facebookposting verunglimpft. Der Beklagte sagt, es gebe eine Vorgeschichte im Gastgarten",
+      "source": "Der Standard Recht",
+      "date": "2026-04-17T05:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7136f736b566",
+      "title": "ÖBB-Ergebnis 2025 geschmolzen: Mehr Fahrgäste, aber weniger Transport",
+      "url": "https://www.derstandard.at/story/3000000317015/oebb-ergebnis-2025-geschmolzen-mehr-fahrgaeste-aber-weniger-transport?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die ÖBB verzeichnen ein starkes Plus bei Passagieren, doch der Güterverkehr zieht das Ergebnis nach unten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T04:56:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "4985deaa4f90",
+      "title": "Kritik an Erste Group wegen angeblicher Rückschritte bei Klimarichtlinien",
+      "url": "https://www.derstandard.at/story/3000000316872/kritik-an-erste-group-wegen-angeblicher-rueckschritte-bei-klimarichtlinien?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Umwelt-NGO Urgewald wirft dem Bankkonzern vor, die Vorgaben für die Finanzierung fossiler Rohstoffe \"substanziell aufgeweicht\" zu haben. Die Bank hält dies für \"unzutreffend\"",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-17T04:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8143fdfd8cbd",
+      "title": "ÖVP-Wirtschaftsbund wählt Martha Schultz zur Mahrer-Nachfolgerin",
+      "url": "https://www.derstandard.at/story/3000000317007/214vp-wirtschaftsbund-w228hlt-schultz-zur-mahrer-nachfolgerin?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Tiroler Touristikerin Martha Schultz folgt nun auch offiziell Harald Mahrer nach",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-16T19:39:57+00:00",
+      "featured": false
+    },
     {
       "id": "9150a2902a92",
       "title": "Besser Erbschaftssteuer als Vermögenssteuer?",
@@ -757,99 +971,29 @@
       "source": "Der Standard Wirtschaft",
       "date": "2026-04-15T14:33:30+00:00",
       "featured": false
-    },
-    {
-      "id": "c0beb2b889bd",
-      "title": "Ex-Kanzler Gusenbauer bekam Millionen von Signa. Was war seine Leistung?",
-      "url": "https://www.derstandard.at/story/3000000316782/ex-kanzler-gusenbauer-bekam-millionen-von-signa-was-war-seine-leistung?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Gusenbauer hat als Signa-Berater Millionen verdient. Der Insolvenzverwalter der Signa Holding verlangt das Geld nun zurück. Er zweifelt an der Gegenleistung des Ex-Kanzlers",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T14:06:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "576d1e79e14f",
-      "title": "Wifo-Chef Felbermayr: \"Brauchen Zeitalter der Reformen\"",
-      "url": "https://www.derstandard.at/story/3000000316776/wifo-chef-felbermayr-brauchen-zeitalter-der-reformen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die deutsch-österreichischen Handelsbeziehungen haben sich nach der Flaute wieder erholt. Jetzt brauche es Tempo bei Reformen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T14:05:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "fc681eb80235",
-      "title": "Hattmannsdorfer: \"Im Mai fehlen Diesel und Kerosin\"",
-      "url": "https://www.derstandard.at/story/3000000316810/hattmannsdorfer-im-mai-fehlen-diesel-und-kerosin?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Auch Kanzler Stocker sieht, so wie der Wirtschaftsminister, keinen Widerspruch zwischen dem jüngsten Handeln der OMV und der Spritpreisbremse",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T13:12:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "c8f4de900a1b",
-      "title": "Verleumdungsprozess gegen junge Frau, die Touristen Vergewaltigung vorwarf",
-      "url": "https://www.derstandard.at/story/3000000316636/verleumdungsprozess-gegen-junge-frau-die-touristen-vergewaltigung-vorwarf?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "Eine unbescholtene 20-Jährige bezichtigte im Herbst 2024 einen Serben nach einem Two-Night-Stand fälschlicherweise eines Sexualverbrechens. Warum, möchte sie nicht sagen",
-      "source": "Der Standard Recht",
-      "date": "2026-04-15T11:12:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "51524a09ef33",
-      "title": "Der größte Investor Österreichs, den kaum jemand kennt",
-      "url": "https://www.derstandard.at/story/3000000316747/der-groesste-investor-oesterreichs-den-kaum-jemand-kennt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Nach mehreren Jahren zeigt sich Rainer Seele, umstrittener Ex-Chef der OMV, wieder in der Öffentlichkeit. Mittlerweile arbeitet er nicht mehr für die OMV – sondern ausgerechnet für deren zweitgrößten Teilhaber aus Abu Dhabi",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T11:08:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "aac896038542",
-      "title": "Laut Fiskalrat müssen noch 4,4 Milliarden Euro im Budget eingespart werden",
-      "url": "https://www.derstandard.at/story/3000000316764/budget-laut-fiskalrat-m252ssen-44-mrd-euro-eingespart-werden?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Erst damit könne man das Budgetdefizit 2027 wie geplant auf 3,5 Prozent des BIP drücken. Das ergab eine Schnellschätzung des Fiskalratsbüros",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T10:10:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "9fd11ff61936",
-      "title": "Trade Republic führt Kundensupport ein",
-      "url": "https://www.derstandard.at/story/3000000316708/trade-republic-fuehrt-kundensupport-ein?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Über die App können Kunden ab sofort Kontakt mit einem Support-Team aufnehmen. Das Service steht täglich 24 Stunden zur Verfügung",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T09:57:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "75fbf526547d",
-      "title": "Signa-Insolvenzverwalter verhandelt über Verkauf des Park-Hyatt",
-      "url": "https://www.derstandard.at/story/3000000316739/signa-insolvenzverwalter-verhandelt-252ber-verkauf-des-park-hyatt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Seit 2008 gehörte das nunmehrige Luxushotel der Signa. Nun soll der Innviertler Unternehmer Rainer am Gebäude interessiert sein",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T08:54:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "c402da3636c0",
-      "title": "Alles wird teurer, trotzdem sind wir statistisch nicht ärmer geworden – wie passt das zusammen?",
-      "url": "https://www.derstandard.at/story/3000000312854/alles-wird-teurer-trotzdem-sind-wir-statistisch-nicht-aermer-geworden-wie-passt-das-zusammen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Butter, Miete, Strom: Nicht nur in Österreich ist immer öfter von einer Krise der Leistbarkeit die Rede. Was dahintersteckt und warum die offiziellen Statistiken ein verzerrtes Bild vermitteln",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-15T07:00:00+00:00",
-      "featured": false
     }
   ],
   "recht_intl": [
+    {
+      "id": "b87ee9a34388",
+      "title": "Ein Reförmchen zum Geburtstag",
+      "url": "https://verfassungsblog.de/agg-reform/",
+      "category": "Deutschland",
+      "excerpt": "Das Allgemeine Gleichbehandlungsgesetz feiert in diesem Sommer seinen 20. Geburtstag. Es hat eine turbulente Jugend hinter sich: Zahlreiche Regelungen des AGG waren bereits früh als unionsrechtswidrig erkannt worden – zum Teil gar mit höchster Bestätigung durch den EuGH. Gleichwohl verliefen Reformvorhaben im Sande. Am Montag hat das Justizministerium nun zusammen mit dem Bildungs- und Familienministerium einen Referentenentwurf veröffentlicht. Herausgekommen ist eine Mini-Reform, die nur sehr punktuell Verbesserungen für den Diskriminierungsschutz bringen wird – und dies vor allem an Stellen, wo das Unionsrecht dem deutschen Gesetzgeber keine andere Wahl lässt. The post Ein Reförmchen zum Geburtstag appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-17T08:39:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "1709c496ebed",
+      "title": "From Gaza to Lebanon: Forcible Displacement Dressed in Humanitarian Garb",
+      "url": "https://www.ejiltalk.org/from-gaza-to-lebanon-forcible-displacement-dressed-in-humanitarian-garb/",
+      "category": "Armed Conflict",
+      "excerpt": "In recent hostilities, first in the Gaza Strip and now in Lebanon, the Israeli military has adopted a new modus operandi: issuing blanket relocation directives instructing millions of people to indefinitely leave their places of residence (evacuation orders in Lebanon were discussed here). The apparent objective is to enable Israel to engage an enemy embedded […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-04-17T07:00:56+00:00",
+      "featured": false
+    },
     {
       "id": "15dea04c8cc2",
       "title": "Last Court Standing",
@@ -1079,537 +1223,517 @@
       "source": "EJIL:Talk!",
       "date": "2026-04-08T07:00:41+00:00",
       "featured": false
-    },
-    {
-      "id": "90e5eedc468b",
-      "title": "Weaponizing Necessity",
-      "url": "https://verfassungsblog.de/cuba-blockade/",
-      "category": "English Articles",
-      "excerpt": "On March 30, 2026, reports indicated that the US would allow a Russian oil tanker carrying 730,000 barrels of crude oil to dock in Cuba, delivering much-needed fuel to an island that had faced an effective US oil blockade since January 29, 2026. The arrival underscored the severity of Cuba’s energy crisis, produced by a deliberate escalation of US economic coercion, using both sanctions and tariffs. As tools of economic warfare, tariffs operate as forms of state crime that produce systemic harm and human suffering in Cuba and across the region. The post Weaponizing Necessity appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-04-07T16:57:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "3d236678e543",
-      "title": "The IOC’s Great Leap Backwards on Genetic Sex Testing",
-      "url": "https://verfassungsblog.de/ioc-genetic-sex-testing/",
-      "category": "English Articles",
-      "excerpt": "On 26 March, the International Olympic Committee released its Policy on the Protection of the Female (Women’s) Category in Olympic Sport. Now, to be eligible for the Olympic competitions, all women and girls will have to undergo a genetic test that screens for the SRY gene. This sharp policy change has been in the cards since Kirsty Coventry took the helm of the IOC last year. This post provides a first critical analysis of this U-turn on genetic sex testing, revealing its scientific, procedural, and legal shortcomings. The post The IOC’s Great Leap Backwards on Genetic Sex Testing appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-04-07T11:49:35+00:00",
-      "featured": false
     }
   ],
   "national": [
     {
-      "id": "2923a034158f",
-      "title": "Russland-Sanktionen: Slowakei droht mit Veto",
-      "url": "https://orf.at/stories/3427122/",
-      "category": "Ausland",
+      "id": "39cd3042f865",
+      "title": "RH mit Vorschlägen zur eigenen Entbürokratisierung",
+      "url": "https://orf.at/stories/3427160/",
+      "category": "Inland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-16T19:13:14+02:00",
+      "date": "2026-04-17T10:48:21+02:00",
       "featured": false
     },
     {
-      "id": "cc88ab64cc0f",
-      "title": "Israel und Libanon stimmen Waffenruhe zu",
-      "url": "https://orf.at/stories/3427116/",
-      "category": "Ausland",
-      "excerpt": "Israel und der Libanon haben sich nach Angaben von US-Präsident Donald Trump auf eine zehntägige Feuerpause verständigt. Die Waffenruhe solle noch am Donnerstag beginnen, teilte Trump auf Truth Social mit. Trump erwähnte dabei allerdings nicht die vom Iran unterstützte Hisbollah-Miliz.",
-      "source": "ORF",
-      "date": "2026-04-16T19:00:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "c445f56a3a7f",
-      "title": "Staatsaffäre: So wurden 36.368 Polizisten an Spione verraten",
-      "url": "https://www.falter.at/maily/20260416/datenklau-fuer-putin-so-wurden-36368-polizisten-an-spione-verraten",
-      "category": "FALTER.maily",
-      "excerpt": "Wie ein Chefinspektor einen der größten Skandale des Innenministeriums zum Thema machen will – und was die FPÖ damit zu tun hat.Lesen Sie den kompletten Artikel auf FALTER.at",
-      "source": "Falter",
-      "date": "2026-04-16T19:00:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "1767579daf89",
-      "title": "Neue Studie liefert „Optionen“ für Reform",
-      "url": "https://orf.at/stories/3427077/",
-      "category": "Medien",
-      "excerpt": "Medienminister Andreas Babler (SPÖ) will bei der Medienförderung grundlegend umkrempeln. Am Donnerstag wurde eine umfassende Studie vorgelegt, die im Auftrag des Ministeriums vom Medienhaus Wien ausgearbeitet wurde. Die Studie will „Optionen“ für ein neues Fördermodell ab 2028 liefern, laut Babler zugunsten der Förderung von Qualität, Unabhängigkeit und Vielfalt – das Papier solle nun „Grundlage für Verhandlungen mit ÖVP und NEOS“ sein.",
-      "source": "ORF",
-      "date": "2026-04-16T18:30:09+02:00",
-      "featured": false
-    },
-    {
-      "id": "d9493e07f56c",
-      "title": "Die Jugendkriminalität steigt, die Justiz(politik) schläft",
-      "url": "https://www.diepresse.com/20774973/die-jugendkriminalitaet-steigt-die-justizpolitik-schlaeft",
-      "category": "Die Presse",
-      "excerpt": "Die Inbetriebnahme geschlossener Einrichtungen für unmündige Straftäter lässt auf sich warten. Wien setzt immerhin einen ersten Schritt.",
-      "source": "Die Presse",
-      "date": "2026-04-16T17:52:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "906213a74837",
-      "title": "Trump: Zehntägige Waffenruhe zwischen Israel und Libanon",
-      "url": "https://orf.at/stories/3427115/",
+      "id": "b051b850ae3f",
+      "title": "Leiche im Kofferraum: Musiker D4vd festgenommen",
+      "url": "https://orf.at/stories/3427155/",
       "category": "Chronik",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-16T17:51:38+02:00",
+      "date": "2026-04-17T09:52:35+02:00",
       "featured": false
     },
     {
-      "id": "ec80d9ac567b",
-      "title": "Causa Ott: Neue Ermittlungen mit wohl 36.368 Betroffenen",
-      "url": "https://orf.at/stories/3427114/",
-      "category": "Inland",
+      "id": "7a7b6236e112",
+      "title": "Anne-Frank-Haus veröffentlicht YouTube-Serie",
+      "url": "https://orf.at/stories/3427152/",
+      "category": "Kultur",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-16T17:43:46+02:00",
+      "date": "2026-04-17T09:32:47+02:00",
       "featured": false
     },
     {
-      "id": "a07a4089f3f5",
-      "title": "Türkei: Schul-Angreifer hatte offenbar frauenfeindliches US-Vorbild",
-      "url": "https://kurier.at/chronik/welt/tuerkei-schul-angreifer-hatte-offenbar-frauenfeindliches-us-vorbild/403151213",
-      "category": "Chronik/Welt",
-      "excerpt": "Der Todesschütze an einer Schule in der Türkei hatte ersten Ermittlungen zufolge offenbar ein frauenfeindliches Vorbild in den USA. Vor seiner Tat bezog sich der 14-Jährige im Internet auf den US-Attentäter Elliot Rodger, der 2014 aus Frauenhass sechs Menschen tötete. Mehrere tausend Lehrpersonen demonstrierten am Donnerstag nach zwei Angriffen an Schulen in der Türkei in nur zwei Tagen für besseren Schutz.Die Polizei ging unterdessen massiv gegen Internetnutzer vor, die \"Verbrechen und Kriminelle verherrlicht\" haben sollen. Bei der Tat am Mittwoch hatte der Angreifer in der südtürkischen Stadt Kahramanmaras fünf Buben und drei Mädchen im Alter von zehn und elf Jahren sowie einen 55-jährigen Lehrer erschossen. Die dpa berichtete am Abend, dass es sich nach jüngsten Informationen um eine Le",
-      "source": "Kurier",
-      "date": "2026-04-16T17:18:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "90b601bc5c91",
-      "title": "Causa Signa: Razzia bei Ex-Kanzler Alfred Gusenbauer",
-      "url": "https://kurier.at/wirtschaft/razzia-in-der-causa-signa-alfred-gusenbauer-im-visier-der-ermittler/403151105",
-      "category": "PLUS - Wirtschaft",
-      "excerpt": "Im Zuge der Ermittlungen rund um den zusammengebrochenen Immobilien‑ und Handelskonzern Signa hat die Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) ihre Untersuchungen zuletzt deutlich ausgeweitet. Wie mehrere Insider dem KURIER am Donnerstag berichteten, sollen im Rahmen der Causa Signa auch Hausdurchsuchungen an verschiedenen Adressen in Wien und auch in der Wachau durchgeführt worden sein, die Alfred Gusenbauer betreffen, den Ex-SPÖ-Bundeskanzler und langjährigen Aufsichtsratschef der Signa Holding und Signa-Beirat. Die Ermittlungen sollen in Zusammenhang mit Millionenzahlungen an den früheren deutschen Signa-Vorstand Timo H. stehen. Der KURIER erreichte auch Gusenbauer telefonisch: \" Ich bin im Ausland und kann mit ihnen nicht sprechen\", meinte er knapp auf KURIER-Anfrage.Erst",
-      "source": "Kurier",
-      "date": "2026-04-16T17:17:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "322af108ba87",
-      "title": "Schultrakt als letzter Baustein im Ceramico Campus",
-      "url": "https://kurier.at/chronik/burgenland/ceramico-campus-stoob-keramikschule-burgenland-schultrakt-bauprojekt/403151212",
-      "category": "PLUS - Chronik/Burgenland",
-      "excerpt": "Beim Ceramico Campus in Stoob fand am Donnerstag die Gleichenfeier für den Schultrakt statt. Bis zu 200 Schülerinnen und Schüler können künftig in der österreichweit einzigen Keramikfachschule ihre Ausbildung absolvieren. Die Eröffnung ist für Anfang Oktober 2026 geplant.„Was in Stoob entsteht, bringt nicht nur Wertschöpfung für die Region, sondern ist auch eine Investition in eine Ausbildung, die in ganz Österreich einmalig ist“, betonte Landesrat Heinrich Dorner (SPÖ).Der Ceramico Campus entsteht in mehreren Bauphasen. Den Auftakt machte der Neubau des Internats, der im August 2023 umgesetzt wurde. Die dazugehörige Photovoltaikanlage ging im Frühjahr 2024 in Betrieb. Nach dem Abbruch des alten Internats und Schultrakts im Sommer 2024 folgte der Neubau des Werkstättentrakts, der im Juli 2",
-      "source": "Kurier",
-      "date": "2026-04-16T17:10:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "06214e605179",
-      "title": "\"Euphoria\" Staffel 3: Die Schule ist vorbei, die Probleme bleiben",
-      "url": "https://kurier.at/kultur/medien/euphoria-staffel-3-zendaya-sydney-sweeney-jacob-elordi-hbo/403151209",
-      "category": "Kultur/Medien",
-      "excerpt": "Gleich zu Beginn der neuen Staffel von „Euphoria“ steckt Rue Bennett (Zendaya) fest. Ihr Auto will sich in der mexikanischen Wüste keinen Zentimeter vorwärts bewegen. Und auch in ihrem Leben kommt die drogenabhängige Rue nicht vom Fleck: Erneut wird sie von ihrer Vergangenheit eingeholt, auch wenn sie die High School längst hinter sich gelassen hat.Mit „Euphoria“ ist dieser Tage eine der erfolgreichsten HBO-Produktionen zurückgekehrt (hierzulande bei HBO Max und Sky zu sehen). Die 2019 gestartete Serie über das Erwachsenwerden in einem rauen Amerika entwickelte sich zum Social-Media-Phänomen, die Schauspielerinnen und Schauspieler – darunter Zendaya, Sydney Sweeney, Jacob Elordi, Hunter Schafer – sind mittlerweile Hollywood-Stars.Showrunner Sam Levinson, der selbst auf eine Drogenvergangen",
-      "source": "Kurier",
-      "date": "2026-04-16T17:04:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "3701b7252115",
-      "title": "Kritik an Greenpeace: Warum Experten Asbest-Messungen anzweifeln",
-      "url": "https://kurier.at/chronik/burgenland/asbest-burgenland-arge-naturgestein-greenpeace-steinbrueche-experten/403151211",
-      "category": "PLUS - Chronik/Burgenland",
-      "excerpt": "Nach der intensiv geführten Debatte um Asbest im Burgenland haben sich die vier betroffenen Abbaubetriebe zur ARGE Naturgestein zusammengeschlossen. Ziel sei, die Diskussion zu versachlichen und den Vorwürfen von Greenpeace mit fachlichen Einschätzungen zu begegnen.Dazu wurden internationale Experten beigezogen, darunter Martin Kirschbaum von der RWTH Aachen. Er kritisiert, dass die Vorwürfe auf eigenen Probenahmen und Analysen in einem externen Labor basieren und diese nicht transparent geplant worden seien. Grundsätzlich sei Asbest als natürlicher Bestandteil in vielen Hartgesteinen gebunden vorhanden und in dieser Form unbedenklich.Entscheidend sei laut Experten die Unterscheidung zwischen dem bloßen Vorkommen von Asbestmineralen und einer tatsächlichen Gesundheitsgefährdung durch freig",
-      "source": "Kurier",
-      "date": "2026-04-16T17:02:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "155c49761f76",
-      "title": "Studie vorgestellt: Babler will neues Medienfördersystem",
-      "url": "https://orf.at/stories/3427108/",
-      "category": "Medien",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T16:45:54+02:00",
-      "featured": false
-    },
-    {
-      "id": "93f31402d4bb",
-      "title": "Lange Nacht der Forschung: Mitmachem und Wissenschaft hautnah erleben",
-      "url": "https://kurier.at/wissen/wien-wills-wissen/lange-nacht-der-forschung-2026-programm-wien/403151191",
-      "category": "Wissen/Wien Wills Wissen",
-      "excerpt": "Lange Nacht der Forschung. Österreichs größtes Event zu Wissenschaft, Forschung und Innovation findet heuer am 24. April statt. Hier einige der Highlights in Wien – das ganze Programm finden Sie unter: langenachtderforschung.at",
-      "source": "Kurier",
-      "date": "2026-04-16T16:44:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "8f8a86083807",
-      "title": "Muss Schmid jetzt um seinen Kronzeugenstatus zittern?",
-      "url": "https://kurier.at/politik/inland/muss-schmid-jetzt-um-seinen-kronzeugenstatus-zittern/403151204",
-      "category": "PLUS - Politik/Inland",
-      "excerpt": "Thomas Schmid, Kronzeuge im Ibiza- bzw. Casag-Verfahrenskomplex, der etliche Politiker und andere Persönlichkeiten schwer belastet hat, ist seit Montag selbst Beschuldigter in einem Verfahren. Ausgerechnet Falschaussage wirft die Staatsanwaltschaft Linz dem wichtigsten Zeugen der Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) vor.Folgen hat das – vorerst – keine. Im Wesentlichen geht es um zwei Aspekte: Erstens ist Schmid als Kronzeuge in jenen Causen, in denen er mit seinem Geständnis einen Beitrag zur Aufklärung geleistet hat, vor Strafverfolgung geschützt. Im Casag-Komplex hat er auch sein eigenes strafbares Verhalten zu seiner Zeit als Generalsekretär im Finanzministerium eingestanden. Alleine für die mutmaßliche Inseratenkorruption würden ihm bis zu zehn Jahre Haft drohen.Das ",
-      "source": "Kurier",
-      "date": "2026-04-16T16:31:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "4f9c6b5c3110",
-      "title": "Entwurf zu Integrationspflicht: Haft bei Betrug möglich",
-      "url": "https://orf.at/stories/3427106/",
-      "category": "Inland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T16:27:32+02:00",
-      "featured": false
-    },
-    {
-      "id": "e0b998eccb9f",
-      "title": "Zehntägige Waffenruhe zwischen Israel und Libanon vereinbart",
-      "url": "https://kurier.at/politik/ausland/zehntaegige-waffenruhe-zwischen-israel-und-libanon-vereinbart/403151203",
-      "category": "Politik/Ausland",
-      "excerpt": "Israel und der Libanon haben sich nach Angaben von US-Präsident Donald Trump auf eine zehntägige Feuerpause verständigt. Die Waffenruhe solle noch am Donnerstag beginnen, teilte Trump auf Truth Social mit. Er habe ausgezeichnete Gespräche mit dem libanesischen Präsidenten Joseph Aoun und dem israelischen Ministerpräsidenten Benjamin Netanjahu geführt. In Kraft treten soll der Waffenstillstand um 17.00 Uhr US-Ostküstenzeit (23.00 Uhr MESZ).Beide Staats- und Regierungschefs hätten sich darauf verständigt, zum Erreichen von Frieden zwischen ihren Ländern einen formellen zehntägigen Waffenstillstand zu beginnen. Trump erklärte außerdem, er habe Vizepräsident JD Vance und Außenminister Marco Rubio angewiesen, gemeinsam mit Israel und dem Libanon an einer dauerhaften Friedenslösung zu arbeiten.D",
-      "source": "Kurier",
-      "date": "2026-04-16T16:25:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "d9a8e1389321",
-      "title": "Bayerns Laimer in Wien: „Es macht grad viel Spaß, Fußball zu spielen“",
-      "url": "https://kurier.at/sport/fussball/konrad-laimer-bayern-wien-oefb-milka-herzog/403151202",
-      "category": "PLUS - Sport/Fußball",
-      "excerpt": "Der Fußball ist schon ein schnelllebiges Geschäft. Am Mittwochabend noch in München Real Madrid aus der Champions League gekickt, am Donnerstagnachmittag in der Alszeile in Wien-Hernals.Konrad Laimer eilt von einer legendären Arena zur nächsten. Auf dem Platz des Wiener-Sportclub wurde der Bayern-Legionär als einer von vier Markenbotschaftern von „Milka“ präsentiert.Das „Team Milka“ bilden zudem Viktoria Schnaderbeck, Jakob Pokorny, WM-Vize bei der U17, und Andreas Herzog, der den kulinarischen zarten Versuchungen selten widerstehen kann. „Man sieht ja, dass ich gerne nasche.“ Nasche viel statt Naschenweng.Während Herzog die zarten Herzen, Schoko und Keks, „also eh eigentlich alles“ bevorzugt, gibt sich Laimer traditionell: „Alpenmilch, das sind Kindheitserinnerungen, die immer wieder auft",
-      "source": "Kurier",
-      "date": "2026-04-16T16:23:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "b94dea5051be",
-      "title": "Kreml äußert sich zu Kritik von russischer Bloggerin",
-      "url": "https://orf.at/stories/3427104/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T16:18:23+02:00",
-      "featured": false
-    },
-    {
-      "id": "326418cdcfb5",
-      "title": "Suchanfragen: Google soll Daten mit Konkurrenz teilen",
-      "url": "https://orf.at/stories/3427102/",
-      "category": "IT",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-16T16:02:10+02:00",
-      "featured": false
-    },
-    {
-      "id": "9e9b376728c8",
-      "title": "Datenklau für Putin?: So wurden 36.368 Polizisten an Spione verraten",
-      "url": "https://www.falter.at/zeitung/20260416/so-wurden-36368-polizisten-an-spione-verraten",
-      "category": "Politik",
-      "excerpt": "Sensible persönliche Daten von 36.368 österreichischen Polizisten, Staatsschützern und verdeckten Ermittlern landeten in der Schreibtischschublade eines FPÖ-Politikers – und bei mutmaßlichen Kreml-Agenten. Ein Betroffener will nun Schadenersatz, zehntausende seiner Kolleginnen und Kollegen könnten es ihm gleichtun. Das Protokoll eines geheimen MonsterverfahrensLesen Sie den kompletten Artikel auf FALTER.at",
+      "id": "8e2151828266",
+      "title": "Eurovision Song Contest: Wiens Eurofan Cafés",
+      "url": "https://www.falter.at/lokalfuehrer/wiens-eurofan-cafes",
+      "category": "Lokale nach Anlass",
+      "excerpt": "Wien steht im Mai 2026 ganz im Zeichen des Eurovision Song Contest. Mit der Initiative Eurofan Café verwandeln sich…Lesen Sie den kompletten Artikel auf FALTER.at",
       "source": "Falter",
-      "date": "2026-04-16T16:00:00+02:00",
+      "date": "2026-04-17T09:07:00+02:00",
       "featured": false
     },
     {
-      "id": "baf618cc5f48",
-      "title": "Neues Feature: Folgen Sie dem KURIER bei Google-Discover",
-      "url": "https://kurier.at/kultur/medien/bevorzugte-quelle-festlegen-google-discover-kurier/403150964",
-      "category": "Kultur/Medien",
-      "excerpt": "Sobald Sie dem KURIER in Ihrem personalisierten Google-Discover-Feed folgen, werden Ihnen häufiger Regionalnachrichten aus Wien, Niederösterreich und dem Burgenland sowie Inhalte aus Bereichen wie Sport und mehr angezeigt, die Ihren Interessen entsprechen.Google bietet Nutzerinnen und Nutzern seit Kurzem die Möglichkeit, Inhalte in Google Discover noch gezielter zu personalisieren. Mit der Funktion \"Folgen\" können Sie Medien auswählen, deren Beiträge Ihnen häufiger angezeigt werden.So folgen Sie dem KURIER auf Google DiscoverWenn Sie kurier.at in Google Discover folgen, erhalten Sie noch mehr auf Ihre Interessen abgestimmte Inhalte vom KURIER.Anleitung für Android-SmartphonesSo folgen Sie Quellen in Google Discover mit ihrem Android-Handy:Öffnen oder downloaden Sie die Google-App für Andro",
+      "id": "2edb809d66df",
+      "title": "Flanieren und gustieren: Kulinarische Highlights zum Wochenende",
+      "url": "https://www.falter.at/lokalfuehrer/kulinarische-highlights-zum-wochenende",
+      "category": "Lokale nach Anlass",
+      "excerpt": "Wien ist eine Stadt für Genießer:innen und begeistert mit einer unglaublich vielfältigen Kulinarik. Zwischen…Lesen Sie den kompletten Artikel auf FALTER.at",
+      "source": "Falter",
+      "date": "2026-04-17T08:45:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "3036614128ec",
+      "title": "Fünf Autos in Flammen: Großeinsatz in Parndorf",
+      "url": "https://kurier.at/chronik/burgenland/parndorf-fahrzeugbrand-feuerwehr-a4-ostautobahn-b2-einsatz-pkw-brand/403151355",
+      "category": "Chronik/Burgenland",
+      "excerpt": "Nur wenige Stunden nach einem Fahrzeugbrand auf der A4 Ostautobahn ist es am Abend im Ortsgebiet von Parndorf erneut zu einem Einsatz gekommen. Um 20:30 Uhr wurde die Feuerwehr zu einem Pkw-Brand alarmiert.Bereits während der Anfahrt waren eine deutliche Rauchsäule und Feuerschein sichtbar. Nach der Erkundung erhöhte Einsatzleiter BI Manuel Samwald die Alarmstufe auf B2 und veranlasste eine weitere Sirenenauslösung.Beim Eintreffen standen drei Fahrzeuge in Vollbrand, auf zwei weitere hatte das Feuer bereits übergegriffen. Auch eine angrenzende Böschung war betroffen.Erheblicher Sachschaden an fünf FahrzeugenZwei Atemschutztrupps bekämpften den Brand mit HD-Rohr und Schaumschnellangriff. Nach kurzer Zeit konnte „Brand unter Kontrolle“ gemeldet werden, anschließend folgten Nachlöscharbeiten.",
       "source": "Kurier",
-      "date": "2026-04-16T16:00:00+00:00",
+      "date": "2026-04-17T08:38:17+00:00",
       "featured": false
     },
     {
-      "id": "0dec175e79ff",
-      "title": "Frist gestartet: Spanien holt 500.000 Menschen aus der Illegalität",
-      "url": "https://kurier.at/politik/ausland/spanien-einwanderung-migration-legaler-aufenthalt/403151029",
+      "id": "fecb3d2b5ad6",
+      "title": "\"Happy tax day\": New Yorks Bürgermeister Mamdani plant Reichensteuer",
+      "url": "https://kurier.at/politik/ausland/new-yorker-buergermeister-mamdani-steuer-reiche-millionaere-milliardaere-steuern-wohnen-wohnungen/403151311",
       "category": "Politik/Ausland",
-      "excerpt": "Seit über drei Jahren lebt Karen Lisette schon in Spanien – ohne Papiere. An diesem Mittwoch steht sie vor dem kolumbianischen Konsulat in Madrid, wo sich bereits eine lange Schlange gebildet hat. Sie lässt die letzten Dokumente für sich und ihren Sohn beglaubigen, wie sie den Reportern von CNN erklärt. Sie will die Unterlagen so schnell wie möglich einreichen, um von der jüngsten Einwanderungsregelung der spanischen Regierung Gebrauch zu machen.Die hat in dieser Woche den finalen Gesetzestext verabschiedet, der bislang illegal in Spanien lebenden Menschen ein Aufenthalts- und Arbeitsrecht eröffnen soll. Die Hürden dafür wurden bewusst niedrig gehalten: Antragsteller müssen lediglich bis 31. Dezember 2025 fünf Monate lang durchgehend im Land gewesen sein (als Nachweis genügt „ein öffentlic",
+      "excerpt": "Das durchschnittliche Haushaltseinkommen in New York City beträgt 131.000 US-Dollar und liegt damit weit über dem US-Durchschnitt. Gleichzeitig weist die Stadt an der Ostküste die höchste Zahl an Obdachlosen in den USA auf. 2024 waren es über 140.000 registrierte Obdachlose, die Dunkelziffer ist weitaus höher. Und ist in den vergangenen Jahren immer stärker gestiegen.Ein paar wenige New Yorker an der Spitze der Einkommensskala häufen enorme Reichtümer an, während für Millionen andere Menschen New York unerschwinglich geworden ist. Rund 8,5 Millionen Menschen leben im \"Big Apple\", darunter fast 400.000 Millionäre, die New York zur Stadt mit den meisten Millionären weltweit machen. 34.000 davon verdienen mehr als eine Million Dollar pro Jahr.Der linke Bürgermeister Zohran Mamdani hat bereits",
       "source": "Kurier",
-      "date": "2026-04-16T16:00:00+00:00",
+      "date": "2026-04-17T08:35:16+00:00",
       "featured": false
     },
     {
-      "id": "a9262a2b1dbc",
-      "title": "Die Pensionsdebatte wird ohne Vernunft geführt",
-      "url": "https://kurier.at/meinung/leitartikel/leitartikel-pensionsdebatte-reform-ohne-vernunft/403151112",
-      "category": "PLUS - Meinung/Leitartikel",
-      "excerpt": "Schluss damit! Die Bundesregierung hat keine „große Pensionsreform“ beschlossen. Wenn es schlecht läuft, bleibt sogar ein Teil des kurzfristigen Spareffekts aus. Bei der Teilpension läuft es sehr schlecht. 10.000 Bezieher pro Jahr wären nötig, damit die Sparmaßnahme ausreichend wirkt. Im März waren es 46. Schlimmstenfalls fehlen dem Finanzminister deshalb hunderte Millionen. Viel dramatischer ist aber, dass die aktuelle Pensionsreform kaum langfristige Effekte hat, denn versierte Ökonomen warnen nicht zum Gaudium vor einer „demografischen Bombe“. Obwohl: Diese Bombe detoniert bereits. Im Vorjahr haben die Pensionszuschüsse ein 35-Milliarden-Loch in den Staatshaushalt gerissen. Langfristige Prognosen zeigen, dass sich Österreichs Schulden wegen der Ausgaben für Pensionen, Gesundheit und Pfl",
+      "id": "9eec7c8ff8e0",
+      "title": "Millionen Moleküle: TU Wien arbeitet an Quanten-Durchbruch",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/quantencomputer-million-qubits-tu-wien-forschung/403151341",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Es ist ein internationales Kräftemessen: Wer baut den Quantencomputer mit den meisten Qubits? Konzerne wie Google und IBM duellieren sich mit dieser Zahl. Je höher sie ist, desto stärker ist die Rechenleistung des Quantencomputers. Diese Qubits lassen sich aber kaum stabilisieren. Kleinste Umwelteinflüsse führen dazu, dass sie Informationen verlieren und unbrauchbar werden. So, als würde eine Festplatte alles löschen, wenn die Temperatur um ein Grad steigt. Deshalb werden Quantencomputer, die mit sogenannten supraleitenden Schaltkreisen funktionieren, in speziellen Umgebungen betrieben. Ihr Aufbau ähnelt einem Luster. Der Großteil ist aber nur der „Kühlschrank“ für einen winzigen Chip an dessen Spitze: der eigentliche Quantencomputer. Eine Alternative ist die Ionenfalle. Die Ionen funktion",
       "source": "Kurier",
-      "date": "2026-04-16T16:00:00+00:00",
+      "date": "2026-04-17T08:35:06+00:00",
       "featured": false
     },
     {
-      "id": "f0debd0bb149",
-      "title": "Israel und Libanon vereinbaren zehntägige Waffenruhe",
-      "url": "https://kurier.at/politik/ausland/iran-krieg-israel-usa-angriff-nahostkrieg-livebericht-16-april/403136057",
-      "category": "Politik/Ausland",
-      "excerpt": "Israel und die USA haben am 28. Februar mit Militärschlägen gegen den Iran begonnen.Am 8. April einigten sich die Konfliktparteien auf einen zweiwöchigen Waffenstillstand. Die Friedensverhandlungen sind jedoch gescheitert. Wie es nach dem 22. April weitergeht, ist offen.Laut Trump haben Israel und der Libanon einer zehntägigen Waffenruhe zugestimmt.Die Anzeichen auf eine zweite Gesprächsrunde zwischen den USA und dem Iran verdichten sich. Die USA sind guter Dinge, der Iran zeigt sich offen, droht aber mit Ausweitung der Seeblockade aufs Rote Meer.Der Iran soll eine teilweise Öffnung der Straße von Hormus in Erwägung ziehen, verlangt aber ein Ende des Sanktionen.Der Chef der Internationalen Energieagentur Fatih Birol warnt vor einer gewaltigen Energiekrise: Europa verfüge noch über Kerosin ",
+      "id": "9897c5871f42",
+      "title": "A1 Westautobahn: Sanierungsarbeiten zwischen Haag und St. Valtentin",
+      "url": "https://kurier.at/chronik/niederoesterreich/westautobahn-baustelle-asfinag/403151325",
+      "category": "Chronik/Niederösterreich",
+      "excerpt": "Die Westautobahn (A1) wird zwischen Haag und St. Valentin umfassend modernisiert. Wie die ASFINAG mitteilt, beginnen am Montag, dem 20. April, um 20 Uhr die Bauarbeiten in Fahrtrichtung Salzburg. Insgesamt sind Investitionen von rund 42 Millionen Euro vorgesehen.Die A1 zählt zu den wichtigsten Verkehrsadern des Landes, entsprechend hoch sind die Anforderungen an Infrastruktur und Sicherheit. Ziel des Projekts ist es, den rund zehn Kilometer langen Abschnitt technisch auf den neuesten Stand zu bringen und langfristig einen reibungslosen Verkehrsfluss sicherzustellen.Tempo 80Während der ersten Bauphase bis September wird der Verkehr in Richtung Salzburg weiterhin auf drei Fahrstreifen geführt, allerdings in verschwenkter Linienführung. Im Baustellenbereich gilt eine Geschwindigkeitsbeschränk",
       "source": "Kurier",
-      "date": "2026-04-16T15:47:53+00:00",
+      "date": "2026-04-17T08:26:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "e6a556c86953",
+      "title": "Förderung weg: Entrüstung über Jugendheim-Aus in Amstetten",
+      "url": "https://kurier.at/chronik/niederoesterreich/amstetten-don-bosco-heim-land-noe-landesrat-antauer-vizebuergermeister-riegler/403151315",
+      "category": "Chronik/Niederösterreich",
+      "excerpt": "Mit Bestürzung und Kritik wurde in Amstetten die Ankündigung aufgenommen, dass das traditionsreiche Don Bosco-Jugendheim der Salesianer wegen gestrichener Fördermittel zugesperrt werden soll. Wie berichtet, wurde dem Jugendhort durch die Integrationsabteilung im Ressort von FPÖ-Landesrat Martin Antauer die Förderung in der Höhe von 50.000 Euro für heuer gestrichen. Verschiedene politische Repräsentanten, aber auch zahlreiche Privatpersonen aus dem Mostviertel zeigen sich über Antauers Entscheidung empört. In der Jugendarbeit zu sparen, sei ein absolut falscher Weg, kommentierten Kritiker in Stellungnahmen und auf Social-Media-Kanälen. Sperre zum JubiläumIn der Schulstadt Amstetten wuchsen viele Generationen an Jugendlichen aus dem Bezirk mit dem Don Bosco-Heim auf. Nun hatte Regina Schmid,",
+      "source": "Kurier",
+      "date": "2026-04-17T08:25:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "e05086380e7c",
+      "title": "Diskutieren Sie mit!",
+      "url": "https://kurier.at/wien-wills-wissen/diskutieren-sie-mit/403151330",
+      "category": "Entgeltliche Einschaltung",
+      "excerpt": "Die WU sieht es als ihre Aufgabe, sich mit wirtschaftlichen und gesellschaftlichen Problemen auseinanderzusetzen und einen Beitrag zu zukunftsfähigem Denken, verantwortungsvollem wirtschaftlichen Handeln und damit zur Lösung ökonomischer, sozialer und ökologischer Probleme zu leisten. Mit dem Veranstaltungsformat „WU matters. WU talks.“ werden gesellschaftlich und wirtschaftlich relevante Themen verstärkt ins öffentliche Licht gerückt.Arbeit neu denken: Technologischer Wandel, KI und wirtschaftliche Unsicherheit verändern den Arbeitsmarkt. Welche Fähigkeiten werden künftig benötigt, und wie gut bereitet Ausbildung darauf vor? Mittwoch, 6. Mai 2026, 18 UhrLohngleichheit und Gehaltstransparenz: Trotz Verbot besteht der Gender-Pay-Gap weiter. Kann Transparenz Ungleichheiten verringern, oder f",
+      "source": "Kurier",
+      "date": "2026-04-17T08:25:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "5d14724f68df",
+      "title": "Piloten der Lufthansa streiken weiter",
+      "url": "https://orf.at/stories/3427145/",
+      "category": "Wirtschaft",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-17T08:24:33+02:00",
+      "featured": false
+    },
+    {
+      "id": "b81b90ad6f67",
+      "title": "IWF warnt Europa vor zu breiten Energiehilfen",
+      "url": "https://orf.at/stories/3427144/",
+      "category": "Wirtschaft",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-17T08:22:47+02:00",
+      "featured": false
+    },
+    {
+      "id": "e642fc392ca3",
+      "title": "Pianist Oleg Maisenberg mit knapp 61 Jahren gestorben",
+      "url": "https://kurier.at/kultur/pianist-oleg-maisenberg-mit-knapp-61-jahren-gestorben/403151320",
+      "category": "PLUS - Kultur",
+      "excerpt": "Oleg Maisenberg, am 29. April 1945 in Odessa (heute Ukraine) geboren, starb am 16. April – wenige Tage vor seinem 61. Geburtstag. Das teilte das Wiener Konzerthaus in einer Aussendung mit: \"Er war einer der sensibelsten Pianisten seiner Zeit, sein Spiel war prägnant und zugleich von Zurückhaltung, Innerlichkeit und feiner Klangkultur geprägt.\"Von 1966 bis 1971 hatte Maisenberg am Gnessin-Institut in Moskau bei Alexander Jocheles studiert, dessen Assistent er später wurde. Beim Schubert-Wettbewerb 1967 in Wien gewann er den zweiten Preis. 1981 emigrierte Maisenberg in den Westen und ließ sich in Wien nieder, von 1998 an lehrte er an der Universität für Musik und darstellende Kunst (mdw).Maisenbergs Repertoire reichte von der Wiener Klassik über die Romantik bis zur Musik des 20. Jahrhundert",
+      "source": "Kurier",
+      "date": "2026-04-17T08:17:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "110eee83d0f7",
+      "title": "Frau auf Wiener Friedhof getötet: 14-Jährige zurechnungsfähig",
+      "url": "https://kurier.at/chronik/wien/mord-frau-wiener-friedhof-penzing-14-jaehrige-gutachten/403151327",
+      "category": "Chronik/Wien",
+      "excerpt": "Jene 14-Jährige, die am 23. Februar am Friedhof Baumgarten in Wien-Penzing eine 64 Jahre alte Frau mit einem Taschenmesser erstochen haben soll, war zum Tatzeitpunkt zurechnungsfähig. Zu diesem Schluss kommt ein Gutachten einer Kinder- und Jugendpsychiaterin. Aufgrund der somit gegebenen Schuldfähigkeit muss die 14-Jährige mit einer Mordanklage rechnen - die Staatsanwaltschaft geht davon aus, dass das Mädchen ihr Opfer vorsätzlich getötet hat.Laut Gutachten stach das Mädchen unter dem maßgeblichen Einfluss einer schwerwiegenden und nachhaltigen psychischen Störung mehrmals auf die 64-Jährige ein. \"Der Sachverständigen zufolge hat sie eine instabile Persönlichkeitsstörung, konnte aber das Unrecht ihrer Tat einsehen\", fasste Christoph Zonsics-Kral, der Sprecher des Wiener Landesgerichts, den",
+      "source": "Kurier",
+      "date": "2026-04-17T08:16:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "369958bde7bc",
+      "title": "MedUni Wien: So sieht die Medizin der Zukunft aus",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/meduni-wien-campus-mariannengasse-medizin-der-zukunft/403151020",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Ein windiger Morgen im neunten Wiener Gemeindebezirk. Zwischen den Gerüsten am MedUni Campus Mariannengasse und den glänzenden Fassaden des AKH spürt man bereits, wie sich die medizinische Landschaft Wiens verändert. Lange Zeit waren Forschungseinrichtungen, Lehrgebäude und klinische Bereiche der Medizinischen Universität Wien über die Stadt verstreut. Heute entsteht hier etwas, das mehr ist als nur Beton und Glas: ein lebendiger Ort des Austauschs und der Begegnung – ein Herzstück für die Medizin der Zukunft.Rektor Prof. Markus Müller und Vizerektor Dr. Volkan Talazoglu führen über die Baustellen, erzählen von Visionen und konkreten Plänen. Der MedUni Campus Mariannengasse bündelt auf rund 35.000m² vorklinische Einrichtungen und schafft Raum für über 2.000 Studierende und 750 Wissenschaft",
+      "source": "Kurier",
+      "date": "2026-04-17T08:16:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "0308f3c2c4db",
+      "title": "Herzkrankheiten: Kardiologie-Fortschritte könnten Todesrate um 25% senken",
+      "url": "https://kurier.at/wissen/gesundheit/herzkrankheiten-herzinfarkt-therapie-medikamente-kardiologie/403150514",
+      "category": "PLUS - Wissen/Gesundheit",
+      "excerpt": "Der erste Blick auf den Zeitverlauf ist positiv: 1980 starben in Österreich 1050 von 100.000 Menschen an Krankheiten des Herz-Kreislauf-Systems. 2000 waren es 681, 2024 sank die Zahl auf 317. Dennoch sind Herz-Kreislauf-Erkrankungen nach wie vor die häufigste Todesursache in Österreich. Von 88.486 Todesfällen 2024 entfielen knapp mehr als 30.000 darauf (16.000 Frauen, 14.000 Männer). „Der starke Rückgang der Sterblichkeit liegt in erster Linie an der exzellenten Reparaturmedizin“, sagt der Kardiologe Univ.-Prof. Priv.-Doz. Dr. Daniel Scherr, Präsident der Österreichischen Gesellschaft für Kardiologie: Fortschritte in der Diagnostik und Therapie sowie raschere Versorgung bei akuten Ereignissen wie Herzinfarkten sind hier entscheidend. „Aber unsere Schwachstelle liegt in der Prävention. Desh",
+      "source": "Kurier",
+      "date": "2026-04-17T08:15:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "bfd015f11c51",
+      "title": "Buckelwal \"Timmy\" live: Rettungsversuch läuft",
+      "url": "https://kurier.at/chronik/welt/buckelwal-timmy-ostsee-wismar-rettung-live-experten/403151014",
+      "category": "Chronik/Welt",
+      "excerpt": "Bei der privaten Rettungsaktion für den vor der Insel Poel liegenden Buckelwal hat der zweite Tag begonnen. Sechs Helfer fuhren kurz nach 8.00 Uhr auf Booten im Frühnebel zu dem Tier und überprüften seinen Zustand, wie im Livestream von News5 zu sehen war. Sie erneuerten ein nasses Tuch auf dem Rücken des Wals. Im Laufe des Tages soll versucht werden, das tonnenschwere Tier mit Luftkissen anzuheben.Weil der Buckelwal aber seit mehr als zwei Wochen auf dem Grund festliegt, muss zunächst Meeresboden unter ihm weggespült werden. Der Wal soll dann auf einer Plane zwischen zwei Pontons gelagert werden. Wenn alles gut geht, kann ein Schlepper damit beginnen, die empfindliche Fracht in die tiefere Ostsee und dann durch Kattegat und Skagerrak in die Nordsee und schließlich in den Atlantik zu ziehe",
+      "source": "Kurier",
+      "date": "2026-04-17T08:09:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "aaba32a13501",
+      "title": "Eurasien neu vermessen: Wiener Forschung erklärt die Welt von heute",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/eurasien-neu-vermessen-wiener-forschungsprojekt/403151019",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Was hat die Seidenstraße mit heutigen Konflikten zu tun? Warum berufen sich politische Führer auf jahrhundertealte Traditionen? Und weshalb lohnt es sich, Europa und Asien nicht länger getrennt zu denken? Wer diesen Fragen nachgeht, landet in einem Raum, der riesig ist – und doch enger vernetzt, als man vermuten würde: Eurasien.Mit rund 36 Prozent der globalen Landmasse und etwa 70 Prozent der Weltbevölkerung ist Eurasien der größte zusammenhängende Lebensraum der Erde. Zwei Drittel aller heute gesprochenen Sprachen sind hier beheimatet, ebenso große Weltreligionen. Für die Historikerin Prof. Claudia Rapp ist deshalb klar: Wer Geschichte verstehen will, darf Europa und Asien nicht länger getrennt betrachten. Eurasien war nie ein Nebeneinander isolierter Kulturen, über Jahrtausende hinweg s",
+      "source": "Kurier",
+      "date": "2026-04-17T08:08:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "12cf5b28d78e",
+      "title": "IWF: Tankrabatte sind unkluge Maßnahme",
+      "url": "https://orf.at/stories/3427143/",
+      "category": "Wirtschaft",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-17T08:05:57+02:00",
+      "featured": false
+    },
+    {
+      "id": "726950e1a988",
+      "title": "Gastkommentar: Informatik als das Latein von heute?",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/ki-oder-latein-warum-wir-beides-brauchen-und-bildung-neu-denken-muessen/403151318",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Der Ägyptologe Antonio Loprieno prägte den Satz „Informatik ist das Latein von heute“. Damit rückt die Frage „KI oder Latein“ in ein neues Licht: Es geht nicht um eine Stundenaufteilung, sondern um Ausbildung generell. Informatik und KI zeigen, dass Lernen nie abgeschlossen ist.Auch wenn die aktuelle KI-Entwicklung wie eine Finanzblase platzen könnte, bleibt die Technologie bestehen. KI ist dabei als Simulation, als teilweise Automatisierung des Denkens zu verstehen. Sie ist eine weitere Errungenschaft der Informatik und wird – wie diese – zu einer weiteren Beschleunigung der Welt beitragen.Die Debatte sollte sich weniger um die oft zitierte „Allgemeine künstliche Intelligenz“ drehen. Die Frage ist: Wer entwickelt und kontrolliert diese Systeme und wessen Interessen sind dabei vertreten? W",
+      "source": "Kurier",
+      "date": "2026-04-17T08:04:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "a316b46ed087",
+      "title": "Gastkommentar: Wer Zukunft will, muss sie erforschen",
+      "url": "https://kurier.at/wissen/wien-wills-wissen/boku-laedt-zur-forschung-zukunftsthemen-zum-anfassen-erleben/403151317",
+      "category": "Wissen/Wien Wills Wissen",
+      "excerpt": "Die BOKU University steht heute mehr denn je für eine moderne, technikorientierte Ausbildung, die Tradition mit Innovation verbindet. Als Rektorin ist es mir ein besonderes Anliegen, jungen Menschen Perspektiven in jenen Bereichen zu eröffnen, die unsere Zukunft entscheidend prägen werden. Besonders die Biotechnologie gewinnt dabei an Bedeutung – ein dynamischer Studienzweig, in dem an der BOKU Lösungen für globale Herausforderungen entstehen: von nachhaltiger Landwirtschaft bis hin zu neuen medizinischen Anwendungen.Mit der Langen Nacht der Forschung 2026 und der BOKU Future Conference machen wir diese Entwicklungen für eine breite Öffentlichkeit zugänglich. Beide Formate laden dazu ein, Wissenschaft erlebbar zu machen und den Dialog zwischen Forschung und Gesellschaft zu stärken. DieBOKU",
+      "source": "Kurier",
+      "date": "2026-04-17T08:00:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "4ba3e80e2580",
+      "title": "Mädchen (13) tot im Auto gefunden: Sänger (21) verhaftet",
+      "url": "https://kurier.at/trend-hub/d4vd-celeste-mord-verhaftet-news-aktueller-stand/403082713",
+      "category": "Trend Hub",
+      "excerpt": "Die Leiche von Celeste Rivas Hernandez (14) wurde am 8. September 2025 im Vorder-Kofferraum eines Teslas in Los Angeles entdeckt, nachdem ein Fahrzeug aufgrund eines \"faulig riechenden Geruchs\" bei der Polizei gemeldet wurde. Das Auto befand sich auf einem Abstellplatz und soll laut NBC News auf den Alternative-Indie-Musiker David Anthony Burke, besser bekannt als D4vd, registriert sein. Der aus Houston stammende Künstler erlangte vor allem 2022 mit seinen Songs \"Romantic Homicide\" und \"Here with Me\" Popularität. April 2026: D4vd wurde verhaftetWie BBC berichtet, wurde der Musiker am 16. April wegen Mordverdachts verhaftet. Der 21-Jährige wird ohne Kaution von der Polizei festgehalten. Am Montag soll der Fall der Staatsanwaltschaft vorgelegt werden. Die Vertreter des Sängers erklärten gege",
+      "source": "Kurier",
+      "date": "2026-04-17T07:57:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "3bd9a214c42c",
+      "title": "Skiort in Österreich: Fergies Geheimversteck inmitten von Epstein-Skandal aufgedeckt",
+      "url": "https://kurier.at/stars/austropromis/sarah-ferguson-jeffrey-epstein-skandal-oesterreich-skiort-versteck/403151310",
+      "category": "Stars/Austropromis",
+      "excerpt": "Ihre Freundschaft zu Jeffrey Epstein hat Sarah Ferguson ihren Ruf, ihren Titel und ihr kommodes Leben in der Royal Lodge gekostet. Wie auch ihr Ex-Mann Andrew Mountbatten-Windsor musste die ehemalige Herzogin von York aus dem Luxus-Anwesen ausziehen. Sarah Ferguson ist untergetauchtAus der Öffentlichkeit hat sich \"Fergie\" zurückgezogen. Zuletzt wurde sie bei der Taufe ihrer Enkelin Athena am 12. Dezember in London gesichtet. Ihre Teilnahme an dem Familienfest war inoffiziell: Fergie tat damals ihr Bestes, um unbemerkt zu bleiben. Sie \"saß zusammengesunken im Fond eines Mercedes-Vans mit abgedunkelten Scheiben\", berichtet Mirror über ihr Eintreffen in der Chapel Royal im St. James's Palace (dazu mehr).Luxus-Skiort in Österreich dient als VersteckWo genau sie sich seit ihrem Auszug aus der R",
+      "source": "Kurier",
+      "date": "2026-04-17T07:53:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "4e4f25497fc8",
+      "title": "Blue Zones: Jetzt kommt der Faktencheck zur Langlebigkeit",
+      "url": "https://kurier.at/wissen/gesundheit/blue-zones-langlebigkeit-longevity-superhundertjaehrige/403151197",
+      "category": "Wissen/Gesundheit",
+      "excerpt": "Sie sind seit Jahren das große Versprechen der Langlebigkeit: jene Gegenden der Welt, in denen Menschen angeblich auffallend oft 100 Jahre und älter werden. Aus den „Blue Zones“ wurden Bücher, Kochbücher, Vortragsmarken, Lebensstilprogramme und zuletzt auch eine vielgesehene Netflix-Serie. Die Botschaft dahinter war immer verführerisch schlicht: Wer sich mehr bewegt, pflanzenbetont isst, gut eingebunden lebt und einen Sinn im Alltag hat, könnte nicht nur gesünder, sondern auch länger leben. Erfunden wurde das Konzept in seiner populären Form von dem US-Journalisten Dan Buettner. Er prägte den Begriff „Blue Zones“, nachdem er — unterstützt von National Geographic, gemeinsam mit Forschern und Demografen — Regionen mit angeblich außergewöhnlich hoher Lebenserwartung untersuchte. Der Name geht",
+      "source": "Kurier",
+      "date": "2026-04-17T07:49:34+00:00",
       "featured": false
     }
   ],
   "international": [
     {
-      "id": "e1cc3fd6a5cf",
-      "title": "Iran-Liveblog: ++ Netanjahu und Aoun sollen sich im Weißen Haus treffen ++",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html",
+      "id": "75972574c6be",
+      "title": "Iran-Liveblog: ++ SPD nennt Bedingungen für Hormus-Einsatz ++",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html",
       "category": "Tagesschau",
-      "excerpt": "US-Präsident Trump will Israels Premierminister Netanjahu und den libanesischen Präsidenten Aoun ins Weiße Haus in Washington einladen. Kurz zuvor hatte er eine zehntägige Waffenruhe zwischen Israel und Libanon verkündet.",
+      "excerpt": "SPD-Außenpolitiker Ahmetovic verlangt vor einem deutschen Hormus-Einsatz einen stabilen Waffenstillstand. Israel hat nach libanesischen Angaben nach Inkrafttreten der Waffenruhe mehrere Dörfer beschossen.",
       "source": "Tagesschau",
-      "date": "2026-04-16T19:47:50+02:00",
+      "date": "2026-04-17T10:55:41+02:00",
       "featured": false
     },
     {
-      "id": "2f5fa3dd64fe",
-      "title": "Harmloser Coachella-Pop im erhitzten Amerika",
-      "url": "https://www.tagesschau.de/kultur/coachella-harmloser-pop-im-trump-amerika-100.html",
+      "id": "9f15e98c373b",
+      "title": "Marktbericht: DAX dürfte die Woche mit Gewinnen abschließen",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-104.html",
       "category": "Tagesschau",
-      "excerpt": "Vor dem zweiten Coachella-Wochenende wirkt das größte Popfestival der USA zunehmend wie eine Bühne für Social-Media-Content - und bleibt auffallend unpolitisch. Viel Glitzer, wenig Konflikt. Von Samira Straub.",
+      "excerpt": "Zum Wochenschluss liegt der DAX weiter im Plus. Starke Vorgaben aus den USA und der leicht sinkende Ölpreis fördern die Risikobereitschaft der Anleger. Aber wie weit wird die erhoffte Entspannung tragen?",
       "source": "Tagesschau",
-      "date": "2026-04-16T19:41:11+02:00",
+      "date": "2026-04-17T10:42:51+02:00",
       "featured": false
     },
     {
-      "id": "092dddc4e6f9",
-      "title": "Zugvögel: Tanzende Waldschnepfen begeistern New York",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-new-york-waldschnepfe-100.html",
+      "id": "3da6f7e4040d",
+      "title": "Drei Tote bei Arbeitsunfall in Gerberei in Hessen",
+      "url": "https://www.tagesschau.de/inland/regional/hessen/arbeitsunfall-hessen-lederfabrik-100.html",
       "category": "Tagesschau",
-      "excerpt": "New York ist im Waldschnepfen-Fieber. Die pummeligen Vögel machen jedes Jahr um diese Zeit auf ihrem Flug aus dem Winterquartier nach Kanada Rast mitten in New York. Sehr zur Freude der Großstadtmenschen. Von M. Ganslmeier.",
+      "excerpt": "In Runkel sind bei einem Arbeitsunfall in einer Lederfabrik und Pelzgerberei drei Menschen ums Leben gekommen. Zwei weitere schweben in Lebensgefahr. Was genau den Opfern zustieß, ist noch unklar.",
       "source": "Tagesschau",
-      "date": "2026-04-16T19:16:14+02:00",
+      "date": "2026-04-17T10:27:11+02:00",
       "featured": false
     },
     {
-      "id": "5fda0ee8ed0f",
-      "title": "Marktbericht: Anleger weiter in der Warteschleife",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-102.html",
+      "id": "8c9a1dfbf904",
+      "title": "IWF hält Tankrabatt für \"unkluge Maßnahme\"",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/iwf-warnung-tankrabatt-spritpreise-100.html",
       "category": "Tagesschau",
-      "excerpt": "Neue Hoffnung auf eine Einigung im Iran-Konflikt, aber auch steigende US-Börsen haben den DAX heute zunächst gestützt. Halten konnte der Leitindex das höhere Niveau nicht, er bleibt aber über 24.000 Punkte.",
+      "excerpt": "Der Internationale Währungsfonds rät von Tankrabatten und pauschalen Sprit-Steuersenkungen ab. Solche Hilfen seien teuer, ineffizient und kämen oft vor allem Haushalten mit höherem Einkommen zugute. Das zeigten die Erfahrungen von 2022.",
       "source": "Tagesschau",
-      "date": "2026-04-16T19:02:48+02:00",
+      "date": "2026-04-17T10:20:59+02:00",
       "featured": false
     },
     {
-      "id": "a06be7699129",
-      "title": "Wie Busbetreiber mit dem Spritpreis-Schock umgehen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bus-branche-lage-100.html",
+      "id": "eff56217791e",
+      "title": "Staatlicher Preisdeckel: Wie sind die Erfahrungen in Tschechien?",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankdeckel-tschechien-100.html",
       "category": "Tagesschau",
-      "excerpt": "Viele Busunternehmen haben aktuell vor allem eine Sorge: wie sie angesichts der hohen Kraftstoffpreise ihre Existenz sichern können. Der Umstieg auf Elektroflotten bekommt damit neue Dringlichkeit. Von Teresa Peters.",
+      "excerpt": "Im Kampf gegen explodierende Spritpreise setzt Tschechien auf einen Preisdeckel. Kann der wirklich für größere Entlastungen sorgen als reine Steuersenkungen, wie sie in Deutschland geplant sind? Von D. Handrick.",
       "source": "Tagesschau",
-      "date": "2026-04-16T18:50:10+02:00",
+      "date": "2026-04-17T09:23:42+02:00",
       "featured": false
     },
     {
-      "id": "1eb62fed00dd",
-      "title": "Trump verkündet Waffenruhe zwischen Israel und Libanon",
-      "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-waffenruhe-102.html",
-      "category": "Tagesschau",
-      "excerpt": "Israel und der Libanon haben sich nach Angaben von US-Präsident Trump auf eine Waffenruhe geeinigt. Sie soll zehn Tage dauern. Erst am Dienstag hatte es erste diplomatische Bemühungen in Washington gegeben.",
-      "source": "Tagesschau",
-      "date": "2026-04-16T18:48:23+02:00",
+      "id": "177005591577",
+      "title": "Iran Resisted a Powerful Attacker. Taiwan Can Too.",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html",
+      "category": "Iran",
+      "excerpt": "By holding off America’s more powerful military, Iran showed how Taiwan can deter or defeat China.",
+      "source": "New York Times",
+      "date": "2026-04-17T09:02:32+00:00",
       "featured": false
     },
     {
-      "id": "3835f2382c25",
-      "title": "Russland hat die Ukraine wieder massiv angegriffen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-luftangriffe-alarmzustand-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Mit mehr als 40 Raketen und nahezu 700 Drohnen hat Russland die Ukraine zuletzt angegriffen. Politiker und Beobachter in der Ukraine sprechen von Kriegsverbrechen und Terror, der vor allem die Zivilbevölkerung treffe. Von Rebecca Barth.",
-      "source": "Tagesschau",
-      "date": "2026-04-16T18:28:54+02:00",
+      "id": "41284dc9dc99",
+      "title": "‘I Would Rather Be a Dwarf’: A Comic in Botswana Prizes His Difference",
+      "url": "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html",
+      "category": "Botswana",
+      "excerpt": "Johnson Masase has found local fame, and self acceptance, through performances that play on people’s ignorance about his genetic condition and his 3-foot-4 inch frame.",
+      "source": "New York Times",
+      "date": "2026-04-17T09:00:49+00:00",
       "featured": false
     },
     {
-      "id": "21138e21e541",
-      "title": "LIVE-TICKER - Iran-Krieg: Trump verkündet Waffenruhe in Libanon +++ Hizbullah unterstreicht «Recht auf Widerstand»",
-      "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292",
+      "id": "20a41ac9a159",
+      "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+      "url": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+      "category": "Cocaine and Crack Cocaine",
+      "excerpt": "Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world.",
+      "source": "New York Times",
+      "date": "2026-04-17T09:00:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "aee79c3f19d8",
+      "title": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
+      "url": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-leaves-netanyahu.html",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "excerpt": "Most Israelis wanted the fight against Hezbollah to continue. But Prime Minister Benjamin Netanyahu’s critics say he is showing that he cannot, or will not, stand up to President Trump.",
+      "source": "New York Times",
+      "date": "2026-04-17T08:58:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "ce0a8adbe74d",
+      "title": "BILDSTRECKE - Der Krieg im Nahen Osten in Bildern",
+      "url": "https://www.nzz.ch/fotografie/krieg-in-iran-israel-und-die-usa-greifen-an-explosionen-in-teheran-raketenalarm-in-israel-ld.1927072",
       "category": "NZZ",
-      "excerpt": "Die USA und Israel greifen Iran an. Teheran hat heftige Gegenangriffe lanciert. Die Folgen des Konflikts sind weltweit spürbar. Die neuesten Entwicklungen im Live-Ticker.",
+      "excerpt": "Mit koordinierten Luftangriffen gegen Ziele in Iran haben Israel und die USA eine neue Phase der Eskalation im Nahen Osten eingeläutet. Vertriebene in Libanon kehren zurück. Die neuesten Entwicklungen in Bildern.",
       "source": "NZZ",
-      "date": "2026-04-16T17:52:48+00:00",
+      "date": "2026-04-17T08:49:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "3269d2ce2639",
+      "title": "Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
+      "category": "Politics",
+      "excerpt": "Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting adviceOlly Robbins forced out in Mandelson vetting rowJones repeatedly denied that the prime minister had given a misleading impression about what has happened and had “lost grip” of the situation. He told BBC Radio 4’s Today programme:I completely refute the suggestion the PM misled the public or the House of Commons. It’s very clear from his words he was reporting what he had been told and what had been followed.I don’t think this is a question about the prime minister’s leadership.The Foreign Office did not tell the prime minister that they granted developed vetting status to Peter Mandelson against the advice of the security and vetting process. The prime minister was only made ",
+      "source": "The Guardian",
+      "date": "2026-04-17T08:47:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b78be09f6f1",
+      "title": "\"Gelebte Frauenpolitik\" - Gesundheitsministerin Warken verteidigt Sparpläne",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kritik-mitversicherung-gesundheitsreform-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Für bisher mitversicherte Ehepartner sollen bald Krankenkassenbeiträge fällig werden. Das sei \"gelebte Frauenpolitik\", verteidigte Gesundheitsministerin Warken die Pläne. Die CSU stößt sich an den Kosten für Bürgergeldempfänger.",
+      "source": "Tagesschau",
+      "date": "2026-04-17T08:46:35+02:00",
+      "featured": false
+    },
+    {
+      "id": "f1c225861aea",
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "source": "BBC World",
+      "date": "2026-04-17T08:44:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "5e02a1df962f",
+      "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
+      "url": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html",
+      "category": "Tagesschau",
+      "excerpt": "Es ist der fünfte Streiktag bei der Lufthansa in dieser Woche: Heute setzen die Piloten ihre Arbeitsniederlegungen fort. Fluggäste müssen mit Ausfällen rechnen - und eine Einigung ist nicht in Sicht.",
+      "source": "Tagesschau",
+      "date": "2026-04-17T08:43:50+02:00",
+      "featured": false
+    },
+    {
+      "id": "3373777cd0e3",
+      "title": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
+      "url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
+      "category": "US-Israel war on Iran",
+      "excerpt": "António Guterres welcomes truce and says he hopes halt in fighting will ‘pave the way for negotiations’In case you’re just joining us, here are the latest developments in the Middle East to bring you up to speed. It’s 9am in Beirut and Jerusalem, 9.30am in Tehran and 2am in Washington DC.A 10-day ceasefire between Israel and Lebanon has come into effect, pausing fighting between Israel and Hezbollah that has killed more than 2,100 Lebanese people and displaced more than 2.1 million. The agreement was announced earlier by Donald Trump, who said he had spoken with Israeli prime minister Benjamin Netanyahu and Lebanese president Joseph Aoun, and invited both leaders “for meaningful talks” at the White House. Both leaders welcomed the agreement.Israel and Hezbollah both maintained their right ",
+      "source": "The Guardian",
+      "date": "2026-04-17T08:40:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "d8265021a8e0",
+      "title": "Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations",
+      "url": "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html",
+      "category": "Great Britain",
+      "excerpt": "Prime Minister Keir Starmer’s office confirmed that Peter Mandelson, the former envoy to the United States, had been appointed despite failing to pass security vetting checks.",
+      "source": "New York Times",
+      "date": "2026-04-17T08:34:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "e942b5c44129",
+      "title": "Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies",
+      "url": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Some of the most hotly anticipated new films of the next couple of years are previewed at CinemaCon.",
+      "source": "BBC World",
+      "date": "2026-04-17T08:30:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "eaf4accecf61",
+      "title": "Netflix co-founder Reed Hastings to leave streaming service",
+      "url": "https://www.theguardian.com/media/2026/apr/16/netflix-chair-reed-hastings",
+      "category": "Netflix",
+      "excerpt": "Chair’s decision to not seek re-election ‘not as a result of any disagreement’, company says in filingReed Hastings, the Netflix chair, is leaving the streaming service he co-founded almost 30 years ago as the company regains its footing after losing out on a $72bn (£53bn) deal for Warner Bros Discovery.In a 14-page letter to investors released on Thursday, Netflix said Hastings would not stand for re-election at its annual meeting in June and planned to focus on philanthropy and other pursuits. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-17T08:29:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "103ef0e35e7a",
+      "title": "Three charged with arson on Persian media offices in London",
+      "url": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
+      "source": "BBC World",
+      "date": "2026-04-17T08:22:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "9a230b12b3b4",
+      "title": "DIE NEUESTEN ENTWICKLUNGEN - Drama in der Ostsee: Heute startet ein neuer Rettungsversuch für den gestrandeten Wal",
+      "url": "https://www.nzz.ch/wissenschaft/wal-timmy-in-der-ostsee-antworten-auf-die-wichtigsten-fragen-ld.1932015",
+      "category": "NZZ",
+      "excerpt": "Seit dem 31. März sitzt das Tier vor der Insel Poel fest. Nun soll ein neuer Rettungsversuch unternommen werden. Das sind die Antworten auf die wichtigsten Fragen zum gestrandeten Buckelwal.",
+      "source": "NZZ",
+      "date": "2026-04-17T08:21:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "25466a4bf8b7",
+      "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool",
+      "url": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
+      "category": "AI (artificial intelligence)",
+      "excerpt": "Release of new Claude model, so far limited to US firms, will expand to British institutions in coming daysBritish banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact.Anthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial institutions. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-17T08:17:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "1cfde303a517",
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
+      "source": "BBC World",
+      "date": "2026-04-17T08:17:50+00:00",
       "featured": false
     },
     {
       "id": "5df1de4ccc28",
-      "title": "Iran War Live Updates: Trump Announces Lebanon-Israel Cease-Fire",
+      "title": "Lebanon-Israel Cease-Fire Goes Into Effect",
       "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
       "category": "New York Times",
-      "excerpt": "Lebanon’s prime minister said he welcomed the pause in Israel’s hostilities against Hezbollah, expected to start at 5 p.m. Eastern time, though Israel and Hezbollah did not immediately respond.",
+      "excerpt": "It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.",
       "source": "New York Times",
-      "date": "2026-04-16T17:45:35+00:00",
+      "date": "2026-04-17T08:17:48+00:00",
       "featured": false
     },
     {
-      "id": "5fa3bf45c3ae",
-      "title": "Middle East crisis live: Lebanon and Israel agree 10-day ceasefire to begin within hours, Trump says",
-      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-      "category": "US-Israel war on Iran",
-      "excerpt": "Israeli forces will not withdraw from the south of Lebanon during the ceasefire, according to reportsUS and Iran in indirect talks to extend two-week ceasefireIran has stopped all petrochemical exports to prioritise domestic supply and prevent shortages of raw materials, Reuters reported.The state-owned National Petrochemical Company ordered firms to suspend exports until further notice. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:44:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "4168252964a7",
-      "title": "Donald Trump verkündet eine zehntägige Waffenruhe in Libanon – doch ein Frieden bleibt weit entfernt",
-      "url": "https://www.nzz.ch/international/libanon-trump-verkuendet-zehntaegige-waffenruhe-ld.1933915",
-      "category": "NZZ",
-      "excerpt": "Obwohl der amerikanische Präsident das Gegenteil versprochen hatte, telefonierten Libanons Präsident und Israels Ministerpräsident am Donnerstag nicht miteinander. Dennoch schweigen die Waffen in der Levante. Wie geht es jetzt weiter?",
-      "source": "NZZ",
-      "date": "2026-04-16T17:43:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "febc8bfc4b62",
-      "title": "London primary schools see 3.5% drop in children entering reception",
-      "url": "https://www.theguardian.com/education/2026/apr/16/london-primary-schools-fall-numbers-children-entering-reception",
-      "category": "School admissions",
-      "excerpt": "Capital’s schools hardest hit in England and Wales by rising housing costs and falling birthrate, with further falls predicted in coming yearsSchools in London continue to be hardest hit by housing costs and the falling birthrate. Further closures and mergers of primary schools are expected after a sharp fall in the number of children entering reception classes in the capital.London’s boroughs will have nearly 3,000 fewer infants aged four enrolling at the start of the next school year in September, according to school place offers announced by local authorities across England. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:42:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "a165b80cf8c4",
-      "title": "Trump officials urge other countries to join new ‘trade over aid’ push",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/trump-officials-foreign-aid",
-      "category": "USAID",
-      "excerpt": "US calls free-market capitalism ‘surest path to prosperity’ and seeks to forgo direct aid to developing countriesMiddle East crisis – live updatesThe Trump administration has moved to formally enlist foreign governments in a sweeping reorientation of global development policy, directing American diplomats worldwide to seek official support for a “trade over aid” declaration before its introduction at the United Nations later this month. This would mean a move away from direct aid to poor nations in favor of increased trade, led by private companies.Principal deputy spokesperson at the state department Tommy Pigott confirmed the initiative on Wednesday, framing it as a rejection of what he called a failed aid model. “The idea that trade and free market capitalism is the surest path to prosp",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:41:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "f29cbb091908",
-      "title": "No 10 claims Starmer did not know Mandelson failed security vetting until this week – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
-      "category": "Politics",
-      "excerpt": "The prime minister was not aware that the former US ambassador had failed the vetting process, according to Downing StreetSwinney says this is a manifesto for the whole of Scotland.He confirms that the SNP would argue for the Scottish power to have more control over energy policy (still largely reserved to Westminter). He says:The problem is not that we do not have the energy. The problem is that Westminster has the power. This election is our opportunity to take those powers and put them into Scotland’s hands. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:40:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "0472550595e9",
-      "title": "Officials debate withholding Mandelson vetting documents from parliament",
-      "url": "https://www.theguardian.com/politics/2026/apr/16/officials-debate-withholding-mandelson-vetting-documents-from-parliament",
-      "category": "Peter Mandelson",
-      "excerpt": "Exclusive: Opinions split on ‘unprecedented’ release of files, despite demand for ‘all papers’ related to ex-US ambassador’s appointmentRevealed: Mandelson failed vetting but Foreign Office overruled decisionFive key questions: who overruled decision to deny Mandelson security clearance?Senior government officials have been considering whether to withhold from parliament sensitive documents that show Peter Mandelson failed security vetting before he assumed the role of US ambassador, the Guardian can reveal.Any such decision could amount to an extraordinary breach of a parliamentary vote, known as a humble address, that ordered the release of “all papers” relevant to Mandelson’s appointment. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:39:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "f060f39866d3",
-      "title": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
-      "url": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
-      "category": "Speeches and Statements",
-      "excerpt": "For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace.",
-      "source": "New York Times",
-      "date": "2026-04-16T17:39:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f27184d16f7",
-      "title": "Utah reports more than 600 measles cases as outbreak spreads across US",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/utah-measles-cases-outbreak",
-      "category": "Utah",
-      "excerpt": "Data shows 85% of those infected in the state have been not vaccinated against measles as dozens are hospitalizedMeasles: how does it spread and how can I protect my child?Utah has emerged as a major center of measles infections in the US, as an outbreak that has been building for some time continues to expand.State officials reported a total of 602 measles cases on Wednesday tied to an outbreak that started last year and is still ongoing, including 19 newly identified infections, according to the Center for Infectious Disease Research and Policy (CIDRAP). Recent exposures have been reported at several preschools and elementary schools. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:38:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "2407c8d3fa42",
-      "title": "US House rejects war powers resolution that would prevent further action against Iran",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/war-powers-trump-iran-vote",
-      "category": "House of Representatives",
-      "excerpt": "Resolution needed two more votes to pass, but Democrats now appear solidified in oppositionSign up for the Breaking News US email to get newsletter alerts in your inboxThe US House of Representatives on Thursday narrowly rejected a war powers resolution that would have prevented further military action against Iran, as Democrats united against continued US involvement in the conflict amid peace talks that have yet to make a breakthrough.The resolution introduced by Greg Meeks, the top Democrat on the House foreign affairs committee, failed by a vote of 213-214, with one Republican member voting present. It required at least two more votes to pass, as tied votes fail in the House. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:33:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ef077dc25c5",
-      "title": "Schulangreifer in Türkei hatte offenbar frauenfeindliches Vorbild",
-      "url": "https://www.derstandard.at/story/3000000316999/schul-angreifer-in-t252rkei-hatte-offenbar-frauenfeindliches-vorbild?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Der 14-Jähriger tötete neun Menschen und verletzte 13 weitere. Vor der Tat bezog er sich im Internet auf den US-Attentäter Elliot Rodger",
-      "source": "Der Standard",
-      "date": "2026-04-16T17:30:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "7dfac22640ac",
-      "title": "Pooh in pencil: sketches for original Winnie-the-Pooh book shared for first time",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/16/winnie-the-pooh-book-preliminary-sketches-e-h-shepard",
-      "category": "Drawing",
-      "excerpt": "E H Shepard drawings go on display for book’s centenary, showing how he brought AA Milne’s character to lifePreviously unseen drawings of Winnie-the-Pooh that show the honey-loving bear before he was introduced to generations of readers in the 1926 book have come to light.Two preliminary pencil sketches by E H Shepard have been shared for the first time by his family to mark the centenary of one of the most loved books in children’s literature. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-16T17:30:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "6cf91fc4aa0e",
-      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
-      "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
+      "id": "8bfd66661146",
+      "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
+      "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
       "category": "BBC World",
-      "excerpt": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
+      "excerpt": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
       "source": "BBC World",
-      "date": "2026-04-16T17:24:46+00:00",
+      "date": "2026-04-17T08:15:50+00:00",
       "featured": false
     },
     {
-      "id": "67ba1cbd27e4",
-      "title": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
-      "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Malema is appealing against the decision, which means he is not going to prison immediately.",
-      "source": "BBC World",
-      "date": "2026-04-16T17:20:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "9b422de74a9a",
-      "title": "Revealed: Mandelson failed vetting but Foreign Office overruled decision",
-      "url": "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision",
-      "category": "Peter Mandelson",
-      "excerpt": "Guardian investigation uncovers decision by UK security officials to deny clearance before Mandelson took up role as US ambassadorOfficials debate withholding Mandelson vetting documents from parliamentFive key questions: Who overruled the decision to deny Mandelson security clearance?Peter Mandelson failed his security vetting clearance but the decision was overruled by the Foreign Office to ensure he could take up his post as ambassador to the US, an investigation by the Guardian can reveal.According to multiple sources, Mandelson was initially denied clearance in late January 2025 after a developed vetting process, a highly confidential background check by security officials. Continue reading...",
+      "id": "70b2a18ee37e",
+      "title": "Ben Roberts-Smith released from prison on bail after being charged with five counts of war crime murder",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb",
+      "category": "Ben Roberts-Smith",
+      "excerpt": "Former SAS corporal granted bail ahead of potential trial on charges relating to alleged killing of civilians in AfghanistanFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBen Roberts-Smith has been granted bail under strict conditions while he awaits a potential trial on alleged war crimes.The Victoria Cross recipient, once Australia’s most lionised soldier, faces five charges of war crime murder over allegations he killed unarmed civilians during his service with the Australian SAS in Afghanistan. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-04-16T17:16:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "4aa960cb8493",
-      "title": "Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure",
-      "url": "https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html",
-      "category": "US and Israeli Attack on Iran (2026)",
-      "excerpt": "The U.S. blockade of shipments through the Strait of Hormuz would last “for as long as it takes,” the defense secretary said.",
-      "source": "New York Times",
-      "date": "2026-04-16T17:15:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "4ccc6aa318c1",
-      "title": "Das Aus der Cityline kommt überraschend. Es verschärft den Konflikt bei der Lufthansa",
-      "url": "https://www.nzz.ch/wirtschaft/das-aus-der-cityline-kommt-ueberraschend-es-verschaerft-den-konflikt-bei-der-lufthansa-ld.1934043",
-      "category": "NZZ",
-      "excerpt": "Wegen hoher Treibstoffkosten und Belastungen durch Streiks stellt die Lufthansa den Betriebs des defizitären Tochterunternehmens früher als geplant ein. Gewerkschafter sprechen von «offenem Krieg.»",
-      "source": "NZZ",
-      "date": "2026-04-16T17:11:14+00:00",
+      "date": "2026-04-17T08:11:23+00:00",
       "featured": false
     }
   ],
   "briefing": {
-    "text": "NACHRICHTEN\n\nOesterreich:\n• Russland-Sanktionen: Slowakei droht mit Veto\n  → Slowakei signalisiert Blockade bei weiteren EU-Sanktionen gegen Russland. [LINK:https://orf.at/stories/3427122/]\n\n• Causa Ott: Neue Ermittlungen mit wohl 36.368 Betroffenen\n  → In der Staatsaffäre wurden über 36.000 Polizisten ohne Wissen an Geheimdienste verraten, umfangreiche Ermittlungen eingeleitet. [LINK:https://orf.at/stories/3427114/]\n\n• Jugendkriminalität steigt, Justizpolitik schläft\n  → Die Jugendkriminalität nimmt zu, während die österreichische Justizpolitik keine wirksamen Gegenmaßnahmen zeigt. [LINK:https://www.diepresse.com/20774973/die-jugendkriminalitaet-steigt-die-justizpolitik-schlaeft]\n\n• Neue Studie liefert „Optionen\" für Reform\n  → Eine aktuelle Studie präsentiert Reformvorschläge zur Optimierung staatlicher Strukturen. [LINK:https://orf.at/stories/3427077/]\n\nInternational:\n• Israel und Libanon stimmen Waffenruhe zu\n  → Trump verkündet zehntägige Waffenruhe zwischen Israel und Libanon nach diplomatischen Vermittlungen. [LINK:https://orf.at/stories/3427116/]\n\n• Russland hat die Ukraine wieder massiv angegriffen\n  → Russische Luftangriffe führen zu erneutem Luftalarm in der Ukraine. [LINK:https://www.tagesschau.de/ausland/europa/ukraine-luftangriffe-alarmzustand-100.html]\n\n• Türkei: Schul-Angreifer hatte frauenfeindliches US-Vorbild\n  → Ermittlungen deuten darauf hin, dass der Angreifer von einer extremistischen US-Ideologie beeinflusst war. [LINK:https://kurier.at/chronik/welt/tuerkei-schul-angreifer-hatte-offenbar-frauenfeindliches-us-vorbild/403151213]\n\nRECHTSPRECHUNG\n\nOGH (neu veroeffentlicht):\n• OGH 1Ob34/26w - Zivilrechtliche Entscheidung\n  → Oberster Gerichtshof entscheidet in erstinstanzlicher Berufungssache. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260408_OGH0002_0010OB00034_26W0000_000]\n\n• OGH 15Os32/26h - Strafverfahren\n  → Oberster Gerichtshof entscheidet in Strafrechtssache mit Revisionszulassung. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260407_OGH0002_0150OS00032_26H0000_000]\n\n• OGH 12Os35/26b - Strafrechtsangelegenheit\n  → Oberster Gerichtshof befasst sich mit Strafverfahrensfrage. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260327_OGH0002_0120OS00035_26B0000_000]\n\nVfGH (neu veroeffentlicht):\n[Keine neuen Entscheidungen veroeffentlicht]\n\nEuGH:\n• C-642/24 - Urteil des Gerichtshofs\n  → Der Europäische Gerichtshof verkündet Urteil in Rechtssache C-642/24. [LINK:https://curia.europa.eu/site/jcms/p1_1000082549]\n\n• C-440/23 - Urteil des Gerichtshofs\n  → Der Europäische Gerichtshof entscheidet in Rechtssache C-440/23. [LINK:https://curia.europa.eu/site/jcms/p1_1000082523]\n\n• C-131/25 - Schlussanträge des Generalanwalts\n  → Generalanwalt präsentiert Schlussanträge zur Rechtssache C-131/25. [LINK:https://curia.europa.eu/site/jcms/p1_1000082560]\n\n• C-555/24 P - Schlussanträge der Generalanwältin\n  → Generalanwältin bringt Schlussanträge in Berufungssache C-555/24 P vor. [LINK:https://curia.europa.eu/site/jcms/p1_1000082548]\n\nRecht News:\n• WKStA ermittelt gegen Ex-Kanzler Gusenbauer\n  → Wirtschafts- und Korruptionsstaatsanwaltschaft führt Ermittlungen gegen Gusenbauer durch, Hausdurchsuchungen in Wien und Niederösterreich durchgeführt. [LINK:https://www.derstandard.at/story/3000000316985/wksta-ermittelt-ex-kanzler-ermittlungen-und-hausdurchsuchungen-bei-ex-kanzler-gusenbauer?ref=rss]\n\n• Besser Erbschaftssteuer als Vermögenssteuer?\n  → Debatte über die Wahl zwischen Erbschaftssteuer und Vermögenssteuer als Finanzierungsinstrument. [LINK:https://www.derstandard.at/story/3000000316890/besser-erbschaftssteuer-als-vermoegenssteuer?ref=rss]\n\nIntl. Recht:\n• Last Court Standing - Ecuador Constitutional Court\n  → Analyse zur Rolle des ecuadorianischen Verfassungsgerichts in der politischen Krise. [LINK:https://verfassungsblog.de/ecuador-constitutional-court/]\n\n• When Courts Turn Into Justices - Brazil STF Crisis\n  → Untersuchung der Machtverhältnisse und Rolle des brasilianischen Obersten Bundesgerichts. [LINK:https://verfassungsblog.de/brazil-stf-crisis/]\n\n• Queer, aber unpolitisch\n  → Analyse der Entpolitisierung queerer Bewegungen in Verfassungsdebatten. [LINK:https://verfassungsblog.de/queer-aber-unpolitisch/]\n\n• Neutralised (Right to) Strike\n  → Studie zur Einschränkung des Streikrechts durch Neutralisierungsmaßnahmen. [LINK:https://verfassungsblog.de/neutralised-right-to-strike/]",
-    "date": "2026-04-16T17:56:01.996047+00:00"
+    "text": "NACHRICHTEN\n\nOesterreich:\n• Rechnungshof mit Vorschlägen zur Entbürokratisierung\n  → Der RH präsentiert Maßnahmen zur eigenen Entbürokratisierung und setzt damit ein Zeichen für schlankerere Verwaltungsprozesse. [LINK:https://orf.at/stories/3427160/]\n\n• Musiker D4vd festgenommen – Leiche im Kofferraum\n  → Die Wiener Polizei hat einen bekannten Musiker festgenommen, der im Zusammenhang mit einer Leichenfindung in einem Kofferraum unter Verdacht steht. [LINK:https://orf.at/stories/3427155/]\n\n• Anne-Frank-Haus veröffentlicht YouTube-Serie\n  → Das Anne-Frank-Haus startet eine neue YouTube-Serie zur Vermittlung von Zeitgeschichte und Menschenrechtsthemen. [LINK:https://orf.at/stories/3427152/]\n\n• Eurovision Song Contest: Wiens Eurofan Cafés\n  → Wien bietet zahlreiche Treffpunkte für Eurovision-Fans, die gemeinsam das Event verfolgen und feiern. [LINK:https://www.falter.at/lokalfuehrer/wiens-eurofan-cafes]\n\n• Kulinarische Highlights zum Wochenende\n  → Der Falter stellt ausgewählte Restaurants und Cafés vor, die zum Flanieren und Genießen am Wochenende einladen. [LINK:https://www.falter.at/lokalfuehrer/kulinarische-highlights-zum-wochenende]\n\n• Großeinsatz in Parndorf – Fünf Autos in Flammen\n  → Bei einem Fahrzeugbrand auf der A4-Ostautobahn in Parndorf wurden fünf Autos vollständig zerstört; die Feuerwehr war mit Großaufgebot im Einsatz. [LINK:https://kurier.at/chronik/burgenland/parndorf-fahrzeugbrand-feuerwehr-a4-ostautobahn-b2-einsatz-pkw-brand/403151355]\n\n• Millionen Moleküle: TU Wien arbeitet an Quanten-Durchbruch\n  → Forscherinnen und Forscher der TU Wien erzielen Fortschritte bei der Entwicklung von Quantencomputern mit Millionen Qubits. [LINK:https://kurier.at/wissen/wien-wills-wissen/quantencomputer-million-qubits-tu-wien-forschung/403151341]\n\nInternational:\n• SPD nennt Bedingungen für Hormus-Einsatz – Iran-Liveblog\n  → Die SPD präsentiert ihre Voraussetzungen für einen möglichen deutschen Marineeinsatz in der Straße von Hormus im Iran-Konflikt. [LINK:https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html]\n\n• DAX dürfte die Woche mit Gewinnen abschließen\n  → Der Deutsche Aktienindex wird zum Wochenende hin positive Tendenzen aufweisen, angetrieben durch weltweite Marktdynamiken. [LINK:https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-104.html]\n\n• Drei Tote bei Arbeitsunfall in Gerberei in Hessen\n  → Bei einem Arbeitsunfall in einer hessischen Lederfabrik sind drei Personen tödlich verunglückt. [LINK:https://www.tagesschau.de/inland/regional/hessen/arbeitsunfall-hessen-lederfabrik-100.html]\n\n• IWF hält Tankrabatt für \"unkluge Maßnahme\"\n  → Der Internationale Währungsfonds kritisiert Tankrabatte als ineffektive und verzerrende wirtschaftliche Interventionen. [LINK:https://www.tagesschau.de/wirtschaft/verbraucher/iwf-warnung-tankrabatt-spritpreise-100.html]\n\n• Staatlicher Preisdeckel in Tschechien – Erfahrungsbericht\n  → Tschechien teilt seine Erfahrungen mit einem staatlichen Preisdeckel auf Treibstoffe und deren gesamtwirtschaftliche Auswirkungen. [LINK:https://www.tagesschau.de/wirtschaft/verbraucher/tankdeckel-tschechien-100.html]\n\n• Iran Resisted a Powerful Attacker. Taiwan Can Too.\n  → Die New York Times zieht Parallelen zwischen Irans Abwehrfähigkeiten und möglichen Szenarien für Taiwans Verteidigungspotential. [LINK:https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html]\n\n• 'I Would Rather Be a Dwarf': A Comic in Botswana Prizes His Difference\n  → Ein Komiker aus Botswana setzt sich durch seine Kunst für die Akzeptanz von Menschen mit Kleinwuchs ein. [LINK:https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html]\n\n• Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.\n  → Die Trump-Administration intensiviert die Drogenbekämpfung, während Schmuggler ständig neue Methoden entwickeln. [LINK:https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html]\n\nRECHTSPRECHUNG\n\nOGH (neu veroeffentlicht):\n• OGH 1Ob34/26w\n  → Entscheidung des Obersten Gerichtshofs zu Zivilrechtsfragen. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260408_OGH0002_0010OB00034_26W0000_000]\n\n• OGH 15Os32/26h\n  → Entscheidung des Obersten Gerichtshofs zu Strafvollzugsangelegenheiten. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260407_OGH0002_0150OS00032_26H0000_000]\n\n• OGH 12Os35/26b\n  → Entscheidung des Obersten Gerichtshofs zu Strafsachen. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260327_OGH0002_0120OS00035_26B0000_000]\n\nVfGH (neu veroeffentlicht):\n• VfGH V258/2025 – Oberösterreichisches Raumordnungsgesetz\n  → Entscheidung des Verfassungsgerichtshofs zu Flächenwidmungsplänen und raumordnungsrechtlichen Bestimmungen in Oberösterreich. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_20260318_25V00258_01]\n\nEuGH:\n• Schlu",
+    "date": "2026-04-17T09:04:55.247394+00:00"
   },
   "_meta": {
-    "last_updated": "2026-04-16T17:56:01.996047+00:00"
+    "last_updated": "2026-04-17T09:04:55.247394+00:00"
   }
 }
