@@ -1,70 +1,70 @@
 {
   "weather": {
-    "temp_current": 14.7,
-    "humidity": 36,
-    "wind": 14.3,
-    "temp_max": 16.1,
-    "temp_min": 8.2,
-    "precip": 0.2,
+    "temp_current": 8.6,
+    "humidity": 66,
+    "wind": 13.1,
+    "temp_max": 12.7,
+    "temp_min": 7.1,
+    "precip": 0.9,
     "description": "Bewölkt",
     "emoji": "☁️",
     "code": 3,
     "hourly": [
       {
         "hour": "06:00",
-        "temp": 8.4,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 0
+        "temp": 7.2,
+        "code": 80,
+        "emoji": "🌦️",
+        "precip": 83
       },
       {
         "hour": "08:00",
-        "temp": 8.7,
+        "temp": 7.5,
         "code": 3,
         "emoji": "☁️",
-        "precip": 0
+        "precip": 38
       },
       {
         "hour": "10:00",
-        "temp": 11.5,
+        "temp": 8.3,
         "code": 3,
         "emoji": "☁️",
-        "precip": 0
+        "precip": 15
       },
       {
         "hour": "12:00",
-        "temp": 14.4,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 0
+        "temp": 9.0,
+        "code": 80,
+        "emoji": "🌦️",
+        "precip": 65
       },
       {
         "hour": "14:00",
-        "temp": 14.7,
+        "temp": 10.9,
         "code": 3,
         "emoji": "☁️",
-        "precip": 0
+        "precip": 90
       },
       {
         "hour": "16:00",
-        "temp": 16.1,
-        "code": 2,
-        "emoji": "⛅",
-        "precip": 0
+        "temp": 11.8,
+        "code": 61,
+        "emoji": "🌦️",
+        "precip": 50
       },
       {
         "hour": "18:00",
-        "temp": 15.4,
-        "code": 2,
-        "emoji": "⛅",
-        "precip": 0
+        "temp": 12.6,
+        "code": 3,
+        "emoji": "☁️",
+        "precip": 8
       },
       {
         "hour": "20:00",
-        "temp": 13.9,
+        "temp": 11.3,
         "code": 2,
         "emoji": "⛅",
-        "precip": 5
+        "precip": 0
       }
     ]
   },
@@ -153,6 +153,19 @@
       "rechtsgebiet": "Strafrecht",
       "norm": "",
       "summary": "• **Normen:** §§ 146, 147 Abs 3, 15 StGB (schwerer Betrug); § 173 Abs 2 Z 3 lit a und lit b StPO (Haftgrund der Tatbegehungsgefahr)\n\n• **SV:** Der Beschuldigte B* wird verdächtigt, Anfang/Mitte 2023 mehrere Investoren durch Täuschung zu zusätzlichen Kapitalinvestitionen in die S* H* GmbH verleitet zu haben. Konkret soll er vorgegeben haben, dass sämtliche Gesellschafter (insbesondere die F* B* Privatstiftung mit 35,35 Millionen Euro) sich an einer Kapitalerhöhung beteiligen würden; tatsächlich sollten diese Gelder „zumindest großteils\" von den Investoren selbst stammen. Die Gesellschaft war zum Zeitpunkt der Betrügereien bereits materiell insolvent. Der Schaden sollte 300.000 Euro übersteigen. B* sitzt seit 24. Jänner 2025 in Untersuchungshaft; diese wurde mehrfach fortgesetzt und zuletzt vom Oberlandesgericht Wien bestätigt.\n\n• **Rechtsfrage:** Ob die Fortsetzung der Untersuchungshaft des Beschuldigten B* aus dem Haftgrund der Tatbegehungsgefahr (§ 173 Abs 2 Z 3 lit a und lit b StPO) verfassungsrechtlich gerechtfertigt ist und damit das Grundrecht auf persönliche Freiheit gewahrt bleibt. Konkret musste überprüft werden, ob die Haftbeschwerde des Beschuldigten gegen die neuerliche Fortdauer der Untersuchungshaft begründet war oder ob die Gerichte zu Recht von der Notwendigkeit der weiteren Freiheitsentziehung ausgingen.\n\n• **Entscheidung:** Der Oberste Gerichtshof wies die Grundrechtsbeschwerde des B* ab und befand, dass dieser im Grundrecht auf persönliche Freiheit nicht verletzt wurde. Das Oberlandesgericht Wien hatte verfassungsgemäß befunden, dass die Tatbegehungsgefahr gemäß § 173 Abs 2 Z 3 lit a und lit b StPO weiterhin besteht und die Untersuchungshaft daher rechtmäßig fortgesetzt werden konnte. Der OGH bestätigte, dass die vorinstanzlichen Gerichte bei ihrer Haftentscheidung die erforderliche verfassungsrechtliche Prüfung vorgenommen und die Verhältnismäßigkeit der Freiheitsentziehung gewahrt haben.\n\n• **Bedeutung:** Die Entscheidung bekräftigt, dass in komplexen Wirtschaftsstrafverfahren mit erheblichem Schaden und Betrugsvorwürfen die Fortdauer der Untersuchungshaft aus Tatbegehungsgefahr verfassungsmäßig zulässig ist, wenn konkrete Anhaltspunkte für die Wiederholungs- oder Fortsetzungstäterschaft bestehen. Sie stabilisiert die Rechtspraxis bei der Bemessung von Haftmaßnahmen in Fällen schweren Betrugs."
+    },
+    {
+      "id": "9292b6d70921",
+      "title": "OGH 2Ob115/25p",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260326_OGH0002_0020OB00115_25P0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "Teilurteil",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-03-26T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": "# Zusammenfassung OGH 2Ob115/25p\n\n• **Normen:** §§ 782 ff ABGB (Hinzurechnung von Schenkungen zum Nachlass); Verlassenschaftsverfahrensrecht (Auskunftspflichten von Stiftungen als Bedachte)\n\n• **SV:** Die Klägerin (B*) ist Pflichtteilsberechtigte (ein Sechstel) des Erblassers H*. Die Beklagte (A*) ist eine Stiftung, die von H* während seiner Lebenszeit erhebliche Zuwendungen erhalten hat. Die Klägerin begehrt Auskunft über diese Zuwendungen, das Vermögen der Stiftung zum Todestag des Erblassers, die Stiftungszusatzurkunden sowie einen Eid über die Richtigkeit und Vollständigkeit dieser Auskünfte. Darüber hinaus verlangt sie Auskunft über Ausschüttungen an weitere Begünstigte und Feststellung der Haftung der Stiftung für den Schenkungspflichtteil. Die Vorinstanzen (LG Wien, OLG Wien) lehnten die meisten Begehren ab.\n\n• **Rechtsfrage:** Welche Auskunftspflichten treffen eine Stiftung, die Bedachte eines Erblassers ist, gegenüber einem Pflichtteilsberechtigten? Insbesondere: Muss die Stiftung Auskunft über von ihr erhaltene Zuwendungen, ihr Vermögen zum Erbfall und die Stiftungsurkunden geben, und kann sie zu einem Eid verpflichtet werden? Umgekehrt: Muss die Stiftung Auskunft über Ausschüttungen an andere Begünstigte und detaillierte interne Stiftungsdokumente sowie Jahresabschlüsse offenlegen, und kann ein Pflichtteilsberechtigter bereits in der ersten Instanz auf Haftung der Stiftung für den Schenkungspflichtteil klagen?\n\n• **Entscheidung:** Der OGH gab der Revision der Klägerin teilweise statt. Der Senat erkannte an, dass ein Pflichtteilsberechtigter gegen eine als Bedachte fungierende Stiftung einen Anspruch auf Auskunft über die von ihr erhaltenen Zuwendungen (Zeitpunkt, Gegenstand, Geldbeträge), über ihr Vermögen zum Todestag des Erblassers (durch Vermögensverzeichnis) und auf Vorlage der Stiftungszusatzurkunden (unter Schwärzung nicht relevanter Stellen) sowie auf Eidesleistung bezüglich Richtigkeit und Vollständigkeit dieser Auskünfte hat. Dies ergibt sich aus dem Erfordernis, den Schenkungspflichtteil gemäß §§ 782 ff ABGB zu berechnen, wofür die Kenntnis der Zuwendungen an die Stiftung notwendig ist. Hingegen wies der OGH die Begehren bezüglich Auskunft über Ausschüttungen an andere Begünstigte (S*, A*, K*) in einem bestimmten Zeitraum, über die siebenjährigen Erträge durch Jahresabschlüsse und Geschäftsberichte, über weitere Stiftungsurkunden und Beschlüsse sowie die Feststellung der Haftung der Stiftung für den Schenkungspflichtteil als im Revisionsverfahren nicht gerechtfertigt ab und verwies diese Begehren auf das Erstgericht zurück. Der OGH begründete dies damit, dass diese Fragen über die zur Berechnung des Schenkungspflichtteilsanspruchs erforderlichen Informationen hinausgehen und komplexe Tatsachenfeststellungen erfordern, die Gegenstand eines Endurteils sein müssen.\n\n• **Bedeutung:** Die Entscheidung präzisiert die Auskunftspflichten von Stiftungen als Bedachte gegenüber Pflichtteilsberechtigten: Stiftungen müssen grundsätzlich o"
     },
     {
       "id": "4b310ef794ed",
@@ -348,9 +361,9 @@
       "summary": "• **Normen:** § 528 Abs 2 Z 2 ZPO iVm § 78 EO; § 528a, § 510 Abs 3 ZPO iVm § 78 EO\n\n• **SV:** Die verpflichtete Partei J.H. erhob einen Revisionsrekurs gegen zwei Beschlüsse des Landesgerichts Wels als Rekursgericht vom 21. Jänner 2026. Das Rekursgericht hatte zu 22 R 204/25v den Rekurs der verpflichteten Partei teilweise zurückgewiesen und im Übrigen nicht stattgegeben, und zu 22 R 205/25s einen Beschluss des Bezirksgerichts Vöcklabruck bestätigt. Der OGH hatte über die Zulässigkeit und Begründetheit dieses Revisionsrekurses zu entscheiden.\n\n• **Rechtsfrage:** Ist ein weiterer Rechtszug (Revisionsrekurs) gegen eine zur Gänze bestätigende Entscheidung des Rekursgerichts im Exekutionsverfahren zulässig, und sind im Übrigen die Voraussetzungen für einen außerordentlichen Revisionsrekurs erfüllt, insbesondere das Erfordernis einer erheblichen Rechtsfrage gemäß § 528 Abs 1 ZPO?\n\n• **Entscheidung:** Der OGH wies den Revisionsrekurs in zwei Teilen ab. Zu I: Soweit sich der Revisionsrekurs gegen die zur Gänze bestätigende Entscheidung des Rekursgerichts zu 22 R 205/25s richtet, wurde er als jedenfalls unzulässig zurückgewiesen. Nach § 528 Abs 2 Z 2 ZPO iVm § 78 EO ist nämlich – von hier nicht vorliegenden Ausnahmen abgesehen – ein weiterer Rechtszug gegen die zur Gänze bestätigende Entscheidung des Rekursgerichts im Exekutionsverfahren unzulässig. Zu II: Soweit sich der Revisionsrekurs gegen die Entscheidung des Rekursgerichts zu 22 R 204/25v richtet, wurde er gemäß § 78 EO iVm § 526 Abs 2 Satz 1 ZPO mangels der Voraussetzungen des § 528 Abs 1 ZPO zurückgewiesen, da die verpflichtete Partei keine erhebliche Rechtsfrage aufgezeigt hat.\n\n• **Bedeutung:** Die Entscheidung bekräftigt die restriktive Handhabung weiterer Rechtszüge im Exekutionsverfahren und unterstreicht, dass bestätigende Rekursgerichtsentscheidungen grundsätzlich nicht mehr revisionierbar sind, sowie dass für einen außerordentlichen Revisionsrekurs das Erfordernis einer erheblichen Rechtsfrage notwendig ist."
     },
     {
-      "id": "39662b4168d3",
-      "title": "OGH 11Ns19/26x",
-      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0110NS00019_26X0000_000",
+      "id": "0983b113d3ae",
+      "title": "OGH 15Os156/25t",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0150OS00156_25T0000_000",
       "category": "Strafrecht",
       "excerpt": "",
       "source": "RIS",
@@ -358,33 +371,20 @@
       "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Strafrecht",
       "norm": "",
-      "summary": "• **Normen:** §§ 15, 269 Abs 1 erster Fall StGB (Widerstand gegen die Staatsgewalt); § 21 Abs 2 StGB (strafrechtliche Unterbringung in forensisch-therapeutischem Zentrum); § 295 Abs 3 StPO (Rechtsmittelzulässigkeit); § 62 Abs 1 zweiter Satz OGH-Geo 2019 (nichtöffentliche Verhandlung).\n\n• **SV:** Der Verurteilte C* wurde vom Landesgeericht für Strafsachen Wien als Schöffengericht (28. Mai 2025) mehrerer Vergehen schuldig erkannt und zu einer Freiheitsstrafe verurteilt; gleichzeitig wurde die strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum angeordnet. Seine Nichtigkeitsbeschwerde wurde vom OGH am 7. Oktober 2025 zurückgewiesen, seine Berufung vom Oberlandesgericht Wien am 11. Dezember 2025 nicht stattgegeben. Mit Schreiben vom 19. Februar 2026 beantragte der Verurteilte beim OGH die Beigebung eines Verfahrenshilfeverteidigers „zur Erhebung eines Rechtsmittels im Verfahren\" und „zur weiteren Führung des Verfahrens\".\n\n• **Rechtsfrage:** Ist die Beigebung eines Verfahrenshilfeverteidigers zulässig, wenn der Verurteilte gegen das rechtskräftige Urteil des Oberlandesgerichts Wien als Berufungsgericht ein weiteres Rechtsmittel erheben oder das Verfahren fortsetzen möchte, obwohl gegen solche Urteile gemäß § 295 Abs 3 StPO kein Rechtsmittel zulässig ist? Oder handelt es sich um einen von vornherein offenkundig aussichtslosen Antrag, für den Verfahrenshilfe nicht gewährt werden darf?\n\n• **Entscheidung:** Der OGH wies den Antrag ab. Der Antrag war als „substratlos\" zu qualifizieren und daher abzuweisen, weil gegen das Urteil des Oberlandesgerichts als Berufungsgericht gemäß § 295 Abs 3 StPO kein weiteres Rechtsmittel zulässig ist. Gemäß der ständigen Rechtsprechung (RIS-Justiz RS0127077) ist Verfahrenshilfe für unzulässige und von vornherein — mithin offenkundig — aussichtslose Anträge nicht zu gewähren. Der Antrag war somit rechtlich unmöglich und konnte nicht zum Gegenstand einer Verfahrenshilfeverteidigerbestellung gemacht werden. Soweit der Antrag eine dem Bundesverwaltungsgericht zugeordnete Aktenzahl anführt, ist eine Entscheidungskompetenz der ordentlichen Strafgerichte nicht ersichtlich.\n\n• **Bedeutung:** Die Entscheidung verdeutlicht, dass Verfahrenshilfe nicht zur bloßen Umgehung der gesetzlichen Rechtsmittelzulässigkeitsgrenzen missbraucht werden kann. Ein Verurteilter kann sich nicht durch die Beigebung eines Verfahrenshilfeverteidigers einem rechtskräftigen Urteil des Oberlandesgerichts entziehen, wenn das Gesetz ausdrücklich keine weiteren Rechtsmittel vorsieht. Der OGH schützt damit die Finalität von Entscheidungen und verhindert eine Verschiebung von Verfahrensfragen auf administrative Ebene."
+      "summary": ""
     },
     {
-      "id": "38cdea24dfa3",
-      "title": "OGH 10Ob1/26h",
-      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00001_26H0000_000",
+      "id": "24c1bf22a0b0",
+      "title": "OGH 3Ob211/25p",
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260325_OGH0002_0030OB00211_25P0000_000",
       "category": "Zivilrecht",
       "excerpt": "",
       "source": "RIS",
       "featured": false,
-      "date": "2026-03-24T00:00:00",
+      "date": "2026-03-25T00:00:00",
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
-      "summary": "• **Normen:** § 6 Abs 2 Z 4 KSchG (Konsumentenschutzgesetz); § 879 Abs 3 ABGB (Allgemeines Bürgerliches Gesetzbuch); MRG (Mietrechtsgesetz)\n\n• **SV:** Der Kläger mietete ab 1. September 2018 eine Wohnung von der Beklagten auf zehn Jahre. Der Mietvertrag enthielt eine Wertsicherungsklausel mit dem Verbraucherpreisindex 2015 (Ausgangsbasis: Indexzahl 06/18, Indexschwankungen bis 3% unberücksichtigt). Der Kläger zahlte bis Jänner 2021 den Vertragssatz, danach erfolgte durch die Beklagte siebenfache Mietzinserhöhungen (insgesamt 9.853,23 EUR). Der Kläger forderte Rückzahlung und bestritt die Wirksamkeit der Wertsicherungsklausel.\n\n• **Rechtsfrage:** Ist die Wertsicherungsklausel unwirksam, weil sie (1) gegen § 6 Abs 2 Z 4 KSchG verstößt, da eine Mietzinserhöhung bereits binnen zwei Monaten nach Vertragsabschluss möglich war, (2) gegen § 879 Abs 3 ABGB verstößt, weil die Indexzahl 6/2018 Preissteigerungen vor Vertragsabschluss erfasst, und (3) intransparent ist, da für einen Durchschnittsverbraucher nicht erkennbar ist, dass die „zuletzt verlautbarte Indexzahl\" bereits über zwei Monate alt sein kann und dass beim gegenständlichen Mietvertrag aufgrund des Teilanwendungsbereiches des MRG auch rückwirkende Erhöhungen zulässig sind?\n\n• **Entscheidung:** Der Oberste Gerichtshof wies die Revision zurück, ohne dass sich ein erhebliches Rechtsfrage nach § 502 ZPO stellte. Damit bestätigte das Gericht implizit die Beurteilung der Vorinstanzen, wonach die geltend gemachten Unwirksamkeitsgründe nicht zu tragen. Der OGH gelangte zu der Auffassung, dass die Wertsicherungsklausel – soweit eine Überprüfung stattgefunden hat – nicht gegen die angeführten Bestimmungen verstößt und dass die Transparenzbedenken des Klägers keine erhebliche Rechtsfrage aufwerfen, die eine Revision rechtfertigen würde.\n\n• **Bedeutung:** Die Entscheidung untermauert, dass indexgebundene Wertsicherungsklauseln in Mietverträgen – auch mit Verbraucherbeteiligung – unter Beachtung der vertraglichen Ausgestaltung grundsätzlich wirksam bleiben und dass die bloße Möglichkeit einer Mieterhöhung innerhalb kurzer Zeit nach Vertragsschluss keine Unwirksamkeit nach sich zieht. Dies hat praktische Konsequenzen für die Konstruktion und Anfechtbarkeit von Indexklauseln in Standardmietverträgen."
-    },
-    {
-      "id": "24683c8a0cb1",
-      "title": "OGH 10Ob14/26w",
-      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260324_OGH0002_0100OB00014_26W0000_000",
-      "category": "Zivilrecht",
-      "excerpt": "",
-      "source": "RIS",
-      "featured": false,
-      "date": "2026-03-24T00:00:00",
-      "rechtsgebiet": "Zivilrecht",
-      "norm": "",
-      "summary": "• **Normen:** MRG (Mietrechtsgesetz) — insbesondere Bestimmungen zu Wertsicherungsklauseln und deren Zulässigkeit; ABGB (Allgemeines Bürgerliches Gesetzbuch) — Regelungen zu AGB und Transparenzanforderungen\n\n• **SV:** Die Klägerin war von Februar 2018 bis Juli 2024 Mieterin einer Wohnung in einer im Rahmen der „Wiener Wohnbauinitiative 2011\" errichteten Wohnhausanlage. Der Mietvertrag vom 28. September 2017 sah einen vorläufigen Hauptmietzins von 755,22 EUR netto vor und enthielt eine Wertsicherungsklausel mit jährlicher Anpassung nach dem Verbraucherpreisindex 2010 (Vergleichsmonat September). Die Miete wurde sukzessive von 839,27 EUR brutto (März 2018) auf 1.089,55 EUR brutto (Januar bis Juli 2024) erhöht. Die Klägerin zahlte alle Mietzinse einschließlich der Wertsicherungsbeträge.\n\n• **Rechtsfrage:** Zentrale Frage war die Zulässigkeit und Geltendmachung der im Mietvertrag enthaltenen Wertsicherungsvereinbarung vor dem Hintergrund der Vorgaben der „Wiener Wohnbauinitiative 2011\" — insbesondere, ob die an den Darlehensvertrag gekoppelten Mietzinsobergrenzen und Finanzierungsbeitragsvorgaben für die gesamte Mietvertragsdauer bindend sind und ob die Wertsicherungsklausel im Hinblick auf die Transparenzanforderungen des MRG und ABGB wirksam ist. Ferner war zu klären, ob das Erstgericht und das Berufungsgericht die maßgeblichen Rechtsfragen hinreichend würdigt und eine vollständige Sachverhaltsaufklärung vorgenommen haben.\n\n• **Entscheidung:** Der OGH gab der Revision der beklagten Partei Folge. Die Urteile beider Vorinstanzen wurden aufgehoben und die Rechtssache zur neuerlichen Entscheidung nach Verfahrensergänzung an das Erstgericht zurückverwiesen. Der OGH erkannte, dass wesentliche Verfahrensfragen ungeklärt blieben und die Vorinstanzen nicht hinreichend würdigt haben, in welchem Umfang die vertraglichen Bindungen aus der „Wiener Wohnbauinitiative 2011\" — insbesondere die verpflichtenden Mietzinsobergrenzen und Finanzierungsbeitragsvorgaben — für die gesamte Vertragsdauer Geltung beanspruchen und damit die Anwendung der Wertsicherungsklausel beschränken oder ausschließen könnten. Eine abschließende Entscheidung konnte daher erst nach vollständiger Sachverhaltsaufklärung erfolgen.\n\n• **Bedeutung:** Die Entscheidung hat erhebliche praktische Auswirkungen für alle Mietverträge im Rahmen der „Wiener Wohnbauinitiative 2011\": Sie stellt klar, dass Wertsicherungsklauseln in diesem Kontext nicht isoliert beurteilt werden können, sondern die darlehensvertraglichen Beschränkungen (Mietzinsobergrenzen, Finanzierungsbeitragsvorgaben) deren Wirksamkeit und Anwendbarkeit möglicherweise limitieren. Dies könnte zu Mietreduktionen für betroffene Mieter führen, sofern die Wertsicherungssteigerungen die vereinbarten Obergrenzen überschreiten. Die Entscheidung unterstreicht zudem die Notwendigkeit einer ganzheitlichen Betrachtung von Mietverträgen im geförderten/quasi-geförderten Wohnbau unter Berücksichtigung aller zugrundeliegenden Finanzierungsbedingungen."
+      "summary": "• **Normen:** § 35 EO, § 399 Abs 1 Z 2 EO, § 502 Abs 1 ZPO, § 508a Abs 2 ZPO\n\n• **SV:** Im anhängigen Scheidungs- und Unterhaltsverfahren wurde der Kläger durch einstweilige Verfügung verpflichtet, ab 1. August 2023 monatlich 1.814 EUR Unterhalt zu leisten. Mit Antrag vom 20. Dezember 2024 begehrte der Kläger, diese einstweilige Verfügung gemäß § 399 Abs 1 Z 2 EO ab 1. Jänner 2025 auf 90 EUR monatlich einzuschränken. Das Erstgericht gab diesem Antrag am 30. Mai 2025 (rechtskräftig) statt. Nachdem das Erstgericht am 18. Februar 2025 die Exekution gegen den Kläger für die Monate Jänner und Februar 2025 sowie den laufenden Unterhalt bewilligt hatte, erhob der Kläger Oppositionsklage mit dem Begehren, den über 90 EUR hinausgehenden Anspruch aus der einstweiligen Verfügung ab 1. Jänner 2025 für erloschen zu erklären. Die Vorinstanzen gaben der Klage statt.\n\n• **Rechtsfrage:** Kann die außerordentliche Revision der Beklagten stattgegeben werden, wenn diese keine erhebliche Rechtsfrage nach § 502 Abs 1 ZPO aufzeigt? Insbesondere: Stellt sich die Frage nach dem Erlöschen des betriebenen Anspruchs noch zur Beurteilung, wenn die Entscheidung über den Aufhebungsantrag nach § 399 Abs 1 Z 2 EO zwischenzeitlich in Rechtskraft erwachsen ist?\n\n• **Entscheidung:** Der OGH weist die außerordentliche Revision gemäß § 508a Abs 2 ZPO mangels der Voraussetzungen des § 502 Abs 1 ZPO zurück. Der OGH stellt zutreffend fest, dass die Entscheidung über den Aufhebungsantrag nach § 399 Abs 1 Z 2 EO mittlerweile in Rechtskraft erwachsen ist. Ausgehend davon stellen sich die in der Revision aufgeworfenen Fragen zum Erlöschen des betriebenen Anspruchs nicht mehr. Der OGH betont zudem das grundsätzliche Recht einer Partei, zwischen mehreren zur Verfügung stehenden Rechtsbehelfen zu wählen oder diese auch gehäuft zu ergreifen. Dem Verpflichteten steht somit ab dem Zeitpunkt, in dem aufgrund einer einstweiligen Verfügung Exekution geführt wird, die Wahl zwischen einer Oppositionsklage und einem Aufhebungsantrag nach § 399 Abs 1 EO zu.\n\n• **Bedeutung:** Die Entscheidung verdeutlicht, dass der Revisor keine erhebliche Rechtsfrage aufzuzeigen vermag, wenn zwischenzeitlich durch rechtskräftige Änderung der Grundverfügung die Voraussetzungen für die geltend gemachten Ansprüche entfallen sind. Der Kläger konnte durch parallele Geltendmachung von Aufhebungsantrag und Oppositionsklage seine Interessen wirksam wahren."
     }
   ],
   "recht_vfgh": [
@@ -555,7 +555,7 @@
       "featured": false,
       "date": "2026-03-10T00:00:00",
       "norm": "B-VG Art144 Abs2; EMRK Art10 Abs1; Anti-GesichtsverhüllungsG §1, §2, §3, §4, §5; SicherheitspolizeiG §81; VfGG §7 Abs1",
-      "summary": ""
+      "summary": "• **Normen:** B-VG Art. 144 Abs. 2 (Grundrechtsschutz); EMRK Art. 10 Abs. 1 (Meinungsäußerungsfreiheit); Anti-GesichtsverhüllungsG §§ 1–5; SicherheitspolizeiG § 81; VfGG § 7 Abs. 1\n\n• **SV:** Der Beschwerdeführer trug während der Aufnahme eines TV-Gespräches mit dem FPÖ-Obmann Herbert Kickl eine Maske mit dem Gesicht des russischen Staatspräsidenten Vladimir Putin. Damit wollte er auf die – nach seiner Ansicht – zu unkritische Haltung Kickls gegenüber Putin und der russischen Regierung aufmerksam machen. Die Behörde verhängte eine Geldstrafe nach dem Anti-GesichtsverhüllungsG. Das Landesverwaltungsgericht Oberösterreich wies die Beschwerde ab, da die Verhüllung nicht unter die enumerativen Ausnahmen des § 2 Abs. 2 AGesVG fiel.\n\n• **Rechtsfrage:** Stellt das Tragen einer Gesichtsmaske als Stilmittel zur politischen Meinungsäußerung einen Verstoß gegen das Verhüllungsverbot dar, oder ist die Ausnahmekatalog des § 2 Abs. 2 Anti-GesichtsverhüllungsG dahin auszulegen, dass auch die freie Meinungsäußerung eine nicht-abschließend aufgezählte Ausnahme darstellt? Kann sich der Beschwerdeführer auf den Schutz der Meinungsäußerungsfreiheit gemäß Art. 10 EMRK berufen, wenn die Gesichtsverhüllung nicht dem Zweck der Identitätsverschleierung dient?\n\n• **Entscheidung:** Der VfGH hat unter Bezugnahme auf seine gefestigte Rechtsprechung (VfSlg 20.440/2021) klargestellt, dass die Ausnahmenkatalog des § 2 Abs. 2 Anti-GesichtsverhüllungsG nicht abschließend zu verstehen ist. Vielmehr muss die Verwendung eines Stilmittels wie einer Maske im Rahmen der freien Meinungsäußerung als Ausnahme vom grundsätzlichen Verhüllungsverbot anerkannt werden, soweit diese Ausnahmen denen für künstlerische, kulturelle oder traditionelle Veranstaltungen gleichzustellen sind. Da der Beschwerdeführer die Maske in der erkannten Absicht eingesetzt hat, politische Kritik auszudrücken, und nicht primär zur Vereitelung der Identitätsfeststellung, wird sein Handeln von § 2 Abs. 2 Anti-GesichtsverhüllungsG gedeckt. Die bloße Feststellung des LVwG Oö, dass keine der enumerierten Ausnahmen erfüllt ist, genügt nicht, um eine Bestrafung zu rechtfertigen, zumal Art. 10 EMRK der Meinungsäußerungsfreiheit Vorrang einräumt, sofern nicht Sicherheitsbelange die Identitätsverschleierung erfordern.\n\n• **Bedeutung:** Die Entscheidung etabliert einen bedeutsamen Grundsatz: Das Anti-GesichtsverhüllungsG ist nicht als starres, abschließend aufgelistetes Regime auszulegen, sondern muss grundrechtssensibel unter Beachtung der Meinungsäußerungsfreiheit interpretiert werden. Gesichtsverhüllungen zu Zwecken der politischen Meinungsäußerung genießen verfassungsrechtlichen Schutz und können nicht pauschal sanktioniert werden. Dies begrenzt die Anwendbarkeit des Gesetzes erheblich auf Fälle echter Sicherheitsrisiken oder Identitätsverschleierungsabsichten."
     },
     {
       "id": "c12ce5292905",
@@ -615,6 +615,28 @@
     }
   ],
   "recht_eugh": [
+    {
+      "id": "c79fb206003a",
+      "title": "60/Tue Apr 21 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-155/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082652",
+      "category": "EuGH",
+      "excerpt": "Nederlandse Voedsel- en Warenautoriteit u. a. Rechtsangleichung Schadstoffemissionen von Filterzigaretten: Wird in einer Richtlinie der Union, mit der das Ziel des Schutzes der menschlichen Gesundheit verfolgt wird, auf internationale Normen verwiesen, müssen diese von Privatpersonen eingesehen werden können",
+      "source": "EuGH",
+      "date": "2026-04-21T08:01:41+00:00",
+      "featured": false,
+      "summary": "• **EU-Recht:** Richtlinie zur Rechtsangleichung bei Schadstoffemissionen von Filterzigaretten; Verweisung auf internationale Normen\n\n• **SV:** Die Nederlandse Voedsel- en Warenautoriteit fragte, ob internationale Normen, auf die eine EU-Richtlinie zum Gesundheitsschutz verweist, für Privatpersonen zugänglich sein müssen.\n\n• **Rechtsfrage:** Können sich Bürger auf internationale Normen berufen, die in einer EU-Richtlinie zum Schutze der Gesundheit eingearbeitet sind, wenn diese Normen nicht frei einsehbar sind?\n\n• **Entscheidung:** Ja, internationale Normen müssen für Privatpersonen einsehbar sein, wenn eine Richtlinie mit Gesundheitsschutzziel auf sie verweist, um deren praktische Anwendbarkeit zu gewährleisten.\n\n• **Bedeutung:** Stärkt die Rechtsklarheit und Transparenz: Bürger können ihre Rechte nur wahrnehmen, wenn sie die Anforderungen kennen; Einschränkung der Möglichkeit, internationale Normen als versteckte Rechtsquellen zu missbrauchen."
+    },
+    {
+      "id": "4ae40de419ac",
+      "title": "59/Tue Apr 21 00:00:00 UTC 2026 : null - Urteil des Gerichtshofs in der Rechtssache C-769/22",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000082628",
+      "category": "EuGH",
+      "excerpt": "Kommission / Ungarn (Werte der Union) Grundsätze des Gemeinschaftsrechts Werte der Union: Durch die Verabschiedung eines Gesetzes, das LGBTI+-Personen stigmatisiert und marginalisiert, hat Ungarn gegen das Unionsrecht verstoßen",
+      "source": "EuGH",
+      "date": "2026-04-21T07:49:39+00:00",
+      "featured": false,
+      "summary": "# EuGH-Entscheidung C-769/22: Kommission vs. Ungarn\n\n• **EU-Recht:** Artikel 2 EUV (Werte der Union), Charta der Grundrechte, Richtlinie 2000/78/EG (Gleichbehandlung in Beschäftigung)\n\n• **SV:** Ungarn verabschiedete ein Gesetz, das LGBTI+-Personen stigmatisiert und marginalisiert, was gegen fundamentale Unionsrechte verstößt.\n\n• **Rechtsfrage:** Verletzt ein nationales Gesetz, das LGBTI+-Personen diskriminiert und stigmatisiert, die Grundwerte der Union?\n\n• **Entscheidung:** Der Gerichtshof verurteilte Ungarn zu Unrecht, da das Gesetz gegen die Werte der Union (Artikel 2 EUV) und Grundrechte verstößt.\n\n• **Bedeutung:** Stärkt den Schutz von LGBTI+-Rechten auf EU-Ebene und bekräftigt, dass Mitgliedstaaten Grundwerte nicht durch nationale Gesetzgebung aushöhlen dürfen."
+    },
     {
       "id": "326234181bd2",
       "title": "58/Thu Apr 16 00:00:00 UTC 2026 : null - Schlussanträge des Generalanwalts in der Rechtssache C-131/25",
@@ -727,6 +749,136 @@
     }
   ],
   "recht_news": [
+    {
+      "id": "accb74b7b8c2",
+      "title": "Bawag verdient dank Expansionen im ersten Quartal mehr",
+      "url": "https://www.derstandard.at/story/3000000317471/bawag-verdient-dank-expansionen-im-ersten-quartal-mehr?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Nettogewinn stieg um 16 Prozent auf 232 Millionen Euro. Für den geplanten Zukauf in Irland wird die Dividendenstrategie angepasst",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-21T08:18:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "024a91374c63",
+      "title": "Therapy Speak im Scheidungsverfahren: Lieber konkret bleiben",
+      "url": "https://www.derstandard.at/story/3000000316795/therapy-speak-im-scheidungsverfahren-lieber-konkret-bleiben?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Warum Begriffe wie \"toxisch\" oder \"Narzissmus\" vor Gericht oft mehr schaden als helfen und wie sich Konflikte stattdessen überzeugend schildern lassen",
+      "source": "Der Standard Recht",
+      "date": "2026-04-21T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "53f9c460e55e",
+      "title": "USA: Startschuss für milliardenschwere Zoll-Rückerstattungen",
+      "url": "https://www.derstandard.at/story/3000000317420/usa-startschuss-f252r-milliardenschwere-zoll-r252ckerstattungen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Nach Schätzungen der US-Zollbehörde geht es um rund 166 Milliarden US-Dollar",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T19:31:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "7ce0c74ec0db",
+      "title": "Arbeitslosigkeit hat bei älteren Frauen seit 2024 stark zugenommen",
+      "url": "https://www.derstandard.at/story/3000000317326/arbeitslosigkeit-bei-228lteren-frauen-seit-2024-stark-zugenommen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Seniorenvertreterin Korosec fordert Maßnahmen, um ältere Beschäftigte im Erwerbsleben zu halten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T16:05:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "332d94e1fdb4",
+      "title": "Wer züchtet künftig, was auf Europas Feldern wächst?",
+      "url": "https://www.derstandard.at/story/3000000317274/wer-zuechtet-kuenftig-was-auf-europas-feldern-waechst?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Verhandlungen ums EU-Saatgutrecht gehen ins Finale. Umweltorganisationen warnen, die Reform könnte die Vielfalt in der Landwirtschaft weiter einschränken. Diese ist laut UN im letzten Jahrhundert um 75 Prozent geschrumpft",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T16:05:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "ab6efb7e7afb",
+      "title": "Österreich sucht Chancen in Äthiopien, findet aber auch Probleme",
+      "url": "https://www.derstandard.at/story/3000000317272/oesterreich-sucht-chancen-in-aethiopien-findet-aber-auch-probleme?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Außenministerin Meinl-Reisinger unterstützt heimische Unternehmen am sogenannten \"Chancenkontinent\" und schmiedet engere Beziehungen zur Afrikanischen Union und Äthiopien",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T15:12:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "300fea83ca2b",
+      "title": "Stalkingprozess gegen 69-Jährige, die Kontakt zu Ex und Kindern möchte",
+      "url": "https://www.derstandard.at/story/3000000317309/stalkingprozess-gegen-69-jaehrige-die-kontakt-zu-ex-und-kindern-moechte?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Nach dem Ende einer jahrzehntelangen Ehe wollten auch die erwachsenen Kinder nicht mehr mit einer Unbescholtenen kommunizieren. Sie fühlte sich ausgegrenzt",
+      "source": "Der Standard Recht",
+      "date": "2026-04-20T15:11:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "8264fedab154",
+      "title": "Wo sind die blühenden Landschaften für die Industrie?",
+      "url": "https://www.derstandard.at/story/3000000317338/wo-sind-die-bluehenden-landschaften-fuer-die-industrie?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Autoindustrie, China, Energiewende, das waren die Wachstumsmotoren von gestern. Die Industrie muss sich neue Märkte erschließen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T14:15:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "c246db7ae0f1",
+      "title": "Neuer Hervis-Eigentümer verkauft Auslandsgeschäft an Investor",
+      "url": "https://www.derstandard.at/story/3000000317367/-neuer-hervis-eigent252mer-verkauft-auslandsgesch228ft-an-investor?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "21 Standorte in Slowenien, 18 Standorte in Kroatien und 4 Standorte in Deutschland werden \"mit sofortiger Wirkung\" abgegeben",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T13:47:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "24ad8ba47b9e",
+      "title": "Darf die KI über meine Gehaltserhöhung entscheiden?",
+      "url": "https://www.derstandard.at/story/3000000316508/darf-die-ki-ueber-meine-gehaltserhoehung-entscheiden?ref=rss",
+      "category": "Der Standard Recht",
+      "excerpt": "Welche Rechte gelten und warum der Betriebsrat bei dem Thema KI-Einsatz am Arbeitsplatz eine zentrale Rolle spielt",
+      "source": "Der Standard Recht",
+      "date": "2026-04-20T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "bc961b619f09",
+      "title": "Fall Hipp: Was Unternehmen tun sollen, wenn sie erpresst werden",
+      "url": "https://www.derstandard.at/story/3000000317340/fall-hipp-was-unternehmen-tun-sollen-wenn-sie-erpresst-werden?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Krisenstäbe, Dokumentationen und schnelles Handeln: Bei Produkterpressungen zählen oft wenige Stunden oder Tage. Einblicke in eine verschwiegene Thematik",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T12:57:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "cbee00615d30",
+      "title": "Gewinnsteigerung und Umbau: Unicredit stellt Pläne für Commerzbank vor",
+      "url": "https://www.derstandard.at/story/3000000317319/gewinnsteigerung-und-umbau-unicredit-stellt-plaene-fuer-commerzbank-vor?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Das deutsche Institut sei für die Zukunft nicht richtig aufgestellt, befinden die Italiener. Die Bürokratie gehöre gestrafft, Führungspositionen abgeschafft",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T12:29:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c7754854a0d",
+      "title": "Ministerium startet befristete \"Kennenlern-Aktion\" für Klimaticket",
+      "url": "https://www.derstandard.at/story/3000000317356/ministerium-startet-befristete-kennenlern-aktion-f252r-klimaticket?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Das Ticket kann für zwei Monate um 233 Euro getestet und dann ohne Gebühr beendet werden. Die Aktion läuft befristet von 1. Mai bis 30. Juni",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-04-20T12:22:29+00:00",
+      "featured": false
+    },
     {
       "id": "18e1565ee345",
       "title": "Kärnten will höchstens 50 Windräder zulassen – laut einer Studie braucht es 100 davon",
@@ -846,139 +998,49 @@
       "source": "Der Standard Wirtschaft",
       "date": "2026-04-17T22:08:30+00:00",
       "featured": false
-    },
-    {
-      "id": "f6fbd72681c9",
-      "title": "Industrieller Wolf erhebt Einspruch gegen WKStA-Anklage",
-      "url": "https://www.derstandard.at/story/3000000317153/industrieller-wolf-erhebt-einspruch-gegen-wksta-anklage?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Vorwurf Wolfs lautet, dass \"fundamentale Vorfragen bis heute nicht geklärt\" seien. Gegen ihn wurde wegen Bestechung und Bestimmung zum Amtsmissbrauch Anklage erhoben",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T18:12:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "efda3dbf42fa",
-      "title": "Ein Schock, der die Welt spaltet",
-      "url": "https://www.derstandard.at/story/3000000317011/ein-schock-der-die-welt-spaltet?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Donald Trumps Politik löst derzeit mehrere asymmetrische Wirtschaftskrisen aus. Die Amerikaner geben sich entspannt. US-Finanzminister Scott Bessent rät den Europäern: Investiert mehr in Öl!",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T16:05:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "3c879aeefe60",
-      "title": "\"Faktum GUS\" – was die Ermittler bei Ex-Kanzler Gusenbauer zu finden hoffen",
-      "url": "https://www.derstandard.at/story/3000000317117/faktum-gus-was-die-ermittler-bei-ex-kanzler-gusenbauer-zu-finden-hoffen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Ermittlungen gegen Alfred Gusenbauer wurden durch Strafanzeigen von zwei Signa-Insolvenzverwaltern ausgelöst. Drei Wohnsitze und ein Wiener Büro wurden durchsucht",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T14:54:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "ed2a01acc161",
-      "title": "Ölpreis fällt nach Öffnung der Straße von Hormus deutlich, Aktien steigen",
-      "url": "https://www.derstandard.at/story/3000000317143/oelpreis-faellt-nach-oeffnung-der-strasse-von-hormus-deutlich-aktien-steigen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Freigabe der Straße von Hormus für die Handelsschifffahrt ließ den Preis für ein Fass Brent zeitweise unter 90 Dollar rutschen. Auch der Gaspreis geriet ins Rutschen, Aktien, Gold und der Euro legten zu",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T14:06:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff7f77281657",
-      "title": "Luftfahrtverband warnt vor Flugausfällen wegen Kerosinmangels ab Ende Mai",
-      "url": "https://www.derstandard.at/story/3000000317133/kerosinmangel-k246nnte-im-sommer-flugbetrieb-beeintr228chtigen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Fluglinie Wizzair beklagt kurzfristige Kerosinengpässe an drei Flughäfen in Italien, die allerdings schnell behoben werden konnten",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T13:11:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e5a4b7b9a5e",
-      "title": "Prozess gegen TV-G-Promi um gerissenen Brustmuskel des Polizisten",
-      "url": "https://www.derstandard.at/story/3000000317078/prozess-gegen-tv-g-promi-um-gerissenen-brustmuskel-des-polizisten?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "Ein mehrfach vorbestrafter 26-Jähriger soll einen Beamten schwer verletzt haben. Der aus TV-Formaten bekannte Angeklagte verspricht, sich zu ändern",
-      "source": "Der Standard Recht",
-      "date": "2026-04-17T12:22:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ec8afb2c426",
-      "title": "ÖBB-Chef: Upgrade in der Ostregion bringt Besserung für Bahn-Pendler",
-      "url": "https://www.derstandard.at/story/3000000317100/oebb-chef-upgrade-in-der-ostregion-bringt-besserung-fuer-bahn-pendler?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Das Ergebnis der Staatsbahn ist im Vorjahr deutlich geschrumpft. Der Güterverkehr fährt tief in der Verlustzone. 84 Züge werden heuer neu eingeflottet",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T11:56:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "084adc28ded0",
-      "title": "Schultz offiziell zur Mahrer-Nachfolgerin im Wirtschaftsbund gewählt",
-      "url": "https://www.derstandard.at/story/3000000317101/schultz-offiziell-zur-mahrer-nachfolgerin-im-wirtschaftsbund-gew228hlt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Martha Schultz wurde mit 99,4 Prozent der Stimmen gewählt. Die Generalversammlung war für Medien nur via Livestream mitverfolgbar",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T11:14:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "4dc13664463a",
-      "title": "Unternehmer fürchten Energiekosten und suchen Sparpotenzial",
-      "url": "https://www.derstandard.at/story/3000000317027/unternehmer-fuerchten-energiekosten-und-suchen-sparpotenzial?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Stimmung in den Chefetagen trübt sich ein. Die hohen Energiepreise und steigende Kosten belasten. Das wird sich negativ auf das Investitionsklima auswirken",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T09:19:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "6f9e3167f8e4",
-      "title": "Reiten als Sonderbedarf? OGH zu teuren Kinderhobbys im Unterhalt",
-      "url": "https://www.derstandard.at/story/3000000316936/reiten-als-sonderbedarf-ogh-zu-teuren-kinderhobbys-im-unterhalt?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "Die OGH-Entscheidung zum Dressurreiten zeigt, wann außergewöhnliche Kosten für Kinder als Sonderbedarf gelten und wo die finanzielle Grenze der Eltern liegt",
-      "source": "Der Standard Recht",
-      "date": "2026-04-17T08:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8eca71d95e8a",
-      "title": "René Benko bleibt weitere zwei Monate in U-Haft",
-      "url": "https://www.derstandard.at/story/3000000317046/rene-benko-bleibt-weitere-zwei-monate-in-u-haft?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Das Gericht geht weiterhin von \"dringendem\" Tatverdacht und Tatbegehungsgefahr aus",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T07:49:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "605f7c0d470f",
-      "title": "Wirtschaftshistoriker Tooze: \"Die Zeit der umfassenden Dominanz der USA ist vorbei\"",
-      "url": "https://www.derstandard.at/story/3000000316853/wirtschaftshistoriker-tooze-die-zeit-der-umfassenden-dominanz-der-usa-ist-vorbei?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Führt Donald Trump Krieg im Iran und interveniert in Venezuela, um China zu schwächen und die US-Hegemonie abzusichern? Über so eine strategische Weitsicht verfügt der US-Präsident nicht, sagt Adam Tooze. Das macht ihm erst recht Sorgen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T07:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b34e2b326582",
-      "title": "Streiks bei der Lufthansa vorerst beendet",
-      "url": "https://www.derstandard.at/story/3000000317022/pilotinnen-und-piloten-der-lufthansa-streiken-auch-am-freitag?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Pilotengewerkschaft plant kurzfristig keine weiteren Arbeitskampfmaßnahmen. Vorstand und Tarifkommission wollen nun die Situation bewerten",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-04-17T06:29:08+00:00",
-      "featured": false
     }
   ],
   "recht_intl": [
+    {
+      "id": "fb6fddb7db6d",
+      "title": "Swastika in the Polish Parliament",
+      "url": "https://verfassungsblog.de/swastika-in-the-polish-parliament/",
+      "category": "English Articles",
+      "excerpt": "In a recent incident in the Polish Parliament, an extreme right-wing MP, Konrad Berkowicz, displayed a modified Israeli flag bearing a swastika in place of the Star of David while accusing Israel of committing genocide. The ECHR protects severe criticism of governments, allegations of international crimes, and speech that “shocks, offends or disturbs”. Yet the question is whether the use of a Nazi symbol remains protected political expression in a constitutional order shaped by the legacy of Nazism and the Holocaust. In our view, it does not. The post Swastika in the Polish Parliament appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-21T07:57:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "4a9d8ed68969",
+      "title": "On My Way Out – Advice to Young Scholars IX:  Blurbs",
+      "url": "https://www.ejiltalk.org/on-my-way-out-advice-to-young-scholars-ix-blurbs/",
+      "category": "Editorials",
+      "excerpt": "I have, as is increasingly evident, reached the final phases of my academic and professional career, though it is a pretty long and winding way out…. Be that as it may, as I look back, I want to offer, for what it is worth, some do’s and don’ts on different topics for scholars in the […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-04-21T07:00:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "e1391c76aaa7",
+      "title": "The Question of Democracy Before the Inter-American Court",
+      "url": "https://verfassungsblog.de/right-to-democracy-iacthr/",
+      "category": "English Articles",
+      "excerpt": "The Inter-American Court of Human Rights has been asked a question that could reshape the relationship between democracy and human rights in the Americas. In 2024, Guatemala submitted a request for an Advisory Opinion on the legal status of democracy under the Inter-American human rights system, in a regional context marked by democratic backsliding, institutional fragility, and growing tensions between elected governments and judicial institutions. The issue is not simply how to define democracy, but how democracy operates within the Inter-American human rights system and what obligations States have in relation to it. The post The Question of Democracy Before the Inter-American Court appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-20T18:15:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "994b9f56fc55",
+      "title": "Two Defeats, One Winner",
+      "url": "https://verfassungsblog.de/two-defeats-one-winner/",
+      "category": "English Articles",
+      "excerpt": "In the last week, across two continents, two authoritarian governments faced significant blows, not by courts, not by international pressure, not by the slow grind of institutional resistance, but by oppositions that chose, against their fractious instincts, to act unitedly. Together, the two episodes highlight how oppositional party politics play important constitutional and democratic functions, and must find crucial space in the study of comparative constitutional law. The post Two Defeats, One Winner appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-04-20T11:20:37+00:00",
+      "featured": false
+    },
     {
       "id": "219bdc214c24",
       "title": "Das Dilemma der Verrechtlichung",
@@ -1188,297 +1250,257 @@
       "source": "Verfassungsblog",
       "date": "2026-04-12T19:22:15+00:00",
       "featured": false
-    },
-    {
-      "id": "5b904dcfdae4",
-      "title": "Announcements: Iran War Discussion; CfS ClimateXLaw Conference; CfP Law and Security; NILOS Moot Court Competition; ANZSIL Annual Conference; CfS Journal du Droit Transnational; Working Group of Young Scholars of International Law; Contemporary Societal Challenges and the Role of International Law; Jour Fixe Event Series",
-      "url": "https://www.ejiltalk.org/announcements-iran-war-discussion-cfs-climatexlaw-conference-cfp-law-and-security-nilos-moot-court-competition-anzsil-annual-conference-cfs-journal-du-droit-transnational-working-group-of-young/",
-      "category": "Announcements and Events",
-      "excerpt": "1. The Iran War, the Use of Force and the new Middle East Discussion. The SLS International Law sections will be hosting Marc Weller (Chatham House) in a discussion with Solon Solomon (BUL) on ‘The Iran War, the Use of Force and the new Middle East’. The event will be held on 30 April at […]",
-      "source": "EJIL:Talk!",
-      "date": "2026-04-12T09:00:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "2fcc03f1e3fb",
-      "title": "Neither What Italy Needed, Nor What it Deserved",
-      "url": "https://verfassungsblog.de/nor-what-it-deserved/",
-      "category": "English Articles",
-      "excerpt": "On 22 and 23 March 2026, the Italian electorate rejected a constitutional reform of the judiciary. This vote, while unlikely to deal a decisive blow to Meloni’s government, has already had notable political repercussions – most prominently, the resignations of two key figures within the Ministry of Justice. However, when situating the reform in the broader Italian political context, it goes too far to conclude that it would have pushed Italy in a direction similar to Hungary’s. The post Neither What Italy Needed, Nor What it Deserved appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-04-11T08:13:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "b213e825f7bf",
-      "title": "After Collapse",
-      "url": "https://verfassungsblog.de/after-collapse/",
-      "category": "English Articles",
-      "excerpt": "Ten years after the Hungarian government began its campaign against Central European University, Hungary now stands on the brink of a political turning point: elections that could finally shake the system built by Fidesz. With opposition leader Péter Magyar leading in the polls, an old prediction is suddenly coming true. Yet it raises a more unsettling question: even if the system collapses, can Hungary simply rebuild what once proved so vulnerable to illiberal capture? The post After Collapse appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-04-10T20:25:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "eb9722e68d1b",
-      "title": "Nach dem Kollaps",
-      "url": "https://verfassungsblog.de/nach-dem-kollaps/",
-      "category": "Hungary",
-      "excerpt": "Zehn Jahre nachdem die ungarische Regierung ihre Kampagne gegen die Central European University begonnen hat, steht Ungarn nun an der Schwelle zu einem politischen Wendepunkt: Wahlen, die das von Fidesz errichtete System erstmals ins Wanken bringen könnten. Mit Oppositionsführer Péter Magyar an der Spitze der Umfragen bewahrheitet sich plötzlich eine alte Prognose. Zugleich drängt sich eine beunruhigendere Frage auf: Selbst wenn das System zusammenbricht – kann Ungarn einfach das wiederaufbauen, was sich einst als so anfällig für illiberale Vereinnahmung erwiesen hat? The post Nach dem Kollaps appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-04-10T20:22:06+00:00",
-      "featured": false
     }
   ],
   "national": [
     {
-      "id": "7def4eaa3eaa",
-      "title": "Zeit in China: Arnautovic sprach über psychische Probleme",
-      "url": "https://orf.at/stories/3427400/",
-      "category": "Leute",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-20T12:03:44+02:00",
-      "featured": false
-    },
-    {
-      "id": "48b350d5a148",
-      "title": "Sloweniens Liberale scheitern mit Regierungsbildung",
-      "url": "https://orf.at/stories/3427398/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-04-20T11:50:08+02:00",
-      "featured": false
-    },
-    {
-      "id": "189e4abf12b3",
-      "title": "Arbeitslosigkeit bei älteren Frauen: Maßnahmen gefordert",
-      "url": "https://orf.at/stories/3427390/",
+      "id": "cac6149601a6",
+      "title": "Mehr als zehn Mrd. Euro in Bundesschätzen veranlagt",
+      "url": "https://orf.at/stories/3427492/",
       "category": "Inland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-20T11:21:38+02:00",
+      "date": "2026-04-21T10:39:17+02:00",
       "featured": false
     },
     {
-      "id": "a6d51812625d",
-      "title": "Wien trifft Mexiko: Gulasch zum Falten",
-      "url": "https://www.falter.at/best-of-vienna/artikel/20260420/gulasch-zum-falten",
-      "category": "Kulinarik",
-      "excerpt": "Zwei Salzburger, die am Brunnenmarkt Tafelspitz als mexikanisches Streetfood servieren? Wer jetzt „kultu­relle Aneignung“ rufen möchte, möge sich den Mund stopfen – am besten mit einem Taco der Tackerei. Und wer noch mehr mexikanische Köstlichkeiten kennenlernen möchte, schaut sich unsere Taco-Tipp-Liste anLesen Sie den kompletten Artikel auf FALTER.at",
-      "source": "Falter",
-      "date": "2026-04-20T11:00:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "7dc93239e6a4",
-      "title": "Pferdefreuden: Galopp mit Menschenstärke",
-      "url": "https://www.falter.at/best-of-vienna/artikel/20260420/galopp-mit-menschenstaerke",
-      "category": "Freizeit",
-      "excerpt": "Mit Steckenpferd durch den Türkenschanzpark? In Wien wird Hobbyhorsing zum sportlichen Trend – kreativ, schweißtreibend und bald sogar mit MeisterschaftLesen Sie den kompletten Artikel auf FALTER.at",
-      "source": "Falter",
-      "date": "2026-04-20T11:00:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "3364d6c4d42f",
-      "title": "Erdbeben der Stärke 7,5 erschüttert Nordjapan",
-      "url": "https://orf.at/stories/3427387/",
-      "category": "Chronik",
+      "id": "c599daf76051",
+      "title": "Spritpreise weiter gesunken",
+      "url": "https://orf.at/stories/3427490/",
+      "category": "Wirtschaft",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-20T10:22:52+02:00",
+      "date": "2026-04-21T10:09:17+02:00",
       "featured": false
     },
     {
-      "id": "6a589ba8d7b6",
-      "title": "Entnommene Goldbarren plötzlich nur \"Missverständnis\": Der Krimi hinter \"Meine Schatzkammer\"",
-      "url": "https://www.derstandard.at/story/3000000317021/entnommene-goldbarren-ploetzlich-nur-missverstaendnis-der-krimi-hinter-meine-schatzkammer?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Die \"Schatzkammer\" zeigte Start-Up-Investor Florian Fritsch an, weil er unbefugt Gold aus dem Safe genommen habe. Mittlerweile behauptet man, es sei ein \"Missverständnis\" gewesen.",
-      "source": "Der Standard",
-      "date": "2026-04-20T10:00:00+00:00",
+      "id": "3cec8b75f0d7",
+      "title": "Ungarns LGBTQ-Gesetz bricht EU-Recht",
+      "url": "https://orf.at/stories/3427484/",
+      "category": "Ausland",
+      "excerpt": "Der Europäische Gerichtshof (EuGH) in Luxemburg hat am Dienstag sein Urteil gegen das hochumstrittene ungarische „Kinderschutzgesetz“ gefällt, mit dem die Rechte von LGBTQ-Menschen sukzessive eingeschränkt wurden. Der EuGH kam zu dem Schluss, dass Ungarn durch die Verabschiedung eines Gesetzes, das LGBTQ-Personen stigmatisiert und marginalisiert, gegen die EU-Grundrechtecharta verstößt.",
+      "source": "ORF",
+      "date": "2026-04-21T10:08:35+02:00",
       "featured": false
     },
     {
-      "id": "6737299b601f",
-      "title": "Portugal: Nach 24 Stunden verliebt in Lissabon",
-      "url": "https://kurier.at/leben/reise/lissabon-portugal-stadt-spaziergang-liebe/403151031",
-      "category": "Leben/Reise",
-      "excerpt": "Der Moment, in dem ich begreife, dass das jetzt Liebe ist, ist nicht schön. Mir ist schwindlig. Leicht übel. Es fühlt sich an wie eine Überraschung. Doch das Verliebtsein hat immer Vorboten. Ich hätte es kommen sehen müssen.Es beginntIch komme in Lissabon an, habe schlecht geschlafen, ein zerknittertes Gesicht, Ringe unter den Augen. Und sie steht da: strahlend, lachend im dottergelben Morgenlicht und weißblau karierten Sommerkleid. Sie ist schön, denke ich. Aber ich bin zu müde, um genauer hinzusehen. Sie flirtet mit mir, das spüre ich. Sie bestellt Mittagessen, ein kaltes Bier, Kaffee. Sie nimmt mich an der Hand und führt mich einen Hügel nach oben, unter uns liegen schmale Häuser mit bemalten Keramikfliesen, dahinter der Tejo. Langsam kommen wir ins Gespräch.Sie erzählt auch von den vie",
-      "source": "Kurier",
-      "date": "2026-04-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6c52a7f03748",
-      "title": "Frauen müssen länger arbeiten – und jetzt? [premium]",
-      "url": "https://www.diepresse.com/20785850/frauen-muessen-laenger-arbeiten-und-jetzt",
-      "category": "Die Presse",
-      "excerpt": "Es ist die große Pensionsreform im Schatten vieler kleiner: das sukzessive steigende gesetzliche Pensionsantrittsalter für Frauen. Die Folgen für Staat und Arbeitsmarkt sind positiv, aber es gibt auch „Schatten“.",
-      "source": "Die Presse",
-      "date": "2026-04-20T09:57:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "51f206e209f1",
-      "title": "Ex-Kabinettschef Kloibmüller im Spionage-Prozess: \"Jedes Handy ist interessant\"",
-      "url": "https://kurier.at/politik/inland/egisto-ott-spionage-prozess-wien-michael-kloibmueller/403152288",
-      "category": "Politik/Inland",
-      "excerpt": "Es war nicht ganz einfach, ihn in den Spionage-Prozess gegen Egisto Ott, der seit Jänner läuft, zu holen. Am Montag aber gelang es. Doch der Auftritt war nach knapp einer halben Stunde schon wieder vorbei: Michael Kloibmüller, langjähriger Kabinettschef im Innenministerium, sagte als Zeuge aus. Sein Handy soll über Ott, Beamter im damaligen Bundesamt für Verfassungsschutz und Terrorismusbekämpfung (BVT), eine Bulgarenbande und Ex-Wirecard-Boss Jan Marsalek ihren Weg zum russischen Inlandsgeheimdienst FSB gefunden haben. 50.000 Euro soll Ott laut Anklage dafür bekommen haben - was er bestreitet. Wie? \"Das ist schon \"oft geschrieben und zitiert worden\", sagt Kloibmüller mit einem Lächeln - er erzählt die Geschichte aber gerne noch einmal: Im Sommer 2017 hat das Kabinett des damaligen Innenmi",
-      "source": "Kurier",
-      "date": "2026-04-20T09:54:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "8c3312256490",
-      "title": "Budget-Treffen am Dienstag: Wo es zu Konflikten kommen könnte",
-      "url": "https://kurier.at/politik/inland/budget-treffen-parteichefs-finanzministerium-markus-marterbauer/403152304",
-      "category": "Politik/Inland",
-      "excerpt": "Die Budget-Verhandlungen sind seit rund eineinhalb Wochen in vollem Gang. Nun bringen sich auch die Parteivorsitzenden der Koalition ein. Sie werden am Dienstag gemeinsam mit Finanzminister Markus Marterbauer (SPÖ), Staatssekretärin Barbara Eibinger-Miedl (ÖVP) und Neos-Vertreter Armin Hübner zum Haushalt für die kommenden beiden Jahre tagen. Konkrete Ergebnisse wird es da noch nicht geben, auch ist keine öffentliche Kommunikation geplant.Die Ausgangsposition ist durch die Krise im Mittleren und Nahen Osten schwierig geworden. Finanzminister Marterbauer geht angesichts der sich wieder eintrübenden Wirtschaftsaussichten davon aus, dass für das Doppelbudget gut zwei Milliarden an zusätzlichen Einsparungen gefunden werden müssen. WIFO und Fiskalrat schätzen den zusätzlichen Bedarf sogar auf d",
-      "source": "Kurier",
-      "date": "2026-04-20T09:54:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "bdf6c83cbfea",
-      "title": "\"Bitte kein Trinkgeld!\": Warum dieses Wiener Lokal darauf verzichtet",
-      "url": "https://kurier.at/chronik/wien/kein-trinkgeld-dean-david-wien-trinkgeldpauschale-oesterreich/403152250",
-      "category": "Chronik/Wien",
-      "excerpt": "Rund 10 Prozent Trinkgeld geben die Österreicherinnen und Österreicher. Insbesondere bei einem Gastro-Besuch gehört der freiwillige Geldbetrag für 87 Prozent zum guten Ton. Ein Wiener Lokal in einem Shoppingcenter möchte aber bewusst darauf verzichten. Damit die Kundschaft auch Bescheid weiß, steht auf der Theke ein Schild mit dem Hinweis: \"Bitte kein Trinkgeld!\"Wiener Lokal verzichtet auf TrinkgeldEine Filiale der Selbstbedienungs-Gastro-Kette \"Dean & David\" in der Millennium City im 20. Bezirk lehnt seit rund einem Monat Trinkgeld ab, berichtet die Heute-Zeitung. \"Schenkungen in jeglicher Form lösen bei uns eine gesetzliche Trinkgeldpauschale aus. Im Interesse unserer Mitarbeiter sehen wir daher davon ab\", heißt es auf dem Informationsschild, das mit einem lächelnden Smiley versehen ist.",
-      "source": "Kurier",
-      "date": "2026-04-20T09:53:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "57b9a798aa01",
-      "title": "Katy Perry in Rom: Kreditkarte im Trevi-Brunnen sorgt für Aufsehen",
-      "url": "https://kurier.at/stars/katy-perry-in-rom-kreditkarte-im-trevi-brunnen-sorgt-fuer-aufsehen/403152306",
-      "category": "Stars",
-      "excerpt": "US-Popstar Katy Perry hat während eines Rom-Besuchs den Trevi-Brunnen besichtigt. Die Sängerin, teilweise von einer Kapuzenjacke verdeckt, wollte den Münzwurf-Brauch befolgen, improvisierte jedoch mangels Kleingeld auf ihre eigene Weise: Statt Münzen zog sie ihre Kreditkarte hervor und warf sie ins Wasser. Laut Tradition soll man eine Münze in den Brunnen werfen, um sich die Rückkehr nach Rom zu sichern.\"Halleluja\"Das Video, das die Künstlerin selbst auf Instagram veröffentlichte, verbreitete sich schnell in den sozialen Netzwerken. Die Sängerin gönnte sich danach eine kleine Tour durch die Hauptstadt, mit Stationen auf dem Petersplatz, wo sie sofort die Aufmerksamkeit von Passanten auf sich zog. Auf dem Petersplatz trug Perry ein zweifarbiges Kleid mit schwarzem Top und weißem, weit schwi",
-      "source": "Kurier",
-      "date": "2026-04-20T09:51:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "ccd997f1dca3",
-      "title": "\"Dieser Hass wird im Kinderzimmer geboren – und wir sehen zu\"",
-      "url": "https://kurier.at/chronik/oesterreich/dirk-laabs-armee-der-einzeltaeter-interview-terroristen/403146545",
-      "category": "PLUS - Chronik/Österreich",
-      "excerpt": "Laut dem letzten EU-Terrorismusbericht 2025 meldeten im Jahr 2024 14 Mitgliedstaaten insgesamt 58 Anschläge: 34 vollendet, 5 gescheitert und 19 vereitelt. Die Hintergründe waren verschiedener Natur, eine Gemeinsamkeit besteht jedoch: Terror-Anschläge werden nahezu ausschließlich von (jungen) Männern verübt. Aber warum – und wo und wie radikalisieren sie sich? Der deutsche Autor, Filmemacher und Investigativ-Journalist Dirk Laabs beschäftigt sich schon seit vielen Jahren mit der Frage, wieso Menschen zu Terroristen werden. Seine Recherchen für Bücher und Dokus (darunter etwa \"World White Hate\") führten ihn nach Afghanistan, in den Jemen, nach Guantanamo und quer durch die USA. Er befasste sich mit der RAF, mit linksextremistischen Revolutionären Zellen und immer wieder mit Islamisten. In se",
-      "source": "Kurier",
-      "date": "2026-04-20T09:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a3e3f2130a93",
-      "title": "Russischer Geheimdienst meldet Festnahme einer Deutschen",
-      "url": "https://orf.at/stories/3427386/",
+      "id": "1a81c425b04f",
+      "title": "Ungarns LGBTQ-Gesetz verstößt gegen EU-Charta",
+      "url": "https://orf.at/stories/3427489/",
       "category": "Ausland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-04-20T09:46:40+02:00",
+      "date": "2026-04-21T10:03:20+02:00",
       "featured": false
     },
     {
-      "id": "e8ae67950af7",
-      "title": "Ehrentag der Mamas: Wiens beste Adressen für den Muttertag",
-      "url": "https://www.falter.at/lokalfuehrer/die-besten-adressen-fuer-den-muttertag",
-      "category": "Lokale nach Anlass",
-      "excerpt": "Auch wenn wir davon überzeugt sind, dass Mamas das ganze Jahr über gefeiert werden sollen, nehmen wir den 10. Mai…Lesen Sie den kompletten Artikel auf FALTER.at",
-      "source": "Falter",
-      "date": "2026-04-20T09:44:00+02:00",
+      "id": "9e1a5ad394ba",
+      "title": "Madonna vermisst Kostüme nach Coachella-Auftritt",
+      "url": "https://orf.at/stories/3427487/",
+      "category": "Kultur",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-21T09:35:18+02:00",
       "featured": false
     },
     {
-      "id": "7a438f4ed3ee",
-      "title": "Was die Krise im Iran mit unseren Böden zu tun hat",
-      "url": "https://kurier.at/meinung/gastkommentare/krise-iran-hormus-duenger-boeden-humus/403152283",
-      "category": "Meinung/Gastkommentare",
-      "excerpt": "Wenn über die Straße von Hormus gesprochen wird, geht es fast immer um Öl, Gas und Energiepreise. Genau dort liegt der blinde Fleck der Debatte. Denn über diese Route laufen auch große Mengen an Düngemitteln. Die International Fertilizer Association verweist für 2024 auf rund 18,5 Millionen Tonnen Urea, also Harnstoff, der über die Meerenge von Hormus exportiert wurde.Für Österreich ist das ein Alarmsignal. Nicht, weil morgen die Lebensmittelregale leer sind. Sondern weil sichtbar wird, wie verwundbar unser System geworden ist. Auch die Krisensicherheit der heimischen Landwirtschaft hängt an der Straße von Hormus.In Österreich gehen laut Umweltbundesamt rund sechs Tonnen fruchtbarer Boden pro Hektar und Jahr verloren. Gleichzeitig ist Humus zentral für Bodenfruchtbarkeit, Wasserhaltevermög",
-      "source": "Kurier",
-      "date": "2026-04-20T09:38:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "bb45ad7b3178",
-      "title": "Emotionale Worte von Manninger-Witwe: \"Wir hatten ein perfektes Leben\"",
-      "url": "https://kurier.at/sport/fussball/emily-manninger-tod-juventus-buffon-anteilnahme-trauer/403152227",
-      "category": "Sport/Fußball",
-      "excerpt": "\"Wir sind keine Familie, die Kummer und Schmerz nach Außen trägt\", schrieb Emily Manninger auf Facebook. \"Aber ich habe keine andere Wahl, die Welle der Liebe aus aller Welt hat mich überwältigt.\"Alexander Manninger war am Donnerstag bei einem tragischen Verkehrsunfall ums Leben gekommen. Der ehemalige Teamtormann starb mit nur 48 Jahren. Er hinterlässt seine Frau und zwei Söhne.\"Du warst nicht nur mein Ehemann, du warst auch mein bester Freund\", schrieb Emily Manninger. \"Wir hatten ein perfektes Leben. Die Liste der Dinge, die wir gemeinsam gemacht haben, ist endlos.\"Drei Juventus-Tormänner mit \"Manninger\"-TrikotRührende Szenen gab es vor dem Serie-A-Spiel zwischen Juventus und Bologna. Alle drei Torleute von Juventus trugen beim Aufwärmen Trikots mit Manningers Rückennummer 13 und dem Na",
-      "source": "Kurier",
-      "date": "2026-04-20T09:37:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "112e7f3b0016",
-      "title": "Rücktritt in Deutschkreutz: Bürgermeister zieht die Konsequenzen",
-      "url": "https://kurier.at/chronik/burgenland/andreas-kacsits-deutschkreutz-ruecktritt-buergermeister-juergen-hofer-oevp-spoe/403152282",
-      "category": "PLUS - Chronik/Burgenland",
-      "excerpt": "Von Gernot HeiglNach heftiger Kritik an seiner Amtsführung, der KURIER berichtete, hat der Deutschkreutzer Ortschef Andreas Kacsits (ÖVP) seinen Rücktritt bekannt gegeben. Kaum war dieser öffentlich, brachte sich in der schwarzen Fraktion bereits eine Nachfolgerin in Stellung. Die Gemeindegeschäfte werden interimistisch bis zu einer neuen Bürgermeisterwahl von Vizebürgermeister Jürgen Hofer (SPÖ) weitergeführt.In einer Aussendung am Montag um 8.18 Uhr erklärte Kacsits: „Vor 15 Jahren bin ich völlig unbelastet und voller Tatendrang und Energie in die Kommunalpolitik eingestiegen, und ich/wir haben es tatsächlich nach vielen Jahren harter Arbeit zum Bürgermeister geschafft. Nach reiflicher Überlegung und aus beruflichen Gründen, aber auch aufgrund der Vorkommnisse in den letzten Wochen und M",
-      "source": "Kurier",
-      "date": "2026-04-20T09:37:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "9d23387028fa",
-      "title": "Marathon-Läufer attackiert nach Kollaps Ehefrau und Polizisten",
-      "url": "https://kurier.at/chronik/wien/marathon-laeufer-attackiert-nach-kollaps-ehefrau-und-polizisten/403152296",
-      "category": "Chronik/Wien",
-      "excerpt": "Kurz vor dem Zieleinlauf des Vienna City Marathons kollabierte ein 39-jähriger Läufer aus Litauen am Sonntag gegen 14 Uhr beim Vienna City Marathon. Polizeischüler, die dort als Streckenposten eingesetzt waren, brachten den Mann schnell zu einem Rettungsdienst.Kurze Zeit später kam der 39-Jährige dann wieder zu sich, wurde aber plötzlich rabiat. Er attackierte seine Ehefrau und riss sie an den Haaren. Eine Polizistin schritt ein, wurde von dem Mann dann aber in den Finger gebissen. Weitere herbeigeilte Polizisten nahmen den Mann fest und er wurde ins Spital gebracht. Dort wurde vermutet, dass sein Verhalten auf seinen Schockzustand zurückzuführen war. Auf Anordnung der Staatsanwaltschaft Wien wurde der 39-Jährige auf freiem Fuß angezeigt. Auch die Polizistin musste in einem Spital behandel",
-      "source": "Kurier",
-      "date": "2026-04-20T09:35:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "73a215abdc37",
-      "title": "Energiekrise: MacGyver würde es anders machen",
-      "url": "https://kurier.at/meinung/gastkommentare/energiekrise-macgyver-wuerde-es-anders-machen-agenda-austria/403152286",
-      "category": "Meinung/Gastkommentare",
-      "excerpt": "Nichts hält länger als ein österreichisches Provisorium. Die kaiserliche Mieterschutzverordnung von 1917 überlebte das Kaiserreich um Längen, obwohl sie eigentlich noch im selben Jahr hatte auslaufen sollen. In der Gestalt des Friedenszinses gab es sie noch jahrzehntelang. Das Dieselprivileg existiert sogar bis heute. Es hatte ab 1949 nur dafür sorgen sollen, dass das im Inland geförderte Öl nicht an die Sowjets abgeliefert werden musste, erwies sich dann aber als zäher als die UdSSR selbst. Ein Beispiel aus der jüngeren Geschichte: Der Spitzensatz von 55 Prozent bei der Einkommenssteuer oder der Energiekrisenbeitrag für Stromproduzenten waren anfangs nur vorübergehende Notlösungen. Es gibt sie immer noch.Besonders stabil sind Provisorien immer dann, wenn den Improvisierenden auch nach rei",
-      "source": "Kurier",
-      "date": "2026-04-20T09:32:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "0a720c615c64",
-      "title": "Wo sind die Jobs? Arbeitslosigkeit bei Frauen über 50 steigt massiv",
-      "url": "https://kurier.at/wirtschaft/beschaeftigung-arbeitsmarkt-pension-arbeitslose-frauen/403152291",
-      "category": "Wirtschaft",
-      "excerpt": "Seniorenvertreterinnen schlagen Alarm: Wegen der Angleichung des Pensionsantrittsalters steigt die Altersarbeitslosigkeit bei Frauen derzeit besonders stark. So waren laut AMS-Daten im März 4.670 Frauen im Alter von 60 Jahren arbeitslos. Das sind rund dreieinhalb Mal so viele wie zu Beginn des Jahres 2024. Bei den 61-jährigen Frauen waren es mit 1.900 sogar zehnmal so viele wie im Jänner 2024. Damit verdoppelte sich die Arbeitslosenquote bei den 60-jährigen Frauen auf 9,5 Prozent, bei den 61-jährigen kletterte sie von 1,6 auf 8,3 Prozent. \"Die Situation der Frauen am Arbeitsmarkt über 50 ist nicht besser, sondern schlechter geworden\", betonte Seniorenbund-Obfrau Ingrid Korosec bei einer Pressekonferenz gemeinsam mit Birgit Gerstorfer (Pensionistenverband) und der Vorsitzenden der Alterssic",
-      "source": "Kurier",
-      "date": "2026-04-20T09:24:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "572556941258",
-      "title": "Sind sämtliche Kirschen des Nachbarn verbotene Früchte?",
-      "url": "https://kurier.at/kolumnen/recht-praktisch/sind-saemtliche-kirschen-des-nachbarn-verbotene-fruechte/403151610",
-      "category": "PLUS - Kolumnen/Recht praktisch",
-      "excerpt": "Von Thomas In der MaurAn unserer Grundstücksgrenze steht ein Kirschbaum des Nachbarn. Er treibt jetzt ordentlich aus, die Äste hängen weit in unseren Garten hinein. Darf ich die Zweige auf meiner Seite zurückschneiden? Sobald die ersten Kirschen reif sind, landen viele bei uns und auf dem Gehsteig vor unserem Haus. Unsere Kinder wollen die Kirschen dann pflücken und Fallobst einsammeln. Der Nachbar ist aber überzeugt, dass alle Kirschen ihm gehören – gleichzeitig beschwert er sich, wenn der Gehsteig vor unserem Haus voller matschiger Kirschen ist. Wem gehören die Kirschen auf Ästen, die in meinen Garten ragen und wem das Fallobst? Wie ist das mit Ästen, die über den Gehsteig hängen, darf man von diesen pflücken? Und wer ist verantwortlich, rutschiges Fallobst auf der Straße zu beseitigen?E",
-      "source": "Kurier",
-      "date": "2026-04-20T09:24:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d4e6c3ddd05",
-      "title": "Howard Carpendale mit emotionaler Hommage an Udo Jürgens",
-      "url": "https://kurier.at/stars/austropromis/howard-carpendale-udo-juergens-abschiedskonzert/403152294",
-      "category": "Stars/Austropromis",
-      "excerpt": "In Hamburg spielte der Sänger Howard Carpendale (80) jetzt das letzte Konzert seiner Abschiedstournee. Dabei sang er nicht nur seine Hits, sondern erzählte dazwischen auch immer wieder die eine oder andere Anekdote.So war es ihm auch ein Bedürfnis über Udo Jürgens (gestorben 2014) zu sprechen: \"Jetzt kommen wir zu einem etwas ernsteren Thema. Ich bin 1966 nach Deutschland gekommen. Hier habe ich einen Künstler gesehen. Er war ziemlich am Anfang, und mir war damals klar, dass dieser Mann ein ganz, ganz Großer wird\", sagte Carpendale laut schlager.de auf der Bühne.\"Ich will nicht sagen, wir waren die liebsten Freunde. Wir haben Respekt füreinander gehabt und haben uns beide sehr geschätzt\", so Carpendale ehrlich. Er habe immer gerne seine Shows gesehen, \"weil er ein echter Profi war. Er war ",
-      "source": "Kurier",
-      "date": "2026-04-20T09:18:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "d563e886affb",
-      "title": "„Omas gegen Rechts“ unterliegen mit Klage gegen FPÖ-Haimbuchner",
-      "url": "https://www.diepresse.com/20786024/omas-gegen-rechts-unterliegen-mit-klage-gegen-fpoe-haimbuchner",
+      "id": "3b8d8bcf6b26",
+      "title": "Vor erstem Budget-Gipfel: Streit um Vermögenssteuern und Pensions-Eingriffe [premium]",
+      "url": "https://www.diepresse.com/20789054/vor-erstem-budget-gipfel-streit-um-vermoegenssteuern-und-pensions-eingriffe",
       "category": "Die Presse",
-      "excerpt": "Nach Auffassung des Gerichts ist der oberösterreichische FPÖ-Chef Manfred Haimbuchner nicht persönlich für Postings auf seiner Facebook-Seite verantwortlich.",
+      "excerpt": "Am Dienstagnachmittag kommt die Regierungsspitze zusammen, um den ersten Schritt zum neuen Budget abzuschließen. Großes Thema dabei sind Grundsatzfragen, die ÖVP, SPÖ und Neos nicht zum ersten Mal diskutieren.",
       "source": "Die Presse",
-      "date": "2026-04-20T09:16:40+00:00",
+      "date": "2026-04-21T09:11:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "5d82aa696560",
+      "title": "Amnesty beklagt Aushöhlen von Menschenrechten in Österreich",
+      "url": "https://www.derstandard.at/story/3000000317498/amnesty-beklagt-aushoehlen-von-menschenrechten-in-oesterreich?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Etablierte Parteien würden weltweit Politik und Rhetorik autoritärer Bewegungen übernehmen. Österreich sei ein \"Lehrstück\" dieser Entwicklung",
+      "source": "Der Standard",
+      "date": "2026-04-21T09:06:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "0d93a8b74861",
+      "title": "Klinik Oberwart: Hans Peter Doskozils Irrweg [premium]",
+      "url": "https://www.diepresse.com/20784505/klinik-oberwart-hans-peter-doskozils-irrweg",
+      "category": "Die Presse",
+      "excerpt": "Die neue Herzchirurgie ist in erster Linie ein Prestigeprojekt des Landeshauptmanns. Das genügt nicht, um ein solches Zentrum zu errichten. Die Fallzahlen sind schlichtweg zu niedrig.",
+      "source": "Die Presse",
+      "date": "2026-04-21T09:02:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c3c0f203dac",
+      "title": "Streiks, Kerosinmangel, Überbuchung: Welche Rechte Fluggäste haben",
+      "url": "https://kurier.at/wirtschaft/austrian-fliegen-fluggastrechte/403152401",
+      "category": "PLUS - Wirtschaft",
+      "excerpt": "Die jüngsten Streiks der Piloten und des Kabinenpersonals bei der deutschen Lufthansa oder die Sorge, in Europa könnte in wenigen Wochen das Kerosin ausgehen, machen Konsumenten lange vor Beginn der Hauptreisezeit nervös. Was passiert, wenn mein Flug storniert wird? An wen kann ich mich wenden, wenn ich bei der Fluglinie nicht durchkomme? Der KURIER beantwortet die wichtigsten Fragen zu den komplexen Fluggastrechten.Die Airline storniert den gebuchten Flug. Gibt es den Ticketpreis zurück?Je nach Flugstrecke – also unabhängig vom Ticketpreis – stehen den Reisenden prinzipiell Ausgleichszahlungen zu. Es zählt dabei die Entfernung zwischen dem ersten Abflugort und dem Endziel. Zwischenstopps und Umsteigeverbindungen bleiben also unberücksichtigt. Die Bandbreite reicht je nach Distanz zum Ziel",
+      "source": "Kurier",
+      "date": "2026-04-21T08:44:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "975a18506c14",
+      "title": "Fünf Nachwuchskicker bei Verkehrsunfall in Oberösterreich verletzt",
+      "url": "https://kurier.at/chronik/oberoesterreich/fuenf-nachwuchskicker-bei-verkehrsunfall-in-oberoesterreich-verletzt/403152545",
+      "category": "Chronik/Oberösterreich",
+      "excerpt": "Sieben Personen sind Montagabend bei einer Frontalkollision auf der Leitrachstettener Landesstraße in Maria Schmolln (Bezirk Braunau) leicht verletzt worden. Ein 19-Jähriger touchierte um 18.30 Uhr mit seinem Pkw in einer starken Rechtskurve einen Leitpflock, woraufhin er die Kontrolle über sein Auto verlor und mit einem entgegenkommenden Achtsitzer-Bus frontal kollidierte, berichtete die Polizei am Dienstag.Im Mannschaftsbus waren neben dem 64-jährigen Lenker offenbar fünf zwölf- bis 14-jährige Fußballtalente des Landesverbandsausbildungszentrum Ried (LAZ).Alle sieben Beteiligten wurden leicht verletzt, sechs von ihnen ins Krankenhaus eingeliefert. Der 64-Jährige verzichtete gegen Unterfertigung eines Revers.Am Rettungseinsatz an der Unfallstelle waren zahlreiche Einheiten der Rettung, so",
+      "source": "Kurier",
+      "date": "2026-04-21T08:43:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "9b7d9fe07cdf",
+      "title": "Mehr als nur Texas Hold‘em: Die Road Chicks covern mit Individualität",
+      "url": "https://kurier.at/cm/mehr-als-nur-texas-holdem-die-road-chicks-covern-mit-individualitaet/403152547",
+      "category": "Werbung",
+      "excerpt": "Coverband ist nicht gleich Coverband – ein Blick auf die Road Chicks zeigt, wie Individualität und musikalische Handschrift auch im Bereich von Coversongs eine entscheidende Rolle spielen. Was als „Countryband buchen“ begann, hat sich längst zu einem vielschichtigen musikalischen Konzept entwickelt, das auf Events, Hochzeiten und Festivals überzeugt.Eigenständige Coverkunst: Was Road Chicks von klassischen Coverbands unterscheidetWer unter „Partyband buchen“ oder „Live Musik für Events“ im Netz sucht, stößt schnell auf eine Vielzahl von Bands, die bekannte Songs möglichst werkgetreu interpretieren. Road Chicks gehen bewusst einen anderen Weg: Anstatt Songs einfach nachzuspielen, prägen sie ihnen eine eigene stilistische Note auf – inspiriert von Nashville-Sound und moderner Country-Rock-Po",
+      "source": "Kurier",
+      "date": "2026-04-21T08:34:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "1a19de8e6f99",
+      "title": "Gegenseitige Drohungen von USA und Iran",
+      "url": "https://orf.at/stories/3427472/",
+      "category": "Ausland",
+      "excerpt": "Kurz vor dem Auslaufen der Waffenruhe zwischen dem Iran und den USA ist eine Fortsetzung der Verhandlungen weiter ungewiss. Beide Parteien zeigten sich zuletzt unnachgiebig. Der iranische Parlamentspräsident Mohammed-Bagher Ghalibaf, der die iranische Delegation in der vorigen Runde angeführt hatte, teilte auf X mit, er akzeptiere keine Verhandlungen unter dem Eindruck von Drohungen. Der Iran habe nach der Feuerpause neue militärische Mittel in der Hinterhand. Auch von US-Präsident Donald Trump kamen neue Drohungen.",
+      "source": "ORF",
+      "date": "2026-04-21T08:30:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "b20920ceb4d1",
+      "title": "Die Neunziger gehör(t)en uns",
+      "url": "https://kurier.at/kolumnen/neunzigerjahre-nostalgie-zeitgeist-mode/403150392",
+      "category": "Kolumnen",
+      "excerpt": "Sorry Leute, aber ihr kriegt die Neunzigerjahre nicht zurück. Wir geben sie nicht her. Ich gebe sie nicht her. Zeitzeugen wähnen sich derzeit ja in einem dauerhaften Déjà-vu. Ist das noch 2026, oder schon wieder 1995? Die Gen Z pilgert in die Secondhand-Shops, als hätte Helmut Lang noch mal eine Kollektion rausgehauen. Dort gibt es grellbunte Nylon-Windjacken in abwegigen Designs, wie Liam Gallagher am Barhocker direkt vom Körper gezogen. Rotzbremsen überall, als würde man Rudi Völler zuschauen, wie er für den AS Roma einläuft. Die Snob-Fraktion macht inzwischen auf JFK jr. und wirkt doch wie Stromberg. Das macht sicher Spaß, aber eine Erkenntnis sollte man bedenken: Erst wenn das Kopfhörerkabel sich zum x-ten Mal unauflöslich verknäult, man sich des Vokuhilas zuliebe zum Pudel geföhnt und",
+      "source": "Kurier",
+      "date": "2026-04-21T08:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3f6411db4aa",
+      "title": "Zukunft beginnt mit Planung: PI Wlattnig GmbH im kommunalen Einsatz",
+      "url": "https://kurier.at/cm/zukunft-beginnt-mit-planung-pi-wlattnig-gmbh-im-kommunalen-einsatz/403152540",
+      "category": "Werbung",
+      "excerpt": "Extreme Wetterereignisse, steigende gesetzliche Anforderungen und knapper werdende Budgets setzen Österreichs Gemeinden zunehmend unter Druck. Die PI Wlattnig GmbH begleitet Kommunen in der Steiermark, Kärnten und Salzburg dabei, ihre Wasser- und Abwasserinfrastruktur strategisch weiterzuentwickeln – mit dem Ziel, Versorgungssicherheit und Wirtschaftlichkeit langfristig abzusichern.Infrastruktur zwischen Klimarisiko und KostendruckStarkregen, Trockenperioden und strengere Umweltauflagen verlangen heute eine andere Herangehensweise als noch vor 20 Jahren. Gemeinden stehen vor der Aufgabe, bestehende Anlagen zu sanieren, Netze zu erweitern und gleichzeitig Gebühren stabil zu halten. Die PI Wlattnig GmbH unterstützt dabei von der Grundlagenerhebung über die Planung im Siedlungswasserbau bis h",
+      "source": "Kurier",
+      "date": "2026-04-21T08:28:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "50abb0270572",
+      "title": "\"Teufel trägt Prada 2\": Wintour bis Klum bei modischer Weltpremiere",
+      "url": "https://kurier.at/freizeit/lifestyle/der-teufel-traegt-prada-2-anna-wintour-bis-heidi-klum-bei-modischer-weltpremiere/403152513",
+      "category": "Freizeit/Lifestyle",
+      "excerpt": "Zwanzig Jahre nach dem Kinostart einer Hollywood-Komödie, die im Modebusiness spielt, wird \"Der Teufel trägt Prada\" zu einem riesigen Popkultur-Phänomen hochstilisiert. Von Südkorea bis Mexiko wurde schon eifrig Werbung für den zweiten Teil gemacht, jetzt fand die Weltpremiere von \"Der Teufel trägt Prada 2\" statt. In New York, wo der Blockbuster erneut spielt. Das Marketing ist hochgefahren und bedient die Nostalgie, aber auch die Luxusindustrie. Schon während der Dreharbeiten erzeugten Paparazzi-Fotos von Film-Outfits laut der Plattform Launchmetrics einen Medienwert von 33 Millionen Dollar für Modehäuser – ein Effekt, der sonst nur bei Fashion Weeks entsteht.Stars wie Lady Gaga und Anna WintourDie Marketing-Auftritte von Meryl Streep und Anne Hathaway der letzten Monate nahmen wohl fast ",
+      "source": "Kurier",
+      "date": "2026-04-21T08:28:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "d2e5eedfe5d1",
+      "title": "Jimi Blue Ochsenknecht: Öffentlicher Streit mit Ex Yelic Koc - wegen neuer Freundin",
+      "url": "https://kurier.at/stars/jimi-blue-ochsenknecht-oeffentlicher-streit-mit-ex-yelic-koc-wegen-neuer-freundin/403152521",
+      "category": "Stars",
+      "excerpt": "Eigentlich schienen sich Jimi Blue Ochsenknecht und seine Ex-Freundin Yeliz Koc nach ihrer Trennung versöhnt zu haben - immerhin sind sie durch die gemeinsame Tochter weiter miteinander verbunden. In ihrer Serie \"Yeliz und Jimi\" geben die beiden Einblicke in ihr Patchwork-Leben und erst vor Kurzem wurde die zweite Staffel angekündigt. Von Friede und Freude ist nun aber nicht mehr die Spur bei dem Ex-Paar. Am Montag kam es zu öffentlichen Anschuldigungen, die Koc gegen Ochsenknecht öffentlich erhob.Sie kommentierte eine von Ochsenknechts Instagram-Storys, in der er mit seiner neuen Freundin zu sehen ist - von der die Öffentlichkeit bis dato nichts wusste.Yeliz Koc: Jimi Blue Ochsenknecht \"vergisst\" sein Kind\"Herzlichen Glückwunsch. Eine Frau mit zwei Kindern, da vergisst man sein eigenes na",
+      "source": "Kurier",
+      "date": "2026-04-21T08:27:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "f36b4752f4bb",
+      "title": "Blind mit 50: Jeder Fünfte hat erhöhtes Risiko",
+      "url": "https://kurier.at/wissen/gesundheit/blind-rauchen-augen-risiko-blindheit-gesundheit-tabak/403152503",
+      "category": "PLUS - Wissen/Gesundheit",
+      "excerpt": "Etwa jeder Fünfte in Österreich raucht. Damit gehen zahlreiche Gesundheitsrisiken einher. Weniger bekannt ist allerdings, dass sich Rauchen auch auf die Augen auswirken kann. Rund 20 Prozent aller neuen Erblindungen ab dem 50. Lebensjahr gehen auf Tabakkonsum zurück. Darauf macht die Deutsche Ophthalmologische Gesellschaft (DOG) aufmerksam. Rauchen zähle damit zu den größten vermeidbaren Risiken für die Augengesundheit.Laut Studien erhöht Rauchen das Risiko für schwere Augenerkrankungen wie altersabhängige chronische Netzhauterkrankung (Makuladegeneration, AMD), Grünen Star und Gefäßverschlüsse teils um das Zwei- bis Vierfache. Auch Kinder von Müttern, die während der Schwangerschaft rauchen, entwickeln demnach häufiger Augenfehlbildungen und Sehstörungen.„Während aber die Risiken für Herz",
+      "source": "Kurier",
+      "date": "2026-04-21T08:24:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "d1133ceb4fae",
+      "title": "Japan lockert Regeln für Rüstungsexporte",
+      "url": "https://orf.at/stories/3427475/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-04-21T08:24:08+02:00",
+      "featured": false
+    },
+    {
+      "id": "e4ccc18c8d31",
+      "title": "Großbritannien fürchtet sich vor europäischem \"Marmeladediktat“",
+      "url": "https://kurier.at/politik/ausland/grossbritannien-fuerchtet-sich-vor-europaeischem-marmeladediktat-eu-regeln/403152331",
+      "category": "Politik/Ausland",
+      "excerpt": "Dass Orangenmarmelade in Großbritannien Kultstatus hat, weiß man spätestens seit Königin Elizabeths Platinjubiläum. Während der Jubiläumsshow im Juni 2022 zeigte ein Sketch die damalige Monarchin beim Tee mit Paddington Bär. Das Geheimnis, das sie ihm dabei verriet: In ihrer schwarzen Handtasche trage sie stets ein Orangenmarmeladebrot bei sich. Für Notfälle.Doch nun ist der Aufstrich unter Druck. „Hände weg von unserer Marmelade!“, echauffierte sich Richard Tice, Wirtschaftssprecher von Reform UK. „Die Labour-Partei“, erklärte auch die konservative Schatten-Außenministerin Priti Patel, „greift die großartige britische Marmelade an!“Dazu muss man wissen: Auf wenig legen Briten so viel Wert wie auf Sprache. Sie schmunzeln mit Vorliebe über „inkorrekte“ amerikanisch-englische Begriffe und ze",
+      "source": "Kurier",
+      "date": "2026-04-21T08:22:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "af91f82e08ef",
+      "title": "Trend setzt sich fort: Spritpreise in Österreich weiter auf Talfahrt",
+      "url": "https://kurier.at/wirtschaft/diesel-benzin-spritpreise-oesterreich-tanken/403152534",
+      "category": "Wirtschaft",
+      "excerpt": "Die Spritpreise in Österreich sind zu Wochenbeginn weiter gesunken. Seit gut zwei Wochen gehen die Preise für Benzin und Diesel an den heimischen Tankstellen zurück. Am Montag kostete Diesel im Mittel 1,879 Euro pro Liter und Benzin 1,678 Euro pro Liter. Diesel ist damit um gut 40 Cent günstiger als Ende März, bei Benzin beträgt der Rückgang gegenüber dem Höchstwert 20 bis 25 Cent. Neben der Spritbremse der Regierung wirkt sich vor allem der Rückgang der Rohölpreise aus.Die Ölpreise sind - genährt durch die Hoffnung auf eine Entspannung im Iran-Krieg und eine Öffnung der Straße von Hormus - zuletzt deutlich zurückgegangen. Kostete ein Fass der Sorte Brent Ende März noch über 100 Dollar, sind es aktuell rund 95 Dollar.Inkrafttreten der Spritpreisbremse fiel mit Rückgang der Ölpreise zusamme",
+      "source": "Kurier",
+      "date": "2026-04-21T08:19:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "c86b23cf9ff9",
+      "title": "Zweites vergiftetes Glas gefunden? Keine Bestätigung der Polizei",
+      "url": "https://kurier.at/chronik/oesterreich/zweites-vergiftetes-glas-gefunden-keine-bestaetigung-der-polizei/403152525",
+      "category": "Chronik/Österreich",
+      "excerpt": "Die Causa rund um eine Erpressung der Firma Hipp geht weiter: Laut Informationen der Polizei Burgenland wurden in einer Spar-Filiale in Eisenstadt zwei vergiftete Gläser Karotten-Kartoffelbrei verkauft. Während eines davon von Eltern im burgenländischen Schützen am Gebirge gefunden wurde, suchte man nun nach dem zweiten Produkt. Wie die Krone berichtet, soll dieses Glas nun gefunden worden sein - die Polizei will das aber vorerst nicht bestätigen. Am 16. April hatten Mitarbeiter der Firma Hipp in einem allgemeinen E-Mail-Ordner, der zwar regelmäßig, aber nicht permanent überprüft wird, eine Erpresser-Mail entdeckt. Darin war zu lesen, dass man zwei Millionen Euro fordere, ansonsten wolle man Babynahrung vergiften. Als das Mail gelesen wurde, war die Frist der Erpresser aber schon abgelaufe",
+      "source": "Kurier",
+      "date": "2026-04-21T08:18:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "d40555b39105",
+      "title": "„Hat mit Rechtsstaat nichts zu tun“: ÖVP kritisiert, dass WKStA Schmid-Verfahren übernimmt",
+      "url": "https://www.diepresse.com/20788846/hat-mit-rechtsstaat-nichts-zu-tun-oevp-kritisiert-dass-wksta-schmid-verfahren-uebernimmt",
+      "category": "Die Presse",
+      "excerpt": "Just die WKStA ist nun für die Klärung zuständig, ob Kronzeuge Thomas Schmid im Wöginger-Prozess falsch ausgesagt hat. Die ÖVP sieht eine Befangenheit und fordert einen Eingriff von Oberbehörde oder Ministerium.",
+      "source": "Die Presse",
+      "date": "2026-04-21T08:07:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "b4566322e517",
+      "title": "Hitzewelle seit Anfang April: Mehr als 50 Grad in Thailand",
+      "url": "https://kurier.at/chronik/welt/april-50-grad-thailand-hitze-hitzewelle-kuehlzentren/403152522",
+      "category": "Chronik/Welt",
+      "excerpt": "Seit fast drei Wochen ächzen weite Teile Thailands unter extremer Hitze mit gefährlichen gefühlten Temperaturen von teilweise mehr als 50 Grad. Besonders schlimm betroffen ist die Hauptstadt Bangkok. Als Reaktion hat die Stadtverwaltung mehr als 300 kostenlose Kühlzentren (\"Cooling Centers\") eingerichtet, die Schutz vor der Belastung bieten sollen. Denn der Aufenthalt im Freien wird zunehmend unerträglich.Seit dem 1. April liege der sogenannte Hitzeindex konstant im kritischen Bereich von 42 bis knapp 52 Grad Celsius, berichtete die Zeitung Bangkok Post unter Berufung auf die Bangkok Metropolitan Administration (BMA). Der Hitzeindex (HI) ist ein Maß zur Beschreibung der tatsächlich gefühlten Temperatur unter Berücksichtigung der Lufttemperatur und der Luftfeuchtigkeit. Zwar gilt der April ",
+      "source": "Kurier",
+      "date": "2026-04-21T08:06:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "68678bf2a0bf",
+      "title": "William & Kate: Diese große Veränderung steht ihnen dieses Jahr bevor",
+      "url": "https://kurier.at/stars/royals/william-kate-prinz-george-schule/403152500",
+      "category": "Stars/Royals",
+      "excerpt": "Die Familie Wales steht vor einem ereignisreichen Jahr, das nicht nur von einem besonderen Jubiläum geprägt ist, sondern auch von einem bedeutenden Wendepunkt in ihrem Familienleben. Während Prinz William und Prinzessin Kate am 29. April ihren 15. Hochzeitstag feiern, bahnt sich im Herbst eine einschneidende Veränderung an, die vor allem das private Leben der Familie nachhaltig beeinflussen könnte.Prinz George: Erste Schritte in ein unabhängiges LebenIm Herbst steht ein bedeutender Schritt für den ältesten Sohn des Paares, Prinz George, bevor. Mit 13 Jahren wird er eine weiterführende Schule besuchen, und somit voraussichtlich zum ersten Mal in einem Internat leben. Dieser Wechsel markiert nicht nur einen Meilenstein im Leben des jungen Royals, sondern auch in der Beziehung zu seinen Elter",
+      "source": "Kurier",
+      "date": "2026-04-21T08:05:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "babf36a90a00",
+      "title": "Rumer Willis zum 3. Geburtstag von Louetta: \"Bin so glücklich, deine Mama zu sein\"",
+      "url": "https://kurier.at/stars/rumer-willis-zum-3-geburtstag-von-louetta-bin-so-gluecklich-deine-mama-zu-sein/403152519",
+      "category": "Stars",
+      "excerpt": "Rumer Willis gratuliert ihrer Tochter Louetta öffentlich zum Geburtstag. \"Wo ist die ganze Zeit hin?\", fragt sich Willis auf Instagram zu Beginn einer Videocollage mit privaten Aufnahmen. Dazu schreibt sie: \"Mein süßes liebes Mädchen. Heute bist du drei Jahre alt. Ich kann nicht glauben, dass du seit drei ganzen Jahren mein Geschenk bist. Ich liebe es, um die Welt zu reisen, nur wir zwei. Unsere kleine Familie, du und ich. Von dem Moment an, als du in diese Welt geflogen bist, habe ich dich mit einer Tiefe geliebt, die meine wildeste Vorstellungskraft so übertrifft. Du bist eine Wucht. Mit Leidenschaft und Tatendrang läufst du durch die Welt, was dich genau dorthin führt, wo du hin willst.\" \"Dein Lachen ist mein Lieblingsgeräusch\"Louetta wisse genau, was sie will und habe keine Angst darüb",
+      "source": "Kurier",
+      "date": "2026-04-21T07:52:39+00:00",
       "featured": false
     }
   ],
@@ -1494,817 +1516,817 @@
       "featured": false
     },
     {
-      "id": "195ed7fa5302",
-      "title": "Erdbeben der Stärke 7,5 erschüttert Norden Japans - Warnung vor Tsunami",
-      "url": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-154.html",
+      "id": "015970dedac0",
+      "title": "Japan lockert Regeln für Waffenexporte",
+      "url": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html",
       "category": "Tagesschau",
-      "excerpt": "Vor der Nordostküste Japans hat sich ein Erdbeben der Stärke 7,5 ereignet. Die Erdstöße waren bis in die Hauptstadt Tokio zu spüren. Die japanische Katastrophenschutzbehörde warnt vor einem Tsunami.",
+      "excerpt": "Die japanische Regierung hat ihre historischen Beschränkungen für Waffenexporte ins Ausland weitgehend aufgehoben. Künftig ist es dem Land erlaubt, auch als \"tödliche Waffen\" eingestufte Rüstungsgüter zu verkaufen.",
       "source": "Tagesschau",
-      "date": "2026-04-20T11:59:03+02:00",
+      "date": "2026-04-21T11:05:40+02:00",
       "featured": false
     },
     {
-      "id": "d4b09c80da5e",
-      "title": "Iran-Liveblog: ++ China kritisiert Beschlagnahmung eines Tankers durch USA ++",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html",
+      "id": "acb9641faee1",
+      "title": "Nahost-Liveblog: ++ Wadephul fordert Iran zu Verhandlungen auf ++",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
       "category": "Tagesschau",
-      "excerpt": "China hat die Beschlagnahmung eines unter iranischer Flagge fahrenden Tankers durch die USA kritisiert. Laut iranischem Außenministerium sind aktuell keine weiteren Gespräche mit den USA geplant.",
+      "excerpt": "Bundesaußenminister Wadephul fordert Iran auf, die Verhandlungen mit den USA in der pakistanischen Hauptstadt Islamabad fortzusetzen. Kurz vor Ablauf der Waffenruhe droht Teheran den USA bei einer Eskalation mit Gegenangriffen.",
       "source": "Tagesschau",
-      "date": "2026-04-20T11:51:09+02:00",
+      "date": "2026-04-21T10:57:44+02:00",
       "featured": false
     },
     {
-      "id": "2c22b64bf818",
-      "title": "Russland meldet Festnahme einer Deutschen wegen Terrorverdachts",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-festnahme-deutschland-100.html",
+      "id": "95f565de42c2",
+      "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
+      "url": "https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html",
       "category": "Tagesschau",
-      "excerpt": "In Russland ist eine deutsche Staatsbürgerin festgenommen worden. Die Frau soll Moskau zufolge einen Anschlag auf eine Einrichtung der Strafverfolgungsbehörden geplant haben - angeblich im Auftrag von ukrainischen Geheimdiensten.",
+      "excerpt": "In sechs Gläschen mit HiPP-Babynahrung haben Erpresser Rattengift gemischt. Fünf wurden bereits gefunden, nach einem Glas wird derzeit gesucht. Was ist über den Fall bekannt? Wer ist betroffen?",
       "source": "Tagesschau",
-      "date": "2026-04-20T11:49:46+02:00",
+      "date": "2026-04-21T10:35:40+02:00",
       "featured": false
     },
     {
-      "id": "c36b8a5200ea",
-      "title": "Rückzahlung illegaler Trump-Zölle startet am 20. April",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-usa-100.html",
+      "id": "a7bf992b2b52",
+      "title": "Vorwürfe der Ausbeutung in der deutschen Fleischindustrie",
+      "url": "https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html",
       "category": "Tagesschau",
-      "excerpt": "In den USA beginnt heute die Rückzahlung rechtswidriger Trump-Zölle. Für die 330.000 betroffenen Unternehmen geht es um Milliarden. Aber ist es für sie auch der erhoffte Befreiungsschlag? Von Angela Göpfert.",
+      "excerpt": "Für die deutsche Fleischindustrie werden zunehmend Arbeitskräfte aus sogenannten Drittstaaten angeworben - gegen hohe Vermittlungsgebühren. Hoch verschuldet leben und arbeiten sie dann unter prekären Bedingungen, wie Monitor-Recherchen zeigen.",
       "source": "Tagesschau",
-      "date": "2026-04-20T11:32:37+02:00",
+      "date": "2026-04-21T10:18:16+02:00",
       "featured": false
     },
     {
-      "id": "b9cfe0f0fb1b",
-      "title": "Klage zum Abgasskandal: Millionen Dieselmotoren vor dem Aus?",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-motor-klage-100.html",
+      "id": "97c811d6436f",
+      "title": "The War in Ukraine: As Russian Losses Mount, Signing Bonuses for Recruits Are Skyrocketing",
+      "url": "https://www.spiegel.de/international/world/the-war-in-ukraine-as-russian-losses-mount-signing-bonuses-for-recruits-are-skyrocketing-a-b1c752f6-0edb-4304-a24b-2869730b4248#ref=rss",
+      "category": "Der Spiegel",
+      "excerpt": "It is becoming increasingly difficult for Russian officials to meet the recruitment quotas set by Moscow. In response, bonuses are rising and standards are plummeting, as DER SPIEGEL has learned.",
+      "source": "Der Spiegel",
+      "date": "2026-04-21T10:18:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "a0203a99cc6a",
+      "title": "Marktbericht: Anleger hoffen auf Dialog zwischen USA und Iran",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html",
       "category": "Tagesschau",
-      "excerpt": "Millionen Autofahrer könnten nach einem Gerichtsurteil die Zulassung für ihre Autos verlieren. Noch immer geht es um den Motor, der vor zehn Jahren im Zentrum der Dieselaffäre stand. Von Sophia Stritzel und Tim Diedrichs.",
+      "excerpt": "Während die Ölpreise nachgeben, legt der DAX im frühen Handel zu. Die Aussicht auf weitere Gespräche zwischen den USA und Iran macht die Investoren mutiger. Allerdings bleibt das Enttäuschungspotenzial hoch.",
       "source": "Tagesschau",
-      "date": "2026-04-20T11:03:44+02:00",
+      "date": "2026-04-21T10:10:31+02:00",
       "featured": false
     },
     {
-      "id": "d8735f70e24b",
-      "title": "Polizeiliche Kriminalstatistik: Leichter Rückgang bei Straftaten",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/pks-vorstellung-102.html",
-      "category": "Tagesschau",
-      "excerpt": "Erstmals seit 2022 ist die Zahl der erfassten Straftaten in Deutschland zurückgegangen - um fast sechs Prozent. Das zeigt die heute vorgestellte Polizeiliche Kriminalstatistik. Bei Sexualdelikten gab es dagegen einen Anstieg.",
-      "source": "Tagesschau",
-      "date": "2026-04-20T10:58:46+02:00",
-      "featured": false
-    },
-    {
-      "id": "494edabf0c44",
-      "title": "Marktbericht: Anleger nehmen wieder Reißaus",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Die Furcht vor einer Fortsetzung der Krieges am Persischen Golf macht die Anleger nervös. Der DAX fällt zum Wochenstart deutlich zurück. Aber noch bleibt die Hoffnung auf eine Fortsetzung der Waffenruhe.",
-      "source": "Tagesschau",
-      "date": "2026-04-20T10:56:10+02:00",
-      "featured": false
-    },
-    {
-      "id": "3bf584d8a86b",
-      "title": "Was ist die Polizeiliche Kriminalstatistik?",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pks-hintergrund-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Die Polizeiliche Kriminalstatistik gibt einen Überblick über die Entwicklung von Straftaten, die der Polizei bekannt werden. Welche Daten liefert sie genau und was muss man bei der Interpretation bedenken? Von Bianca Schwarz.",
-      "source": "Tagesschau",
-      "date": "2026-04-20T10:35:26+02:00",
-      "featured": false
-    },
-    {
-      "id": "74dad0ef1c21",
-      "title": "INTERAKTIV - So teuer ist Ihr Einkauf bei Aldi, Rewe und Co. geworden",
-      "url": "https://www.nzz.ch/visuals/inflation-so-teuer-wurde-ihr-einkauf-bei-aldi-rewe-und-co-ld.1861594",
-      "category": "NZZ",
-      "excerpt": "Sie haben das Gefühl, alles wird teurer? Vergleichen Sie Ihren Kassenzettel von heute mit dem gleichen Einkauf von 2022 in deutschen Supermärkten – und erleben Sie Ihren persönlichen Preisschock.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:13:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "ba6cc162b97b",
-      "title": "So wirkt sich der Iran-Krieg auf die Preise und die Wirtschaft in der Schweiz aus",
-      "url": "https://www.nzz.ch/visuals/aktuell/iran-krieg-entwicklung-von-oel-und-benzinpreisen-in-der-schweiz-ld.1927555",
-      "category": "NZZ",
-      "excerpt": "Der Krieg in Iran treibt auch in der Schweiz die Energiepreise nach oben. Wir zeigen mit täglich aktualisierten Grafiken die Entwicklung - und wie der Konflikt Konsumenten und Konsumentinnen trifft.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:13:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "d2695509b125",
-      "title": "Humanoider Roboter gewinnt Halbmarathon in Peking",
-      "url": "https://www.nzz.ch/technologie/humanoider-roboter-gewinnt-halbmarathon-in-peking-ld.1934378",
-      "category": "NZZ",
-      "excerpt": "Ein autonomer Roboter rennt 21 Kilometer in 50 Minuten und 26 Sekunden. Damit unterbietet er die Zeit des schnellsten Menschen um rund 7 Minuten. Der Sieg zeigt, wie schnell sich die Robotik gegenwärtig entwickelt.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:13:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "a641d0e346b5",
-      "title": "DATENANALYSE - Wie beliebt ist Donald Trump?",
-      "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2025-so-beliebt-ist-er-in-den-usa-ld.1883243",
-      "category": "NZZ",
-      "excerpt": "Täglich aktualisierte Umfragewerte zeigen, wie die Amerikaner derzeit zur Amtsführung ihres Präsidenten stehen. Eine Übersicht in Grafiken.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:13:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "c750de3dfa92",
-      "title": "INTERAKTIV - Spritpreise stark gesunken – die aktuellen Zahlen zur Energieversorgung in Deutschland",
-      "url": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
-      "category": "NZZ",
-      "excerpt": "Wie wirken sich Energiewende und globale Krisen auf Strom- und Gaspreise aus? Hier gibt es jeden Tag die aktuellen Zahlen.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:13:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "07ea823fccfb",
-      "title": "Iran War Live Updates: Iran Vows Retaliation for U.S. Attack on Cargo Ship",
-      "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+      "id": "77b63420a593",
+      "title": "Iran War Live Updates: Vance Is Expected to Lead Talks in Pakistan, U.S. Officials Say",
+      "url": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
       "category": "New York Times",
-      "excerpt": "President Trump said that a U.S. Navy destroyer had fired on an Iran-flagged vessel that was trying to evade a blockade. He also said an American delegation was heading to Pakistan for more peace talks, but an Iranian official said there were “no plans” for negotiations.",
+      "excerpt": "Vice President JD Vance was set to return to Islamabad, the officials said, as the end of the U.S.-Iran cease-fire drew near. Iran has not said whether its negotiators will attend.",
       "source": "New York Times",
-      "date": "2026-04-20T10:11:17+00:00",
+      "date": "2026-04-21T09:09:56+00:00",
       "featured": false
     },
     {
-      "id": "54ffb61ae98c",
-      "title": "Starmer expected to lead Labour into next election, says minister, but warns there are ‘no certainties’ amid Mandelson scandal – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
-      "category": "Politics",
-      "excerpt": "Douglas Alexander defends PM ahead of Commons showdown over Mandelson scandalJudgment day for PM over Mandelson scandalNigel Farage, the Reform UK leader, is holding a press conference. He is talking about plans by his party to deport people already granted asylum in the UK. There is a live feed here.In a news story about the announcement, the Press Association says:Reform UK has pledged to deport “hundreds of thousands” of small boat migrants who have successfully claimed asylum if the party wins the next general election.It plans to review all successful asylum claims over the past five years, with anyone who is found to have entered illegally or overstayed their visa and subsequently claimed asylum to “have their status revoked and be deported”, Reform’s home affairs spokesman Zia Yusuf",
-      "source": "The Guardian",
-      "date": "2026-04-20T10:09:18+00:00",
+      "id": "ddd97a07e748",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup.",
+      "source": "BBC World",
+      "date": "2026-04-21T09:09:07+00:00",
       "featured": false
     },
     {
-      "id": "4b61b21cc539",
-      "title": "Starmer to Address UK Lawmakers on Mandelson Vetting",
-      "url": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html",
-      "category": "Politics and Government",
-      "excerpt": "Prime Minister Keir Starmer will address British lawmakers on Monday after it emerged that Peter Mandelson, his onetime ambassador to the United States, was rejected for top security clearances.",
-      "source": "New York Times",
-      "date": "2026-04-20T10:08:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "ce0a8adbe74d",
-      "title": "BILDSTRECKE - Der Krieg im Nahen Osten in Bildern",
-      "url": "https://www.nzz.ch/fotografie/krieg-in-iran-israel-und-die-usa-greifen-an-explosionen-in-teheran-raketenalarm-in-israel-ld.1927072",
-      "category": "NZZ",
-      "excerpt": "Mit koordinierten Luftangriffen gegen Ziele in Iran haben Israel und die USA eine neue Phase der Eskalation im Nahen Osten eingeläutet. Die Folgen des Konflikts sind weltweit spürbar. Die neuesten Entwicklungen in Bildern.",
-      "source": "NZZ",
-      "date": "2026-04-20T10:06:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "03968e2745e4",
-      "title": "In Turkey, Middle Powers Ponder Diplomacy With a Rogue U.S.",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/turkey-diplomacy-antalya.html",
+      "id": "39900ec17003",
+      "title": "How the Cole Disaster Drove the U.S. to Develop New Warship Defenses",
+      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html",
       "category": "US and Israeli Attack on Iran (2026)",
-      "excerpt": "The U.S. remains an essential player. The problem, one analyst said, is how to deal effectively with a power that is “indispensable, coercive and unpredictable at the same time.”",
+      "excerpt": "The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.",
       "source": "New York Times",
-      "date": "2026-04-20T10:05:47+00:00",
+      "date": "2026-04-21T09:01:30+00:00",
       "featured": false
     },
     {
-      "id": "7ae91c4e6d09",
-      "title": "Tsunami Warning in Japan After Strong Earthquake Strikes Offshore",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
-      "category": "Earthquakes",
-      "excerpt": "The 7.5-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu. Waves of up to 10 feet were forecast.",
-      "source": "New York Times",
-      "date": "2026-04-20T10:00:19+00:00",
+      "id": "c3e87ff52d28",
+      "title": "Italiens Strandbad-Betreiber planen Revolte gegen EU-Konzessionsverordnung",
+      "url": "https://www.derstandard.at/story/3000000317411/italiens-strandbad-betreiber-planen-revolte-gegen-eu-konzessionsverordnung?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "20 Jahre lang konnte Italien die Umsetzung der \"Bolkestein-Direktive\" hinauszögern. Nun aber sollen die Lizenzen EU-weit ausgeschrieben werden – der Todesstoß für den traditionellen \"Bagnino\"?",
+      "source": "Der Standard",
+      "date": "2026-04-21T09:00:00+00:00",
       "featured": false
     },
     {
-      "id": "ebadbbf13cdb",
-      "title": "Kremlin ‘impressed’ with Bulgarian election winner Radev’s call for pragmatic dialogue with Moscow – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
-      "category": "Bulgaria",
-      "excerpt": "Eurosceptic – heading a left-leaning, pro-Russia coalition – to take power following eighth election in five yearsIn one of the first reactions to the Bulgarian vote last night, the Kremlin has just said it was impressed by Radev’s words about pragmatic dialogue with Moscow, Reuters reported.In full quotes reported by AFP, Kremlin spokesperson Dmitry Peskov said:“Of course, the words of Mr Radev ... as well as some other European leaders about their readiness to resolve problems through dialogue, appeal to us.” Continue reading...",
+      "id": "219c54d5c8aa",
+      "title": "Cabinet Office suggested Mandelson did not even need security vetting, Robbins tells MPs – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/21/olly-robbins-peter-mandelson-vetting-keir-starmer-uk-politics-latest-news-updates",
+      "category": "Politics",
+      "excerpt": "Olly Robbins was forced out as Foreign Office permanent secretary over the Peter Mandelson security vetting revelations in the GuardianThe hearing has started.Emily Thornberry, the chair, started by saying that Robbins did not tell the whole truth about this process when he gave evidence to it in November. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-04-20T09:55:57+00:00",
+      "date": "2026-04-21T08:58:13+00:00",
       "featured": false
     },
     {
-      "id": "db56a79149c9",
-      "title": "Japan tsunami alert issued following powerful earthquake off northern coast – follow latest",
-      "url": "https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates",
-      "category": "Japan",
-      "excerpt": "People in affected areas urged to evacuate as quake registering 7.5 magnitude occurred off the coast of SanrikuJapan’s meteorological agency said earthquakes of a “similar scale” could continue for as long as a week, according to the Kyodo news agency.As darkness fell, there were no immediate reports of damage or injuries, amid warnings that other tsunami had been observed offshore.Tsunami waves are approaching the coasts. Evacuate as quickly as possible. Waves can hit repeatedly. Continue to evacuate until all warnings are lifted.If you are in the affected areas, keep away from coasts and river mouths which could overflow. Continue to evacuate until all advisories are lifted.People in the affected areas must evacuate immediately. Escape to a higher, safe location right away.The time of th",
-      "source": "The Guardian",
-      "date": "2026-04-20T09:55:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bf03df01d8a",
-      "title": "Middle East crisis live: ceasefire under pressure as Iran says it has no plans for talks after US seizes ship",
-      "url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
-      "category": "US-Israel war on Iran",
-      "excerpt": "Donald Trump said on Sunday that US marines had taken custody of a vessel that tried to get past the American blockade on Iranian portsTehran has ‘no plans to participate’ in new talks, state media reports, as it accuses US of violating ceasefireThe US has just released some more footage of the encounter with the Iranian flagged vessel, the M/V Touska.In a post on X, US Central Command said US Marines had departed the amphibious assault ship USS Tripoli by helicopter and rappelled onto the Iranian-flagged vessel. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-20T09:53:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "9686603695bc",
-      "title": "Former footballer Barry Cable cleared of historic child sex abuse charges",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/20/former-footballer-barry-cable-cleared-of-historic-child-sex-abuse-charges",
-      "category": "Western Australia",
-      "excerpt": "The 82-year-old was accused of abusing girls in the 1960s but was acquitted in Perth despite judge finding the alleged victim was probably telling the truthGet our breaking news email, free app or daily news podcastThe former champion footballer Barry Cable has been acquitted of a slew of historical child sexual abuse charges despite a judge finding the alleged victim was likely telling the truth.The 82-year-old faced a judge-only criminal trial over allegations he abused a girl aged about eight or nine at his family home in the late 1960s. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-04-20T09:42:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "fe4e36ea669b",
-      "title": "ERKLÄRT - Rattengift in Hipp-Babynahrung: Welche Länder sind betroffen? Wieso sucht die Polizei ein verseuchtes Gläschen?",
-      "url": "https://www.nzz.ch/panorama/rattengift-in-hipp-babynahrung-betroffene-laender-und-details-ld.1934319",
+      "id": "2a8b1d273854",
+      "title": "KURZMELDUNGEN - Deutschland: Entlastungsprämie soll bis Mitte 2027 verfügbar sein +++ Kardinal Marx erlaubt Segnung homosexueller Paare",
+      "url": "https://www.nzz.ch/international/deutschland-drei-tote-bei-arbeitsunfall-in-einer-lederfabrik-proiranische-terrorgruppe-bekennt-sich-zu-anschlag-auf-israelisches-restaurant-in-muenchen-ld.1934125",
       "category": "NZZ",
-      "excerpt": "In Österreich, Tschechien und der Slowakei ist der Hersteller der Babynahrung Hipp möglicherweise Opfer eines Erpressers geworden. In Österreich suchen die Ermittler ein weiteres vergiftetes Glas. Die wichtigsten Fragen.",
+      "excerpt": "Die neuesten Meldungen aus Deutschland.",
       "source": "NZZ",
-      "date": "2026-04-20T09:41:00+00:00",
+      "date": "2026-04-21T08:58:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "754bf6d65970",
+      "title": "Teenager charged with arson after attack on synagogue in London",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/21/teenager-charged-arson-kenton-united-synagogue-harrow-london",
+      "category": "UK news",
+      "excerpt": "Boy, 17, charged after bottle of liquid set alight and thrown through window of Kenton united synagogue in HarrowA 17-year-old boy has been charged with arson after an attack on a synagogue in north-west London.The teenager, a British national from Brent, north-west London, who has not been named because of his age, is due to appear at Westminster magistrates court on Tuesday. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-21T08:55:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "d684525a092a",
+      "title": "Olly Robbins says he faced ‘constant pressure’ to get Mandelson in post",
+      "url": "https://www.theguardian.com/politics/2026/apr/21/olly-robbins-peter-mandelson-vetting-keir-starmer",
+      "category": "Peter Mandelson",
+      "excerpt": "Sacked Foreign Office permanent secretary says he was under pressure from Downing Street over appointment of US ambassadorUK politics live – latest updatesThe sacked senior civil servant Oliver Robbins has said he was subject to “constant pressure” when he arrived in the Foreign Office to get Peter Mandelson in post as soon as possible.He said the Cabinet Office urged the Foreign Office to allow Mandelson’s appointment as the UK’s ambassador to the US without the usual vetting process but the Foreign Office pushed back and the vetting eventually went ahead. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-21T08:54:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "b2df195413eb",
+      "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+      "category": "Europe",
+      "excerpt": "EU foreign policy chief Kaja Kallas confirms she expects ‘some positive decisions tomorrow’ on the €90bn loanGerman foreign minister Joseph Wadephul also makes it very clear that he is relieved with the change of government in Hungary, calling it “a breath of fresh air” and a promise of hope for Ukraine.He urged Hungary to drop its “unusual blockade” for policies for Ukraine “as quickly as possible,” pointing to what he argued was a clear pro-European mandate from the electorate in Hungary (it’s a bit more complicated than that, though). Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-21T08:54:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "3f16e56529df",
+      "title": "Deutschlands dienstältester Minister: Till Backhaus, der Walflüsterer",
+      "url": "https://www.nzz.ch/international/deutschlands-dienstaeltester-minister-till-backhaus-der-walfluesterer-ld.10003516",
+      "category": "NZZ",
+      "excerpt": "Seit 28 Jahren ist Backhaus schon Agrarminister in Mecklenburg-Vorpommern. Jetzt läuft er zu Hochform auf. Bei der verzweifelten Rettung des gestrandeten Wals ist er ununterbrochen im Einsatz. Das geschieht nicht ohne Selbstzweck.",
+      "source": "NZZ",
+      "date": "2026-04-21T08:52:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "d26ad5e4352e",
+      "title": "KURZMELDUNGEN - Wirtschaft: Schweizer Uhrenexporte im März leicht rückläufig",
+      "url": "https://www.nzz.ch/wirtschaft/wirtschaft-wto-scheitert-vorerst-an-einigung-zu-digitalzoellen-ld.1931622",
+      "category": "NZZ",
+      "excerpt": "Die neuesten Meldungen aus der Wirtschaft.",
+      "source": "NZZ",
+      "date": "2026-04-21T08:51:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "04c37b255f86",
+      "title": "1.000-Euro-Prämie kann auch 2027 gezahlt werden",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-ausweitung-100.html",
+      "category": "Tagesschau",
+      "excerpt": "1.000 Euro steuerfrei bis Ende des Jahres - diese sogenannte Entlastungsprämie soll Arbeitnehmer entlasten. Doch bezahlen müssten sie die Arbeitgeber. Das sorgt für viel Kritik. Nun soll die Prämie länger fließen können.",
+      "source": "Tagesschau",
+      "date": "2026-04-21T08:51:25+02:00",
+      "featured": false
+    },
+    {
+      "id": "dab0e664dc68",
+      "title": "Abschiebezentrum in Albanien laut Melonis Partei \"nahezu ausgelastet\"",
+      "url": "https://www.derstandard.at/story/3000000317487/abschiebezentrum-in-albanien-laut-melonis-partei-nahezu-ausgelastet?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Laut Angaben der italienischen Regierungspartei seien bisher 536 Personen in das Zentrum eingeliefert worden. Die Opposition kritisiert das",
+      "source": "Der Standard",
+      "date": "2026-04-21T08:49:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "eed8f1ade322",
+      "title": "Iran-Waffenruhe läuft aus: Pakistan vermittelt unter Zeitdruck",
+      "url": "https://www.tagesschau.de/ausland/asien/verhandlungen-iran-usa-pakistan-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Pakistan bemüht sich, Vertreter Irans und der USA in Islamabad an einen Tisch zu bringen. Doch die Zeit wird knapp: Die Waffenruhe läuft in Kürze aus. Und die Knackpunkte sind nicht ausgeräumt. Von Lena Bodewein.",
+      "source": "Tagesschau",
+      "date": "2026-04-21T08:46:27+02:00",
+      "featured": false
+    },
+    {
+      "id": "d62cd1c76b34",
+      "title": "Middle East crisis live: Iran claims it has ‘new cards for battlefield’, and weighs talks in Pakistan",
+      "url": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
+      "category": "US-Israel war on Iran",
+      "excerpt": "Iranian official stresses no decision made on taking part, as US vice-president JD Vance is set to travel to Islamabad for negotiations JD Vance to lead US delegation in Pakistan if Iran agrees to talksIran’s armed forces are ready to deliver an “immediate and decisive response” to any renewed hostile action by its adversaries, Ali Abdollahi, commander of the Khatam al-Anbiya Central Headquarters, was quoted by the Tasnim news agency as having said.He said Tehran had the upper hand militarily, including in the management of the strait of Hormuz, and would not allow Donald Trump to “create false narratives over the situation on the ground.” Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-04-21T08:41:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "40dca31b0a34",
+      "title": "Ungarisches LGBTQ-Gesetz verstößt gegen EU-Grundrechtecharta",
+      "url": "https://www.derstandard.at/story/3000000317480/ungarisches-lgbtq-gesetz-verstoesst-gegen-eu-grundrechtecharta?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Der Europäische Gerichtshof sieht in Ungarns LGBTQ-Gesetz klare Verstöße gegen zentrale EU-Grundrechte. Viktor Orbán hatte das Gesetz 2021 eingeführt",
+      "source": "Der Standard",
+      "date": "2026-04-21T08:33:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "5c8f08baf796",
+      "title": "Der neue Apple-Chef und seine zwei Probleme",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ternus-neuer-apple-chef-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Zeitenwende bei Apple: Nach 15 Jahren bekommt der iPhone-Konzern einen neuen Chef. John Ternus ist seit Jahren bei Apple und muss vor allem das KI- und das China-Problem lösen. Von Nils Dampz.",
+      "source": "Tagesschau",
+      "date": "2026-04-21T08:33:24+02:00",
+      "featured": false
+    },
+    {
+      "id": "44f02dc44a3b",
+      "title": "Muss die Abstimmung über die E-ID wiederholt werden? Darüber entscheidet heute das Bundesgericht",
+      "url": "https://www.nzz.ch/schweiz/muss-die-abstimmung-ueber-die-e-id-wiederholt-werden-darueber-entscheidet-heute-das-bundesgericht-ld.10003463",
+      "category": "NZZ",
+      "excerpt": "Die Swisscom spendete im Abstimmungskampf vom letzten Herbst 30 000 Franken an die Pro-E-ID-Kampagne. Doch das Unternehmen gehört mehrheitlich dem Bund – und ist grundsätzlich zu politischer Neutralität verpflichtet.",
+      "source": "NZZ",
+      "date": "2026-04-21T08:25:06+00:00",
       "featured": false
     }
   ],
   "finance": [
     {
-      "id": "4d964153d140",
-      "title": "BIS warns dollar stablecoins could strain banks and policy",
-      "url": "https://cointelegraph.com/news/bis-warns-on-stablecoin-risks-urges-global-coordination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "BIS general manager Pablo Hernández de Cos says US dollar stablecoins could pose risks to financial stability and urges stronger global coordination on regulation.",
+      "id": "441ac6d3704d",
+      "title": "Bitcoin risks losing $70K as Strategy's STRC slips below $100",
+      "url": "https://cointelegraph.com/news/bitcoin-risks-losing-70k-strategy-strc-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Market Analysis",
+      "excerpt": "STRC's dropped below its $100 par value, indicating that Strategy will likely pause Bitcoin buying this week, which could help the bears pull price down to $70,000.",
       "source": "Cointelegraph",
-      "date": "2026-04-20T10:05:52+01:00",
+      "date": "2026-04-21T09:25:10+01:00",
       "featured": false
     },
     {
-      "id": "62162055d26f",
-      "title": "The Night the Government Closed the Skies Over El Paso",
-      "url": "https://www.nytimes.com/2026/04/20/business/a-squabble-in-dc-yields-chaos-in-el-paso.html",
+      "id": "7a59c7984d87",
+      "title": "KelpDAO hackers are laundering millions in stolen crypto, data show",
+      "url": "https://www.coindesk.com/business/2026/04/21/data-shows-the-kelpdao-hackers-are-already-laundering-millions-in-stolen-crypto",
+      "category": "Finance",
+      "excerpt": "KelpDAO hackers are moving $290M in stolen crypto across blockchains, using privacy tools to mask the trail as DeFi contagion fears move through the sector.",
+      "source": "CoinDesk",
+      "date": "2026-04-21T09:12:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "e2dfa0ff928f",
+      "title": "How Apple Became a $4 Trillion Company Under Tim Cook",
+      "url": "https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html",
+      "category": "Computers and the Internet",
+      "excerpt": "If the Steve Jobs era was defined by technological innovation, the Tim Cook period was one of exceptional financial growth.",
+      "source": "NYT Business",
+      "date": "2026-04-21T09:03:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "fdb3ebf602bc",
+      "title": "Kevin Warsh, Trump’s Pick to Lead Fed, Faces Senate at Tricky Moment",
+      "url": "https://www.nytimes.com/2026/04/21/business/kevin-warsh-federal-reserve-confirmation-hearing.html",
+      "category": "Warsh, Kevin M",
+      "excerpt": "Kevin M. Warsh has enough support to become the next chair of the Federal Reserve, but a criminal investigation into the central bank stands in his way.",
+      "source": "NYT Business",
+      "date": "2026-04-21T09:03:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e9c2277f68d",
+      "title": "Supreme Court Reviews F.C.C.’s Enforcement Power Against Communications Companies",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/supreme-court-fcc-fines.html",
+      "category": "Regulation and Deregulation of Industry",
+      "excerpt": "AT&T and Verizon were penalized millions of dollars for what the agency said was a failure to protect consumer information. The companies say they were deprived of their right to a jury trial.",
+      "source": "NYT Business",
+      "date": "2026-04-21T09:02:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "44c7de0066ab",
+      "title": "Baggage Fees Are Up. Here’s How to Avoid Them.",
+      "url": "https://www.nytimes.com/2026/04/21/travel/airline-baggage-fees.html",
       "category": "Airlines and Airplanes",
-      "excerpt": "A high-energy laser weapon and quarrels between federal agencies brought a night of hassles to the city.",
+      "excerpt": "Airline passengers are feeling the pain in rising fees, as the war in Iran weighs on the price of jet fuel. Loyalty programs and certain credit cards can help ease the burden.",
       "source": "NYT Business",
-      "date": "2026-04-20T10:03:40+00:00",
+      "date": "2026-04-21T09:01:48+00:00",
       "featured": false
     },
     {
-      "id": "369d322e175e",
-      "title": "What's happening to UK petrol and diesel prices?",
-      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "id": "4a8b6eb359fe",
+      "title": "‘Wagyu’ Used to Guarantee Quality Beef. What Are You Paying for Today?",
+      "url": "https://www.nytimes.com/2026/04/21/dining/wagyu-beef.html",
+      "category": "Beef",
+      "excerpt": "Behind the scenes, competing forces battle for the reputation of prestige meat.",
+      "source": "NYT Business",
+      "date": "2026-04-21T09:01:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "344c6e289d4a",
+      "title": "European banks tap Fireblocks for MiCA-compliant euro stablecoin",
+      "url": "https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026.",
+      "source": "Cointelegraph",
+      "date": "2026-04-21T09:01:03+01:00",
+      "featured": false
+    },
+    {
+      "id": "75bb51d4baa8",
+      "title": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
+      "url": "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html",
+      "category": "Artificial Intelligence",
+      "excerpt": "Most prisons forbid online access. But inmates are finding ways to ask chatbots questions anyway.",
+      "source": "NYT Business",
+      "date": "2026-04-21T09:00:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "d86b1cb2d924",
+      "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+      "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Business",
-      "excerpt": "UK petrol and diesel prices have started to fall after 46 consecutive days of rises at the pump.",
+      "excerpt": "One petrol retailer says he is experiencing about five drive-offs a week at each forecourt, costing him thousands.",
       "source": "BBC Business",
-      "date": "2026-04-20T10:00:51+00:00",
+      "date": "2026-04-21T08:59:03+00:00",
       "featured": false
     },
     {
-      "id": "9d9c99e5cff7",
-      "title": "The President Is Coming to the White House Correspondent’s Dinner",
-      "url": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html",
-      "category": "United States Politics and Government",
-      "excerpt": "A president who relishes attacking the news media is set to break his boycott of an event celebrating the news media. What could go wrong?",
-      "source": "NYT Business",
-      "date": "2026-04-20T10:00:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "8f3999156847",
-      "title": "Here's how bitcoin's $7.9 billion April options expiry impact prices",
-      "url": "https://www.coindesk.com/markets/2026/04/20/here-s-how-bitcoin-s-usd7-9-billion-options-expiry-impact-prices",
-      "category": "Markets",
-      "excerpt": "With the bitcoin price above max pain and heavy positioning at $75K, traders face a potential squeeze or pullback into \"max pain\" expiry.",
-      "source": "CoinDesk",
-      "date": "2026-04-20T09:53:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "6b543dd76628",
-      "title": "A $300 million borrowing spike on Aave signals liquidity crunch after exploit",
-      "url": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
-      "category": "Markets",
-      "excerpt": "The aftershocks of the Saturday's KelpDAO hack are spreading through stablecoin markets in ways that were not immediately obvious.",
-      "source": "CoinDesk",
-      "date": "2026-04-20T09:27:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "62e78e15f384",
-      "title": "Trump Administration to Begin Refunding $166 Billion in Tariffs",
-      "url": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
-      "category": "United States Politics and Government",
-      "excerpt": "The government will debut a system to repay importers two months after the Supreme Court struck down tariffs at the heart of the president’s trade policy.",
-      "source": "NYT Business",
-      "date": "2026-04-20T09:04:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "b9a69ca1cea9",
-      "title": "Why Gas Prices Go Up Fast and Take So Long to Fall",
-      "url": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
-      "category": "Prices (Fares, Fees and Rates)",
-      "excerpt": "Fuel station owners take some of the hit for consumers when oil prices surge. On the way down, they try to get their money back.",
-      "source": "NYT Business",
-      "date": "2026-04-20T09:03:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "372930ce47cf",
-      "title": "C.E.O.s Are the Heads of Companies. Should They Also Be the Face?",
-      "url": "https://www.nytimes.com/2026/04/20/business/ceo-commercials-advertising.html",
-      "category": "Customer Relations",
-      "excerpt": "Most chief executives are not recognizable to their customers. But when they step into the limelight, the rewards — and the risks — can be great.",
-      "source": "NYT Business",
-      "date": "2026-04-20T09:00:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4ffba1e8b4c",
-      "title": "Javier Milei Tamed Argentina’s Inflation. Now He Wants to Reshape Its Values.",
-      "url": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
-      "category": "Milei, Javier",
-      "excerpt": "Argentina’s right-wing president has tamed the country’s runaway inflation. Now he wants to transform its values.",
-      "source": "NYT Business",
-      "date": "2026-04-20T09:00:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ff44a13f904",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "id": "795becaf0ccc",
+      "title": "Unemployment rate unexpectedly falls as fewer students look for work",
+      "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Business",
-      "excerpt": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "excerpt": "The drop has been largely driven by a rise in the number of people not actively seeking work.",
       "source": "BBC Business",
-      "date": "2026-04-20T08:41:12+00:00",
+      "date": "2026-04-21T08:56:49+00:00",
       "featured": false
     },
     {
-      "id": "94054071423a",
-      "title": "Oil Prices Jump and Stocks Waver on Renewed Iran Conflict",
-      "url": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html",
+      "id": "cefe258811c8",
+      "title": "High electricity bills targeted in planned shakeup to energy pricing",
+      "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
+      "source": "BBC Business",
+      "date": "2026-04-21T08:19:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "2484738105ec",
+      "title": "A dozen banks want a euro stablecoin. Fireblocks is making it happen",
+      "url": "https://www.coindesk.com/business/2026/04/21/crypto-custody-firm-fireblocks-powers-bank-backed-euro-stablecoin",
+      "category": "Finance",
+      "excerpt": "The Qivalis consortium is made up of: Banca Sella, BBVA, BNP Paribas, CaixaBank, Danske Bank, DekaBank, DZ BANK, ING, KBC, Raiffeisen Bank International, SEB, and UniCredit.",
+      "source": "CoinDesk",
+      "date": "2026-04-21T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7503ba30f6ce",
+      "title": "Inside the 'fake police raid' that forced a $1M Bitcoin transfer",
+      "url": "https://cointelegraph.com/news/crypto-coercion-attack-fake-police-raid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Analysis",
+      "excerpt": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.",
+      "source": "Cointelegraph",
+      "date": "2026-04-21T07:59:51+01:00",
+      "featured": false
+    },
+    {
+      "id": "48b8720c4f03",
+      "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
+      "url": "https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "The value of tokenized real-world assets on public blockchains is estimated at more than $29 billion, up more than 10% in the last 30 days.",
+      "source": "Cointelegraph",
+      "date": "2026-04-21T07:41:15+01:00",
+      "featured": false
+    },
+    {
+      "id": "dae608c6437f",
+      "title": "Oil Prices Recede and Stocks Gain as Investors Eye Peace Talks",
+      "url": "https://www.nytimes.com/2026/04/21/business/oil-stocks-gas-iran.html",
       "category": "US and Israeli Attack on Iran (2026)",
-      "excerpt": "Traders, hopeful on Friday that a peace deal was near, were digesting the developments over the weekend.",
+      "excerpt": "Oil prices pulled back and stocks inched higher as investors looked to the possibility of a second round of peace talks between the United States and Iran.",
       "source": "NYT Business",
-      "date": "2026-04-20T08:32:53+00:00",
+      "date": "2026-04-21T07:39:39+00:00",
       "featured": false
     },
     {
-      "id": "5ebe508cf490",
-      "title": "Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends",
-      "url": "https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Strategy’s Michael Saylor posted “Think Even Bigger” on Sunday, coming just a week after it disclosed $1 billion of Bitcoin buying.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T07:49:48+01:00",
-      "featured": false
-    },
-    {
-      "id": "1549860b8c83",
-      "title": "Coinbase is testing AI agents that show up on Slack and email",
-      "url": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T07:07:01+01:00",
-      "featured": false
-    },
-    {
-      "id": "b6f5feca3822",
-      "title": "Cloud hosting firm Vercel confirms ‘limited’ hack of user info",
-      "url": "https://cointelegraph.com/news/cloud-hosting-vercel-confirms-limited-hack-user-info?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Vercel has confirmed it was compromised after a member of a hacking forum put the company’s information up for sale for $2 million.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T07:05:56+01:00",
-      "featured": false
-    },
-    {
-      "id": "be42d93fd368",
-      "title": "The quantum gap: Why Bitcoin and Ethereum are taking different paths on security",
-      "url": "https://cointelegraph.com/explained/bitcoin-and-ethereum-quantum-threat-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Explained",
-      "excerpt": "Why Bitcoin and Ethereum are taking different paths to address future cryptographic risks and long-term blockchain security.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T06:57:49+01:00",
-      "featured": false
-    },
-    {
-      "id": "95392c70f8c3",
-      "title": "Polymarket in talks to raise $400M at a $15B valuation: Report",
-      "url": "https://cointelegraph.com/news/polymarket-seeking-400-million-raise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Polymarket’s potential $15 billion valuation would still put it below the $22 billion valuation of competitor platform Kalshi in its latest funding round.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T06:08:17+01:00",
-      "featured": false
-    },
-    {
-      "id": "fbc886326579",
-      "title": "Hackers impersonated eth.limo team to hijack its domain: Post-mortem",
-      "url": "https://cointelegraph.com/news/eth-limo-domain-hijack-dnssec-social-engineering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "EasyDNS CEO Mark Jeftovic said the social engineering attack was highly sophisticated and the company is conducting further investigation to determine how the breach occurred.",
-      "source": "Cointelegraph",
-      "date": "2026-04-20T05:57:35+01:00",
-      "featured": false
-    },
-    {
-      "id": "cb4aa14bcce8",
-      "title": "Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks",
-      "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks",
-      "category": "Markets",
-      "excerpt": "Bitcoin traded at $74,335 after Iran reimposed controls on the Strait of Hormuz over the weekend, with the modest 1.6% pullback standing out against a 5.7% jump in Brent and a 1.2% drop in European equity futures.",
-      "source": "CoinDesk",
-      "date": "2026-04-20T05:36:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "4f15dcc3c805",
-      "title": "Debt problems in seaside town among  UK's worst",
-      "url": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss",
+      "id": "f5589ecd3e81",
+      "title": "The 20-somethings juggling three jobs to make ends meet",
+      "url": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss",
       "category": "BBC Business",
-      "excerpt": "A debt charity believes the town's seasonal job market is in part to blame.",
+      "excerpt": "While the UK unemployment rate stands at 4.9%, increasing numbers of those in work have more than one job.",
       "source": "BBC Business",
-      "date": "2026-04-20T05:23:30+00:00",
+      "date": "2026-04-21T07:23:11+00:00",
       "featured": false
     },
     {
-      "id": "42017e51792b",
-      "title": "Bitcoin erases weekend gains as US-Iran ceasefire faces pressure",
-      "url": "https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "id": "fa0e92228ecb",
+      "title": "Arbitrum freezes $71M of Ether connected to Kelp exploit",
+      "url": "https://cointelegraph.com/news/arbitrum-freezes-71m-ether-connected-kelp-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "category": "Latest News",
-      "excerpt": "Bitcoin briefly crashed below $74,000 on Sunday as Iran threatened retaliation for a US military seizure of an Iranian cargo ship.",
+      "excerpt": "Griff Green, a member of Arbitrum’s security council, said the group acted with input from law enforcement and “did not make this decision lightly.\"",
       "source": "Cointelegraph",
-      "date": "2026-04-20T05:15:27+01:00",
+      "date": "2026-04-21T07:00:03+01:00",
       "featured": false
     },
     {
-      "id": "643241883c55",
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "id": "97dd012279ac",
+      "title": "US senator urges delay of CLARITY Act Senate markup until May: Report",
+      "url": "https://cointelegraph.com/news/us-senator-asks-clarity-senate-markup-pushed-back-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "US Senator Thom Tillis said members of the crypto and banking industries still need more time to be heard.",
+      "source": "Cointelegraph",
+      "date": "2026-04-21T06:57:19+01:00",
+      "featured": false
+    },
+    {
+      "id": "64a81b659fcb",
+      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
       "category": "BBC Business",
-      "excerpt": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "excerpt": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
       "source": "BBC Business",
-      "date": "2026-04-20T05:13:58+00:00",
+      "date": "2026-04-21T05:57:56+00:00",
       "featured": false
     },
     {
-      "id": "478999bba611",
-      "title": "LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus",
-      "url": "https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus",
-      "category": "Tech",
-      "excerpt": "LayerZero said the attackers compromised two RPC nodes the company's verifier relied on and DDoS'd the rest, with the attack working only because Kelp had ignored multi-verifier recommendations.",
-      "source": "CoinDesk",
-      "date": "2026-04-20T05:01:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "eea0453f73a9",
-      "title": "The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack",
-      "url": "https://www.coindesk.com/markets/2026/04/20/defi-tvl-drops-more-than-usd13-billion-in-two-days-following-kelp-dao-hack",
+      "id": "5c67eca4a602",
+      "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
+      "url": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
       "category": "Markets",
-      "excerpt": "Multiple lending and yield protocols are posting double-digit percentage declines in TVL, though token prices are seeing a limited decline.",
+      "excerpt": "The layer-2 network's security council moved 30,766 ETH to a frozen intermediary wallet, accessible only via further governance action.",
       "source": "CoinDesk",
-      "date": "2026-04-20T04:51:50+00:00",
+      "date": "2026-04-21T05:55:47+00:00",
       "featured": false
     },
     {
-      "id": "129ec1c7cd99",
-      "title": "Aave's TVL tanks $8B a day after $293M Kelp DAO hack",
-      "url": "https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "id": "02f79e47eefd",
+      "title": "Code is ‘functional’ free speech under the First Amendment: Coin Center",
+      "url": "https://cointelegraph.com/news/crypto-code-free-speech-coin-center-first-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "category": "Latest News",
-      "excerpt": "The Aave token fell nearly 20% to $89.5 in just over 24 hours as users withdrew billions of dollars from the lending protocol.",
+      "excerpt": "Crypto software developers are concerned about whether they could be held criminally liable for publishing their software, following high-profile convictions last year.",
       "source": "Cointelegraph",
-      "date": "2026-04-20T04:13:37+01:00",
+      "date": "2026-04-21T05:47:58+01:00",
+      "featured": false
+    },
+    {
+      "id": "9880517d8956",
+      "title": "Bitcoin reclaims $75,000 as Iran ceasefire talks advance, equities rally resumes",
+      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-reclaims-usd75-000-as-iran-ceasefire-talks-advance-equities-rally-resumes",
+      "category": "Markets",
+      "excerpt": "Bitcoin traded at $75,733 on Tuesday morning, up 1.5% over 24 hours, as Iran signaled it will send a team to Pakistan talks and Brent crude slipped ahead of the Wednesday ceasefire deadline.",
+      "source": "CoinDesk",
+      "date": "2026-04-21T05:45:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "99239b6e6bd2",
+      "title": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
+      "url": "https://www.coindesk.com/markets/2026/04/21/ripple-wants-the-xrp-ledger-to-be-quantum-proof-by-2028-here-is-its-plan",
+      "category": "Markets",
+      "excerpt": "Ripple has laid out a four-phase plan to make the XRP Ledger quantum-resistant by 2028.",
+      "source": "CoinDesk",
+      "date": "2026-04-21T05:43:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "57ed10eb16df",
+      "title": "Coinbase’s AI payments protocol x402 launches app store for AI agents",
+      "url": "https://cointelegraph.com/news/coinbase-ai-payments-protocol-x402-launches-ai-agent-app-store?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "Coinbase’s x402 AI payments protocol has launched Agentic.market, a platform where AI agents can discover and use AI-friendly services.",
+      "source": "Cointelegraph",
+      "date": "2026-04-21T05:40:53+01:00",
       "featured": false
     }
   ],
   "crypto": {
-    "btc_eur": 64062,
-    "btc_usd": 75374,
-    "btc_24h": 0.4483808811599019,
-    "eth_eur": 1970.15,
-    "eth_usd": 2318.06,
-    "eth_24h": 0.3757600111548644
+    "btc_eur": 65042,
+    "btc_usd": 76481,
+    "btc_24h": 1.9342064137482085,
+    "eth_eur": 1977.02,
+    "eth_usd": 2324.73,
+    "eth_24h": 0.9221824754573154
   },
   "sport_articles": [
     {
-      "id": "4c11679c8bc4",
-      "title": "Tagger im WTA-Ranking so gut wie nie zuvor platziert",
-      "url": "https://sport.orf.at/stories/3154939/",
-      "category": "Tennis",
+      "id": "02d941657ec3",
+      "title": "Trainer: Ammann wird weitermachen",
+      "url": "https://sport.orf.at/stories/3154964/",
+      "category": "Ski Nordisch",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-20T11:49:25+02:00",
+      "date": "2026-04-21T11:10:25+02:00",
       "featured": false
     },
     {
-      "id": "3ee3f9d919f0",
-      "title": "NHL-Legionär Kasper fehlt Österreich bei WM",
-      "url": "https://sport.orf.at/stories/3154937/",
+      "id": "50ac7ec06261",
+      "title": "Edmonton Oilers starten mit Sieg ins Play-off",
+      "url": "https://sport.orf.at/stories/3154963/",
       "category": "Eishockey",
-      "excerpt": "Keine guten Nachrichten für Österreichs Eishockeynationalteam: Die Auswahl von Teamchef Roger Bader muss bei der Weltmeisterschaft in der Schweiz auf Marco Kasper verzichten. Der Legionär aus der National Hockey League (NHL) bekam laut ORF-Informationen von seinem Club Detroit Red Wings keine Freigabe für das Turnier vom 15. bis 31. Mai. Der 22-jährige Stürmer laboriert an einer nicht näher definierten Unterkörperverletzung.",
-      "source": "ORF Sport",
-      "date": "2026-04-20T11:40:17+02:00",
-      "featured": false
-    },
-    {
-      "id": "651a1702acdf",
-      "title": "Österreich muss bei Eishockey-WM auf Kasper verzichten",
-      "url": "https://sport.orf.at/stories/3154936/",
-      "category": "Fußball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-20T11:12:23+02:00",
+      "date": "2026-04-21T09:51:24+02:00",
       "featured": false
     },
     {
-      "id": "2d669389bbcd",
-      "title": "Orlando sorgt für erste Überraschung im NBA-Play-off",
-      "url": "https://sport.orf.at/stories/3154935/",
+      "id": "48b11d5ead75",
+      "title": "NBA: Raptors erneut neuerlich gegen Cleveland",
+      "url": "https://www.derstandard.at/story/3000000317457/nba-raptors-erneut-neuerlich-gegen-cleveland?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Pöltl kam beim 105:115 nur 9:26 Minuten zum Einsatz: \"Jetzt müssen wir die Spiele zu Hause gewinnen\"",
+      "source": "Der Standard Sport",
+      "date": "2026-04-21T09:12:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "5bea8421b691",
+      "title": "VAR-Rückblick: Elfmeterpfiff für Sturm beim LASK war ein Fehler",
+      "url": "https://www.derstandard.at/story/3000000317464/var-rueckblick-elfmeterpfiff-fuer-sturm-beim-lask-war-ein-fehler?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Sturms Ryan Fosso habe \"den Kontakt mit dem Bein des Gegenspielers\" initiiert, Schiedsrichter Altmann hätte \"seine ursprünglich getroffene Entscheidung revidieren\" sollen",
+      "source": "Der Standard Sport",
+      "date": "2026-04-21T09:10:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "b718a615c1ec",
+      "title": "Marshall & Foster feature in Scotland bowls team",
+      "url": "https://www.bbc.com/sport/bowls/articles/c9d487nwpqzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "With 13 medals between them, Alex 'Tattie' Marshall and Paul Foster headline the Scottish bowls team for this summer's Commonwealth Games in Glasgow.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T09:01:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d3163d22263",
+      "title": "Arnautovic spricht über psychische Probleme während Corona-Pandemie: \"Es war ein Horror\"",
+      "url": "https://www.derstandard.at/story/3000000317400/arnautovic-spricht-ueber-psychische-probleme-waehrend-corona-pandemie-es-war-ein-horror?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Der ÖFB-Rekordtorschütze spielte zwischen 2019 und 2021 in China bei Shanghai Port. In einem Podcast sagt er: \"Ich bin in eine Depression reingekommen\"",
+      "source": "Der Standard Sport",
+      "date": "2026-04-21T07:49:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "a3eb3f82e163",
+      "title": "How the IPL is reshaping India's talent map",
+      "url": "https://www.bbc.com/sport/cricket/articles/cx2679eywg9o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "India's national team is reaping the rewards of an IPL which is now drawing talent from all over the country.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T07:47:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "da0d5006cf1f",
+      "title": "Toronto verliert auch Spiel zwei in Cleveland",
+      "url": "https://sport.orf.at/stories/3154961/",
+      "category": "US-Sport",
+      "excerpt": "Die Toronto Raptors mit Jakob Pöltl haben sich auch im zweiten Play-off-Spiel der National Basketball Association (NBA) den Cleveland Cavaliers geschlagen geben müssen. Die Raptors unterlagen am Montag (Ortszeit) erneut auswärts mit 105:115 und liegen in der „Best of seven“-Serie nun mit 0:2 zurück. Spiel drei findet in der Nacht auf Freitag in Toronto statt.",
+      "source": "ORF Sport",
+      "date": "2026-04-21T07:45:46+02:00",
+      "featured": false
+    },
+    {
+      "id": "8f023292713d",
+      "title": "Wembanyama wins NBA award with 100% of vote",
+      "url": "https://www.bbc.com/sport/basketball/articles/ce3drn7rwv6o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "San Antonio Spurs centre Victor Wembanyama is named the first unanimous winner of the NBA's defensive player of the year award.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T07:44:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "4b0dd3092175",
+      "title": "What is Scotland's most iconic goal? This week - Maloney v McFadden",
+      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Vote to find out what goal will be crowned Scotland's greatest.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T07:20:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "06659fcb3158",
+      "title": "Toronto verliert mit Pöltl auch zweites Play-off-Spiel",
+      "url": "https://sport.orf.at/stories/3154960/",
       "category": "Basketball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-20T10:46:13+02:00",
+      "date": "2026-04-21T07:16:37+02:00",
       "featured": false
     },
     {
-      "id": "3e031df5c72c",
-      "title": "Alpine Divorce: Mehr als ein Phänomen im Internet",
-      "url": "https://www.derstandard.at/story/3000000316570/alpine-divorce-mehr-als-ein-phaenomen-im-internet?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Trennungen auf gemeinsam geplanten Touren sind keine Seltenheit, meist sind sie von kurzer Dauer, und nur selten enden sie fatal. Auslöser sind unterschiedliche Bedürfnisse und Streit. Experten erklären die Hintergründe",
-      "source": "Der Standard Sport",
-      "date": "2026-04-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7635c1b12d9e",
-      "title": "Who is Stan Moody? Crucible debutant profiled",
-      "url": "https://www.bbc.com/sport/snooker/articles/c2k3ydxdk0xo?at_medium=RSS&at_campaign=rss",
+      "id": "8fb662f8c18b",
+      "title": "Wrist test 'crucial' for Alcaraz French Open hopes",
+      "url": "https://www.bbc.com/sport/tennis/articles/czrezlvpedvo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "BBC Sport's Ask Me Anything team profiles Stan Moody, the teenager making his debut at the 2026 World Snooker Championship",
+      "excerpt": "Defending champion Carlos Alcaraz says the results of the test on his injured wrist will be \"crucial\" in determining whether he plays at the French Open.",
       "source": "BBC Sport",
-      "date": "2026-04-20T09:56:49+00:00",
+      "date": "2026-04-21T07:16:24+00:00",
       "featured": false
     },
     {
-      "id": "c03b0f2d2bd0",
-      "title": "Montreal siegt ohne Reinbacher zu Play-off-Auftakt",
-      "url": "https://sport.orf.at/stories/3154934/",
-      "category": "Eishockey",
+      "id": "493c9c39f6c3",
+      "title": "Red Bull's difficult start and 1976 cars compared with 2026 - F1 Q&A",
+      "url": "https://www.bbc.com/sport/formula1/articles/c070rjdxmjyo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "BBC Sport F1 correspondent Andrew Benson answers your latest questions.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T07:00:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "df93b5e45f40",
+      "title": "PGA Tour plans to have no Hawaii event in 2027",
+      "url": "https://www.bbc.com/sport/golf/articles/c9wq4l4q220o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "The PGA Tour plans to have no events in Hawaii for the first time in 63 years after this year's season opener in Maui was cancelled because of drought conditions.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T06:26:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "4096b7a10f42",
+      "title": "Bolt advises Gout not to forget track and field",
+      "url": "https://www.bbc.com/sport/athletics/articles/cp3l0zpgd3qo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Usain Bolt urges Australian sprinter Gout Gout not to forget track and field and find a good support network to keep him focused on his career.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T06:23:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "2eae578a7dc8",
+      "title": "Why stakes are so high in England's hottest title race",
+      "url": "https://www.bbc.com/sport/football/articles/czxr4446zxdo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "BBC Sport explores the hottest title race in English football, and examines why the consequences are so big for the teams involved.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T06:19:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "4692ad5878bb",
+      "title": "Wer geht mit der Roten Laterne? BW Linz will sie an den WAC weiterreichen",
+      "url": "https://www.derstandard.at/story/3000000317373/fu223ball-blau-wei223-kann-rote-laterne-an-den-wac-weiterreichen?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Altach plant, den Abstiegskampf gegen die WSG abzuhaken. Ried ist heiß auf den ersten Saisonsieg gegen den GAK",
+      "source": "Der Standard Sport",
+      "date": "2026-04-21T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b10dce3c453a",
+      "title": "Couch to 5K app reaches 10 years with 8m downloads",
+      "url": "https://www.bbc.com/sport/articles/c4gjkyy4wwro?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "The NHS Couch to 5k app is celebrating its 10-year anniversary having reached more than eight million downloads.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T05:28:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "232fad03f2e8",
+      "title": "Quiz: Name every team to have been relegated from the Premier League",
+      "url": "https://www.bbc.com/sport/football/articles/cedej7d494zo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Wolves are one of 43 teams to have been relegated from the Premier League, can you name them all?",
+      "source": "BBC Sport",
+      "date": "2026-04-21T05:16:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "0a59a039eae5",
+      "title": "How mum inspired 'goofy' Mendoza to brink of NFL stardom",
+      "url": "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Fernando Mendoza is almost certain to be the first pick in the NFL Draft after rising from obscurity and his mother, who lives with multiple sclerosis, has been his main source of inspiration.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T05:09:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "67fff1dbd741",
+      "title": "Ranking the most successful world record transfers of the past 50 years",
+      "url": "https://www.bbc.com/sport/football/articles/cje4k4p1z0xo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Stumping up world record sums doesn't always guarantee success, but plenty of football's most expensive players have delivered on their hefty fees - here are the top 10.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T05:08:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "8e4e5ae5e660",
+      "title": "Jones aims to clear final hurdle at the Crucible",
+      "url": "https://www.bbc.com/sport/snooker/articles/c1d92xzykkyo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Wales' Jak Jones is aiming to go one better than his 2024 final defeat at this year's World Snooker Championship.",
+      "source": "BBC Sport",
+      "date": "2026-04-21T04:37:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "dfc2087b02ac",
+      "title": "Palace-Nullnummer besiegelt Wolverhamptons Abstieg",
+      "url": "https://sport.orf.at/stories/3154959/",
+      "category": "Fußball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-20T09:11:35+02:00",
+      "date": "2026-04-20T23:07:45+02:00",
       "featured": false
     },
     {
-      "id": "60a8679c88f2",
-      "title": "Police fire rubber bullets and detain dozens as Paraguay derby abandoned",
-      "url": "https://www.bbc.com/sport/football/articles/c5ylr2zdq78o?at_medium=RSS&at_campaign=rss",
+      "id": "a7404f8f87c6",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.com/sport/football/articles/cq5965dgw5no?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Six police officers were hurt, while dozens of fans were detained causing a Paraguay first division game to be abandoned after 29 minutes.",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "source": "BBC Sport",
-      "date": "2026-04-20T08:55:30+00:00",
+      "date": "2026-04-20T22:59:21+00:00",
       "featured": false
     },
     {
-      "id": "75e8e7d8ecc6",
-      "title": "Lose 'no ball games' signs to get nation moving - MPs",
-      "url": "https://www.bbc.com/sport/articles/cje4jnzp5lgo?at_medium=RSS&at_campaign=rss",
+      "id": "74fa22af3d70",
+      "title": "Spurs lifeline or good step for West Ham - who's favourite for drop?",
+      "url": "https://www.bbc.com/sport/football/articles/cx2vkw0n3kdo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Making PE a core subject in schools and removing 'no ball games' signs are among recommendations in a new report on barriers to sport and physical activity in England.",
+      "excerpt": "With five games remaining, BBC Sport looks at which side is most likely to take the third relegation spot.",
       "source": "BBC Sport",
-      "date": "2026-04-20T08:41:37+00:00",
+      "date": "2026-04-20T22:54:43+00:00",
       "featured": false
     },
     {
-      "id": "140868b6b96a",
-      "title": "Salzburg lässt sich im Titelkampf nicht abschütteln – Enttäuschung bei Austria und Rapid",
-      "url": "https://www.derstandard.at/story/3000000317263/fu223ball-salzburg-l228sst-sich-im-liga-titelkampf-nicht-absch252tteln?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Die Bullen sind nach dem 3:1 in Favoriten der Gewinner der Runde. Wundenlecken bei der Austria, Luft nach oben bei Rapid",
-      "source": "Der Standard Sport",
-      "date": "2026-04-20T08:25:54+00:00",
+      "id": "3595100f2e91",
+      "title": "BC Vienna sichert sich Ligaverbleib in ABA",
+      "url": "https://sport.orf.at/stories/3154958/",
+      "category": "Basketball",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-04-20T22:34:55+02:00",
       "featured": false
     },
     {
-      "id": "9a6bd8a190f2",
-      "title": "„Zwei blaue Augen“ für Sturm beim LASK",
-      "url": "https://sport.orf.at/stories/3154931/",
+      "id": "83b110ff92d5",
+      "title": "Palace not clinical enough in West Ham draw - Glasner",
+      "url": "https://www.bbc.com/sport/football/videos/c1l9132d6r0o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Crystal Palace manager Oliver Glasner says his side were \"not clinical enough\" in their 0-0 Premier League draw with West Ham at Selhurst Park.",
+      "source": "BBC Sport",
+      "date": "2026-04-20T21:55:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "84da99b6a0ae",
+      "title": "Wilson fights back to beat teenager Moody",
+      "url": "https://www.bbc.com/sport/snooker/articles/cnv8npe25l0o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Kyren Wilson recovers from 6-2 and 7-3 down by winning seven frames in a row to deny 19-year-old Stan Moody a memorable victory on his World Championship debut at the Crucible.",
+      "source": "BBC Sport",
+      "date": "2026-04-20T21:55:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "59ddb8e52f30",
+      "title": "Hartberg-Trainer Schmid muss gegen Rapid zuschauen",
+      "url": "https://sport.orf.at/stories/3154957/",
       "category": "Fußball:BLG",
-      "excerpt": "Ein Punkt im Schlager der Admiral Bundesliga beim LASK war für Tabellenführer Puntigamer Sturm Graz am Sonntag quasi das Optimum. Spielerisch völlig an den Rand gedrängt, rettete den Titelverteidiger nur die Abschlussschwäche der Hausherren vor dem Nuller. „Vielleicht sind wir heute sogar mit zwei blauen Augen davongekommen“, sagte Sturm-Verteidiger Albert Vallci.",
-      "source": "ORF Sport",
-      "date": "2026-04-20T08:25:32+02:00",
-      "featured": false
-    },
-    {
-      "id": "8b4c1e91d0a8",
-      "title": "Giro-Härtetest bei Tour of the Alps",
-      "url": "https://sport.orf.at/stories/3154896/",
-      "category": "Radsport",
-      "excerpt": "Tirol ist Schauplatz des Auftakts der Tour of the Alps. Die traditionsreiche Rundfahrt führt ab Montag (13.45 Uhr, live in ORF Sport +) über fünf Etappen mit zahlreichen Bergwertungen von Innsbruck nach Bozen. Das Kletterspektakel dient vielen Profis als wichtiger Härtetest vor dem Giro d’Italia. Mit dem Vorarlberg-Rennstall und dem Nationalteam treten zwei österreichische Mannschaften an. Ihre Konkurrenz ist mit sieben World-Tour-Teams hochkarätig.",
-      "source": "ORF Sport",
-      "date": "2026-04-20T08:25:31+02:00",
-      "featured": false
-    },
-    {
-      "id": "ea85264e2b4d",
-      "title": "Bewegende Würdigung von Juventus für den verstorbenen Alexander Manninger",
-      "url": "https://www.derstandard.at/story/3000000317284/bewegende-wuerdigung-von-juventus-turin-fuer-den-verstorbenen-alexmanninger?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Vor dem Match gegen Bologna gedachte man des Österreichers, der bei einem Verkehrsunfall starb. Der Torhüter holte 2012 mit Juve den Meistertitel",
-      "source": "Der Standard Sport",
-      "date": "2026-04-20T08:07:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "948e8c620e4c",
-      "title": "Richard Grasl neuer Präsident des ÖTV",
-      "url": "https://www.derstandard.at/story/3000000317281/richard-grasl-neuer-praesident-des-oetv?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der Kurier- und Mediaprint-Geschäftsführer tritt für die nächsten drei Jahre die Nachfolge von Martin Ohneberg an: \"Die Talente-Pipeline ist wieder ganz gut gefüllt\"",
-      "source": "Der Standard Sport",
-      "date": "2026-04-20T07:32:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "e7a13f6f2288",
-      "title": "Green continues fine form before first women's major",
-      "url": "https://www.bbc.com/sport/golf/articles/cy714myyl0ko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Australian golfer Hannah Green wins JM Eagle LA Championship to record a fourth win in five starts, as the players head to Houston for the Chevron Championship.",
-      "source": "BBC Sport",
-      "date": "2026-04-20T07:26:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "c52981ff34d2",
-      "title": "Rahm wins LIV Mexico City amid tour collapse rumours",
-      "url": "https://www.bbc.com/sport/golf/articles/cn43n25q9yko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Jon Rahm clinches the LIV Golf Mexico City title on Sunday amid rumours the breakaway tour is on the verge of collapse.",
-      "source": "BBC Sport",
-      "date": "2026-04-20T07:21:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ee9bdb9f514",
-      "title": "Sepp Straka stürzt nach verpatzter Schlussrunde in South Carolina ab",
-      "url": "https://www.derstandard.at/story/3000000317262/golf-straka-verpatzte-schlussrunde-bei-rbc-heritage-nur-42?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der Wiener spielte beim Signature-Event RBC Heritage mit sieben über Par eine 78er-Runde und fiel von Platz drei auf Rang 42 zurück. Der Engländer Matt Fitzpatrick siegte im Stechen",
-      "source": "Der Standard Sport",
-      "date": "2026-04-20T06:39:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "a139922a1c24",
-      "title": "Wembanyama stars for Spurs as Thunder and Celtics win",
-      "url": "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Victor Wembanyama stars on his NBA play-off debut as the San Antonio Spurs win, while the Oklahoma City Thunder and Boston Celtics both make dominant starts to the post-season.",
-      "source": "BBC Sport",
-      "date": "2026-04-20T06:18:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "003d257fcc26",
-      "title": "How 'dropouts' hangout' became snooker's ultimate stage",
-      "url": "https://www.bbc.com/sport/snooker/articles/c3dll4mzpdjo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Sheffield's Crucible Theatre was a regional arts centre with a polarising reputation before snooker came along, by chance, to make it a globally famous venue. What makes it so special?",
-      "source": "BBC Sport",
-      "date": "2026-04-20T05:34:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "99cb1011a639",
-      "title": "Arsenal fans must help team in title hunt - Rooney",
-      "url": "https://www.bbc.com/sport/football/articles/c5yv3lx1e7ko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Ex-England and Manchester United captain Wayne Rooney says Arsenal fans \"need to be better\" in supporting the team in their faltering Premier League title bid.",
-      "source": "BBC Sport",
-      "date": "2026-04-20T05:15:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "e9ceaca8bb02",
-      "title": "Price hits double figures with European Tour win",
-      "url": "https://www.bbc.com/sport/darts/articles/c624qvn4e9eo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Gerwyn Price has become only the second player to reach double figures on the European Tour after winning the Grand Prix in Germany.",
-      "source": "BBC Sport",
-      "date": "2026-04-20T04:58:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "853041be775e",
-      "title": "Straka vergibt Spitzenplatz mit desaströser Schlussrunde",
-      "url": "https://sport.orf.at/stories/3154929/",
-      "category": "Trendsport",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-20T00:18:55+02:00",
+      "date": "2026-04-20T21:49:25+02:00",
       "featured": false
     },
     {
-      "id": "f7c64dc6fa17",
-      "title": "Juventus-Spieler erweisen Manninger letzte Ehre",
-      "url": "https://sport.orf.at/stories/3154928/",
-      "category": "Fußball",
+      "id": "61c0731fb2b5",
+      "title": "Tennisstars räumen bei Laureus-Gala ab",
+      "url": "https://sport.orf.at/stories/3154956/",
+      "category": "Sport",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-04-19T23:21:28+02:00",
-      "featured": false
-    },
-    {
-      "id": "e6b9caa16e57",
-      "title": "How Haaland and Gabriel went head-to-head in 'old school battle'",
-      "url": "https://www.bbc.com/sport/football/videos/cr71k9gpj5lo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Match of the Day pundits Wayne Rooney and Danny Murphy discuss how \"two top players\" in Erling Haaland and Gabriel went head-to-head in Manchester City's 2-1 victory against Arsenal.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T23:06:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "1ebed85fad02",
-      "title": "How Gibbs-White made a 'huge difference' in Forest's win against Burnley",
-      "url": "https://www.bbc.com/sport/football/videos/ce9m73djz5xo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Match of the Day pundit Danny Murphy discusses how Vítor Pereira's half-time changes \"benefitted\" Morgan Gibbs-White as the England international made a \"huge difference\" in Nottingham Forest's 4-1 comeback victory against Burnley.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T23:06:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "a84417d54413",
-      "title": "How Liverpool's improved creative play helped them beat Everton",
-      "url": "https://www.bbc.com/sport/football/videos/c2d8kj0jk3do?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Match of the Day pundit Danny Murphy analyses how Liverpool's performance \"got better\" from a \"creative\" and \"footballing aspect\" as The Reds secured a 2-1 victory at Everton in the Merseyside Derby.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T23:02:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "7199708aa428",
-      "title": "Rooney and Murphy predict Premier League title outcome",
-      "url": "https://www.bbc.com/sport/football/videos/c98mvj79d6zo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Match of the Day pundits Wayne Rooney and Danny Murphy discuss Arsenal and Manchester City's remaining fixtures in the Premier League title race and have their say on who they think will lift this year's trophy.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T22:53:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "f467a83a9f1a",
-      "title": "PSG kassiert Heimniederlage gegen Lyon",
-      "url": "https://sport.orf.at/stories/3154927/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-04-19T22:53:19+02:00",
-      "featured": false
-    },
-    {
-      "id": "6ab58654d535",
-      "title": "'By chance or choice, they have clicked' - why Man City will be champions",
-      "url": "https://www.bbc.com/sport/football/articles/c5y7vwnvegzo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Match of the Day pundit Danny Murphy explains why he thinks Manchester City will beat Arsenal to the Premier League title.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T22:41:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "21e61b412fbc",
-      "title": "Fitzpatrick beats Scheffler in Heritage play-off",
-      "url": "https://www.bbc.com/sport/golf/articles/c208jrj07r7o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "England's Matt Fitzpatrick beats world number one Scottie Scheffler in a play-off to win the RBC Heritage and claim his second PGA Tour title in the space of a month.",
-      "source": "BBC Sport",
-      "date": "2026-04-19T22:33:27+00:00",
+      "date": "2026-04-20T21:46:43+02:00",
       "featured": false
     }
   ],
   "sport_briefing": {
-    "text": "# Sport-Briefing\n\n• Österreichische Tennisspielerin Taggier erreicht ihre beste Platzierung in der WTA-Rangliste.\n\n• Eishockey-Legionär Kasper steht Österreich bei der Weltmeisterschaft nicht zur Verfügung.\n\n• Orlando Magic sorgt für die erste Überraschung in den NBA-Playoffs.\n\n• Montreal Canadiens gewinnt sein Play-off-Auftaktspiel ohne Spieler Reinbacher.\n\n• Red Bull Salzburg behauptet seine Position im österreichischen Titelkampf.\n\n• Sturm Graz erleidet zwei Niederlagen gegen LASK.\n\n• Profiradfahrer treten beim Härtetest der Tour of the Alps an.\n\n• Richard Grasl wird neuer Präsident des Österreichischen Tennisverbandes.\n\n• Ein Fußball-Derby in Paraguay wird abgebrochen, Polizei setzt Gummigeschosse ein.\n\n• Golferin Green befindet sich vor ihrem ersten Major-Turnier in guter Form.",
-    "date": "2026-04-20T10:21:26.132152+00:00"
+    "text": "# Sport-Briefing\n\n• Trainer Ammann wird seine Position weiterbehakten.\n\n• Die Edmonton Oilers starten mit einem Sieg in die Play-offs.\n\n• Die Toronto Raptors verlieren auch ihr zweites Play-off-Spiel gegen Cleveland.\n\n• Der Elfmeterpfiff für Sturm beim LASK war laut VAR-Rückblick ein Fehler.\n\n• Marko Arnautovic sprach über psychische Belastungen während der Corona-Pandemie.\n\n• Victor Wembanyama erhielt einen NBA-Award mit 100% der Stimmen.\n\n• Die IPL prägt Indiens Talentlandschaft nachhaltig um.\n\n• Schottlands Bowls-Team beruft Marshall und Foster auf.\n\n• Juan Manuel Alcaraz' Handgelenktest ist für die French Open entscheidend.\n\n• Die PGA Tour plant, 2027 kein Turnier in Hawaii auszutragen.",
+    "date": "2026-04-21T09:14:00.403729+00:00"
   },
   "briefing": {
-    "text": "# MORGENBRIEFING\n\n## NACHRICHTEN\n\n**Oesterreich:**\n\n• **Arnautovic spricht über psychische Probleme in China**\n  → Der österreichische Fußballspieler äußerte sich während seines Aufenthalts in China zu persönlichen psychischen Herausforderungen. Die Aussagen werfen ein Licht auf mentale Belastungen im Profisport. [LINK:https://orf.at/stories/3427400/]\n\n• **Arbeitslosigkeit bei älteren Frauen: Maßnahmen gefordert**\n  → Experten und Interessensvertreter fordern verstärkte Maßnahmen gegen die Arbeitslosigkeit älterer Frauen in Österreich. Das Thema rückt zunehmend in den Fokus arbeitsmarktpolitischer Debatten. [LINK:https://orf.at/stories/3427390/]\n\n• **Wien trifft Mexiko: Gulasch zum Falten**\n  → In Wien entsteht eine kulinarische Fusion zwischen österreichischer und mexikanischer Küche mit einem innovativen Gericht, das Gulasch in Form von Wraps serviert. [LINK:https://www.falter.at/best-of-vienna/artikel/20260420/gulasch-zum-falten]\n\n• **Pferdefreuden: Galopp mit Menschenstärke**\n  → Ein neues Angebot in Wien verbindet Pferdesport mit ungewöhnlichen Trainingsmethoden. Das Projekt zielt auf intensive körperliche Aktivität im Sattel ab. [LINK:https://www.falter.at/best-of-vienna/artikel/20260420/galopp-mit-menschenstaerke]\n\n• **Entnommene Goldbarren plötzlich nur „Missverständnis\": Der Krimi hinter „Meine Schatzkammer\"**\n  → Eine Geschichte um entnommene Goldbarren aus einem Sicherheitsverfahren wird plötzlich als Missverständnis dargestellt. Der Fall wirft Fragen zur Transparenz und Kommunikation auf. [LINK:https://www.derstandard.at/story/3000000317021/entnommene-goldbarren-ploetzlich-nur-missverstaendnis-der-krimi-hinter-meine-schatzkammer?ref=rss]\n\n• **Ex-Kabinettschef Kloibmüller im Spionage-Prozess: „Jedes Handy ist interessant\"**\n  → Der ehemalige Kabinettschef Michael Kloibmüller steht in Wien in einem Spionage-Prozess vor Gericht. Seine Aussage zu Handys deutet auf das Ausmaß von Überwachungsaktivitäten an. [LINK:https://kurier.at/politik/inland/egisto-ott-spionage-prozess-wien-michael-kloibmueller/403152288]\n\n• **Frauen müssen länger arbeiten – und jetzt?**\n  → Die Erhöhung des Pensionsalters für Frauen in Österreich wirft Fragen zu wirtschaftlichen und sozialen Auswirkungen auf. [LINK:https://www.diepresse.com/20785850/frauen-muessen-laenger-arbeiten-und-jetzt]\n\n---\n\n**International:**\n\n• **Fünfzigster Todestag von Marilyn Monroe**\n  → Der Jahrestag des Todes der legendären Schauspielerin Marilyn Monroe wird begangen und ihre kulturelle Bedeutung reflektiert. [LINK:https://www.nzz.ch/feuilleton/fuenfzigster-todestag-von-marilyn-monroe-ld.156610]\n\n• **Erdbeben der Stärke 7,5 erschüttert Norden Japans – Warnung vor Tsunami**\n  → Ein starkes Erdbeben der Magnitude 7,5 hat den Norden Japans getroffen und Tsunami-Warnungen ausgelöst. Die Behörden warnen vor möglichen Überschwemmungen in Küstenregionen. [LINK:https://www.tagesschau.de/ausland/asien/japan-erdbeben-154.html]\n\n• **Iran-Liveblog: China kritisiert Beschlagnahmung eines Tankers durch USA**\n  → China hat Stellung zur Beschlagnahmung eines iranischen Tankers durch die USA genommen und kritisiert die Maßnahme. Der Vorfall deutet auf geopolitische Spannungen hin. [LINK:https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html]\n\n• **Russland meldet Festnahme einer Deutschen wegen Terrorverdachts**\n  → Russische Behörden geben die Festnahme einer deutschen Bürgerin bekannt, die des Terrorverdachts beschuldigt wird. Das Ereignis verstärkt bereits bestehende bilaterale Spannungen. [LINK:https://www.tagesschau.de/ausland/europa/russland-festnahme-deutschland-100.html]\n\n• **Rückzahlung illegaler Trump-Zölle startet am 20. April**\n  → Die Vereinigten Staaten kündigen an, Zölle, die als rechtswidrig befunden wurden, ab dem 20. April zurückzuerstatten. Damit reagiert man auf gerichtliche Entscheidungen zu früheren Zollmaßnahmen. [LINK:https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-usa-100.html]\n\n• **Klage zum Abgasskandal: Millionen Dieselmotoren vor dem Aus?**\n  → Eine Klage im Abgasskandal könnte für Millionen Dieselmotoren erhebliche Konsequenzen haben. Das Verfahren wirft Fragen zur Zukunft der Dieseltechnologie auf. [LINK:https://www.tagesschau.de/wirtschaft/verbraucher/diesel-motor-klage-100.html]\n\n• **Polizeiliche Kriminalstatistik: Leichter Rückgang bei Straftaten**\n  → Die neueste Polizeiliche Kriminalstatistik zeigt einen leichten Rückgang bei der Gesamtzahl erfasster Straftaten in Deutschland. [LINK:https://www.tagesschau.de/inland/gesellschaft/pks-vorstellung-102.html]\n\n• **Marktbericht: Anleger nehmen wieder Reißaus**\n  → An den internationalen Finanzmärkten zeigt sich eine Abwärtsbewegung, da Anleger Positionen reduzieren. DAX, Dow Jones und Ölpreis reagieren auf geänderte Markterwartungen. [LINK:https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html]\n\n---\n\n## RECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **15Ns26/26f**\n  → Normen: §§ 15, 84 Abs. 4 StGB (schwere Körperverletzung); § 39 StPO (Zuständigkeit); § 62 Abs. 1 zweiter Satz OGH-Geo 2019 (Delegierungsverfahren)\n  → Das Landesgericht Salzburg verhandelt in einer Strafsache gegen M. wegen des Verbrechens der schweren Körperverletzung. Die Entscheidung betrifft Fragen der Zuständigkeit und des Delegierungsverfahrens. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260415_OGH0002_0150NS00026_26F0000_000]\n\n• **4Ob19/26m**\n  → Verfahrensrechtliche Fragen der OGH-Gerichtsbarkeit\n  → Zwölf voneinander unabhängige Rechtsmittelverfahren verschiedener österreichischer Kläger gegen deutsche Beklagte (Gesellschaften und AGs) werden am OGH verhandelt. Das Verfahren behandelt Fragen der Gerichtsbarkeit und Zuständigkeit. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260410_OGH0002_0040OB00019_26M0000_000]\n\n• **1Ob34/26w**\n  → Normen: § 111 Jurisdiktionsnorm (JN); Bestimmungen des österreichischen Familienrechts zur Zu",
-    "date": "2026-04-20T10:21:26.132152+00:00"
+    "text": "# MORGENBRIEFING\n\n## NACHRICHTEN\n\n**Österreich:**\n\n• **Mehr als zehn Milliarden Euro in Bundesschätzen veranlagt**\n  → Das österreichische Finanzministerium hat über zehn Milliarden Euro in Bundesschätzen angelegt. Diese Maßnahme stellt einen bedeutenden Schritt in der Staatsfinanzierung dar. [LINK:https://orf.at/stories/3427492/]\n\n• **Spritpreise weiter gesunken**\n  → Die Benzin- und Dieselpreise setzen ihren Abwärtstrend fort. Autofahrerinnen und Autofahrer können sich damit über sinkende Tankkosten freuen. [LINK:https://orf.at/stories/3427490/]\n\n• **Vor erstem Budget-Gipfel: Streit um Vermögenssteuern und Pensions-Eingriffe**\n  → Bei den bevorstehenden Budgetverhandlungen entstehen erste Differenzen zwischen den Koalitionspartnern über mögliche Vermögenssteuern und Pensionsreformen. Die Diskussionen deuten auf schwierige Verhandlungen hin. [LINK:https://www.diepresse.com/20789054/vor-erstem-budget-gipfel-streit-um-vermoegenssteuern-und-pensions-eingriffe]\n\n• **Amnesty beklagt Aushöhlen von Menschenrechten in Österreich**\n  → Die Menschenrechtsorganisation Amnesty International kritisiert in ihrer aktuellen Analyse, dass grundlegende Menschenrechte in Österreich zunehmend eingeschränkt werden. Der Bericht dokumentiert mehrere besorgniserregende Entwicklungen. [LINK:https://www.derstandard.at/story/3000000317498/amnesty-beklagt-aushoehlen-von-menschenrechten-in-oesterreich?ref=rss]\n\n• **Streiks, Kerosinmangel, Überbuchung: Welche Rechte Fluggäste haben**\n  → Fluggäste sind durch verschiedene Störungen und Probleme im Flugbetrieb betroffen. Ein Überblick zeigt, welche Rechte Passagiere in Fällen von Streiks, Treibstoffmangel und Überbuchungen haben. [LINK:https://kurier.at/wirtschaft/austrian-fliegen-fluggastrechte/403152401]\n\n• **Fünf Nachwuchskicker bei Verkehrsunfall in Oberösterreich verletzt**\n  → In Oberösterreich wurden fünf junge Fußballspieler bei einem Verkehrsunfall verletzt. Die Umstände des Unfalls sind Teil der laufenden Ermittlungen. [LINK:https://kurier.at/chronik/oberoesterreich/fuenf-nachwuchskicker-bei-verkehrsunfall-in-oberoesterreich-verletzt/403152545]\n\n• **Madonna vermisst Kostüme nach Coachella-Auftritt**\n  → Nach ihrem Auftritt beim Coachella-Festival berichtet Madonna, dass mehrere ihrer Bühnenkostüme vermisst werden. Der Fall wirft Fragen zur Sicherheit von Künstlergut auf. [LINK:https://orf.at/stories/3427487/]\n\n**International:**\n\n• **Ungarns LGBTQ-Gesetz bricht EU-Recht**\n  → Ein ungarisches Gesetz, das LGBTQ-Rechte betrifft, verstößt gegen europäisches Unionsrecht und gefährdet grundlegende Freiheiten. Der Verstoß wurde durch rechtliche Analysen bestätigt. [LINK:https://orf.at/stories/3427484/]\n\n• **Ungarns LGBTQ-Gesetz verstößt gegen EU-Charta**\n  → Das ungarische Gesetz zu LGBTQ-Angelegenheiten verletzt die Grundrechte-Charta der Europäischen Union. Dies stellt einen weiteren schwerwiegenden Verstoß gegen EU-Recht dar. [LINK:https://orf.at/stories/3427489/]\n\n• **Japan lockert Regeln für Waffenexporte**\n  → Japan hat seine Bestimmungen für Waffenexporte gelockert und ermöglicht damit neue Exporte militärischer Ausrüstung. Diese Änderung der Exportpolitik markiert einen bedeutenden Kurswechsel. [LINK:https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html]\n\n• **Nahost-Liveblog: Wadephul fordert Iran zu Verhandlungen auf**\n  → In der Nahost-Krise wird von deutscher Seite der Iran zu Verhandlungen aufgefordert. Der aktuelle Liveblog dokumentiert die neuesten Entwicklungen in diesem Konflikt. [LINK:https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html]\n\n• **HiPP-Erpressung: Ein vergiftetes Glas fehlt noch**\n  → Bei der Erpressungssache gegen das Babynahrungshersteller HiPP wird nach einem vermissten vergifteten Glas gesucht. Die Ermittlungen zu diesem Fall dauern an. [LINK:https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html]\n\n• **Vorwürfe der Ausbeutung in der deutschen Fleischindustrie**\n  → Investigative Recherchen decken Missstände in der deutschen Fleischindustrie auf, wo Arbeitskräfte systematisch ausgebeutet werden sollen. Die Vorwürfe beleuchten schwerwiegende Arbeitsbedingungen. [LINK:https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html]\n\n• **The War in Ukraine: As Russian Losses Mount, Signing Bonuses for Recruits Are Skyrocketing**\n  → Angesichts wachsender russischer Verluste in der Ukraine steigen die Anwerbungsprämien für neue Rekruten rasant an. Dies deutet auf verstärkte Schwierigkeiten bei der Rekrutierung hin. [LINK:https://www.spiegel.de/international/world/the-war-in-ukraine-as-russian-losses-mount-signing-bonuses-for-recruits-are-skyrocketing-a-b1c752f6-0edb-4304-a24b-2869730b4248#ref=rss]\n\n---\n\n## RECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **OGH 15Ns26/26f** — Schwere Körperverletzung (§§ 15, 84 Abs. 4 StGB); Zuständigkeit (§ 39 StPO)\n  → Das Landesgericht Salzburg verhandelt eine Strafsache gegen eine Person wegen des Verbrechens der schweren Körperverletzung. Das Verfahren behandelt Fragen zur sachlichen Zuständigkeit und zur Anwendung des Strafgesetzbuches. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260415_OGH0002_0150NS00026_26F0000_000]\n\n• **OGH 4Ob19/26m** — Verfahrensrecht; internationale Zuständigkeit\n  → Zwölf unabhängige Rechtsmittelverfahren verschiedener österreichischer Kläger gegen deutsche Beklagte (Gesellschaften und Aktiengesellschaften) werden in dieser Entscheidung behandelt. Es geht um Fragen der OGH-Gerichtsbarkeit und prozessrechtliche Aspekte. [LINK:https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260410_OGH0002_0040OB00019_26M0000_000]\n\n• **OGH 1Ob34/26w** — Familienrecht; Obsorge und Zuständigkeit (§ 111 JN)\n  → Ein außerehelich geborenes Kind mit gemeinsamer Obsorge der Eltern ist Gegenstand dieser Entscheidung. Nach Trennung der Eltern und Wechsel des Lebensmittelpunkts entstehen Fragen zur örtlichen Zuständigkeit im Familienrecht. [LINK:https://www.ris.bka.",
+    "date": "2026-04-21T09:14:00.403729+00:00"
   },
   "_meta": {
-    "last_updated": "2026-04-20T10:21:26.132152+00:00"
+    "last_updated": "2026-04-21T09:14:00.403729+00:00"
   }
 }
