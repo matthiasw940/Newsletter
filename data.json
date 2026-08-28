@@ -1,69 +1,69 @@
 {
   "weather": {
-    "temp_current": 29.7,
-    "humidity": 38,
-    "wind": 9.7,
-    "temp_max": 29.7,
-    "temp_min": 18.3,
+    "temp_current": 31.8,
+    "humidity": 39,
+    "wind": 16.5,
+    "temp_max": 31.8,
+    "temp_min": 20.3,
     "precip": 0.0,
-    "description": "Überwiegend klar",
-    "emoji": "🌤️",
-    "code": 1,
+    "description": "Klar",
+    "emoji": "☀️",
+    "code": 0,
     "hourly": [
       {
         "hour": "06:00",
-        "temp": 18.4,
-        "code": 0,
-        "emoji": "☀️",
-        "precip": 0
-      },
-      {
-        "hour": "08:00",
-        "temp": 19.1,
+        "temp": 20.7,
         "code": 1,
         "emoji": "🌤️",
         "precip": 0
       },
       {
-        "hour": "10:00",
-        "temp": 22.2,
+        "hour": "08:00",
+        "temp": 20.8,
         "code": 3,
         "emoji": "☁️",
         "precip": 0
       },
       {
+        "hour": "10:00",
+        "temp": 23.6,
+        "code": 0,
+        "emoji": "☀️",
+        "precip": 0
+      },
+      {
         "hour": "12:00",
-        "temp": 25.7,
+        "temp": 27.5,
         "code": 0,
         "emoji": "☀️",
         "precip": 0
       },
       {
         "hour": "14:00",
-        "temp": 27.6,
-        "code": 3,
-        "emoji": "☁️",
+        "temp": 30.7,
+        "code": 2,
+        "emoji": "⛅",
         "precip": 0
       },
       {
         "hour": "16:00",
-        "temp": 29.5,
-        "code": 1,
-        "emoji": "🌤️",
-        "precip": 0
-      },
-      {
-        "hour": "18:00",
-        "temp": 29.5,
+        "temp": 31.3,
         "code": 3,
         "emoji": "☁️",
         "precip": 0
       },
       {
+        "hour": "18:00",
+        "temp": 31.7,
+        "code": 0,
+        "emoji": "☀️",
+        "precip": 0
+      },
+      {
         "hour": "20:00",
-        "temp": 27.4,
-        "code": 2,
-        "emoji": "⛅",
+        "temp": 30.2,
+        "code": 3,
+        "emoji": "☁️",
         "precip": 0
       }
     ]
@@ -120,6 +120,19 @@
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
       "summary": "• **Normen:** Haager Übereinkommen über die internationale Kindesentführung (HKÜ); § 382c EO (einstweilige Verfügung); Bestimmungen des österreichischen Außerstreitgesetzes zur Rückführung von Kindern\n\n• **SV:** Verheiratete Eltern mit gemeinsamer Obsorge über zwei minderjährige Kinder (geb. 2019 und 2021) lebten in der Slowakei. Die Mutter reichte am 13. 6. 2025 Scheidungsklage ein und übersiedelte am 12. 7. 2025 mit den Kindern nach Österreich. Der Vater versuchte am 20. 12. 2025 bei einem Besuch, ein Gespräch mit der Mutter zu führen, schlug diese daraufhin ins Gesicht. Das Bezirksgericht erließ am 13. 1. 2026 eine einstweilige Verfügung (Kontaktverbot). Die Mutter ist die Hauptbezugsperson der Kinder und diese sind in Österreich gut integriert. Ein slowakisches Gericht regelte am 26. 2. 2026 ein Videobesuchsrecht des Vaters. Der Vater beantragte am 27. 3. 2026 die Rückführung der Kinder in die Slowakei.\n\n• **Rechtsfrage:** Ist die Rückführung von Kindern nach der Haager Konvention anzuordnen, wenn zwar formal eine rechtswidrige Verbringung vorliegen könnte (Übersiedlung der Mutter mit den Kindern nach Österreich ohne Zustimmung des mitsorgeberechtigten Vaters), aber die besonderen Umstände des Einzelfalles – insbesondere das gewalttätige Verhalten des Antragstellers, die inzwischen erreichte Integration der Kinder in Österreich, deren klar ausgesprochene Rückkehrverweigerung sowie die ernsthafte Gefahr für deren psychische Stabilität und Sicherheit – gegen eine Rückführung sprechen? Wie wiegen diese Aspekte gegen das grundsätzliche Rückführungsprinzip der Konvention ab?\n\n• **Entscheidung:** Der OGH gab dem Revisionsrekurs des Vaters teilweise Folge und ordnete die Rückführung der Kinder in die Slowakei an, lehnte aber das Mehrbegehren der Rückgabe an den Vater selbst ab. Der Senat erkannte zwar an, dass erhebliche Bedenken gegen die Rückführung sprachen – das dokumentierte gewalttätige Verhalten des Vaters gegenüber der Mutter, die gute Integration der Kinder in Österreich und deren erklärter Wille zu bleiben sowie die Risiken für ihre psychische Stabilität. Jedoch befand der OGH, dass diese Gründe nicht ausreichten, um vollständig von der Anwendung des Haager Übereinkommens abzugehen. Die Rückführung in das Staatsgebiet der Slowakei als solche diene dem Schutz der Kinderrechte und dem Zweck der Konvention, eine rasche Rückkehr in den Heimatstaat zu ermöglichen, wo die slowakischen Gerichte – die bereits ein Kontaktrecht des Vaters geregelt hatten – über die weiteren Fragen der Obsorge und des Aufenthaltes entscheiden könnten. Dies respektiere auch die Mitsorgerechte des Vaters. Gleichzeitig lehnte der OGH aber ab, die Kinder dem Vater unmittelbar zu übergeben, sondern ordnete nur die Rückführung in die Slowakei an.\n\n• **Bedeutung:** Die Entscheidung bekräftigt die grundsätzliche Bindungswirkung des Haager Übereinkommens und das darin verankerte Rückführungsprinzip, auch wenn gravierende Bedenken im Einzelfall vorliegen. Sie demonstriert jedo"
+    },
+    {
+      "id": "5b2af353bb6f",
+      "title": "OGH 6Ob26/26f",
+      "url": "https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260812_OGH0002_0060OB00026_26F0000_000",
+      "category": "Zivilrecht",
+      "excerpt": "",
+      "source": "RIS",
+      "featured": false,
+      "date": "2026-08-12T00:00:00",
+      "rechtsgebiet": "Zivilrecht",
+      "norm": "",
+      "summary": "• **Normen:** § 419 ZPO (Berichtigung offenbarer Unrichtigkeiten)\n\n• **SV:** Der OGH hatte mit Beschluss vom 26. Mai 2026 (AZ 6 Ob 26/26f) in einer Unterlassungssache zwischen Dr. S* (Kläger) und V* (Beklagter) entschieden. In der Begründung (Rz 19, ErwGr 1.4.) war dabei das Wort „Zahlungsauftrag\" verwendet worden, obwohl es sich um eine Unterlassungssache handelte.\n\n• **Rechtsfrage:** Ob und unter welchen Voraussetzungen eine offenbare Unrichtigkeit in einem bereits ergangenen OGH-Beschluss berichtigt werden kann, wenn das verwendete Wording nicht dem wahren Entscheidungswillen des Gerichtshofs entspricht. Konkret ist zu klären, ob die Verwendung des Begriffs „Zahlungsauftrag\" statt „Unterlassungsauftrag\" in einem Unterlassungsverfahren als solche offenbare Unrichtigkeit anzusehen ist.\n\n• **Entscheidung:** Der OGH qualifizierte die Verwendung des Wortes „Zahlungsauftrag\" in einem Unterlassungsverfahren als offenbare Unrichtigkeit. Diese ist gemäß § 419 ZPO zu berichtigen, um den wahren Entscheidungswillen des Obersten Gerichtshofs zum Ausdruck zu bringen. Der Beschluss wird dahin berichtigt, dass in Rz 19, ErwGr 1.4. das Wort „Zahlungsauftrag\" durch das Wort „Unterlassungsauftrag\" ersetzt wird.\n\n• **Bedeutung:** Die Entscheidung präzisiert die praktische Anwendbarkeit von § 419 ZPO und verdeutlicht, dass sachlich offensichtlich unzutreffende Rechtsbegriffe in Gerichtsentscheidungen korrigiert werden können, ohne dass dies eine inhaltliche Änderung der Entscheidung darstellt. Dies sichert die Klarheit und Verständlichkeit von Gerichtsentscheidungen."
     },
     {
       "id": "3aab63254f2c",
@@ -374,19 +387,6 @@
       "rechtsgebiet": "Zivilrecht",
       "norm": "",
       "summary": "• **Normen:** § 16 iVm § 37 Abs 1 Z 8 MRG; § 37 Abs 3 Z 16 MRG iVm § 62 Abs 1 AußStrG; § 879 Abs 3 ABGB; § 6 Abs 1 Z 5 KSchG; § 234 ZPO\n\n• **SV:** Der Antragsteller ist Mieter einer Wohnung (65,84 m²) aufgrund eines unbefristeten Mietvertrags vom 15. Februar 2022. Die Parteien vereinbarten eine Wertsicherungsklausel für den Mietzins, auf deren Grundlage die Antragsgegnerin (G* AG) den Mietzins zum 1. Mai 2022 und zum 1. Mai 2023 anhob. Der Antragsteller begehrte die Nachprüfung des angehobenen Hauptmietzinses und bestritten die Wirksamkeit der Wertsicherungsvereinbarung wegen Verstoßes gegen § 879 Abs 3 ABGB und § 6 Abs 1 Z 5 KSchG. Die Vorinstanzen wiesen seine Begehren ab, das Rekursgericht ließ den ordentlichen Revisionsrekurs nicht zu.\n\n• **Rechtsfrage:** Ob der außerordentliche Revisionsrekurs des Antragstellers zulässig ist und eine erhebliche Rechtsfrage aufzeigt. Die zentrale Problematik ist, ob ein Eigentumsübergang der streitgegenständlichen Liegenschaft von der G* AG auf die P* GmbH – der erst nach Ergehen des erstinstanzlichen Sachbeschlusses und nach Erstattung der Rekursbeantwortung, aber vor Entscheidung des Rekursgerichts erfolgte – eine Zulässigkeitsvoraussetzung des Revisionsrekurses begründen könnte und ob sonst erhebliche Rechtsfragen zur Wertsicherungsvereinbarung oder zu den zugestandenen Mietzinszuschlägen gegeben sind.\n\n• **Entscheidung:** Der OGH wies den außerordentlichen Revisionsrekurs mangels Voraussetzungen gemäß § 37 Abs 3 Z 16 MRG iVm § 62 Abs 1 AußStrG zurück. Der Hinweis des Antragstellers auf den Eigentumsübergang könne keine Zulässigkeitsvoraussetzung des Revisionsrekurses begründen, da § 234 ZPO im wohnrechtlichen Außerstreitverfahren nicht anzuwenden sei und ein Parteistellungswechsel nur vor der erstinstanzlichen Entscheidung beachtlich ist – dies sei hier gerade nicht der Fall. Im Übrigen habe das Erstgericht beide Entscheidungen der Erwerberin zugestellt. Der Revisionsrekurs zeige insgesamt keine erhebliche Rechtsfrage auf, die eine Zulassung rechtfertigen würde.\n\n• **Bedeutung:** Die Entscheidung konkretisiert die Grenzen der außerordentlichen Revisionsrekursmöglichkeit im wohnrechtlichen Außerstreitverfahren und stellt klar, dass ein nachträglicher Wechsel der Parteistellung nach der erstinstanzlichen Entscheidung keine Revisionsvoraussetzungen begründet. Sie beschränkt ferner die Möglichkeit des Antragstellers, Einwände gegen die materielle Wirksamkeit von Wertsicherungsvereinbarungen im außerstreitigen Verfahren geltend zu machen."
-    },
-    {
-      "id": "9bf1bec540cc",
-      "title": "OGH 5Ob95/26w",
-      "url": "https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260730_OGH0002_0050OB00095_26W0000_000",
-      "category": "Zivilrecht",
-      "excerpt": "",
-      "source": "RIS",
-      "featured": false,
-      "date": "2026-07-30T00:00:00",
-      "rechtsgebiet": "Zivilrecht",
-      "norm": "",
-      "summary": "• **Normen:** § 464 Abs 3 ZPO (sinngemäße Anwendung gemäß § 505 Abs 2 Satz 2 ZPO im Revisionsverfahren)\n\n• **SV:** Der Kläger erhob gegen das klageabweisende Urteil des Oberlandesgerichts Innsbruck (18. Februar 2026) eine außerordentliche Revision. Das Berufungsgericht hatte die ordentliche Revision nicht zugelassen. Der Kläger beantragte zunächst Verfahrenshilfe durch Beigebung eines Rechtsanwalts, welche mit Beschluss vom 5. Mai 2025 (bestätigt am 8. Oktober 2025) abgewiesen wurde. Am 23. März 2026 stellte der Kläger einen zweiten Verfahrenshilfeantrag, ohne dabei eine Änderung seiner Vermögensverhältnisse darzulegen. Die außerordentliche Revision wurde erst am 16. Juni 2026 eingereicht.\n\n• **Rechtsfrage:** Wann beginnt die Revisionsfrist nach § 505 Abs 2 ZPO zu laufen, wenn ein Verfahrenshilfeantrag gestellt wird? Insbesondere: Kann ein neuerlicher Verfahrenshilfeantrag ohne Darlegung geänderter Vermögensverhältnisse die Revisionsfrist unterbrechen, wenn ein früherer Antrag bereits rechtskräftig abgewiesen wurde? Und welche Auswirkungen hat dies auf die Fristwahrung?\n\n• **Entscheidung:** Der OGH verweist auf die gefestigte Rechtsprechung (RS0117835, RS0123516, RS0122115), wonach nur ein inhaltlich zu erledigender Verfahrenshilfeantrag den Fristenlauf unterbricht, nicht aber ein prozessual unzulässiger Antrag. Ein neuerlicher Verfahrenshilfeantrag nach Abweisung eines früheren Antrags ist nur zulässig, wenn zumindest die maßgebliche Veränderung entscheidender Umstände dargelegt wird. Im vorliegenden Fall stellte der Kläger am 23. März 2026 einen zweiten Verfahrenshilfeantrag ein, ohne eine Änderung seiner Vermögensverhältnisse zu behaupten oder aus dem eingereichten Vermögensbekenntnis eine solche zu ergeben. Der OGH qualifiziert diesen Antrag daher als unzulässig und kommt ihm folgerichtig keine Unterbrechungswirkung gemäß § 464 Abs 3 ZPO zu. Die Revisionsfrist endete mit 24. März 2026; die Revision wurde erst am 16. Juni 2026 eingereicht und ist daher verspätet.\n\n• **Bedeutung:** Die Entscheidung konkretisiert die Anforderungen an die Zulässigkeit wiederholter Verfahrenshilfeanträge im Revisionsverfahren und stellt klar, dass bloße Wiederholungen ohne substantiierte Darlegung geänderter Vermögensverhältnisse keine Fristunterbrechung bewirken. Dies schützt vor einer Missbrauchsmöglichkeit und sichert Rechtsfrieden durch die Geltendmachung von Ausschlussfristen."
     }
   ],
   "recht_vfgh": [
@@ -783,6 +783,146 @@
   ],
   "recht_news": [
     {
+      "id": "ea9744586888",
+      "title": "\"Wem kann man in der Justiz vertrauen?\": Was der mutmaßliche Verleumder der Buwog-Richterin aussagte",
+      "url": "https://www.derstandard.at/story/3000000337341/wem-kann-man-in-der-justiz-vertrauen-was-der-mutmassliche-verleumder-der-buwog-richterin-aussagte?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der mutmaßliche Verleumder der Buwog-Richterin schilderte den Ermittlern, er habe Mails wegen \"wachsenden Drucks\" gefälscht. Mit Walter Meischberger habe er sich stundenlang unterhalten",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T14:05:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "972e7866e5b9",
+      "title": "Paypal: Stripe und Advent geben Pläne zur Übernahme auf",
+      "url": "https://www.derstandard.at/story/3000000337460/stripe-und-advent-geben-pl228ne-zur-paypal-220bernahme-auf-kreise?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Übernahmespekulation bei PayPal ist geplatzt. Vertreter von Advent, PayPal und Stripe lehnten eine Stellungnahme vorerst ab",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T13:46:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "26a81b22ca88",
+      "title": "Kampf gegen Temu und Shein: Frankreich erhebt Strafen auf Fast Fashion",
+      "url": "https://www.derstandard.at/story/3000000337466/frankreich-erhebt-strafen-auf-wegwerfmode-zw246lf-euro-pro-jacke?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Zwölf Euro werden auf Jacken von chinesischen Onlinehändlern aufgeschlagen, 50 Cent auf Unterhosen. So will Frankreich Billigimporte reduzieren",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T12:33:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "66b8b5c65e74",
+      "title": "US-Unternehmen erwirtschaften Rekordgewinne, Löhne verlieren an Gewicht",
+      "url": "https://www.derstandard.at/story/3000000337353/us-unternehmen-verdienen-wie-nie-zuvor-loehne-verlieren-an-gewicht?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Anteil der Gewinne am Nationaleinkommen ist auf dem höchsten Niveau seit den 1950ern, der Anteil des Arbeitseinkommens ist gesunken. Die hohe Inflation könnte die Ungleichheit verschärfen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T12:02:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "9e694d6078da",
+      "title": "RLB OÖ steigert Gewinn zum Halbjahr deutlich",
+      "url": "https://www.derstandard.at/story/3000000337446/rlb-o214-gewinn-zum-halbjahr-deutlich-gestiegen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Trotz \"herausfordenden Umfelds\" konnten alle relevanten Kennzahlen gesteigert werden",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T11:45:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b28d34870faf",
+      "title": "Chinesische Automarke Lepas startet 2027 in Österreich",
+      "url": "https://www.derstandard.at/story/3000000337439/chinesische-automarke-lepas-startet-2027-in-214sterreich?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Markteintritt ist für das erste Quartal 2027 geplant, die Preise sind noch nicht bekannt. Künftig soll es eine Produktion in Europa geben",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T11:20:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6023ee0092b9",
+      "title": "Führungsspitze der Austro Control bleibt unverändert",
+      "url": "https://www.derstandard.at/story/3000000337428/f252hrungsspitze-der-austro-control-bleibt-unver228ndert?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Vertrag von Geschäftsführer Philipp Piber per 1. Jänner 2027 um fünf weitere Jahre verlängert – An seiner Seite ist Elisabeth Landrichter seit Mai 2024 im Amt",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T10:45:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1cc3bb7aa48f",
+      "title": "Schock für Musikstadt Salzburg: Mayrische schließt nach 434 Jahren",
+      "url": "https://www.derstandard.at/story/3000000337435/schock-fuer-musikstadt-salzburg-mayrische-schliesst-nach-434-jahren?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Musikverlag Universal Edition gibt Ende September die Mayrische Musikalienhandlung in Salzburg auf. Auch Musik Müller in Wien sperrt zu. Doblinger sucht einen Mäzen",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T10:14:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "f8f4bab3c206",
+      "title": "Dürre trifft Frankreichs Käsebauern, Ausnahmen beim Futter erlaubt",
+      "url": "https://www.derstandard.at/story/3000000337444/ausnahmen-von-strengen-regeln-f252r-franz246sische-k228sebauern-wegen-d252rre?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Kühe, deren Milch für die Herstellung von Traditionsmarken verwendet wird, dürfen ausnahmsweise auch Futter fressen, das weiter weg angebaut wurde",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T10:12:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "b6ce32e0f881",
+      "title": "Warimpex schaffte im ersten Halbjahr Rückkehr in die Gewinnzone",
+      "url": "https://www.derstandard.at/story/3000000337349/warimpex-schaffte-im-ersten-halbjahr-r252ckkehr-in-gewinnzone?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Periodenergebnis nach Verlust bei plus 0,8 Millionen Euro – Gesamtumsatz stieg um neun Prozent auf 11,1 Millionen Euro – Ebitda mehr als verdreifacht",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T09:33:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "e1d59c1d812c",
+      "title": "Baukonzern Strabag steigerte Ergebnis und hebt Jahresziele an",
+      "url": "https://www.derstandard.at/story/3000000337333/baukonzern-strabag-steigerte-ergebnisse-und-hob-jahresziele-an?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der Gewinn vor Zinsen und Steuern stieg im ersten Halbjahr um 35 Prozent, die Bauleistung erhöhte sich um zwölf Prozent",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T05:39:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "faf146bf82dd",
+      "title": "Kostbare Rohstoffe, kurzer Handelsweg: Was hinter dem Run auf die Arktis steckt",
+      "url": "https://www.derstandard.at/story/3000000337166/kostbare-rohstoffe-kurzer-handelsweg-was-hinter-dem-run-auf-die-arktis-steckt?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Über das Nordpolarmeer lassen sich Güter zwischen Asien und Europa doppelt so schnell verschiffen wie bisher. Lange war das eine Träumerei – doch das ändert sich gerade",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-28T03:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4a6d1d634eb2",
+      "title": "Shell beendete laut Bericht Gespräche mit Unimot über Schwedt-Anteil",
+      "url": "https://www.derstandard.at/story/3000000337316/shell-beendete-laut-bericht-gespr228che-mit-unimot-252ber-schwedt-anteil?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Raffinerie versorgt Berlin und Ostdeutschland mit Treibstoff, Rosneft-Anteile stehen unter deutscher Treuhandverwaltung",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-27T20:14:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "2f232826d07f",
+      "title": "CO₂-Speicherung: Wie Österreich seine Emissionen vergraben will",
+      "url": "https://www.derstandard.at/story/3000000337069/co-speicherung-wie-oesterreich-seine-emissionen-vergraben-will?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Regierung will das Speicherverbot von CO₂ rasch aufheben. Die Industrie steht in den Startlöchern, Umweltschutzorganisationen kritisieren das Verfahren. Doch ohne CCS wird Österreich nicht klimaneutral",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-08-27T15:31:33+00:00",
+      "featured": false
+    },
+    {
       "id": "6b7a322b736a",
       "title": "Strenges Kostenmanagement hebt Porr-Ergebnis zum Halbjahr um fast ein Viertel",
       "url": "https://www.derstandard.at/story/3000000337247/strenges-kostenmanagement-hebt-porr-ergebnis-zum-halbjahr-um-fast-ein-viertel?ref=rss",
@@ -891,149 +1031,49 @@
       "source": "Der Standard Wirtschaft",
       "date": "2026-08-26T15:18:30+00:00",
       "featured": false
-    },
-    {
-      "id": "d620b8b98650",
-      "title": "Wie eine Gruppe rund um Ex-EZB-Chef Draghi Europa antreiben will",
-      "url": "https://www.derstandard.at/story/3000000337013/wie-eine-gruppe-rund-um-ex-ezb-chef-draghi-europa-antreiben-will?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Ex-Notenbanker will seinem Bericht zur Wettbewerbsfähigkeit Leben einhauchen – und bringt dabei mächtige Wirtschaftsvertreter an einen Tisch. Nicht alle finden das gut",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T14:44:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "27eb35c463ce",
-      "title": "Betrugsprozess gegen \"Vermögensverwalter\", der 1,8 Millionen Euro verwettete",
-      "url": "https://www.derstandard.at/story/3000000336937/betrugsprozess-gegen-vermoegensverwalter-der-18-millionen-euro-verwettete?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "Ein unbescholtener 28-Jähriger soll drei Jahre lang bei Freunden und Familie Geld eingesammelt haben. Statt zu investieren, finanzierte er damit seine Spielsucht",
-      "source": "Der Standard Recht",
-      "date": "2026-08-26T14:11:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f0a39b703109",
-      "title": "Justiz kritisiert neuen Gesetzesentwurf für die Bundesstaatsanwaltschaft",
-      "url": "https://www.derstandard.at/story/3000000337107/justiz-kritisiert-neuen-gesetzesentwurf-fuer-die-bundesstaatsanwaltschaft?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "OGH und Richtervereinigung sehen durch einen neuen Gesetzesentwurf die Unabhängigkeit der Weisungsspitze gefährdet",
-      "source": "Der Standard Recht",
-      "date": "2026-08-26T13:36:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "6d1381b99a1a",
-      "title": "Oberbank-Chef: \"Anstehende Commerzbank-Übernahme ist ein Lotto-Sechser für uns\"",
-      "url": "https://www.derstandard.at/story/3000000337063/oberbank-chef-anstehende-commerzbank-uebernahme-ist-ein-lotto-sechser-fuer-uns?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Oberbank startet mit einem überraschend starken Halbjahr. Der designierte Chef Martin Seiter sieht Chancen in Deutschland und setzt auf Wachstum in Ungarn",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T13:36:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4003ced44396",
-      "title": "Europäische Produkte bevorzugen? Warum die Regierung mit ihrem Plan heikles Terrain betritt",
-      "url": "https://www.derstandard.at/story/3000000337006/ma-warum-die-regierung-mit-ihrem-plan-heikles-terrain-betritt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Staat kauft jährlich um 67 Milliarden Euro ein. Künftig sollen europäische Anbieter von diesen öffentlichen Aufträgen stärker profitieren. Doch es gibt Hürden",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T12:39:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ee0342de87c",
-      "title": "Aus für insolventen Arzneihersteller R-Pharm",
-      "url": "https://www.derstandard.at/story/3000000337071/aus-f252r-insolventen-arzneihersteller-r-pharm?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "EU-Sanktionen und russische Gegenmaßnahmen führten wohl zur Insolvenz im März. Die Suche nach neuen Investoren war nicht erfolgreich",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T10:51:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "d17c3e818d1a",
-      "title": "Kapsch TrafficCom steigert Umsatz und ist operativ positiv",
-      "url": "https://www.derstandard.at/story/3000000337030/kapsch-trafficcom-steigert-umsatz-und-ist-operativ-positiv?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Umsatz von Kapsch TrafficCom steigt auf 105,2 Millionen Euro. Hohe Schulden und die laufende Restrukturierung belasten weiter",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T08:23:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "d3a60c65c1ab",
-      "title": "VIG steigerte Gewinn vor Steuern im ersten Halbjahr um ein Fünftel",
-      "url": "https://www.derstandard.at/story/3000000337003/vig-steigerte-gewinn-vor-steuern-im-ersten-halbjahr-um-ein-fuenftel?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Das Ergebnis des börsennotierten Versicherungskonzerns erhöhte sich um 20,7 Prozent auf 641,5 Millionen Euro",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T06:26:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "2aea83b49868",
-      "title": "Alpenverein plant strengere Stornoregeln für Berghütten",
-      "url": "https://www.derstandard.at/story/3000000336909/alpenverein-plant-strengere-stornoregeln-fuer-berghuetten?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Bis zu 40 Prozent aller Reservierungen auf Alpenvereinshütten werden mittlerweile wieder abgesagt, viele davon erst kurzfristig. Das stellt Hüttenbetreiber vor ernsthafte Probleme",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T06:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "94bb03bbae31",
-      "title": "IWF: Weltwirtschaft verkraftet Energieschock besser als befürchtet",
-      "url": "https://www.derstandard.at/story/3000000336996/iwf-weltwirtschaft-verkraftet-energieschock-besser-als-bef252rchtet?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Allerdings äußerte sie auch Bedenken hinsichtlich der sich verschlechternden Haushaltslage in einigen Ländern. Ein erneuter Preisanstieg könnte die Inflation weiter anheizen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T05:23:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "2363ec6a3196",
-      "title": "Berglandmilch greift nach Obersteirischer Molkerei",
-      "url": "https://www.derstandard.at/story/3000000336975/berglandmilch-greift-nach-obersteirischer-molkerei?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Das Übernahmekarusell in der Milchwirtschaft dreht sich schneller: 1200 steirische Bauern müssen über ihre Zukunft entscheiden. Über die Macht der Größe und die Angst vor verlorener Eigenständigkeit",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-26T03:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b64206239116",
-      "title": "Erste durchgehende Haupttunnelröhre des Brennerbasistunnels fertiggestellt",
-      "url": "https://www.derstandard.at/story/3000000336978/bbt-erste-durchgehende-haupttunnelr246hre-fertiggestellt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Durchschlag ist am Dienstag gelungen. Der Haupttunnel erstreckt sich über 55 Kilometer und geht von Innsbruck bis Franzensfeste in Südtirol",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-25T17:57:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "f9ecdf9900c1",
-      "title": "Gaspreise in Europa erreichen den höchsten Wert seit dreieinhalb Jahren",
-      "url": "https://www.derstandard.at/story/3000000336954/gaspreise-in-europa-erreichen-den-hoechsten-wert-seit-dreieinhalb-jahren?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Irankrieg und die Dürre sind eine fatale Kombination für die europäischen Gasmärkte. Haushalte und Industrie müssen über den Winter mit steigenden Preisen rechnen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-25T17:29:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "c758662557bd",
-      "title": "Causa Fake-Vorwürfe erreichte sogar US-Justizministerium",
-      "url": "https://www.derstandard.at/story/3000000336809/causa-fake-vorwuerfe-erreichte-sogar-us-justizministerium?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Ermittlungen nach der Anzeige von Karl-Heinz Grasser gegen die Buwog-Richterin brachten mit einem Amtshilfeersuchen auch die US-Justiz ins Spiel",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-08-25T16:41:20+00:00",
-      "featured": false
     }
   ],
   "recht_intl": [
+    {
+      "id": "900d8cec8d6d",
+      "title": "Unwissen schützt vor Verantwortung nicht",
+      "url": "https://verfassungsblog.de/palantir-staatsorganisationsrecht/",
+      "category": "Deutschland",
+      "excerpt": "Dem Einsatz von automatisierten Datenanalysen in Sicherheitsbehörden müssen Grenzen gesetzt werden – und zwar nicht nur zur Wahrung der Grundrechte, sondern auch, um den Ansprüchen des Staatsorganisationsrechts zu genügen. Die Exekutive muss sich vor der Legislativen verantworten. Das setzt ausreichendes Wissen über die Vorgänge im Regierungsapparat und damit den Einsatz von Softwarelösungen voraus. Aktuell droht die politische Verantwortung aufgrund mangelnden Wissens leerzulaufen. The post Unwissen schützt vor Verantwortung nicht appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-08-28T09:42:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "cac8cc7b259c",
+      "title": "New Zealand’s Shameful Climate Tort Law – And What Climate Lawyers Can Learn from It",
+      "url": "https://verfassungsblog.de/new-zealands-shameful-climate-tort-law-and-what-climate-lawyers-can-learn-from-it/",
+      "category": "English Articles",
+      "excerpt": "New Zealand’s Climate Change Response (Tort Liability) Amendment Act became law on 24 August 2026. The Act is the first national law to comprehensively rule out civil liability for activities that cause harm by contributing to climate change. The stagnating political salience of climate change presents significant challenges for climate lawyers, who must consider the viability of their claims in both courts and the political process. The post New Zealand’s Shameful Climate Tort Law – And What Climate Lawyers Can Learn from It appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-08-28T08:07:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "be960d06ac6c",
+      "title": "Gläserne Bürger:innen, abhängiger Staat",
+      "url": "https://verfassungsblog.de/palantir-polizei-datenschutz-sicherheit/",
+      "category": "Deutschland",
+      "excerpt": "Palantir & Co. sind nicht nur ein gigantisches Datenschutzproblem. Die Systeme verschieben darüber hinaus Macht gleich doppelt – von den Bürger:innen zum Staat und vom demokratisch kontrollierten Staat zu privaten Firmen, im schlimmsten Fall zu Konzernen außerhalb Europas. Wie können wir Sicherheitsbehörden technisch stärken, ohne demokratische Kontrolle und digitale Souveränität preiszugeben? Dafür braucht es klare rote Linien, offene und unabhängig kontrollierbare Systeme, die ausschließlich europäischem Recht unterliegen. The post Gläserne Bürger:innen, abhängiger Staat appeared first on Verfassungsblog.",
+      "source": "Verfassungsblog",
+      "date": "2026-08-28T07:39:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "62d82e74bcb7",
+      "title": "Harmonizing the Fragmented Right to Education: The Proposed Free Education Optional Protocol",
+      "url": "https://www.ejiltalk.org/harmonizing-the-fragmented-right-to-education-the-proposed-free-education-optional-protocol/",
+      "category": "Human Rights",
+      "excerpt": "Nothing inherent in children’s development explains why their right to education should be more or less accessible depending on whether they are 4, 8, or 16. Yet international law treats financial barriers to education as more or less problematic depending on their stage of childhood. For primary education, the obligation to remove fees is clear […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-08-28T07:00:31+00:00",
+      "featured": false
+    },
     {
       "id": "b685e44a5286",
       "title": "Keine Software ist keine Alternative",
@@ -1075,6 +1115,16 @@
       "featured": false
     },
     {
+      "id": "825af88f917b",
+      "title": "From Specificity to Institutional Reliability: J.B. v. Greece and Diplomatic Assurances",
+      "url": "https://www.ejiltalk.org/from-specificity-to-institutional-reliability-j-b-v-greece-and-diplomatic-assurances/",
+      "category": "Asylum",
+      "excerpt": "On 26 May 2026, the European Court of Human Rights (the Court) delivered its judgment in J.B. v. Greece (no. 54796/16). The case concerns the potential removal of a Syrian national from Greece to Türkiye under the EU-Türkiye Statement of 18 March 2016, following the rejection of his asylum claim on safe third country grounds. […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-08-27T07:00:14+00:00",
+      "featured": false
+    },
+    {
       "id": "8d61d6505332",
       "title": "Palantir und digitale Souveränität",
       "url": "https://verfassungsblog.de/palantir-und-digitale-souveranitat/",
@@ -1102,6 +1152,16 @@
       "excerpt": "Spätestens 30 Tage nach der Landtagswahl muss sich das sachsen-anhaltische Parlament konstituieren. Spätestens meint, dass es auch früher geht, wenn die neu gewählten Abgeordneten das wollen. Vereinzelt wird darüber nachgedacht, ob die AfD dies als Winkelzug nutzen könnte, um Unruhe zu stiften und die anderen Parteien unter Zugzwang zu setzen. Doch wie viele der Abgeordneten müssten das wollen? Könnte eine einzelne (Vor-)Fraktion die anderen Abgeordneten so schnell wie möglich nach dem Wahltag zur Konstituierung zwingen? Selbst wenn sie das Recht dazu hätte, würde das vermutlich ohnehin nicht zu einer deutlich früheren konstituierenden Sitzung führen, da der Parlamentspräsident die konstituierende Sitzung unverzüglich, nicht sofort einberufen muss. The post Zwangloses Konstituieren appeare",
       "source": "Verfassungsblog",
       "date": "2026-08-26T07:58:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ff65de5c77a",
+      "title": "Beyond Forcible Relocation: Article 49(6) and State-Facilitated Settlement in Occupied Territory",
+      "url": "https://www.ejiltalk.org/beyond-forcible-relocation-article-496-and-state-facilitated-settlement-in-occupied-territory/",
+      "category": "Armed Conflict",
+      "excerpt": "Russia does not forcibly relocate its civilians into the occupied territories of Ukraine. Instead, it relies on an array of incentives, including preferential mortgages, employment programmes and tax benefits to increase the attractiveness of relocation. This gives rise to a question under the law of occupation: when does voluntary settlement of the Occupying Power’s civilian […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-08-26T07:00:30+00:00",
       "featured": false
     },
     {
@@ -1223,317 +1283,257 @@
       "source": "Verfassungsblog",
       "date": "2026-08-20T14:11:11+00:00",
       "featured": false
-    },
-    {
-      "id": "48a662e642e2",
-      "title": "Ins Ausland nur, wie es dem BMVg beliebt",
-      "url": "https://verfassungsblog.de/wehrdienst-genehmigungspflicht-verfassungswidrig/",
-      "category": "Deutschland",
-      "excerpt": "Am 1. Januar ist das Wehrdienst-Modernisierungsgesetz in Kraft getreten. Es hat den „Neuen Wehrdienst“ eingeführt. Können nicht genügend Freiwillige gewonnen werden, sollen im Losverfahren Wehrpflichtige ausgewählt werden. Für Diskussionen sorgte auch ein Randaspekt der Neuregelung: Wehrpflichtige bedurften bei längeren Auslandsaufenthalten einer Genehmigung. Das Bundesministerium der Verteidigung nahm Betroffene per Allgemeinverfügung von der Genehmigungspflicht aus – deren Rechtmäßigkeit bald bezweifelt wurde. Das eigentliche Problem betrifft aber gar nicht jene Allgemeinverfügung, sondern die zugrunde liegende Regelung im Wehrpflichtgesetz: Sie ist verfassungswidrig. The post Ins Ausland nur, wie es dem BMVg beliebt appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-08-20T13:02:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "0304427ae43e",
-      "title": "Institutional Discretion, Due Process and the Common Heritage of Humankind: The First Provisional Measures Orders in NORI and TOML v. the Authority",
-      "url": "https://www.ejiltalk.org/institutional-discretion-due-process-and-the-common-heritage-of-humankind-the-first-provisional-measures-orders-in-nori-and-toml-v-the-authority/",
-      "category": "EJIL Analysis",
-      "excerpt": "The first contentious proceedings ever brought before the Seabed Disputes Chamber of the International Tribunal for the Law of the Sea (the Chamber) concern far more than a procedural dispute between two contractors and the International Seabed Authority (the Authority). They represent the first judicial examination of the legal limits of the Authority’s discretion when […]",
-      "source": "EJIL:Talk!",
-      "date": "2026-08-20T07:00:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "4570671543bc",
-      "title": "The ICJ’s Unwritten Rulebook: Regional Succession and Institutional Equilibrium",
-      "url": "https://www.ejiltalk.org/the-icjs-unwritten-rulebook-regional-succession-and-institutional-equilibrium/",
-      "category": "EJIL Analysis",
-      "excerpt": "For almost eighty years, United Nations Member States have behaved as if a mandate required them to maintain regional continuity in elections to the International Court of Justice. Yet, the Court’s Statute contains no such rule. Article 9 requires only that the Court, taken as a whole, represent “the principal legal systems and civilizations of […]",
-      "source": "EJIL:Talk!",
-      "date": "2026-08-19T07:00:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "7d49214c5664",
-      "title": "Towards Qualified Majority Voting in EU Foreign Policy",
-      "url": "https://verfassungsblog.de/towards-qualified-majority-voting-in-eu-foreign-policy/",
-      "category": "English Articles",
-      "excerpt": "For several years, the EU’s Common Foreign and Security Policy (CFSP) appeared to have a Hungary problem. More fundamentally, however, it has a Treaty-design problem. Article 31(1) TEU establishes unanimity as the default decision-making rule for the European Council and the Council in CFSP matters, subject to specified exceptions. We argue that the standard justifications for unanimity do not outweigh its structural costs and that the existing Treaties leave more room for qualified majority vote than current practice suggests. The post Towards Qualified Majority Voting in EU Foreign Policy appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-08-19T06:49:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "e72ec018f6c8",
-      "title": "(K)ein Blick auf Armut",
-      "url": "https://verfassungsblog.de/bettelverbote/",
-      "category": "Deutschland",
-      "excerpt": "Obwohl die Zahl von armutsbetroffenen Personen in Deutschland steigt, wird ihre erkennbarste Erscheinungsform aus dem Stadtbild verdrängt: Bettelnde Personen sind im öffentlichen Raum weniger sichtbar, weil kommunale Bettelverbote sie zum Verschwinden zwingen. Im Juli 2026 haben zuletzt die Stadträte in Dortmund und Düren Verbotszonen rund um die Außengastronomie eingeführt, die sogar stilles Betteln verbieten. Dies gibt Anlass zu erheblichen rechtlichen Bedenken. Denn der bloße Anblick eines bettelnden Menschen begründet keine Gefahr für die öffentliche Sicherheit und Ordnung. The post (K)ein Blick auf Armut appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-08-18T13:57:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "035fd47dba07",
-      "title": "The ICC, Arrest Warrants, and Peace Negotiations",
-      "url": "https://www.ejiltalk.org/the-icc-arrest-warrants-and-peace-negotiations/",
-      "category": "Amnesty",
-      "excerpt": "Introduction On 9 June 2026, Pre-Trial Chamber II of the International Criminal Court issued a decision in response to a request by a State for consultations under Article 97 of the Rome Statute. Article 97 provides an avenue for State Parties to consult the Court where it ‘identifies problems which may impede or prevent the […]",
-      "source": "EJIL:Talk!",
-      "date": "2026-08-18T13:30:37+00:00",
-      "featured": false
     }
   ],
   "national": [
     {
-      "id": "4ffdf183655f",
-      "title": "Karner und Holzleitner: Bei Gewaltschutz „nicht lockerlassen“",
-      "url": "https://orf.at/stories/3440423/",
+      "id": "e7fc4fe30a78",
+      "title": "Protest gegen Wahlrechtseinschränkungen durch Trump",
+      "url": "https://orf.at/stories/3440533/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T17:32:17+02:00",
+      "featured": false
+    },
+    {
+      "id": "5a23afcea7d0",
+      "title": "Fans jubeln über Ankunft von Celine Dion in Paris",
+      "url": "https://orf.at/stories/3440531/",
+      "category": "Kultur",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T17:17:12+02:00",
+      "featured": false
+    },
+    {
+      "id": "15ed93b4ad34",
+      "title": "Israel: Luftangriff im Westjordanland",
+      "url": "https://orf.at/stories/3440529/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T17:08:22+02:00",
+      "featured": false
+    },
+    {
+      "id": "f851571c5df4",
+      "title": "Abschiebezentren: Ruanda für Rotes Kreuz ungeeignet",
+      "url": "https://orf.at/stories/3440526/",
       "category": "Inland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-08-27T16:23:39+02:00",
+      "date": "2026-08-28T16:49:49+02:00",
       "featured": false
     },
     {
-      "id": "22ad6b3f3493",
-      "title": "Parton hinterließ musikalisches Souvenir",
-      "url": "https://orf.at/stories/3440394/",
-      "category": "Kultur",
-      "excerpt": "Die am Dienstag 80-jährig verstorbene Musiklegende Dolly Parton hat ihren Fans einen noch unveröffentlichten Song hinterlassen. Die Aufnahme mit dem Titel „My Place in History“ ist jedoch unter Verschluss in einer Zeitkapsel, vergraben in ihrem Freizeitpark Dollywood. Er wird erst im Jahr 2046 – zu Partons 100. Geburtstag – veröffentlicht werden.",
-      "source": "ORF",
-      "date": "2026-08-27T16:00:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "df90002a35be",
-      "title": "Mögliches Treffen Peseschkian – Putin nächste Woche",
-      "url": "https://orf.at/stories/3440417/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T15:24:26+02:00",
-      "featured": false
-    },
-    {
-      "id": "9fb83ed74a63",
-      "title": "Ratko Mladic ist tot",
-      "url": "https://orf.at/stories/3285348/",
-      "category": "Ausland",
-      "excerpt": "Der verurteilte Kriegsverbrecher Ratko Mladic ist tot. Er starb laut seinem Anwalt und einem UNO-Vertreter von Donnerstag im niederländischen Den Haag, wo er nach jahrelanger Flucht und seinem Prozess seit 2011 in Haft saß. Mladic, der „Schlächter von Bosnien“, galt als einer der Hauptverantwortlichen für Kriegsverbrechen und Völkermord während des Bosnien-Krieges, darunter auch der Genozid von Srebrenica.",
-      "source": "ORF",
-      "date": "2026-08-27T15:09:21+02:00",
-      "featured": false
-    },
-    {
-      "id": "a65e6195902c",
-      "title": "Bericht: Kriegsverbrecher Ratko Mladic ist tot",
-      "url": "https://orf.at/stories/3440410/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T14:59:47+02:00",
-      "featured": false
-    },
-    {
-      "id": "8a0f2b125c8c",
-      "title": "Neuer Höchstwert an 30-Grad-Tagen",
-      "url": "https://orf.at/stories/3440408/",
-      "category": "Umwelt",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T14:53:36+02:00",
-      "featured": false
-    },
-    {
-      "id": "b745b4697963",
-      "title": "Taiwan: Chinafreundliche Opposition blockiert Drohnenpläne",
-      "url": "https://orf.at/stories/3440407/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T14:39:26+02:00",
-      "featured": false
-    },
-    {
-      "id": "de59fe858985",
-      "title": "Sechs Länder fordern starke Kürzung des EU-Budgetentwurfs",
-      "url": "https://orf.at/stories/3440405/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T14:29:15+02:00",
-      "featured": false
-    },
-    {
-      "id": "4ce0f2eb302f",
-      "title": "Rucksack auf Gletscher in Tirol nach 63 Jahren gefunden",
-      "url": "https://kurier.at/chronik/tirol/rucksack-gletscher-tirol-63-jahre/403186734",
-      "category": "Chronik/Tirol",
-      "excerpt": "Wiedersehen nach 63 Jahren: Ein Bergführer hat bereits am 16. Juli auf rund 2.955 Metern Seehöhe auf dem Tiroler Gletscher Sulztalferner in den Stubaier Alpen (Bezirk Innsbruck-Land) einen Rucksack gefunden. Wie sich schließlich herausstellte, gehörte dieser einem 86-jährigen Bayern, berichtete die Polizei.Der Mann gab an, am 4. August 1963 in eine Gletscherspalte gestürzt zu sein und den Rucksack in die Tiefe geworfen zu haben, um bei der Rettung sein Gewicht zu reduzieren.Im ausgeaperten Rucksack befanden sich ein Eispickel, eine Kamera, eine Pfeife und eine stark verwitterte Dokumentenmappe. Die Ausrüstung stammte augenscheinlich aus den 1950er- beziehungsweise 1960er-Jahren. Da zunächst ein lange zurückliegender Unfall nicht ausgeschlossen werden konnte, begannen die Polizeibeamten mit",
-      "source": "Kurier",
-      "date": "2026-08-27T14:25:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "703a086e9273",
-      "title": "„Nicht locker lassen“: Budget für Gewaltschutz-Maßnahmen wird 2027 erhöht",
-      "url": "https://kurier.at/politik/inland/karner-holzleitner-gewaltschutz-budget-erhoehung-frauen-praevention-femizid/403186733",
-      "category": "Politik/Inland",
-      "excerpt": "Konsequente Maßnahmen beim Thema Gewaltschutz haben Innenminister Gerhard Karner (ÖVP) und Frauenministerin Eva-Maria Holzleitner (SPÖ) angekündigt. Das Budget im Innenministerium dafür werde 2027 auf 27 Millionen Euro erhöht, die Zahl der Präventionsbeamten hätte sich auf über 1.400 verdreifacht. Details zu elektronischem Monitoring von Hochrisikotätern sollen im Herbst kommen, hieß es bei einem Pressetermin zu Gewaltschutz in der Polizeiausbildung am Donnerstag.„22 ermordete Mädchen und Frauen im Alter von einem bis 89 Jahren sind für uns Mahnung und Auftrag zugleich, beim Thema Gewaltschutz nicht locker zu lassen“, sagte Karner. Das Thema sei zentral in der Grundausbildung von Polizistinnen und Polizisten. Wichtig sei auch, dass die Polizei immer weiblicher werde, denn Frauen würden sic",
-      "source": "Kurier",
-      "date": "2026-08-27T14:20:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b78c4b5fda6",
-      "title": "Transfer-Ticker: Wolfsberg holt Ex-Austrianer zurück nach Österreich",
-      "url": "https://kurier.at/sport/fussball/fussball-splitter-alle-wichtigen-transfers-und-infos-aus-der-bundesliga-und-fussball-europa/401040881",
-      "category": "Sport/Fußball",
-      "excerpt": "",
-      "source": "Kurier",
-      "date": "2026-08-27T14:19:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "a87a32c46c24",
-      "title": "Kürzt Wien bei der Altenpflege? Neue Pläne lassen das vermuten",
-      "url": "https://www.derstandard.at/story/3000000337223/kuerzt-wien-bei-der-altenpflege-neue-plaene-lassen-das-vermuten?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Bisher bot Wien eine vergleichbar gute Personalausstattung in Heimen, doch aus einer neuen Verordnung lesen Kritiker eine markante Verschlechterung heraus. Die Stadtregierung widerspricht",
-      "source": "Der Standard",
-      "date": "2026-08-27T14:16:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "7986f7bf7b1e",
-      "title": "Vergewaltigungsopfer wurde an zwei Kliniken in Linz abgewiesen",
-      "url": "https://www.derstandard.at/story/3000000337182/vergewaltigungsopfer-wurde-an-zwei-kliniken-in-linz-abgewiesen?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Erst in der Gewaltambulanz am Linzer Keplerklinikum wurde die Frau behandelt. Doch auch dort kam es zu Verzögerungen",
-      "source": "Der Standard",
-      "date": "2026-08-27T14:13:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "68b3373a79e9",
-      "title": "Und bei der SPÖ? Das Übliche.",
-      "url": "https://kurier.at/meinung/pammesberger/400481944",
-      "category": "Sponsored Content",
-      "excerpt": "Entdecken Sie hier unser KURIER Plus-Angebot.",
-      "source": "Kurier",
-      "date": "2026-08-27T14:06:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "0198c09fd88d",
-      "title": "Rath Reist: Wie urlaubt es sich im COMO Metropolitan in Bangkok",
-      "url": "https://kurier.at/kolumnen/como-metropolitan-bangkok/403186241",
-      "category": "Kolumnen",
-      "excerpt": "Von Carsten K. RathSchon die Anreise ist wie Urlaub. Mit Singapore Airlines beginnt das Reiseerlebnis bereits in den Lounges. Live-Cooking-Stationen, eine exzellente Weinauswahl und eine Champagner-Lounge machen das Warten zum Vergnügen. Der Flug vergeht schnell – dank Highspeed-WLAN, erstklassigem Entertainmentprogramm und herausragendem Service der Crew!Als ich im „COMO Metropolitan Bangkok“ ankomme, setzt sich dieses Gefühl fort. Die Gestaltung erinnert eher an ein japanisches Boutiquehotel als an ein Stadthotel in Bangkok: helle Naturtöne, klare Linien und eine wohltuende Reduktion.Leichte Küche, luxuriöser AufenthaltAufzug erzählen Leinen- und Seidenstoffe in Kombination mit gebürstetem Metall vom Qualitätsanspruch des Hauses. In den Fluren liegt ein feiner Duft. Der Housekeeping-Wage",
-      "source": "Kurier",
-      "date": "2026-08-27T14:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4464b8f24d24",
-      "title": "KURIER-Tag in der Landesgalerie: Wiener Moderne entdecken",
-      "url": "https://kurier.at/kurierveranstaltungen/kurier-tag-in-der-landesgalerie-wiener-moderne-entdecken/403186722",
-      "category": "kurierveranstaltungen",
-      "excerpt": "Kunst, Geschichte und starke Frauen: Am Sonntag, 20. September 2026, findet in der Landesgalerie Niederösterreich in Krems der nächste KURIER-Tag statt. Von 10 bis 17 Uhr haben KURIER-Leserinnen und -Leser die Möglichkeit, die Highlightausstellung „Wiener Moderne. Weiblich. Widerständig“ bei freiem Eintritt zu besuchen.Im Mittelpunkt der Ausstellung steht die Universalkünstlerin Fanny Harflinger-Zakucka (1873–1954). Als radikale Fürsprecherin für die Gleichberechtigung der Frauen setzte sie sich bereits zu Beginn des 20. Jahrhunderts für gesellschaftliche Veränderungen ein.Die Ausstellung rückt zahlreiche lange als verloren geglaubte Werke der Künstlerin in den Fokus. Ebenso wird die von Harflinger-Zakucka initiierte Vereinigung Wiener Frauenkunst vorgestellt. Darüber hinaus werden weitere",
-      "source": "Kurier",
-      "date": "2026-08-27T13:56:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "a059bc111326",
-      "title": "Vertrauter über Meghans England-Rückkehr: „Mache mir Sorgen um sie“",
-      "url": "https://kurier.at/stars/royals/harry-meghan-rueckkehr-england-infos/403186705",
-      "category": "Stars/Royals",
-      "excerpt": "Viel wird derzeit berichtet über die überraschende England-Rückkehr von Prinz Harry und Herzogin Meghan. Dabei aber steht meistens Harry im Vordergrund: Er sei es, der in seine alte Heimat zurückkehrt, er sei es, der wieder engeren Kontakt mit seiner Familie möchte. Meghan steht dabei etwas im Hintergrund.Doch dem US-Magazin People verrieten Vertraute aus Meghans Umfeld nun, wie sich die radikale Lebensumstellung für die Herzogin von Sussex gestaltet – und wieso sie sich nicht nur für sie freuen.Hält Meghan dem Druck stand?Als Meghan und Harry 2020 Großbritannien den Rücken zukehrten und ihren Lebensmittelpunkt nach Kalifornien verlegten, wurden dafür mehrere Gründe genannt: Das Paar wolle zum einen ihre Verbindungen nach Hollywood intensivieren, hieß es, vor allem aber sehnten sie sich na",
-      "source": "Kurier",
-      "date": "2026-08-27T13:46:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "1b3a434e6843",
-      "title": "Kiew stellt neue Friedensgespräche im September in Aussicht",
-      "url": "https://orf.at/stories/3440399/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-08-27T13:23:23+02:00",
-      "featured": false
-    },
-    {
-      "id": "53619a9ad1c1",
-      "title": "Jugendliche und Schwester bei Traktorunfall in Kärnten verletzt",
-      "url": "https://kurier.at/chronik/kaernten/jugendliche-schwester-traktorunfall-kaernten/403186714",
-      "category": "Chronik/Kärnten",
-      "excerpt": "Eine 16-jährige Jugendliche und ihre zwölfjährige Schwester sind am Donnerstagvormittag bei einem Traktorunfall bei Friesach (Bezirk St. Veit an der Glan) verletzt worden.Die 16-Jährige war mit dem Traktor auf der Metnitztal Straße (L62) unterwegs, als sie von der Straße abkam - beim Versuch, wieder zurückzulenken, kippte das Fahrzeug um. Die Lenkerin und ihre Beifahrerin wurden leicht verletzt und ins Krankenhaus Friesach eingeliefert, teilte die Polizei mit.",
-      "source": "Kurier",
-      "date": "2026-08-27T13:22:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "ddcae96a1d82",
-      "title": "Uber legt Milliardenangebot für Delivery Hero",
-      "url": "https://orf.at/stories/3440398/",
+      "id": "84e47bd605a5",
+      "title": "Warsh äußert Sorge über US-Inflation",
+      "url": "https://orf.at/stories/3440524/",
       "category": "Wirtschaft",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-08-27T13:17:25+02:00",
+      "date": "2026-08-28T16:35:41+02:00",
       "featured": false
     },
     {
-      "id": "a292e72b3f62",
-      "title": "TU Graz: Neues Labor simuliert Belastung von Gleisen",
-      "url": "https://kurier.at/chronik/steiermark/bahn-gleise-forschung-bau-test-tu-graz/403186704",
-      "category": "Chronik/Steiermark",
-      "excerpt": "Eisenbahnschienen sind höchsten Belastungen ausgesetzt. Wenn tonnenschwere Waggons über die Gleise donnern, dann spielt sich zwischen den Rädern, Schienen und Unterbau einiges ab.Bei steigenden Fahrfrequenzen, hohen Geschwindigkeiten und tonnenschwer beladenen Waggons wird das gute Zusammenspiel zwischen Gleissystem und Zug zudem immer wichtiger. Die TU Graz hat hierzu ein neues Prüflabor eingerichtet. Am Donnerstag wurde das „Railway and Infrastructure Laboratory“ eröffnet.Schienen müssen an die 50 Jahre lang, bei Schnee und Eis, Sonne und Regen dem Gewicht der Züge und Waggons standhalten, die täglich über sie hinwegdonnern. Im neuen Railway and Infrastructure Laboratory (RaIL) am Institut für Eisenbahn-Infrastrukturdesign der TU Graz wird testbar, ob und wie sich Gleise verändern, wenn ",
-      "source": "Kurier",
-      "date": "2026-08-27T13:15:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "45c497d9ab00",
-      "title": "Teuer oder billig? Diese Schlösser meiden Fahrraddiebe lieber",
-      "url": "https://kurier.at/motor/news/teuer-oder-billig-diese-schloesser-meiden-fahrraddiebe-lieber/403186702",
-      "category": "Motor/News",
-      "excerpt": "Nahezu jeder vierte Haushalt in Österreich war in den vergangenen fünf Jahren von einem Fahrrad-, E-Bike- oder E-Scooter-Diebstahl betroffen. Das zeigt eine aktuelle und für Österreich repräsentative KFV-Umfrage. Zugleich zeigen KFV-Tests, wie schnell ungenügend gesicherte Fahrzeuge zur Beute werden können:Und: Nach einem Diebstahl bleibt nicht nur der Frust über den Verlust – viele Betroffene glauben auch nicht daran, ihr Fahrzeug jemals wiederzusehen. Ein Drittel der von Fahrrad-, E-Bike- oder E-Scooter-Diebstahl betroffenen Personen erstattete nämlich keine Anzeige bei der Polizei, wie eine aktuelle Studie der Präventionsinstitution KFV zeigt. Armin Kaltenegger, Leiter des Fachbereichs Eigentumsschutz im KFV erklärt dazu: „Mit ein Grund für die niedrige Anzeigenquote ist die geringe Erw",
-      "source": "Kurier",
-      "date": "2026-08-27T13:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "74e1abb658c8",
-      "title": "Weißmann-Klage gegen „Falter“ abgewiesen",
-      "url": "https://kurier.at/kultur/medien/weissmann-klage-gegen-falter-abgewiesen/403186707",
-      "category": "Kultur/Medien",
-      "excerpt": "Der frühere ORF-Generaldirektor Roland Weißmann hat im Rechtsstreit mit dem „Falter“ um veröffentlichte intime Chats mit einer Mitarbeiterin eine weitere Niederlage erlitten. Das Wiener Straflandesgericht entschied am Donnerstag im medienrechtlichen Verfahren zugunsten der Wochenzeitung und wies die Klage ab. Ausschlaggebend war demnach, dass Weißmann selbst durch öffentliche Äußerungen über die Beziehung den Schutzbereich seiner Privatsphäre verlassen hatte.Bereits Ende Juli war Weißmann mit seinem Antrag auf einstweilige Verfügung gegen die Veröffentlichung der umstrittenen Chatnachrichten vor dem Oberlandesgericht (OLG) Wien gescheitert. Richter Hartwig Handsur folgte in seinem noch nicht rechtskräftigen Urteil weitgehend der Argumentation des OLG.Das OLG hatte seine Entscheidung insbes",
-      "source": "Kurier",
-      "date": "2026-08-27T13:10:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "1179e365a100",
-      "title": "Wiener Kabarettfestival 2026: Eine Woche voller Humor",
-      "url": "https://kurier.at/kurierveranstaltungen/wiener-kabarettfestival-2026-eine-woche-voller-humor/403184948",
-      "category": "kurierveranstaltungen",
-      "excerpt": "Eine Woche lang wurde der Arkadenhof des Wiener Rathauses zum Treffpunkt für alle, die Humor lieben: Beim Wiener Kabarettfestival 2026 sorgten etablierte Publikumslieblinge, preisgekrönte Kabarettistinnen und Kabarettisten sowie aufstrebende Talente für abwechslungsreiche Abende. Die besondere Kulisse, sommerliche Festivalstimmung und ein vielseitiges Programm machten das Festival auch heuer zu einem Fixpunkt im Wiener Kulturkalender.Im wetterfesten Arkadenhof herrschten dafür wie jedes Jahr beste Bedingungen. Kulinarische Angebote, entspannte Atmosphäre und musikalische Unterhaltung rundeten die Abende ab. Für Stimmung vor den Auftritten und in den Pausen war erneut die Band „Freunde des Japaners“ zuständig, die längst zu einer beliebten Konstante des Festivals geworden ist.Große NamenDen",
-      "source": "Kurier",
-      "date": "2026-08-27T13:10:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "a1bfb0929322",
-      "title": "Neuer Satellit soll vor Extremwetter warnen",
-      "url": "https://orf.at/stories/3440150/",
-      "category": "Science",
-      "excerpt": "Die Europäische Weltraumorganisation (ESA) will am Donnerstag einen neuen Wettersatelliten ins All schießen. „MTG-I2“ soll künftig hochauflösende Bilder in schneller Abfolge für die Wettervorhersage und die Klimaüberwachung in Europa und Nordafrika mit hoher Detailgenauigkeit liefern und helfen, den Schutz vor Extremwetterereignissen zu verbessern. Mit an Bord ist auch österreichische Raumfahrttechnologie.",
+      "id": "f40889c43764",
+      "title": "Ukraine: Lebensmittellager durch Angriffe zu 90 Prozent zerstört",
+      "url": "https://orf.at/stories/3440523/",
+      "category": "Ausland",
+      "excerpt": "",
       "source": "ORF",
-      "date": "2026-08-27T13:02:23+02:00",
+      "date": "2026-08-28T16:31:11+02:00",
+      "featured": false
+    },
+    {
+      "id": "a3172e84f5e3",
+      "title": "IAEA meldet Drohnenattacken auf AKW Saporischschja",
+      "url": "https://orf.at/stories/3440519/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T15:59:40+02:00",
+      "featured": false
+    },
+    {
+      "id": "3eeafd36f523",
+      "title": "Italien: Österreicherin tot in Kleintransporter gefunden",
+      "url": "https://orf.at/stories/3440518/",
+      "category": "Chronik",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T15:56:42+02:00",
+      "featured": false
+    },
+    {
+      "id": "190513781836",
+      "title": "Juwelen-Coup im Wiener MAK: Einer der Täter kam mit einer Schusswaffe",
+      "url": "https://www.diepresse.com/41211775/juwelen-coup-im-wiener-mak-einer-der-taeter-kam-mit-einer-schusswaffe",
+      "category": "Die Presse",
+      "excerpt": "Nach den beiden Männern, die am Donnerstag ein Diamantcollier aus dem MAK gestohlen haben, wird gefahndet. MAK-Direktorin Lilli Hollein beteuert, dass hohe Sicherheitsstandards eingehalten worden seien.",
+      "source": "Die Presse",
+      "date": "2026-08-28T15:28:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "5676c4cd0a5b",
+      "title": "Feuerwehrleute aus NÖ löschen und lernen bei Waldbränden auf Sardinien",
+      "url": "https://kurier.at/chronik/oesterreich/feuerwehrleute-noe-sardinien-prepositioning-waldbraende-vegetationsbraende/403186975",
+      "category": "Chronik/Österreich",
+      "excerpt": "Im Rahmen des alljährlichen Ausbildungsprojekts innerhalb der EU sind heuer 50 niederösterreichische Feuerwehrleute des Sonderdienstes Waldbrand- und Vegetationsbrandbekämpfung in Sardinien aktiv. Das zweite Kontingent mit 25 Einsatzkräften kämpft im Zuge des EU-Prepositionings derzeit täglich auf der italienischen Mittelmeerinsel gegen Brände an.Mehrmals pro Tag sind die Niederösterreicher mit Einsätzen konfrontiert. Sie unterstützen die sardinischen Löschkräfte. Dabei verlangen die Bedingungen bei 40 Grad Celsius sowie starkem Wind und schwierigen Geländeformen den Feuerwehrleuten alles ab. Stephan Steller, der NÖ-Teamleiter, zieht dennoch eine positive Zwischenbilanz. Vor allem die sardische Taktik, die auf einen extrem sparsamen Umgang mit dem Löschwasser ausgelegt ist, sei sehr intere",
+      "source": "Kurier",
+      "date": "2026-08-28T15:13:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "496bc1edf059",
+      "title": "Konjunktur der spektakulären Coups",
+      "url": "https://orf.at/stories/3440476/",
+      "category": "Chronik",
+      "excerpt": "Nach dem jüngsten Raub eines millionenschweren Colliers im Wiener MAK am Donnerstag läuft die Fahndung auf Hochtouren. In den vergangenen Wochen kam es in ganz Europa zu spektakulären Museumsdiebstählen. Sie haben derzeit offenbar Konjunktur – und erinnern an die größten Diebstähle der Geschichte, von der „Mona Lisa“ bis zur „Saliera“.",
+      "source": "ORF",
+      "date": "2026-08-28T15:02:40+02:00",
+      "featured": false
+    },
+    {
+      "id": "4a542bae6019",
+      "title": "Grün: Die Farbe der Hoffnung - und der Zeit",
+      "url": "https://kurier.at/freizeit/zeitgeist/gruenes-zifferblatt-uhr-luxusuhren-rolex-datejust-zenith-chronomaster-sport-skeleton-omega-datejust/403177950",
+      "category": "Freizeit/Zeitgeist",
+      "excerpt": "Früher galten Uhren mit grünen Zifferblättern als mutige Außenseiter. Mittlerweile jedoch gehören sie zu den begehrtesten Farbvarianten: mal tiefgrün wie ein Nadelwald, mal leuchtend wie ein Smaragd oder frisches Moos. Kaum eine Farbe verbindet Natürlichkeit und Luxus so mühelos. Entsprechend selbstbewusst bringt sie auch die Haute Horlogerie immer öfter auf unsere Handgelenke.Rolex präsentiert eine noch nie da gewesene Ausführung der „Oyster Perpetual Datejust 41“ in „Rolesor weiß“ – das ist eine spezielle Legierung aus Edelstahl Oystersteel und Weißgold. Jetzt besonders schön in Kombination mit einem grün lackierten Ombré-Zifferblatt. Hergestellt wird es, indem grüner Lack aufgetragen wird. Der Dégradé-Effekt, also der schöne Farbverlauf von hell nach dunkel, wird durch konzentrisches Au",
+      "source": "Kurier",
+      "date": "2026-08-28T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "05dc8fb0b7f9",
+      "title": "Warum die Wertschätzung für Rapid-Kapitän Matthias Seidl fehlt",
+      "url": "https://kurier.at/sport/fussball/rapid-matthias-seidl-transfer-kapitaen-wertschaetzung-vertragsverlaengerung/403186971",
+      "category": "PLUS - Sport/Fußball",
+      "excerpt": "Die Anstrengung von 120 Minuten und die Enttäuschung vom Aus im Europacup sorgen für eine Rotation bei Rapid. „Wir werden einige Spieler tauschen müssen“, kündigt Trainer Johannes Hoff Thorup vor dem Sonntagsschlager gegen Sturm an.Matthias Seidl hat sich hingegen wie vor jedem seiner bislang 148 Rapid-Einsätze fit gemeldet. Der Mittelfeldmotor war in drei Jahren und drei Monaten nie verletzt. Es wartet das 100. Bundesliga-Spiel – es könnte das letzte für Seidl werden.Vom ersten an (1:1 samt Tor beim LASK 2023) zeigte sich der bodenständige Kuchler als Verstärkung.Unter Ex-Coach Barisic ein klarer Zehner, wurde der Dauerläufer unter Klauß zum Kapitän. Dennoch wurde es für Seidl unter dem Deutschen wegen der Umstellung aufs 4-2-2-2-System schwieriger: Für die Rolle als offensiver Halbflügel",
+      "source": "Kurier",
+      "date": "2026-08-28T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4986a955a570",
+      "title": "Blaue Welle: FPÖ überholt laut Umfrage ÖVP in Oberösterreich",
+      "url": "https://kurier.at/chronik/oberoesterreich/oevp-fpoe-oberoesterreich-landtag-wahlen-2027-umfrage-stelzer-haimbuchner/403186894",
+      "category": "Chronik/Oberösterreich",
+      "excerpt": "In zwei Bundesländern wird kommendes Jahr gewählt, Tirol und Oberösterreich. Während für Tirol schon im Juli eine Umfrage publik wurde, die ÖVP und FPÖ gleichauf sieht, gibt es nun auch eine Befragung für Oberösterreich.Sie reiht die Blauen unter Manfred Haimbuchner deutlich vor den Schwarzen, die mit Thomas Stelzer den Landeshauptmann stellen.Die Umfrage unter 1.000 Wahlberechtigten - erstellt im Auftrag der Grünen vom Meinungsforschungsinstitut Spectra - klopfte die übliche Sonntagsfrage ab, wie die Kronen Zeitung als erstes Medium berichtete. Allerdings wurden nur Wahlberechtigte bis 75 Jahre befragt, ein ungewöhnlicher Zugang.Das Ergebnis hieße, dass sich die Machtverhältnisse im Bundesland drehen würden, und das nicht nur auf den vordersten Rängen:Die FPÖ kommt auf 32 Prozent (2021: 1",
+      "source": "Kurier",
+      "date": "2026-08-28T14:36:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "55dd66e73d46",
+      "title": "Skandale und eine schwere Krankheit: Königin Mette-Marit",
+      "url": "https://kurier.at/stars/royals/skandale-und-eine-schwere-krankheit-koenigin-mette-marit/403186970",
+      "category": "Stars/Royals",
+      "excerpt": "Die bisherige Kronprinzessin Mette-Marit (53) ist die neue Königin von Norwegen. Die Rolle der Ehefrau des neuen Königs und Staatsoberhaupts Haakon (53) geht aus der offiziellen Liste des Königshauses nach dem Tod von Harald V. hervor, die im Internet veröffentlicht wurde. Kronprinzessin und damit an erster Stelle der Thronfolge ist das älteste Kind der beiden, Tochter Ingrid Alexandra (22). Haakon und Mette-Marit hatten am 25. August Silberhochzeit gefeiert.Die beiden waren in den vergangenen Jahren durch schwierige Zeiten gegangen: Mette-Marit leidet an der unheilbaren Krankheit Lungenfibrose, bei der das Lungengewebe vernarbt. In der Öffentlichkeit musste die neue Königin daher kürzertreten, sie zeigte sich in diesem Jahr auch mit Atemgerät. Mitte Juni bekam sie schließlich eine neue Lu",
+      "source": "Kurier",
+      "date": "2026-08-28T14:33:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "61ab314537e3",
+      "title": "Oberst Reisner zu KI-Drohnen: „Maschinen kennen keine Gnade“",
+      "url": "https://kurier.at/politik/ausland/ukraine-krieg-drohnen-ki-autonom-markus-reisner-2/403186521",
+      "category": "PLUS - Politik/Ausland",
+      "excerpt": "Das Surren über ihren Köpfen sind die Menschen in Zaporischschja seit Jahren gewohnt. Die Stadt liegt nur 15 Kilometer von der Front entfernt, ständig kreisen hier Drohnen, viele Straßen sind deshalb mit Netzen überspannt. Sie sollen die verbliebenen 550.000 Einwohner vor den fliegenden Bomben schützen, Abwehrdrohnen gibt es viel zu wenige.Den drei Menschen, die Anfang Juli durch eine russische Molnija-Drohne starben, halfen die Netze nicht. Sie wurden von Splittern einer Drohne getroffen, die in eine Wand neben einer Tankstelle krachte; die Studentin und zwei Mittvierziger hatten keine Chance. Über ihr Ziel hatte aber kein Mensch entschieden: Das machte eine Künstliche Intelligenz – komplett ohne menschliches Zutun.Dystopie als RealitätIn der Ukraine wird gerade Realität, wovor die Mensch",
+      "source": "Kurier",
+      "date": "2026-08-28T14:27:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "6e9a01b5629c",
+      "title": "Österreicherin (27) und Hund tot in Kleintransporter gefunden",
+      "url": "https://kurier.at/chronik/welt/friaul-pontebba-oesterreicherin-hund-tot-kleintransporter/403186968",
+      "category": "Chronik/Welt",
+      "excerpt": "Eine 27-jährige Österreicherin und ihr Hund sind am Freitag in Pontebba in der friaulischen Provinz Udine tot in einem Kleintransporter mit österreichischem Nummernschild gefunden worden. Die Leiche lag auf den hinteren Sitzen des Fahrzeuges. Das Fahrzeug war in der Ortschaft Pietratagliata auf einem Parkplatz nahe einer Brücke über die Staatsstraße 13 abgestellt. Nach ersten Erkenntnissen könnte die Frau bereits seit mehreren Tagen tot sein.Ein Passant hatte die Frau Freitagfrüh entdeckt und Alarm geschlagen wie der Bürgermeister von Pontebba Ivan Buzzi gegenüber der APA bestätigte. Bei dem Pkw handelt es sich nach Angaben örtlicher Medien um einen Volkswagen Caddy. Die Ermittler versuchen nun, die Identität der Frau zu klären.Nach derzeitigen Erkenntnissen gibt es keine klaren Hinweise a",
+      "source": "Kurier",
+      "date": "2026-08-28T14:27:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "21fe2ff7f1af",
+      "title": "Zwei Piloten tot: Wie kam es zum Flugzeugabsturz in Krems?",
+      "url": "https://kurier.at/chronik/niederoesterreich/flugzeugabsturz-trauer-kollision-gneixendorf-3/403186253",
+      "category": "PLUS - Chronik/Niederösterreich",
+      "excerpt": "Die Spurensicherung und die anschließenden Bergungsarbeiten dauerten bis in die Nachtstunden. Erst um 23.00 Uhr galt der Einsatz als beendet. Mittlerweile haben die Ermittler eine erste Vermutung, wie es am Montag beim Privatflugplatz Krems-Gneixendorf zur tödlichen Kollision zweier Flugzeuge gekommen sein könnte. In der Region trauert man um einen bekannten Mediziner (70) und einen 36-jährigen IT-Unternehmer.Im Fall des Zusammenstoßes der beiden Ultraleichtflugzeuge laufen indes die Ermittlungen zur Unfallursache und den genauen Umständen auf Hochtouren.Technisches Gebrechen eher unwahrscheinlichDerzeit gilt für Kriminalisten ein technisches Gebrechen als Absturzursache als unwahrscheinlich. Die Ermittler gehen davon aus, dass der Winkel der beiden Flugzeuge zueinander so „unglücklich“ wa",
+      "source": "Kurier",
+      "date": "2026-08-28T14:23:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "cdfb4f8f52a0",
+      "title": "Mondschein",
+      "url": "https://kurier.at/info/die-besten-bilder-des-tages-photography-press-photo/402277865",
+      "category": "Info",
+      "excerpt": "",
+      "source": "Kurier",
+      "date": "2026-08-28T14:22:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "eddef3175f93",
+      "title": "Nach Wahlmarathon auch Grazer Vizebürgermeisterin Schwentner fixiert",
+      "url": "https://www.diepresse.com/41211646/nach-wahlmarathon-auch-grazer-vizebuergermeisterin-schwentner-fixiert",
+      "category": "Die Presse",
+      "excerpt": "Nach vier Abstimmungsdurchgängen gibt es eine Mehrheit für die Grünen-Chefin. Somit ist die gesamte neue Stadtregierung im Amt.",
+      "source": "Die Presse",
+      "date": "2026-08-28T14:20:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "0cb2edcc84b8",
+      "title": "NS-Wiederbetätigung und Wohnsitz-Causa: Staatsanwaltschaft geht gegen Grazer FPÖ-Chef vor",
+      "url": "https://www.derstandard.at/story/3000000337471/ns-wiederbetaetigung-und-wohnsitz-causa-staatsanwaltschaft-geht-gegen-grazer-fpoe-chef-vor?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Es geht um den Verdacht, dass Axel Kassegger im Zuge der Gemeinderatswahl seinen Hauptwohnsitz unrichtigerweise in Graz angegeben haben könnte – sowie um eine einschlägige Rune in der Hauseinfahrt",
+      "source": "Der Standard",
+      "date": "2026-08-28T14:13:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "7a659cb87350",
+      "title": "Kokain in Glückskeksen in Flughafen Rom entdeckt",
+      "url": "https://orf.at/stories/3440507/",
+      "category": "Chronik",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-08-28T14:11:55+02:00",
+      "featured": false
+    },
+    {
+      "id": "8e4c960bec86",
+      "title": "Gemütlich",
+      "url": "https://kurier.at/kolumnen/ohrwaschl/gemuetlich/403186719",
+      "category": "Kolumnen/Ohrwaschl",
+      "excerpt": "Eine Ticketplattform und ein schwedisches Möbelhaus haben diese Woche mit dem Slogan „Bald wird’s ungemütlich“ geworben. Das fand man wohl originell, weil zumindest einer der beiden eher schon davon lebt, dass die Kundschaft ein Faible für Bequemlichkeit in den eigenen vier Wänden hat. Das hat an eine Studie erinnert, über die der U-Bahnbildschirm vor einiger Zeit informiert hat. 98 Prozent der Österreicher entspannen gern daheim und richten sich die Wohnung daher gemütlich ein. Das ist interessant. Denn was ist mit den anderen zwei Prozent? Haben's die gern unkomfortabel? Haben die Nagelteppich statt Sitzlandschaft? Holzscheit statt Polster? Weiße Wände statt heimelige Bildergalerie? Stehen die beim Essen? Essen die die Suppe mit der Gabel? Unter der nackten Leuchtstoffröhre? Bestellen si",
+      "source": "Kurier",
+      "date": "2026-08-28T14:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "14993ae4105e",
+      "title": "Haringsee: Gerettete Wespenbussarde wurden (wieder) vereint",
+      "url": "https://kurier.at/chronik/niederoesterreich/busard-haringsee-greifvoegel-geschwister/403186958",
+      "category": "Chronik/Niederösterreich",
+      "excerpt": "Die Jungtiere wurden innerhalb von zwei Tagen einzeln in Ernstbrunn (Bezirk Korneuburg) gefunden und gerettet. Sie befanden sich in einem schlechten Zustand und wurden nach Haringsee gebracht. Dort erholen sie sich nun.Bekannte oder Geschwister?Getauft wurden die beiden Vögel ebenfalls, nämlich auf „Solis“ und „Helios“. „Dass die beiden kleinen Wespenbussarde Geschwisterchen sind, wurde auch bei der Zusammenführung ersichtlich - sie kannten sich offensichtlich, was ihrer Genesung sehr zuträglich war“, erklärt die Stiftung „Vier Pfoten“.Die Bussarde reagierten positiv aufeinander, weswegen vermutet wird, dass sie verwandt sind: „Zu 100 Prozent können wir es natürlich nicht sagen, ob sie aus dem gleichen Nest stammen, aber die Umstände deuten schon sehr darauf hin“, meint Hans Frey, der Leit",
+      "source": "Kurier",
+      "date": "2026-08-28T13:56:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "3fce2d4227ec",
+      "title": "Vizebürgermeister-Kür in Graz: Erst vierter Wahlgang brachte Entscheidung",
+      "url": "https://kurier.at/chronik/steiermark/wahlen-graz-2026-elke-kahr-judith-schwentner-kpoe-gruene/403186955",
+      "category": "Chronik/Steiermark",
+      "excerpt": "Dritter Wahlgang, wieder 23 Stimmen für Kurt Hohensinner und damit keine Mehrheit. Die ÖVP nimmt das Recht, das ihr das Stadtstatut in Graz zuspricht, wahr und nominiert Freitagnachmittag erneut ihren Stadtparteiobmann zum Vizebürgermeister.Doch wie schon am Donnerstag in Runde 1 und 2 in der konstituierenden Sitzung des Gemeinderates bekommt er auch am Freitag keine Mehrheit, die 25 Stimmen der KPÖ-Grünen-Koalition stehen gegen die 23 Stimmen für Hohensinner.Vier Runden nötigDamit muss Judith Schwentner bis zum vierten Wahlgang an diesem Freitag warten, ehe sie sich offiziell wieder Bürgermeisterin-Stellvertreterin nennen darf. Erst ab da steht es allen Fraktionen offen, Kandidaten zu nominieren, in den dreien davor nur der zweitstärksten Partei, also der ÖVP.Und so gehen in Runde 4 zwei ",
+      "source": "Kurier",
+      "date": "2026-08-28T13:54:07+00:00",
       "featured": false
     }
   ],
@@ -1549,817 +1549,817 @@
       "featured": false
     },
     {
-      "id": "22d84cee3b73",
-      "title": "Bosnisch-serbischer Kriegsverbrecher Ratko Mladic ist tot",
-      "url": "https://www.tagesschau.de/ausland/europa/mladic-tod-100.html",
+      "id": "83f374a9bc3b",
+      "title": "Hacker fordern Lösegeld nach Angriff auf Berliner Landesnetz",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-hackerangriff-senatsverwaltung-loesegeld-100.html",
       "category": "Tagesschau",
-      "excerpt": "Wegen Völkermords und Verbrechen gegen die Menschlichkeit im Bosnienkrieg war er zu lebenslanger Haft verurteilt worden. Nun ist der frühere bosnisch-serbische Armeechef Ratko Mladic in einem Gefängnis in Den Haag gestorben.",
+      "excerpt": "Nach dem Hackerangriff auf das Berliner Landesnetz ist eine Lösegeldforderung eingegangen. Das bestätigte Berlins Regierender Bürgermeister Wegner. Über Menge und Art der abgeflossenen Daten gibt es noch keine Informationen.",
       "source": "Tagesschau",
-      "date": "2026-08-27T16:21:16+02:00",
+      "date": "2026-08-28T17:36:47+02:00",
       "featured": false
     },
     {
-      "id": "b4b995ad8a86",
-      "title": "Zwei Tote an Schule in Gosen-Neu Zittau bei Berlin",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gewalttat-berlin-zwei-tote-100.html",
+      "id": "b9c2c23bfcee",
+      "title": "Generation Deutschland - ein Scharnier zum Rechtsextremismus?",
+      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/generation-deutschland-110.html",
       "category": "Tagesschau",
-      "excerpt": "Bei einer Gewalttat an einer Schule in Gosen-Neu Zittau in Brandenburg sind nach rbb-Informationen zwei Personen getötet worden. Ein Mann sei festgenommen worden. Hinweise auf eine Amoktat gibt es laut Polizei nicht.",
+      "excerpt": "An diesem Samstag will sich die Generation Deutschland zu ihrem zweiten Bundeskongress in Magdeburg treffen. Was ist aus dem Vorsatz geworden, die Parteijugend der AfD weniger radikal aufzustellen? Von K. Riedel, H. Fröhmcke, L. Bolten und M. Sarti.",
       "source": "Tagesschau",
-      "date": "2026-08-27T16:19:05+02:00",
+      "date": "2026-08-28T17:09:38+02:00",
       "featured": false
     },
     {
-      "id": "7355ef32f6d3",
-      "title": "Mindestens zwölf Menschen bei Waldbränden in Algerien gestorben",
-      "url": "https://www.tagesschau.de/ausland/afrika/algerien-waldbraende-tote-verletzte-100.html",
+      "id": "f82c87886b3d",
+      "title": "Fraktionsklausur von Union und SPD: Wie weit trägt der \"Mut von Münster\"?",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html",
       "category": "Tagesschau",
-      "excerpt": "Mehrere Regionen Algeriens sind von Waldbränden betroffen, besonders im Nordosten des Landes. Es gibt erste Todesopfer. Menschen fliehen vor den Feuern, einige wichtige Verbindungsstraßen mussten gesperrt werden.",
+      "excerpt": "CDU, CSU und SPD beschwören nach ihren Klausuren neuen \"Mut\", um Reformen anzugehen und die schlechte Stimmung zu verbessern. Interne Konflikte, besonders zur Rentenreform, bleiben aber bestehen. Von Georg Schwarte.",
       "source": "Tagesschau",
-      "date": "2026-08-27T15:59:58+02:00",
+      "date": "2026-08-28T17:05:06+02:00",
       "featured": false
     },
     {
-      "id": "590344e97c5a",
-      "title": "Geberländer fordern massive Kürzungen beim EU-Budget",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-budget-erklaerung-100.html",
+      "id": "e3513c7a3c72",
+      "title": "Juwelenraub in Wien: Polizei fahndet nach bewaffneten Tätern",
+      "url": "https://www.tagesschau.de/ausland/europa/juwelenraub-wien-fahndung-100.html",
       "category": "Tagesschau",
-      "excerpt": "Nach Beratungen über das EU-Budget fordert Deutschland gemeinsam mit fünf anderen EU-Ländern Kürzungen in Milliardenhöhe. Die bisherigen Pläne der EU-Kommission seien \"schlicht unbezahlbar\", erklärte Kanzler Merz.",
+      "excerpt": "Während der regulären Öffnungszeit haben sich zwei Männer unter die Besucher eines Wiener Museums gemischt und historische Diamanten im Wert von mehreren Millionen Euro gestohlen. Nun wird international nach ihnen gefahndet.",
       "source": "Tagesschau",
-      "date": "2026-08-27T15:52:44+02:00",
+      "date": "2026-08-28T16:37:32+02:00",
       "featured": false
     },
     {
-      "id": "c097d17d1489",
-      "title": "DIE NEUESTEN ENTWICKLUNGEN - Gescheiterte Investorenpläne der Fifa: Die Uefa soll eine Strafanzeige gegen Infantino vorbereiten +++ Italien entzieht Infantino die Unterstützung",
-      "url": "https://www.nzz.ch/sport/fussball/gescheiterte-investorenplaene-der-fifa-weltverband-stellt-sich-nach-krisentreffen-hinter-praesident-infantino-geruechte-zu-wm-final-2030-in-casablanca-dementiert-ld.10017724",
-      "category": "NZZ",
-      "excerpt": "Die Fifa wollte einen Teil der kommerziellen Rechte an den Turnieren an private Investoren abgeben. Anfang August hat der Verband das Vorhaben zurückgezogen. Die wichtigsten Fragen und Antworten.",
-      "source": "NZZ",
-      "date": "2026-08-27T14:49:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "e44d058f5fa4",
-      "title": "Nepal flash flood: more than 350 killed amid warning of fresh danger from rising lake water – latest updates",
-      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-      "category": "Nepal-Tibet flood disaster",
-      "excerpt": "Authorities say water rising at lake at site of disaster and it could burstNearly 1,400 missing, mostly tourists, and hundreds killedVisual guide: how the deadly flooding unfoldedTell us: have you been affected by the flash floods?Eyewitness accounts have been emerging from the Tibetan side of the border, with a woman saying she was travelling from Gyirong town towards Nepal on Wednesday morning when her group encountered the flood about 4km from Gyirong port.“Trees and electricity poles had already been knocked down, and the flood water was bearing down on us. We didn’t dare turn around, so we could only reverse,” the woman, surnamed Fang, told Xiaoxiang Morning News.I was really scared. My whole body was trembling. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-08-27T14:40:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "8e27834f9293",
-      "title": "Der Chip-Gigant Nvidia wächst kräftig weiter – doch Anleger und Aufseher sorgen sich über heikle Kreislauf-Finanzierungen",
-      "url": "https://www.nzz.ch/wirtschaft/dem-ki-boom-sei-dank-der-chip-gigant-nvidia-verdoppelt-seinen-umsatz-ld.10021239",
-      "category": "NZZ",
-      "excerpt": "Auch die jüngsten Quartalszahlen von Nvidia sind überaus positiv, die Gewinne sprudeln – dank KI und dem Bau von Rechenzentren. Derzeit machen Gerüchte die Runde, wonach Nvidia für 13 Milliarden Dollar Hugging Face übernehmen will, einen Marktplatz für Open-Source-KI.",
-      "source": "NZZ",
-      "date": "2026-08-27T14:36:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "fd83930f04c2",
-      "title": "Ein Jahr Nationaler Sicherheitsrat: Ein Projekt, das zu versanden droht",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-110.html",
+      "id": "fdd93a978601",
+      "title": "Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-wahlkampfauftakt-praesidentschaftswahl-unternehmerverband-100.html",
       "category": "Tagesschau",
-      "excerpt": "Vor einem Jahr hat die Bundesregierung den Nationalen Sicherheitsrat eingeführt. Er sollte dabei helfen, schneller und effektiver auf Krisen reagieren zu können. Doch die erste Bilanz fällt ernüchternd aus. Von Christina Nagel.",
+      "excerpt": "Acht Monate vor der Präsidentschaftswahl in Frankreich haben sich sieben Kandidaten vor Wirtschaftsvertretern präsentiert. Der Ort: das Pariser Tennisstadion Roland Garros. Im Fokus: die Verschuldung Frankreichs. Von Cai Rienäcker.",
       "source": "Tagesschau",
-      "date": "2026-08-27T14:35:21+02:00",
+      "date": "2026-08-28T16:32:14+02:00",
       "featured": false
     },
     {
-      "id": "ad21f29f5477",
-      "title": "Live Updates: Helicopters Rescue Nepal Flood Survivors, With More Than 1,000 Still Missing",
-      "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+      "id": "41b6c98a0f88",
+      "title": "DR Kongo beginnt mit Impfungen gegen Ebola",
+      "url": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-102.html",
+      "category": "Tagesschau",
+      "excerpt": "Ein erster Erfolg, könnte man meinen: In der DR Kongo beginnen Ebola-Impfungen. Doch ob der eingesetzte Impfstoff auch gegen die derzeit kursierende Bundibugyo-Variante wirkt, ist offen. Von Karin Bensch.",
+      "source": "Tagesschau",
+      "date": "2026-08-28T16:31:51+02:00",
+      "featured": false
+    },
+    {
+      "id": "1d2241aa040e",
+      "title": "Neue Briefwahl-Regeln: US-Bundesrichterin hebt Trumps Erlass auf",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-briefwahl-erlass-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Ein Erlass von US-Präsident Trump sollte die Briefwahl neu regeln. Daran gab es Kritik. Eine US-Bundesrichterin hat die Verordnung nun aufgehoben. Die ersten Briefwahlunterlagen sollten kommende Woche verschickt werden.",
+      "source": "Tagesschau",
+      "date": "2026-08-28T16:29:38+02:00",
+      "featured": false
+    },
+    {
+      "id": "8ba3d40418d6",
+      "title": "Sechs Monate Iran-Krieg: Golfstaaten suchen Ausweg aus der Krise",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-golfstaaten-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Der vor einem halben Jahr begonnene Iran-Krieg hat nicht nur Folgen für die USA, Israel und Iran. Auch das Selbstverständnis der Golfstaaten wurde infrage gestellt. Sie setzen auf neue Ölexportwege und regionale Allianzen. Von P. Jens.",
+      "source": "Tagesschau",
+      "date": "2026-08-28T16:00:57+02:00",
+      "featured": false
+    },
+    {
+      "id": "f84ceb853cf1",
+      "title": "Ostdeutsche Identität ist verstärkt Thema von Musiktexten - Warum?",
+      "url": "https://www.tagesschau.de/kultur/musik-ostdeutsche-welle-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Mehr als 36 Jahre nach dem Mauerfall scheint sich die Nachwendegeneration gerade besonders viel mit ihrer ostdeutschen Identität zu beschäftigen. Warum singen so viele junge Musiker über ihre Herkunft? Von F. Walser und W. Keuneke.",
+      "source": "Tagesschau",
+      "date": "2026-08-28T15:48:09+02:00",
+      "featured": false
+    },
+    {
+      "id": "02d83b06febc",
+      "title": "Live Updates: Nepal Roughly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors",
+      "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
       "category": "New York Times",
-      "excerpt": "Officials said hundreds were killed in Nepal and Tibet. New York Times reporters flew with rescuers to remote Himalayan areas, where shocked survivors described a torrent of mud sweeping away villages.",
+      "excerpt": "A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.",
       "source": "New York Times",
-      "date": "2026-08-27T14:33:54+00:00",
+      "date": "2026-08-28T15:41:33+00:00",
       "featured": false
     },
     {
-      "id": "07bef7e8cd4c",
-      "title": "‘A Huge Paradox’: Nepal Region Hit by Flood Is Known for Development and Disasters",
-      "url": "https://www.nytimes.com/2026/08/27/world/asia/nepal-rasuwa-flash-flood-economy.html",
-      "category": "Floods",
-      "excerpt": "The region has experienced an economic boom even as natural disasters have repeatedly struck, including a flood that killed more than 160 people on Wednesday.",
+      "id": "4937fb8943fe",
+      "title": "Der Kanzler als EU-\"politischer\" \"Bankomat\"-Populist – das geht am Ende schief",
+      "url": "https://www.derstandard.at/story/3000000336815/der-kanzler-als-eu-politischer-bankomat-populist-das-geht-am-ende-schief?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Es ist legitim, wenn die \"sparsamen\" EU-Staaten auf Maßhalten beim langjährigen EU-Budgetrahmen drängen. Mit billigen Sprüchen überzeugen sie jedoch nicht",
+      "source": "Der Standard",
+      "date": "2026-08-28T15:41:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c097a1289f3",
+      "title": "Israel fliegt nach eigenen Angaben Luftangriff im Westjordanland",
+      "url": "https://www.derstandard.at/story/3000000337490/israel-fliegt-nach-eigenen-angaben-luftangriff-im-westjordanland?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Israelische Luftangriffe im Westjordanland sind selten, meist greift die Armee dort mit Bodentruppen an. Betroffen ist der Raum rund um Jenin",
+      "source": "Der Standard",
+      "date": "2026-08-28T15:40:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "b344a683eff1",
+      "title": "Inside a Secret School for Afghan Girls",
+      "url": "https://www.nytimes.com/video/world/asia/100000010989934/inside-a-secret-school-for-afghan-girls.html",
+      "category": "Education (K-12)",
+      "excerpt": "Under Taliban rule, Afghan girls are officially barred from receiving an education beyond the sixth grade. Across the country, however, clandestine classrooms have emerged to defy the ban. Our Afghanistan and Pakistan bureau chief, Elian Peltier, visited one of these covert schools to meet the young women determined to learn.",
       "source": "New York Times",
-      "date": "2026-08-27T14:33:53+00:00",
+      "date": "2026-08-28T15:38:15+00:00",
       "featured": false
     },
     {
-      "id": "1c8ffc6ee9c1",
-      "title": "BBC to bring back Top Gear amid speculation about show’s next presenters",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/27/bbc-top-gear-speculation-next-presenters",
-      "category": "Top Gear",
-      "excerpt": "Motoring series to return four years after Andrew ‘Freddie’ Flintoff suffered serious injuries in crash during filmingTop Gear, the long-running motoring show that has been off air since its co-host Andrew “Freddie” Flintoff was seriously injured in a crash during filming almost four years ago, is to return to the BBC, the broadcaster has confirmed.After Flintoff’s accident at Dunsfold aerodrome in Surrey, the BBC said the series would be “rested” for the foreseeable future. Continue reading...",
+      "id": "af6e45c90f56",
+      "title": "Schuldbekenntnisse nach Brandanschlag auf jüdische Rettungswagen in London",
+      "url": "https://www.derstandard.at/story/3000000337489/schuldbekenntnisse-nach-brandanschlag-auf-j252dischen-rettungsautos?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Vier junge Männer hatten Krankenwagen in der Nähe einer Synagoge zerstört. Eine proiranische Gruppe, die den Anschlag für sich beansprucht, soll nun verboten werden",
+      "source": "Der Standard",
+      "date": "2026-08-28T15:31:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "ffa67d9f8e44",
+      "title": "Trump to allow ranchers and farmers to process their own food amid beef import backlash – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+      "category": "Donald Trump",
+      "excerpt": "President has faced anger in his own party for suspending tariffs on foreign beef to lower grocery pricesSign up for the US Breaking News emailA reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of the Federal Reserve – will deliver his first speech as the head of the US central bank at the annual economic policy symposium.As my colleagues note, Warsh is under pressure to provide clarity on how the Federal Reserve should handle with inflation if price pressures don’t abate. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-08-27T14:32:42+00:00",
+      "date": "2026-08-28T15:30:02+00:00",
       "featured": false
     },
     {
-      "id": "4f0cb3c3a30a",
-      "title": "Andy Burnham’s autumn of pain– podcast",
-      "url": "https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast",
-      "category": "Andy Burnham",
-      "excerpt": "It’s been a month since Andy Burnham became prime minister. And while polls have shown a ‘Burnham bounce’, the coming months will force the new PM into making some tough – and potentially unpopular – decisions that will reveal how serious he is about delivering the changes he believes the country needs. Kiran Stacey and Peter Walker look at the choices facing BurnhamPlease keep sending your comments and questions to Pippa and Kiran at politicsweeklyuk@theguardian.com.Listen back to Kiran’s interview with Bridget Phillipson hereAnd, read Kiran’s article about possible changes to Insolvency Law here Continue reading...",
+      "id": "133a7329c17c",
+      "title": "Tropical Storm Dolly speeding across Atlantic toward the Caribbean",
+      "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+      "category": "Caribbean",
+      "excerpt": "Weather system is forecast to approach the Leeward Islands this weekend and may produce flash floodingTropical Storm Dolly is moving quickly across the Atlantic Ocean toward the Leeward Islands and is expected to bring significant rainfall to parts of the Caribbean this weekend, the National Hurricane Center (NHC) said on Friday morning.Dolly, which formed on Thursday, had maximum sustained winds of near 40mph (65km/h) with higher gusts as of Friday. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-08-27T14:31:09+00:00",
+      "date": "2026-08-28T15:23:18+00:00",
       "featured": false
     },
     {
-      "id": "6136168640ad",
-      "title": "Homes damaged as storms follow heatwaves in England and Wales",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/homes-damaged-storms-floods-follow-heatwaves-england-wales",
-      "category": "Flooding",
-      "excerpt": "Forty flood alerts issued by Environment Agency across Midlands, Yorkshire and south-east of EnglandDozens of homes have been damaged by flood water as the Met Office issued warnings for thunderstorms and heavy rain after most of England and the whole of Wales was declared in drought.The Met Office said thundery showers across England and Wales could cause 75mm of rain in just 12 hours in some areas after a summer that saw five heatwaves hit the UK. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-08-27T14:28:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "da024c14a667",
-      "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
-      "source": "BBC World",
-      "date": "2026-08-27T14:26:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "37dfd2ddc20a",
-      "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
-      "url": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
-      "category": "US and Israeli Attack on Iran (2026)",
-      "excerpt": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.",
-      "source": "New York Times",
-      "date": "2026-08-27T14:25:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f47837411bb",
-      "title": "Search on for at least 33 Britons missing after flash floods in Nepal and Tibet",
-      "url": "https://www.theguardian.com/world/2026/aug/27/britons-missing-flash-floods-nepal-tibet",
+      "id": "66348c1a981a",
+      "title": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
+      "url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll",
       "category": "Nepal-Tibet flood disaster",
-      "excerpt": "Rescue teams trying to locate nearly 1,400 missing people, mostly tourists, after floods killed at least 353Nepal-Tibet flash flood – latest updatesRescue teams in Nepal are searching for at least 33 British nationals who are among those missing after flash floods ravaged its border with Tibet, killing at least 353 people.Nearly 1,400 people are missing, most of them tourists, authorities have said, after a glacier collapse triggered floods that roared down valleys and razed entire villages. Continue reading...",
+      "excerpt": "Federation says it fears death toll of more than 540 will continue to rise as rescuers reach cut-off areasNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding unfoldedTell us: have you been affected by the flash floods?The Red Cross has said at least 93,000 people may have been affected by Wednesday’s flash floods on the Nepal-Tibet border, which have killed more than 540 people, left another 1,900 missing, and triggered a huge rescue operation that is being hampered by fears of new flooding.The International Federation of Red Cross and Red Crescent Societies (IFRC), the world’s largest humanitarian network, said it feared the death toll would continue to rise as some of the hardest-hit areas remained inaccessible after roads and bridges were destroyed by the torre",
       "source": "The Guardian",
-      "date": "2026-08-27T14:24:55+00:00",
+      "date": "2026-08-28T15:22:07+00:00",
       "featured": false
     },
     {
-      "id": "d8b2ac5b7001",
-      "title": "CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
-      "category": "US politics",
-      "excerpt": "Kremlin dismisses US media reports after meeting as ‘scare stories’, as Pentagon policy chief prepares to meet Nato secretary generalSign up for the Breaking News US emailOn Wednesday, Trump officially signed a proclamation on Wednesday that suspends higher tariffs on 300,000 metric tons of foreign beef imports for 90 days. This comes after backlash to the proposal – designed to lower grocery costs for Americans in the run-up to the November midterms. Several Republicans – in states with sizable cattle farming industries – have criticized the policy, saying it is a short term solution that will stymie ranchers’ ability to rebuild their herds. Four leading livestock and agricultural organizations also wrote a letter to the president on Wednesday urging him to reverse course.“Flooding the ma",
-      "source": "The Guardian",
-      "date": "2026-08-27T14:24:44+00:00",
+      "id": "b35d4c5c3a4e",
+      "title": "China Offers Condolences to Nepal While Emphasizing Disaster Began There",
+      "url": "https://www.nytimes.com/2026/08/28/world/asia/china-nepal-floods-xi-jinping.html",
+      "category": "Landslides and Mudslides",
+      "excerpt": "China’s leader, Xi Jinping, issued his first message to Nepal’s government since the landslide on Wednesday that has left hundreds dead near the countries’ border.",
+      "source": "New York Times",
+      "date": "2026-08-28T15:20:02+00:00",
       "featured": false
     },
     {
-      "id": "9f9606548fa3",
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies aged 84",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "category": "Ratko Mladić",
-      "excerpt": "Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocideRatko Mladić, the infamous Serbian general who was serving a life sentence for genocide committed during the Bosnian war, has died in prison in the Hague, a UN official and his lawyer confirmed.Mladić, 84, had been one of the main architects of the policy of ethnic cleansing during the Bosnian war. He was convicted of genocide for orchestrating the 1995 killing of at least 8,000 Muslims in the UN-designated “safe area” Srebrenica, the worst massacre in Europe since the second world war. Continue reading...",
+      "id": "4c7a97fc34b7",
+      "title": "Nepal-Tibet flash flood: EU pledges €2m in aid as fears rise for missing amid rescue effort – latest updates",
+      "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+      "category": "Nepal-Tibet flood disaster",
+      "excerpt": "Nepal has confirmed 579 deaths, while five people have been confirmed dead in Tibet, with more than 1,500 missingFlood rescue efforts resumeVisual guide: how the deadly flooding unfoldedTell us: have you been affected by the flash floods?More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding.“Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP.Relief efforts are also under way to provide the rescued people what they need.The army is still working to safely evacuate more than 100 people trapped in the same tunnel. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-08-27T14:21:24+00:00",
+      "date": "2026-08-28T15:20:00+00:00",
       "featured": false
     },
     {
-      "id": "677137eb1bd7",
-      "title": "ICE agent charged with Minnesota shooting released from jail in Texas",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/ice-agent-released-texas-minnesota-shooting",
-      "category": "ICE (US Immigration and Customs Enforcement)",
-      "excerpt": "Judge rules Christian Castro, accused of shooting man and lying about it, cannot be held pending extradition requestAn Immigration and Customs Enforcement officer charged with shooting a man and lying about it during the immigration crackdown in Minneapolis was released from a Texas jail on Thursday, after a judge refused to order his return to Minnesota.Christian Castro was released at the break of dawn from a detention center in Brownsville. He motioned his hand toward a few camera operators and a reporter crowding around him and quickly got into an SUV that drove off. Continue reading...",
+      "id": "261f29bab71a",
+      "title": "Louisiana gears up for first recreational alligator hunt in more than 50 years",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational",
+      "category": "Louisiana",
+      "excerpt": "State to offer up to 5,000 trappers chance to snare reptiles whose numbers have risen to 3m from fewer than 100,000The first recreational alligator hunt in Louisiana in more than half a century is about to commence in the swamps of that state, with up to 5,000 hopeful trappers facing strict rules in order to snare a reptile.The state’s fish and wildlife commission banned alligator hunting in 1962 to allow the species to recover after decades of unregulated killings for meat and hides dropped numbers there to below 100,000. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-08-27T14:20:49+00:00",
+      "date": "2026-08-28T15:16:46+00:00",
       "featured": false
     },
     {
-      "id": "03e55f132994",
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "id": "f6ce87b5b879",
+      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "category": "BBC World",
-      "excerpt": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+      "excerpt": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
       "source": "BBC World",
-      "date": "2026-08-27T14:17:24+00:00",
+      "date": "2026-08-28T15:15:26+00:00",
       "featured": false
     },
     {
-      "id": "8e392a03dddf",
-      "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/west-point-climate-scientist-fired",
-      "category": "US news",
-      "excerpt": "Adam Kalkstein compared administration’s order to ‘trying to teach the law’ without mentioning ‘the constitution’The only climate scientist teaching at West Point, the US army’s military academy, was fired after he resisted an order to stop teaching about the human causes of the climate emergency, a lawsuit claims.Dr Adam Kalkstein, a civilian professor of geography at the New York institution, was terminated after the spring semester this year, six months after a testy meeting with Brig Gen Shane Reeves, then dean of West Point’s academic board, the court filing said. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-08-27T14:15:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "1f5028bfcf00",
-      "title": "Er befahl den Völkermord in Bosnien-Herzegowina: Jetzt ist der Kriegsverbrecher Ratko Mladic tot",
-      "url": "https://www.nzz.ch/international/der-bosnisch-serbische-kriegsverbrecher-ratko-mladic-ist-tot-ld.10021325",
+      "id": "eb25fe90bdc1",
+      "title": "BILDSTRECKE - Die Unwetter über der Schweiz und Süddeutschland hinterlassen eine Spur der Verwüstung",
+      "url": "https://www.nzz.ch/panorama/demolierte-hausfassaden-umgekippte-lkw-und-umgeknickte-masten-die-unwetter-ueber-der-schweiz-und-sueddeutschland-hinterlassen-eine-spurt-der-verwuestung-ld.10021531",
       "category": "NZZ",
-      "excerpt": "Er sei zum Schutz Jugoslawiens und aller seiner Völker Offizier geworden, sagte Mladic vor dem Krieg. Danach wurde er zum Haupttäter des Genozids. Manche verehren ihn immer noch.",
+      "excerpt": "Am Freitag sind heftige Unwetter mit Hagel über Teile der Kantone Aargau, Zürich und Schaffhausen gezogen. Dadurch kam es zu zahlreichen Schäden und Überschwemmungen. Auch Baden-Württemberg war grossflächig betroffen.",
       "source": "NZZ",
-      "date": "2026-08-27T14:13:59+00:00",
+      "date": "2026-08-28T15:13:59+00:00",
       "featured": false
     },
     {
-      "id": "19410e49f8dc",
-      "title": "Rock Landslide and Glacial Collapse Likely Caused Floods in Nepal and Tibet, Scientists Say",
-      "url": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-cause-landslide-glacier-collapse.html",
-      "category": "Nepal",
-      "excerpt": "New satellite imagery added to scientists’ understanding of the events that precipitated the deadly flooding in Nepal and Tibet.",
-      "source": "New York Times",
-      "date": "2026-08-27T14:13:01+00:00",
+      "id": "317b365dacc7",
+      "title": "UK urged to ban imports of Brazilian meat over health concerns",
+      "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
+      "category": "Meat",
+      "excerpt": "Brazil failed to prove compliance with EU rules on use of antibiotics in cattle and poultry farmingThe UK’s leading farming organisations and animal health experts have called for an urgent ban on imports of Brazilian meat, in light of concerns over the safety of imports.The National Farmers’ Union in England and its sister organisations in the devolved administrations wrote to the government on Friday warning that public health was at risk. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-08-28T15:13:43+00:00",
       "featured": false
     },
     {
-      "id": "94c001129ac5",
-      "title": "How The New York Times Covers Harry, Meghan and the Royal Family",
-      "url": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
-      "category": "News and News Media",
-      "excerpt": "What led to the surprising return of Meghan and Harry to Britain? What will it mean? Our journalists, and many competitors, are seeking answers.",
-      "source": "New York Times",
-      "date": "2026-08-27T14:11:33+00:00",
+      "id": "ad95174bc403",
+      "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
+      "category": "Datacentres - UK",
+      "excerpt": "Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economyLabour has rejected calls to pause construction of major AI infrastructure in Britain after the Green party leader, Zack Polanski, said it was time to “slam the brakes on these energy-guzzling, water-guzzling datacentres”.The government hit back at the opposition party’s proposal of a “moratorium other than [for] local-scale datacentres for the local community”, saying it “would be a disaster for jobs and national security”. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-08-28T15:11:46+00:00",
       "featured": false
     }
   ],
   "finance": [
     {
-      "id": "5877b8b99157",
-      "title": "“Anxious Generation” Author Jonathan Haidt on the Meta Settlement",
-      "url": "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html",
-      "category": "Haidt, Jonathan",
-      "excerpt": "In “The Anxious Generation,” he laid out the evils of social media for kids. The landmark Meta settlement seems to agree.",
-      "source": "NYT Business",
-      "date": "2026-08-27T14:42:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "38d8cc2a9b65",
-      "title": "California Lawmakers Pass Plug-In Solar Bill",
-      "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
-      "category": "State Legislatures",
-      "excerpt": "Legislatures in nearly a dozen states have voted to legalize use of the technology, which can help homeowners reduce their rising electricity costs.",
-      "source": "NYT Business",
-      "date": "2026-08-27T14:41:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "87e7ae677ac3",
-      "title": "Hackers steal data from millions of airport customers",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "About 8.7 million customers had their data accessed and a ransom was demanded.",
-      "source": "BBC Business",
-      "date": "2026-08-27T14:41:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8288c71db45c",
-      "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
-      "url": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
-      "category": "Finance",
-      "excerpt": "Bain Capital led the investment in the U.S. clearing and custody firm, which plans to expand its digital asset and tokenization infrastructure.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T14:32:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "e7bd00277ac8",
-      "title": "Screwworm Flies Steer Clear of Agriculture Dept. Traps",
-      "url": "https://www.nytimes.com/2026/08/27/business/screwworm-flies-traps-agriculture-dept.html",
-      "category": "Screwworm Fly",
-      "excerpt": "No wild flies caught could mean the outbreak is contained. It could also mean, as scientists have said, that current trapping methods are outdated.",
-      "source": "NYT Business",
-      "date": "2026-08-27T14:10:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "7557099d1df0",
-      "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
+      "id": "470888c9482e",
+      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "category": "Markets",
-      "excerpt": "One analyst expects Warsh to take a tough line on inflation, but still sees the Fed holding off on rate hikes until at least after the November mid-term elections.",
+      "excerpt": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T15:31:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "12e961f4046a",
+      "title": "Smaller Revision Points to More Accurate Jobs Numbers",
+      "url": "https://www.nytimes.com/2026/08/28/business/economy/jobs-labor-numbers.html",
+      "category": "United States Economy",
+      "excerpt": "The 2026 revisions by the Bureau of Labor Statistics represent a downward adjustment of just 0.1 percent of the total work force.",
+      "source": "NYT Business",
+      "date": "2026-08-28T15:22:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "4f4735ae119f",
+      "title": "Fed Chairman Seeks to Calm Concerns About Elevated Inflation",
+      "url": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
+      "category": "Banking and Financial Institutions",
+      "excerpt": "In a high-profile speech, Kevin M. Warsh said that the Federal Reserve was chiefly responsible for taming inflation. If price increases did not return to the central bank’s target quickly, “we have work to do,” he said.",
+      "source": "NYT Business",
+      "date": "2026-08-28T15:19:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "f6ce87b5b879",
+      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+      "source": "BBC Business",
+      "date": "2026-08-28T15:15:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "594935c102e8",
+      "title": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More",
+      "url": "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html",
+      "category": "US and Israeli Attack on Iran (2026)",
+      "excerpt": "How markets have moved six months into the war, and where they might be headed in the future.",
+      "source": "NYT Business",
+      "date": "2026-08-28T14:58:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "c201112ab728",
+      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T14:53:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "7ce90157748f",
+      "title": "Companies Can Tell Investors Less Under Proposed S.E.C. Rules",
+      "url": "https://www.nytimes.com/2026/08/28/business/economy/sec-quarterly-reporting.html",
+      "category": "Regulation and Deregulation of Industry",
+      "excerpt": "Fewer audit and disclosure requirements could reduce costs, but experts say they could also help disguise fraud or financial stress.",
+      "source": "NYT Business",
+      "date": "2026-08-28T14:39:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "63e6c5ee5878",
+      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+      "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
+      "category": "Finance",
+      "excerpt": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million, as well as the $15 earnout.",
       "source": "CoinDesk",
-      "date": "2026-08-27T14:01:05+00:00",
+      "date": "2026-08-28T14:37:14+00:00",
       "featured": false
     },
     {
-      "id": "66b0a97ce61e",
-      "title": "F.D.A. Approves the Drug Daraxonrasib That’s Poised to Transform Pancreatic Cancer",
-      "url": "https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html",
-      "category": "Pancreatic Cancer",
-      "excerpt": "In a key clinical trial, patients who got the pill, daraxonrasib, lived twice as long as those who got chemotherapy.",
-      "source": "NYT Business",
-      "date": "2026-08-27T13:58:43+00:00",
+      "id": "a80b5b2caaef",
+      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
+      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
+      "category": "Markets",
+      "excerpt": "Warsh's highly anticipated remarks at the Kansas City Fed's annual symposium Friday morning leaned hawkish, prompting traders to quickly raise bets on a September rate hike.",
+      "source": "CoinDesk",
+      "date": "2026-08-28T14:05:12+00:00",
       "featured": false
     },
     {
-      "id": "ea05c1cff07e",
-      "title": "Ripple Prime expands into US equity derivatives with Delta One business",
-      "url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.",
-      "source": "Cointelegraph",
-      "date": "2026-08-27T13:54:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ccd5957306c",
-      "title": "How Dollywood Captured the Essence of Dolly Parton",
-      "url": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html",
-      "category": "Amusement and Theme Parks",
-      "excerpt": "Her idea to create a “fantasy city” that celebrated her home region turned into a billion-dollar attraction that maintained its authentic feel.",
-      "source": "NYT Business",
-      "date": "2026-08-27T13:53:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "d7c0927682e6",
-      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-      "category": "Philanthropy",
-      "excerpt": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
-      "source": "NYT Business",
-      "date": "2026-08-27T13:51:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "196f85c01243",
-      "title": "What does the Meta settlement mean for the UK? Five things we learned",
-      "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+      "id": "7f71f1156fa9",
+      "title": "Gatwick Airport facing water outage after main burst",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Business",
-      "excerpt": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+      "excerpt": "SES Water says it is working to repair a burst main which is affecting supply to the airport.",
       "source": "BBC Business",
-      "date": "2026-08-27T13:24:03+00:00",
+      "date": "2026-08-28T13:48:37+00:00",
       "featured": false
     },
     {
-      "id": "660a0746e6ff",
-      "title": "One in eight young people still out of work or education ahead of major review",
-      "url": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "Just under one million young people in the UK are not in education, employment or training (Neet).",
-      "source": "BBC Business",
-      "date": "2026-08-27T12:56:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "b3f10c4ca629",
-      "title": "Bank of England set for new innovation mandate covering stablecoins",
-      "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+      "id": "f98724c48a8b",
+      "title": "Who is legally liable when an AI agent goes rogue?",
+      "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Magazine",
+      "excerpt": "If your personal AI agent goes rogue and causes harm or financial damage in the real world, can you be held liable?",
       "source": "Cointelegraph",
-      "date": "2026-08-27T12:51:59+00:00",
+      "date": "2026-08-28T13:30:00+00:00",
       "featured": false
     },
     {
-      "id": "5d0406cf0edb",
-      "title": "The Clarity Act will put Main Street banks at a disadvantage",
-      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
+      "id": "4c39aa225b72",
+      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+      "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T13:16:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "fe952b47a3c7",
+      "title": "FAFSA Form for College Aid Will Be Less Stressful This Year, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/28/business/college-aid-fafsa.html",
+      "category": "Financial Aid (Education)",
+      "excerpt": "The college financial aid form has long been a stressor for high school seniors and their parents. Fixes have made it simpler and faster to complete, officials say.",
+      "source": "NYT Business",
+      "date": "2026-08-28T13:00:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "879a06ddb553",
+      "title": "What if the A.I. Stock Market Rally Is Just Getting Started?",
+      "url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
+      "category": "Stocks and Bonds",
+      "excerpt": "Edward Yardeni, an upbeat strategist with an excellent track record in assessing the stock market, explains why he thinks the good times will continue for years.",
+      "source": "NYT Business",
+      "date": "2026-08-28T13:00:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "c2cb9e14eaa7",
+      "title": "The Clarity Act slipped to September. Banks are building anyway",
+      "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
       "category": "Opinion",
-      "excerpt": "The Blockchain Association’s Summer Mersinger dismisses the harm to community banks in defending the stablecoin rewards language in the Clarity Act, says community banker Nate Franzén.",
+      "excerpt": "But every month without settled rules quietly rewards the walled garden, writes Matter Labs’ Vassilis Tziokas.",
       "source": "CoinDesk",
-      "date": "2026-08-27T12:30:00+00:00",
+      "date": "2026-08-28T13:00:00+00:00",
       "featured": false
     },
     {
-      "id": "a4f965e015d9",
-      "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-      "category": "Tech",
-      "excerpt": "Developers are holding details for two weeks while fixes reach operators, in the second Lightning security emergency this month traced to AI work on Bitcoin code.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T12:08:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "1798689a724d",
-      "title": "Did Meta’s Big Settlement Actually Help It?",
-      "url": "https://www.nytimes.com/2026/08/27/business/dealbook/meta-settlement-teens.html",
-      "category": "internal-storyline-no",
-      "excerpt": "The tech giant’s landmark deal with states over teen use of social media may cost the company less than expected. It may hurt rivals more.",
-      "source": "NYT Business",
-      "date": "2026-08-27T11:59:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "8dd57c8c27dc",
-      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
-      "category": "Finance",
-      "excerpt": "Park Hyeon-joo, Mirae Asset Financial Group’s founder, outlined his ambitious stablecoin, RWAs, and STOs plan for Digital X, formerly known as Korbit, in an event for his employees.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T11:37:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e059b3d84cf",
-      "title": "Much-loved ice cream shop to close after 106 years",
-      "url": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "The family-run shop has been a fixture in Brislington, Bristol since the 1920s.",
-      "source": "BBC Business",
-      "date": "2026-08-27T11:16:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "32619b0c8517",
-      "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-      "category": "Crypto Daybook Americas",
-      "excerpt": "Your day-ahead look for Aug. 27, 2026",
-      "source": "CoinDesk",
-      "date": "2026-08-27T11:11:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "accfed49d7d9",
-      "title": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
-      "category": "Markets",
-      "excerpt": "Bitcoin is testing its largest supply cluster alongside the key 50-week moving average.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T10:54:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "a1abf49d5b97",
-      "title": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
-      "url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
-      "category": "Web3",
-      "excerpt": "The abandoned bids would have cost over $2 million in base fees alone, leading the firm to prioritize financial viability over broader internet adoption.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T10:51:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "0b5f578bb44c",
-      "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Markets",
-      "excerpt": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.",
-      "source": "Cointelegraph",
-      "date": "2026-08-27T10:34:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "4baac3764627",
-      "title": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
-      "category": "Markets",
-      "excerpt": "BTC held its ground Thursday as spot bitcoin ETFs logged an eighth straight day of net inflows, while altcoins drifted lower across the board.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T10:31:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "bda8eb0eab33",
-      "title": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
-      "url": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
-      "category": "Finance",
-      "excerpt": "Bitfinex Securities is preparing to list a new security linked to a Luxembourg-based industrial metals platform built around a $1.6 billion stockpile of high-purity nickel wire.",
-      "source": "CoinDesk",
-      "date": "2026-08-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "008c12990ecb",
-      "title": "Bitfinex Securities completes record $50M tokenized capital raise",
-      "url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "id": "78f7a83e386d",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "category": "Latest News",
-      "excerpt": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "Cointelegraph",
-      "date": "2026-08-27T10:00:00+00:00",
+      "date": "2026-08-28T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4b78ade52a95",
+      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+      "category": "Finance",
+      "excerpt": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
+      "source": "CoinDesk",
+      "date": "2026-08-28T12:30:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "d34c8b180eaf",
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+      "category": "Finance",
+      "excerpt": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
+      "source": "CoinDesk",
+      "date": "2026-08-28T12:18:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "fbd1c6e6df19",
+      "title": "California Senate passes bill to ban memecoin issuance by public officials",
+      "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "The bill seeks to prohibit the listing of memecoins issued by federal public officials to California residents, citing conflicts of interest and “pay-to-play arrangements.”",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T12:09:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "6858f3b193da",
+      "title": "Warsh’s Big Test at Jackson Hole",
+      "url": "https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html",
+      "category": "internal-storyline-no",
+      "excerpt": "Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.",
+      "source": "NYT Business",
+      "date": "2026-08-28T12:04:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "0c0901767074",
+      "title": "SSE Airtricity to increase gas prices by 19% from October",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "The annual gas bill of a typical household in the greater Belfast and west gas network areas will increase by almost £172.",
+      "source": "BBC Business",
+      "date": "2026-08-28T11:44:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "b01dc9b23a83",
+      "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
+      "category": "Crypto Daybook Americas",
+      "excerpt": "Your day-ahead look for Aug. 28, 2026",
+      "source": "CoinDesk",
+      "date": "2026-08-28T11:43:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "30aeab2f3ac6",
+      "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+      "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T11:36:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "80bc1407f4ee",
+      "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
+      "url": "https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Markets",
+      "excerpt": "Bitcoin profitability data produced a bear-market reversal signal that was also present at the start of 2023.",
+      "source": "Cointelegraph",
+      "date": "2026-08-28T11:22:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "b5c6f4a72f12",
+      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+      "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
+      "category": "Finance",
+      "excerpt": "Financials were not disclosed, though reports from earlier this year suggested Chelsea was targeting 65 million pounds a year ($88.3 million) for the sponsorship berth.",
+      "source": "CoinDesk",
+      "date": "2026-08-28T11:09:27+00:00",
       "featured": false
     }
   ],
   "crypto": {
-    "btc_eur": 68761,
-    "btc_usd": 80113,
-    "btc_24h": 2.711541973191931,
-    "eth_eur": 2157.74,
-    "eth_usd": 2513.99,
-    "eth_24h": 2.7670709390295327
+    "btc_eur": 67941,
+    "btc_usd": 78814,
+    "btc_24h": -1.5088217262208063,
+    "eth_eur": 2145.77,
+    "eth_usd": 2489.15,
+    "eth_24h": -0.8645331960301168
   },
   "sport_articles": [
     {
-      "id": "3840071be8af",
-      "title": "Meissnitzer übernimmt Direktoren-Posten bei der FIS",
-      "url": "https://sport.orf.at/stories/3161752/",
-      "category": "Ski Alpin",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T16:47:51+02:00",
-      "featured": false
-    },
-    {
-      "id": "6a15c315a2e1",
-      "title": "Chef von Polens Olympischem Komitee festgenommen",
-      "url": "https://sport.orf.at/stories/3161748/",
-      "category": "Sport",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T15:19:27+02:00",
-      "featured": false
-    },
-    {
-      "id": "e883b3b5f40e",
-      "title": "Hultsch im Leichtgewichtseiner WM-Achter",
-      "url": "https://sport.orf.at/stories/3161747/",
-      "category": "Sport",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T14:54:48+02:00",
-      "featured": false
-    },
-    {
-      "id": "cb11c7d83f0a",
-      "title": "Atletico verbietet Alvarez Wechsel zu Barca",
-      "url": "https://sport.orf.at/stories/3161746/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T14:48:56+02:00",
-      "featured": false
-    },
-    {
-      "id": "304a232ab11a",
-      "title": "Uefa pursuing criminal legal action against Infantino and Fifa",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Uefa is pursuing criminal proceedings against Fifa and its president Gianni Infantino over the failed plan to sell off stakes in the World Cup.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T14:42:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "20cfed36fcbf",
-      "title": "Tottenham sign Man City's Marmoush on loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyj50j91xgo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T14:34:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "9968aa97fdd7",
-      "title": "Austria muss gegen Braga aufdrehen",
-      "url": "https://sport.orf.at/stories/3161706/",
-      "category": "Fußball:ECLG",
-      "excerpt": "Auf die Wiener Austria wartet am Donnerstag (ab 20.15 Uhr live in ORF1, Anpfiff: 20.30 Uhr) im Play-off-Rückspiel für die UEFA Conference League eine Mammutaufgabe. Das Team von Coach Stephan Helm braucht einen deutlichen Heimsieg gegen Sporting Braga, um den Aufstieg in die Ligaphase zu schaffen. Die Portugiesen hatten das Hinspiel 2:0 gewonnen und gehen als klarer Favorit in die Partie.",
-      "source": "ORF Sport",
-      "date": "2026-08-27T14:30:10+02:00",
-      "featured": false
-    },
-    {
-      "id": "2654f4b52511",
-      "title": "Arsenal only likely exit for Alvarez as striker skips training",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980e1d2vpgo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T14:18:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "ed70466ebe87",
-      "title": "Leyton Orient criticise badge on new Wrexham kit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c14dl88djrmo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Leyton Orient criticise Wrexham and their celebrity owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T14:12:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "ce94a845652e",
-      "title": "Fitz heuert beim Wolfsberger AC an",
-      "url": "https://sport.orf.at/stories/3161744/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T14:06:34+02:00",
-      "featured": false
-    },
-    {
-      "id": "20adbe045b77",
-      "title": "Glasner-Club investiert Rekordsumme in Stürmer",
-      "url": "https://sport.orf.at/stories/3161743/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T13:56:51+02:00",
-      "featured": false
-    },
-    {
-      "id": "2869c62ecd4e",
-      "title": "How to watch Pidcock, Aldridge & Richards at Mountain Bike Worlds",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c36d6yk4z11o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "The 2026 Mountain Bike World Championships take place in Italy this week and BBC Sport will be showing Sunday's action live from Val di Sole.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:53:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "61a83fb8b929",
-      "title": "Barcola steht vor Millionentransfer zu Liverpool",
-      "url": "https://sport.orf.at/stories/3161742/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T13:42:49+02:00",
-      "featured": false
-    },
-    {
-      "id": "bcd0adbb841e",
-      "title": "'What a morning!' - England's first session to forget at Lord's",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cr4vlxx1rv6o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "After winning the toss, Pakistan take full advantage of the conditions at Lord's, reducing England to 80-4 at lunch on day one of the second Test.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:36:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "8eb4e0e193dc",
-      "title": "Alpine schließt Fahrerplanung für 2027 ab",
-      "url": "https://sport.orf.at/stories/3161741/",
-      "category": "Motorsport",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-08-27T13:33:22+02:00",
-      "featured": false
-    },
-    {
-      "id": "d17698c99174",
-      "title": "Grealish keen on Everton, Man City look at Ndiaye",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qxzqdwekwo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Jack Grealish's preference would be to make a return to Everton should he leave Manchester City in the remaining days of the transfer window, sources have told BBC Sport.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:32:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "d9f16d7d691f",
-      "title": "Fiorentina in talks with Man United over Zirkzee loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz9lllx3xo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:30:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "17355bbd8416",
-      "title": "I'll send Itauma back to high school - Hrgovic",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cgrvyen5dxyo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Filip Hrgovic tells British heavyweight Moses Itauma he will \"send him back to high school\" when they fight for the vacant IBF heavyweight world title on Saturday.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:22:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "e61ea06aae5a",
-      "title": "Hettegger gewinnt Silber bei der Junioren-WM",
-      "url": "https://sport.orf.at/stories/3161740/",
+      "id": "24593a9886f9",
+      "title": "Gall verbessert sich im Gesamtklassement auf Rang vier",
+      "url": "https://sport.orf.at/stories/3161798/",
       "category": "Radsport",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-08-27T13:18:40+02:00",
+      "date": "2026-08-28T17:44:07+02:00",
       "featured": false
     },
     {
-      "id": "f8ecf2e1d15a",
-      "title": "Carragher facing bankruptcy petition over unpaid tax claim",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vl0lw4qwo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Former Liverpool and England player turned pundit Jamie Carragher faces being declared bankrupt over an unpaid tax bill.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T13:05:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "b848798cdb79",
-      "title": "Graz sieht sich für ICE-Titelverteidigung gut aufgestellt",
-      "url": "https://sport.orf.at/stories/3161739/",
-      "category": "Eishockey",
+      "id": "44714bb12d9c",
+      "title": "Rodionov erstmals für US Open qualifiziert",
+      "url": "https://sport.orf.at/stories/3161799/",
+      "category": "Tennis",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-08-27T13:01:48+02:00",
+      "date": "2026-08-28T17:43:43+02:00",
       "featured": false
     },
     {
-      "id": "d32fd0b5e118",
-      "title": "Machtwort von Atletico: Alvarez darf nicht zu Barcelona",
-      "url": "https://www.derstandard.at/story/3000000337264/fu223ball-machtwort-von-atletico-alvarez-darf-nicht-zu-barca?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der argentinische Stürmer war zuletzt von den eigenen Fans ausgepfiffen worden",
-      "source": "Der Standard Sport",
-      "date": "2026-08-27T12:54:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ef1395f4965",
-      "title": "Rangers bolster wing options with signing of Kim",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79n34g474o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Rangers sign South Korean winger Kim Min-su, who admits he was surprised to learn of the club's interest in recruiting him from Girona.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T12:46:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "dd904e255573",
-      "title": "ÖVV-Boss sieht Frauen-Nationalteam auf gutem Weg",
-      "url": "https://sport.orf.at/stories/3161738/",
-      "category": "Sport",
+      "id": "0bad30f0e2bd",
+      "title": "Kopp bei Challenger in Augsburg im Halbfinale out",
+      "url": "https://sport.orf.at/stories/3161797/",
+      "category": "Tennis",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-08-27T12:44:03+02:00",
+      "date": "2026-08-28T17:34:00+02:00",
       "featured": false
     },
     {
-      "id": "1b592d784e5c",
-      "title": "WM-Gastgeber Saudi-Arabien unterstützt vorerst Infantino",
-      "url": "https://www.derstandard.at/story/3000000337248/fu223ball-wm-gastgeber-saudi-arabien-unterst252tzt-vorerst-infantino?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "In einer Aussendung hieß es: \"Zu diesem Zeitpunkt unterstützt SAFF die andauernden Bemühungen von Fifa-Präsident Gianni Infantino und der Fifa-Führung\"",
-      "source": "Der Standard Sport",
-      "date": "2026-08-27T12:33:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e6228c0350a",
-      "title": "Cherki faces fight for Man City starting spot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg70leqdvlo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Rayan Cherki saved Enzo Maresca from a losing start as Manchester City manager - but will he get the game time he wants?",
-      "source": "BBC Sport",
-      "date": "2026-08-27T12:31:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "2edb4d5cf313",
-      "title": "Ireland fly-half Crowley ruled out until new year",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y4m5jk26go?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Munster announce that Ireland fly-half Jack Crowley is not expected to return from injury until the new year.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T12:28:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "7cddc14d720f",
-      "title": "Arrow to reach 100 Rabbitohs games after MND diagnosis",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cp3093lkqy3o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "South Sydney Rabbitohs are given special dispensation to include Jai Arrow in their team so he can reach 100 games for the club, despite his MND diagnosis.",
-      "source": "BBC Sport",
-      "date": "2026-08-27T12:13:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "fea122cb3d3d",
-      "title": "Bayern-Trainer Kompany gibt Update zu Musiala",
-      "url": "https://sport.orf.at/stories/3161737/",
+      "id": "1e87da93e543",
+      "title": "ÖFB-Goalie Schlager bei Bremen nur Ersatztorwart",
+      "url": "https://sport.orf.at/stories/3161795/",
       "category": "Fußball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-08-27T12:04:17+02:00",
+      "date": "2026-08-28T16:41:07+02:00",
       "featured": false
     },
     {
-      "id": "05bd2553da81",
-      "title": "'Superman without the cape' - Rizwan catches Gay in style",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cevw9jx7wrxo?at_medium=RSS&at_campaign=rss",
+      "id": "78bd5551fd46",
+      "title": "Favorit Bayern eröffnet Titeljagd",
+      "url": "https://sport.orf.at/stories/3161750/",
+      "category": "Fußball:GER",
+      "excerpt": "Am Freitag (Anpfiff: 20.30 Uhr) eröffnet der FC Bayern München daheim gegen den VfB Stuttgart die neue Saison in der deutschen Bundesliga. Letzte Woche fuhr das Team um ÖFB-Teamspieler Konrad Laimer mit einem 2:1-Erfolg über Borussia Dortmund im Supercup den ersten Titel der neuen Saison ein. Der dominante Auftritt gegen die Borussia darf als Warnung an die Konkurrenz verstanden werden, dass der Titel auch in diesem Jahr wohl nur über Double-Sieger Bayern führen kann.",
+      "source": "ORF Sport",
+      "date": "2026-08-28T16:34:34+02:00",
+      "featured": false
+    },
+    {
+      "id": "a14290a9656b",
+      "title": "Jurij Rodionov erstmals für US Open qualifiziert",
+      "url": "https://www.derstandard.at/story/3000000337491/tennis-rodionov-erstmals-f252r-us-open-qualifiziert?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Der 27-jährige Niederösterreicher gewann das nach Regenunterbrechungen wiederaufgenommene Drittrunden-Qualifikationsmatch gegen den Briten Jacob Fearnley",
+      "source": "Der Standard Sport",
+      "date": "2026-08-28T15:45:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "06aecdcd3543",
+      "title": "Brilliant bowling - Relentless Robinson stars with the ball",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyz1jkpn3no?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "England make a poor start on day one of the second Test against Pakistan at Lord's as Emilio Gay falls for just eight, following a brilliant diving catch by Muhammad Rizwan.",
+      "excerpt": "England bowler Ollie Robinson finishes with four wickets for just 11 runs as Pakistan are bowled out for 110, giving England a lead of 180 on the second day of the second Test at Lord's.",
       "source": "BBC Sport",
-      "date": "2026-08-27T12:02:32+00:00",
+      "date": "2026-08-28T15:37:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "8d0f3f867eb7",
+      "title": "I'd hate to finish career like this - O'Sullivan",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cp93zj22v3zo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Ronnie O'Sullivan says he does not \"want to throw in the towel just yet\" after losing 6-3 to Chang Bingyu in the semi-finals of the Wuhan Open.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T15:21:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "48a149f617ab",
+      "title": "Division, drama and power - what next for Infantino and Uefa?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T15:00:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "c853584c3227",
+      "title": "Southampton deny Spygate link to cuts to women's side",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz1gv96vzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Southampton Women's head coach Simon Parker reveals that the summer has been \"challenging\" for the women's set-up at the club.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T14:37:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "4dd5e39fa8ed",
+      "title": "Departing Watkins apologised for refusing to play - Emery",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Ollie Watkins is leaving Aston Villa as their record Premier League goalscorer.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T14:34:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "4f9765716163",
+      "title": "Erwartungshaltung bei Lustenau gestiegen",
+      "url": "https://sport.orf.at/stories/3161730/",
+      "category": "Fußball:BLG",
+      "excerpt": "Mit dem Punktekonto wächst bei Austria Lustenau auch die Erwartungshaltung. „Nach der Leistung gegen Sturm erwartet nun jeder einen Heimsieg von uns. Das macht die Aufgabe nicht leichter, aber wir werden sie annehmen“, sagte Trainer Markus Mader vor dem Westduell in der Admiral Bundesliga mit der am Tabellenende liegenden WSG Tirol am Freitagabend (19.30 Uhr).",
+      "source": "ORF Sport",
+      "date": "2026-08-28T14:04:56+02:00",
+      "featured": false
+    },
+    {
+      "id": "4bb8674b146b",
+      "title": "Sturm fordert Ex-Trainer Ilzer heraus",
+      "url": "https://sport.orf.at/stories/3161789/",
+      "category": "Fußball:ELG",
+      "excerpt": "Die Auslosung für die Ligaphase der UEFA Europa League hat am Freitag in Monaco ein interessantes Los für Vizemeister Sturm Graz ergeben. Die Steirer treffen nämlich auswärts auf die TSG Hoffenheim, wo Ex-Trainer Christian Ilzer engagiert ist. Auch für den FC Salzburg gibt es mit Bayer Leverkusen ein Auswärtsspiel gegen einen deutschen Club. Neben weiteren attraktiven Gegner treffen die „Bullen“ unter anderem zu Hause auf den AC Milan.",
+      "source": "ORF Sport",
+      "date": "2026-08-28T14:04:55+02:00",
+      "featured": false
+    },
+    {
+      "id": "e35059043543",
+      "title": "Trabzonspor reject manager's 'emotional' resignation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c783dexjv74o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Trabzonspor say Fatih Tekke's decision stems from the \"intense emotional impact\" of the Europa League exit.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T14:02:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "ac8c8f5b35b5",
+      "title": "Asian Games hosts say all athletes will have rooms",
+      "url": "https://www.bbc.co.uk/sport/articles/c4g57k3960ko?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "The hosts of the Asian Games in Japan say all athletes will be provided with accommodation for next month's event, after fears there would be a shortage of rooms.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T13:49:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "0ea50ad671df",
+      "title": "Celtic & Rangers to play Scottish Cup ties behind closed doors after fan disorder",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T13:14:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "37181b1b290e",
+      "title": "Man Utd agree terms to sign Swedish winger Jusu Bah",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Sweden winger Monica Jusu Bah helped BK Hacken win the inaugural Women's Europa Cup last season.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T13:06:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "10055e196816",
+      "title": "Who am I? Guess Bundesliga star No 1",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crmr997drnvo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Work out the identity of today's Bundesliga player in as few attempts as possible.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T12:42:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "09b393517669",
+      "title": "Simeone would welcome Alvarez back to training amid Barca row",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9egy1xzepo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Diego Simeone says he will do everything he can to make Julian Alvarez feel important at Atletico Madrid, after confirming the Argentina international will miss Saturday’s match against Sevilla.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T12:37:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "4e1a7fa0ab12",
+      "title": "Sunderland and Bournemouth draw AC Milan in Europa League",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ymr4dxz9mo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Sunderland will mark their first European campaign since 1973 with a trip to the San Siro after drawing AC Milan in the Europa League league phase.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T12:14:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "391979689122",
+      "title": "Dragon to a Swan - Eustaquio relishes next chapter",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg49q459y9qo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "After World Cup heroics for Canada, Stephen Eustaquio relishes his next challenge having swapped the Champions League for the Championship with Swansea City.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T12:01:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "d9d005edd568",
+      "title": "Brentford sign £40m defender Diouf from West Ham",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Senegal defender El Hadji Malick Diouf joins Brentford in a £40m deal from West Ham.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T12:00:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "aae952a3e953",
+      "title": "Austria zieht trotz Aus positives Fazit",
+      "url": "https://sport.orf.at/stories/3161780/",
+      "category": "Fußball:ECLG",
+      "excerpt": "Sporting Braga war wie befürchtet eine Nummer zu groß für die Wiener Austria. Ein torloses Heimremis war nach dem 0:2 im Hinspiel zwar ein achtbares Ergebnis, für die Ligaphase der UEFA Conference League aber zu wenig. Schlechte Stimmung wollte aber nicht aufkommen. „Natürlich sind wir enttäuscht. Aber ich glaube, dass wir aus den letzten Wochen sehr viel mitnehmen können“, sagte Coach Stephan Helm.",
+      "source": "ORF Sport",
+      "date": "2026-08-28T11:49:13+02:00",
+      "featured": false
+    },
+    {
+      "id": "9ae133389ea4",
+      "title": "England get early breakthrough as Archer removes Masood",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c4gjp4800lvo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "England get an early breakthrough at the start of Pakistan's first innings as Jofra Archer and Jamie Smith combine to remove Shan Masood for just one, with Pakistan 5-1, in response to England's first innings score of 290 on the second day of the second Test at Lord's.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T11:43:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "b74aee9735eb",
+      "title": "Former QPR player Buzsaky confirms he is safe",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74e81jvvvjo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Former QPR midfielder Akos Buzsaky posts a message on social media to confirm he is safe after being reported missing.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T11:30:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "bc6c8c81deb8",
+      "title": "Benjamin Maier neuer ÖBSV-Nationalteamtrainer",
+      "url": "https://sport.orf.at/stories/3161788/",
+      "category": "Sport",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-08-28T11:22:07+02:00",
+      "featured": false
+    },
+    {
+      "id": "df051449e2b6",
+      "title": "Österreich holt in Fünfjahreswertung auf",
+      "url": "https://sport.orf.at/stories/3161786/",
+      "category": "Fußball",
+      "excerpt": "Österreich befindet sich in der für die Vergabe der Europacup-Startplätze maßgeblichen Fünfjahreswertung auf dem Vormarsch. In den Qualispielen für die Ligaphasen der Champions League, Europa League und Conference League holten die heimischen Clubs 4,2 Punkte und damit um 0,1 Zähler mehr als in der gesamten letzten Saison. Das bedeutet einen Vorstoß auf Rang 17, die Rückeroberung des wichtigen 15. Platzes und damit des fünften Europacup-Tickets erscheint aber illusorisch.",
+      "source": "ORF Sport",
+      "date": "2026-08-28T11:12:00+02:00",
+      "featured": false
+    },
+    {
+      "id": "7995501dfc91",
+      "title": "Hundred schedule impact worth the price - ECB chair",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gmx41ylm0o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson.",
+      "source": "BBC Sport",
+      "date": "2026-08-28T10:48:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad216a251d7d",
+      "title": "ÖTV-Duell im Doppel-Halbfinale von Winston Salem",
+      "url": "https://sport.orf.at/stories/3161784/",
+      "category": "Tennis",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-08-28T10:21:43+02:00",
+      "featured": false
+    },
+    {
+      "id": "4e8b2e25f3fe",
+      "title": "Endlich startet die deutsche Liga: Bayern kann sich wohl nur selbst stoppen, Schalke ist zurück!",
+      "url": "https://www.derstandard.at/story/3000000337164/endlich-startet-die-deutsche-liga-bayern-kann-sich-wohl-nur-selbst-stoppen-schalke-ist-zurueck?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Am Wochenende startet wieder der Fußballalltag im Nachbarland. Hier die wichtigsten Fragen, Antworten und Zitate vor dem Saisonstart",
+      "source": "Der Standard Sport",
+      "date": "2026-08-28T10:00:00+00:00",
       "featured": false
     }
   ],
   "sport_briefing": {
-    "text": "# Sport-Briefing\n\n• Meissnitzer übernimmt den Direktoren-Posten bei der Internationalen Skiverbandes FIS.\n\n• Der Chef von Polens Olympischem Komitee wurde festgenommen.\n\n• Hultsch fährt im Leichtgewichtseiner für Österreichs WM-Achter.\n\n• Atlético Madrid verbietet Álvarez einen Wechsel zum FC Barcelona.\n\n• Die UEFA leitet strafrechtliche Ermittlungen gegen FIFA-Präsident Infantino ein.\n\n• Tottenham verpflichtet Marmoush von Manchester City auf Leihbasis.\n\n• Österreich muss gegen Braga aufdrehen.\n\n• Fitz heuert beim Wolfsberger AC an.\n\n• Crystal Palace investiert eine Rekordsumme in einen neuen Stürmer.\n\n• Barcola steht vor einem Millionentransfer zum FC Liverpool.",
-    "date": "2026-08-27T14:51:36.447356+00:00"
+    "text": "# Sport-Briefing\n\n• Gall verbessert sich im Gesamtklassement auf Rang vier.\n\n• Rodionov qualifiziert sich erstmals für die US Open.\n\n• Kopp scheidet bei einem Challenger in Augsburg im Halbfinale aus.\n\n• ÖFB-Goalie Schlager ist bei Bremen nur Ersatztorwart.\n\n• Bayern eröffnet seine Titeljagd in der neuen Saison.\n\n• Die Erwartungshaltung bei Lustenau ist gestiegen.\n\n• Sturm Graz fordert seinen Ex-Trainer Ilzer heraus.\n\n• Robinson glänzt mit herausragenden Bowling-Leistungen.\n\n• O'Sullivan äußert sich unzufrieden über seinen möglichen Karriereabschluss.\n\n• Die Asienspiele-Organisatoren garantieren allen Athleten Unterkunftsräume.",
+    "date": "2026-08-28T15:46:32.174092+00:00"
   },
   "briefing": {
-    "text": "# MORGENBRIEFING\n\nNACHRICHTEN\n\n**Österreich:**\n\n• **Karner und Holzleitner: Bei Gewaltschutz „nicht lockerlassen\"**\n  → Das Budget für Gewaltschutz-Maßnahmen wird 2027 erhöht. Die Verantwortlichen betonen die Notwendigkeit, bei Prävention und Schutzmaßnahmen konsequent zu bleiben, um Gewalt und Femizide zu bekämpfen. [LINK:https://orf.at/stories/3440423/]\n\n• **Parton hinterließ musikalisches Souvenir**\n  → Ein musikalisches Vermächtnis wurde vom verstorbenen Künstler hinterlassen. Die Nachricht würdigt das künstlerische Erbe und dessen Bedeutung. [LINK:https://orf.at/stories/3440394/]\n\n• **Mögliches Treffen Peseschkian – Putin nächste Woche**\n  → Ein Treffen zwischen dem iranischen Präsidenten Peseschkian und dem russischen Präsidenten Putin könnte in der kommenden Woche stattfinden. Dies wäre ein signifikantes diplomatisches Ereignis. [LINK:https://orf.at/stories/3440417/]\n\n• **Bericht: Kriegsverbrecher Ratko Mladic ist tot**\n  → Der bosnisch-serbische Kriegsverbrecher Ratko Mladic ist verstorben. Mladic war eine der Schlüsselfiguren in den Balkankriegen der 1990er Jahre. [LINK:https://orf.at/stories/3440410/]\n\n• **Neuer Höchstwert an 30-Grad-Tagen**\n  → Österreich verzeichnet einen neuen Rekord bei der Anzahl der Tage mit Temperaturen über 30 Grad Celsius. Dies unterstreicht die Auswirkungen des Klimawandels auf das Land. [LINK:https://orf.at/stories/3440408/]\n\n• **Taiwan: Chinafreundliche Opposition blockiert Drohnenpläne**\n  → Die chinafreundliche Opposition in Taiwan blockiert geplante Drohnenprojekte. Dies hat Auswirkungen auf die Verteidigungspolitik der Insel. [LINK:https://orf.at/stories/3440407/]\n\n• **Sechs Länder fordern starke Kürzung des EU-Budgetentwurfs**\n  → Sechs EU-Länder verlangen massive Kürzungen des EU-Budgetentwurfs. Dies deutet auf Spannungen bei den Haushaltsverhandlungen hin. [LINK:https://orf.at/stories/3440405/]\n\n• **Rucksack auf Gletscher in Tirol nach 63 Jahren gefunden**\n  → Ein Rucksack, der 63 Jahre lang auf einem Tiroler Gletscher lag, wurde gefunden. Der Fund ermöglicht möglicherweise neue historische Erkenntnisse. [LINK:https://kurier.at/chronik/tirol/rucksack-gletscher-tirol-63-jahre/403186734]\n\n---\n\n**International:**\n\n• **Fünfzigster Todestag von Marilyn Monroe**\n  → Der fünfzigste Jahrestag des Todes der Filmlegende Marilyn Monroe wird begangen. Ihre Bedeutung für die Filmgeschichte und Popkultur wird gewürdigt. [LINK:https://www.nzz.ch/feuilleton/fuenfzigster-todestag-von-marilyn-monroe-ld.156610]\n\n• **Bosnisch-serbischer Kriegsverbrecher Ratko Mladic ist tot**\n  → Ratko Mladic, verurteilter Kriegsverbrecher aus den Balkankriegen, ist gestorben. Seine Taten gelten als zentral für die Verbrechen in Bosnien-Herzegowina. [LINK:https://www.tagesschau.de/ausland/europa/mladic-tod-100.html]\n\n• **Zwei Tote an Schule in Gosen-Neu Zittau bei Berlin**\n  → An einer Schule bei Berlin ereignete sich ein Gewaltvorfall mit zwei Todesfällen. Die Ermittlungen sind eingeleitet worden. [LINK:https://www.tagesschau.de/inland/gesellschaft/gewalttat-berlin-zwei-tote-100.html]\n\n• **Mindestens zwölf Menschen bei Waldbränden in Algerien gestorben**\n  → Schwere Waldbrände in Algerien haben mindestens zwölf Todesfälle verursacht. Die Brände stellen eine erhebliche Bedrohung für die betroffenen Regionen dar. [LINK:https://www.tagesschau.de/ausland/afrika/algerien-waldbraende-tote-verletzte-100.html]\n\n• **Geberländer fordern massive Kürzungen beim EU-Budget**\n  → Mehrere Mitgliedsländer fordern drastische Reduktionen des EU-Budgetvorschlags. Dies widerspiegelt unterschiedliche finanzielle Prioritäten in der Union. [LINK:https://www.tagesschau.de/ausland/europa/eu-budget-erklaerung-100.html]\n\n• **Gescheiterte Investorenpläne der Fifa: Uefa bereitet Strafanzeige gegen Infantino vor**\n  → Nach gescheiterten Investorenplänen soll die Uefa eine Strafanzeige gegen Fifa-Präsident Infantino vorbereiten. Italien hat zudem seine Unterstützung für Infantino entzogen. [LINK:https://www.nzz.ch/sport/fussball/gescheiterte-investorenplaene-der-fifa-weltverband-stellt-sich-nach-krisentreffen-hinter-praesident-infantino-geruechte-zu-wm-final-2030-in-casablanca-dementiert-ld.10017724]\n\n• **Nepal flash flood: More than 350 killed**\n  → Ein Blitzhochwasser in Nepal hat über 350 Todesfälle verursacht. Es bestehen Warnungen vor frischer Gefahr durch ansteigende Seewasser. [LINK:https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news]\n\n• **Der Chip-Gigant Nvidia wächst kräftig weiter**\n  → Nvidia verzeichnet starkes Wachstum und verdoppelt seinen Umsatz. Allerdings sorgen sich Anleger und Aufseher über fragwürdige Finanzierungsstrukturen. [LINK:https://www.nzz.ch/wirtschaft/dem-ki-boom-sei-dank-der-chip-gigant-nvidia-verdoppelt-seinen-umsatz-ld.10021239]\n\n• **Ein Jahr Nationaler Sicherheitsrat: Ein Projekt, das zu versanden droht**\n  → Nach einem Jahr zeigt sich der Deutsche Nationale Sicherheitsrat als ein Projekt, das Schwierigkeiten bei der Umsetzung hat. [LINK:https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-110.html]\n\n• **Live Updates: Helicopters Rescue Nepal Flood Survivors**\n  → Hubschrauber sind im Einsatz, um Überlebende der Flutkatastrophe in Nepal zu retten. Über 1.000 Personen gelten noch als vermisst. [LINK:https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods]\n\n---\n\nRECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **OGH 9Ob18/26a**\n  → Normen: § 12 HIKrG (Hypothekenkredit-Richtlinie-Gesetz), § 1000 Abs. 1 ABGB. Der Sachverhalt betrifft einen Hypothekarkreditvertrag über 254.000 EUR aus dem Jahr 2014, bei dem die Kläger eine Laufzeitverlängerung mit Umstellung auf Fixzinsen beantragten. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260831_OGH0002_0090OB00018_26A0000_000]\n\n• **OGH 15Ns65/26s**\n  → Normen: § 198 Abs. 1 StGB (Verletzung der Unterhaltspflicht); § 39 Abs. 1 StPO (Delegierung); § 62 Abs. 1 zweiter Satz OGH",
-    "date": "2026-08-27T14:51:36.447356+00:00"
+    "text": "# MORGENBRIEFING\n\nNACHRICHTEN\n\n**Oesterreich:**\n\n• **Protest gegen Wahlrechtseinschränkungen durch Trump**\n  → In Österreich regt sich Widerstand gegen Trumps Maßnahmen zur Einschränkung von Wahlrechten. Die Proteste thematisieren die Auswirkungen auf demokratische Prozesse. [LINK:https://orf.at/stories/3440533/]\n\n• **Juwelen-Coup im Wiener MAK: Einer der Täter kam mit einer Schusswaffe**\n  → Bei einem Juwelenraub im Wiener Museum für angewandte Kunst war einer der Täter bewaffnet. Die Polizei fahndet nach den Tätern. [LINK:https://www.diepresse.com/41211775/juwelen-coup-im-wiener-mak-einer-der-taeter-kam-mit-einer-schusswaffe]\n\n• **Feuerwehrleute aus NÖ löschen und lernen bei Waldbränden auf Sardinien**\n  → Niederösterreichische Feuerwehrleute unterstützen bei der Bekämpfung von Waldbränden auf Sardinien und sammeln dabei wichtige Erfahrungen. [LINK:https://kurier.at/chronik/oesterreich/feuerwehrleute-noe-sardinien-prepositioning-waldbraende-vegetationsbraende/403186975]\n\n• **Abschiebezentren: Ruanda für Rotes Kreuz ungeeignet**\n  → Das Rote Kreuz bewertet Abschiebezentren in Ruanda als ungeeignet für die geplante Nutzung. Dies stellt die Machbarkeit entsprechender Pläne in Frage. [LINK:https://orf.at/stories/3440526/]\n\n• **Israel: Luftangriff im Westjordanland**\n  → Israel führte einen Luftangriff im Westjordanland durch. Die Aktion wird von internationalen Beobachtern monitiert. [LINK:https://orf.at/stories/3440529/]\n\n• **Ukraine: Lebensmittellager durch Angriffe zu 90 Prozent zerstört**\n  → In der Ukraine wurden Lebensmittellager durch Angriffe massiv beschädigt – etwa 90 Prozent der Lagerbestände sind zerstört. Dies verschärft die Versorgungslage erheblich. [LINK:https://orf.at/stories/3440523/]\n\n• **IAEA meldet Drohnenattacken auf AKW Saporischschja**\n  → Die Internationale Atomenergiebehörde berichtet von Drohnenangriffen auf das Atomkraftwerk Saporischschja in der Ukraine. [LINK:https://orf.at/stories/3440519/]\n\n• **Italien: Österreicherin tot in Kleintransporter gefunden**\n  → Eine Österreicherin wurde in Italien tot in einem Kleintransporter aufgefunden. Die Ermittlungen zum Todesfall laufen. [LINK:https://orf.at/stories/3440518/]\n\n• **Warsh äußert Sorge über US-Inflation**\n  → Ein hochrangiger US-Vertreter äußert Bedenken bezüglich der anhaltenden Inflationsproblematik in den Vereinigten Staaten. [LINK:https://orf.at/stories/3440524/]\n\n• **Fans jubeln über Ankunft von Celine Dion in Paris**\n  → Die kanadische Künstlerin Celine Dion ist in Paris angekommen und wurde von Fans freudig empfangen. [LINK:https://orf.at/stories/3440531/]\n\n**International:**\n\n• **Hacker fordern Lösegeld nach Angriff auf Berliner Landesnetz**\n  → Hacker haben das Landesnetz von Berlin angegriffen und fordern nun Lösegeld. Der Angriff beeinträchtigt Verwaltungsprozesse. [LINK:https://www.tagesschau.de/inland/regional/berlin/berlin-hackerangriff-senatsverwaltung-loesegeld-100.html]\n\n• **Neue Briefwahl-Regeln: US-Bundesrichterin hebt Trumps Erlass auf**\n  → Eine US-Bundesrichterin hat einen Erlass zur Einschränkung der Briefwahl aufgehoben und damit Trumps Maßnahme blockiert. [LINK:https://www.tagesschau.de/ausland/amerika/usa-briefwahl-erlass-100.html]\n\n• **Juwelenraub in Wien: Polizei fahndet nach bewaffneten Tätern**\n  → Nach dem Juwelenraub in Wien sucht die Polizei nach bewaffneten Tätern. Die Ermittlungen laufen auf Hochtouren. [LINK:https://www.tagesschau.de/ausland/europa/juwelenraub-wien-fahndung-100.html]\n\n• **DR Kongo beginnt mit Impfungen gegen Ebola**\n  → Die Demokratische Republik Kongo startet ein Impfprogramm gegen Ebola zur Eindämmung der Krankheit. [LINK:https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-102.html]\n\n• **Sechs Monate Iran-Krieg: Golfstaaten suchen Ausweg aus der Krise**\n  → Nach sechs Monaten Iran-Krieg bemühen sich Golfstaaten um Lösungsansätze für die eskalierende Krise in der Region. [LINK:https://www.tagesschau.de/ausland/asien/iran-usa-krieg-golfstaaten-100.html]\n\n• **Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF**\n  → Französische Präsidentschaftskandidaten präsentieren sich beim Unternehmeverband MEDEF zum Wahlkampfauftakt. [LINK:https://www.tagesschau.de/ausland/europa/frankreich-wahlkampfauftakt-praesidentschaftswahl-unternehmerverband-100.html]\n\n• **Generation Deutschland - ein Scharnier zum Rechtsextremismus?**\n  → Eine Investigativrecherche untersucht, ob eine bestimmte Bewegung als Einstiegspunkt zum Rechtsextremismus fungiert. [LINK:https://www.tagesschau.de/investigativ/ndr-wdr/generation-deutschland-110.html]\n\n• **Fraktionsklausur von Union und SPD: Wie weit trägt der \"Mut von Münster\"?**\n  → Union und SPD halten eine Fraktionsklausur ab und diskutieren, wie der sogenannte „Mut von Münster\" politisch wirkt. [LINK:https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html]\n\n• **Fünfzigster Todestag von Marilyn Monroe**\n  → Der fünfzigste Todestag der Filmlegende Marilyn Monroe wird zum Anlass für kulturelle Würdigungen und historische Rückblicke. [LINK:https://www.nzz.ch/feuilleton/fuenffzigster-todestag-von-marilyn-monroe-ld.156610]\n\n• **Ostdeutsche Identität ist verstärkt Thema von Musiktexten - Warum?**\n  → In Musiktexten wird ostdeutsche Identität verstärkt thematisiert. Eine kulturelle Analyse hinterfragt die Gründe für diese Entwicklung. [LINK:https://www.tagesschau.de/kultur/musik-ostdeutsche-welle-100.html]\n\n---\n\nRECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **9Ob18/26a** — § 12 HIKrG (Hypothekenkredit-Richtlinie-Gesetz), § 1000 Abs. 1 ABGB\n  → Die Kläger schlossen mit der Beklagten einen Hypothekarkreditvertrag über 254.000 EUR ab. Die Entscheidung befasst sich mit Fragen der Vertragsgestaltung und Anspruchsberechtigung bei Kreditverhältnissen. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260831_OGH0002_0090OB00018_26A0000_000]\n\n• **15Ns65/26s** — § 198 Abs. 1 StGB (Verletzung der Unterhaltspflicht), § 39 Abs. 1 StPO, § 62 Abs. 1 zweiter Satz",
+    "date": "2026-08-28T15:46:32.174092+00:00"
   },
   "_meta": {
-    "last_updated": "2026-08-27T14:51:36.447356+00:00"
+    "last_updated": "2026-08-28T15:46:32.174092+00:00"
   }
 }
