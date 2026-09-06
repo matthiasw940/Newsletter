@@ -1,67 +1,67 @@
 {
   "weather": {
-    "temp_current": 18.4,
-    "humidity": 71,
-    "wind": 11.2,
-    "temp_max": 25.4,
-    "temp_min": 18.2,
-    "precip": 1.1,
-    "description": "Leichter Regen",
-    "emoji": "🌦️",
-    "code": 61,
+    "temp_current": 19.4,
+    "humidity": 48,
+    "wind": 14.2,
+    "temp_max": 25.0,
+    "temp_min": 16.5,
+    "precip": 0.0,
+    "description": "Überwiegend klar",
+    "emoji": "🌤️",
+    "code": 1,
     "hourly": [
       {
         "hour": "06:00",
-        "temp": 21.8,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 3
-      },
-      {
-        "hour": "08:00",
-        "temp": 20.1,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 8
-      },
-      {
-        "hour": "10:00",
-        "temp": 18.4,
-        "code": 61,
-        "emoji": "🌦️",
-        "precip": 13
-      },
-      {
-        "hour": "12:00",
-        "temp": 20.1,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 3
-      },
-      {
-        "hour": "14:00",
-        "temp": 23.6,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 0
-      },
-      {
-        "hour": "16:00",
-        "temp": 25.3,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 0
-      },
-      {
-        "hour": "18:00",
-        "temp": 24.8,
+        "temp": 17.0,
         "code": 1,
         "emoji": "🌤️",
         "precip": 0
       },
       {
+        "hour": "08:00",
+        "temp": 17.1,
+        "code": 3,
+        "emoji": "☁️",
+        "precip": 0
+      },
+      {
+        "hour": "10:00",
+        "temp": 19.4,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 0
+      },
+      {
+        "hour": "12:00",
+        "temp": 22.0,
+        "code": 0,
+        "emoji": "☀️",
+        "precip": 0
+      },
+      {
+        "hour": "14:00",
+        "temp": 24.1,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 0
+      },
+      {
+        "hour": "16:00",
+        "temp": 25.0,
+        "code": 0,
+        "emoji": "☀️",
+        "precip": 0
+      },
+      {
+        "hour": "18:00",
+        "temp": 24.3,
+        "code": 0,
+        "emoji": "☀️",
+        "precip": 0
+      },
+      {
         "hour": "20:00",
-        "temp": 22.6,
+        "temp": 21.8,
         "code": 0,
         "emoji": "☀️",
         "precip": 0
@@ -691,6 +691,16 @@
   ],
   "recht_news": [
     {
+      "id": "d7eb9c0be919",
+      "title": "Jufa-Hotelier Wendl: \"Ein Jungkoch kann mehr verdienen als ein junger Akademiker\"",
+      "url": "https://www.derstandard.at/story/3000000338234/jufa-hotelier-wendl-ein-jungkoch-kann-mehr-verdienen-als-ein-junger-akademiker?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Gerhard Wendl führt mit den Jufa Hotels ein Unternehmen, das sich von klassischen Ferienresorts abgrenzen will. Asylwerbern sollte es leichter gemacht werden, zu arbeiten, findet er",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-09-06T04:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "082957a6a408",
       "title": "ÖBB-Chef Matthä: Bahnumbau bringt bis zu 80 Millionen im Jahr",
       "url": "https://www.derstandard.at/story/3000000338516/oebb-chef-matthae-bahnumbau-bringt-bis-zu-80-millionen-im-jahr?ref=rss",
@@ -928,16 +938,6 @@
       "excerpt": "Vor diesem Hintergrund stoppt der Modekonzern sein erst vor wenigen Tagen gestartetes Aktienrückkaufprogramm.",
       "source": "Der Standard Wirtschaft",
       "date": "2026-09-03T08:26:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c06578f0939",
-      "title": "Fall Schmotzer: Welche Mittel haben Arbeitgeber bei Hasspostings gegen Mitarbeiter?",
-      "url": "https://www.derstandard.at/story/3000000338136/fall-schmotzer-welche-mittel-haben-arbeitgeber-bei-hasspostings-gegen-mitarbeiter?ref=rss",
-      "category": "Der Standard Recht",
-      "excerpt": "Hasspostings treffen nicht nur Betroffene selbst. Unter bestimmten Voraussetzungen kann auch der Arbeitgeber gerichtlich gegen digitale Hetze vorgehen.",
-      "source": "Der Standard Recht",
-      "date": "2026-09-03T08:00:00+00:00",
       "featured": false
     }
   ],
@@ -1195,253 +1195,253 @@
   ],
   "national": [
     {
-      "id": "8c8afb0e4f4f",
-      "title": "Iranische Agentur Fars: Explosion nahe Insel Charg",
-      "url": "https://orf.at/stories/3441273/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-09-05T09:13:15+02:00",
-      "featured": false
-    },
-    {
-      "id": "9dae35341289",
-      "title": "Vor US-Vermittlung: Tote bei Luftangriffen auf Ukraine",
-      "url": "https://orf.at/stories/3441268/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-09-05T08:27:54+02:00",
-      "featured": false
-    },
-    {
-      "id": "d4d0ceb8060a",
-      "title": "Tote und Vermisste durch Taifun „Saudel“ in China",
-      "url": "https://orf.at/stories/3441266/",
+      "id": "1b7b158f0b19",
+      "title": "Ausflugsbus mit Schülern auf Kap Verde verunglückt",
+      "url": "https://orf.at/stories/3441357/",
       "category": "Chronik",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-09-05T07:46:58+02:00",
+      "date": "2026-09-06T10:03:19+02:00",
       "featured": false
     },
     {
-      "id": "f6929964eb43",
-      "title": "Panamakanal: Erlaubte Schiffe wegen „El Nino“ reduziert",
-      "url": "https://orf.at/stories/3441265/",
-      "category": "Umwelt",
+      "id": "33bf505ba1a1",
+      "title": "Neue Angriffe Israels auf Hisbollah-Ziele im Südlibanon: Tote",
+      "url": "https://orf.at/stories/3441353/",
+      "category": "Ausland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-09-05T07:43:29+02:00",
+      "date": "2026-09-06T08:49:19+02:00",
       "featured": false
     },
     {
-      "id": "379c6aeb50b3",
-      "title": "Bolivien: Mindestens zehn Tote bei Explosion in Kaserne",
-      "url": "https://orf.at/stories/3441264/",
+      "id": "9a5ab6d85608",
+      "title": "Iran meldet Angriff auf US-Marinedrohne in Straße von Hormus",
+      "url": "https://orf.at/stories/3441343/",
+      "category": "Ausland",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-09-06T08:35:57+02:00",
+      "featured": false
+    },
+    {
+      "id": "131e2390d578",
+      "title": "Vulkanausbruch: Flughafen Jakarta streicht Flüge",
+      "url": "https://orf.at/stories/3441342/",
       "category": "Chronik",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-09-05T07:40:38+02:00",
+      "date": "2026-09-06T08:30:11+02:00",
       "featured": false
     },
     {
-      "id": "0bd78e7d285c",
-      "title": "Drittel syrischer Schüler braucht Deutschförderung",
-      "url": "https://orf.at/stories/3441263/",
+      "id": "3941653ea970",
+      "title": "Länder beim Abholen von Kindergartenmitteln säumig",
+      "url": "https://orf.at/stories/3441341/",
       "category": "Inland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-09-05T07:38:30+02:00",
+      "date": "2026-09-06T08:21:19+02:00",
       "featured": false
     },
     {
-      "id": "78bd535608a8",
-      "title": "Insider: KI-Unternehmen Anthropic verschiebt Börsengang",
-      "url": "https://orf.at/stories/3441258/",
-      "category": "Wirtschaft",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-09-05T07:30:47+02:00",
-      "featured": false
-    },
-    {
-      "id": "76919cd910d7",
-      "title": "Spiel auf Website des Weißen Hauses: Tetris distanziert sich",
-      "url": "https://orf.at/stories/3441259/",
+      "id": "3f83dd1655d8",
+      "title": "Nach Leipzig: Deutschland will Drohnenabwehr ausbauen",
+      "url": "https://orf.at/stories/3441339/",
       "category": "Ausland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-09-05T07:30:47+02:00",
+      "date": "2026-09-06T08:02:25+02:00",
       "featured": false
     },
     {
-      "id": "cfc68d93b62d",
-      "title": "USA: Aussetzung von Trumps Briefwahldekret verlängert",
-      "url": "https://orf.at/stories/3441257/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-09-05T07:30:46+02:00",
-      "featured": false
-    },
-    {
-      "id": "1e8260501565",
-      "title": "Großer Stresstest für Wiener „Öffi“-Netz",
-      "url": "https://orf.at/stories/3440737/",
-      "category": "Chronik",
-      "excerpt": "Ab Montag gilt der Ernstfall für ganz viele, die nach und in Wien öffentlich unterwegs sind: Denn was „dank“ eines Kabelbrands bereits in den Ferien Realität wurde, wird nun zum harten Alltag – und zwar abseits von ferienbedingt kommoden Verhältnissen in den „Öffis“. Die Rede ist von der am Montag beginnenden einjährigen Totalsperre des zentralen Stücks der S-Bahn-Stammstrecke zwischen Praterstern und Hauptbahnhof bzw. St. Marx – quasi der Südosttangente des Schienenverkehrs. Fix ist: Geduld tut gut.",
-      "source": "ORF",
-      "date": "2026-09-05T07:30:09+02:00",
-      "featured": false
-    },
-    {
-      "id": "359a6a6419f8",
-      "title": "Schauspiellegende Erni Mangold im Alter von 99 gestorben",
-      "url": "https://kurier.at/kultur/erni-mangold-schauspielerin-tot-nachruf-todesfall/403188634",
-      "category": "Kultur",
-      "excerpt": "Die österreichische Schauspielerin und Kammerschauspielerin Erni Mangold ist tot. Die vielfach ausgezeichnete Schauspielerin starb am 5. September 2026 im Alter von 99 Jahren im Kreis ihrer Familie, berichtet der Standard.Mit Mangold verliert Österreich eine seiner prägendsten Theater- und Filmschauspielerinnen. Über Jahrzehnte hinweg zählte sie zu den bekanntesten Persönlichkeiten der österreichischen Kulturlandschaft und stand auf den bedeutendsten Bühnen des Landes sowie Deutschlands.Erni Mangold wurde am 26. Jänner 1927 in Großweikersdorf in Niederösterreich geboren. Bereits in jungen Jahren entdeckte sie ihre Leidenschaft für die Schauspielkunst und entwickelte sich zu einer festen Größe des deutschsprachigen Theaters. Bekannt war sie unter anderem für ihre Engagements am Theater in d",
-      "source": "Kurier",
-      "date": "2026-09-05T07:17:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "c3b4d60e7892",
-      "title": "„Schwieriger zu schummeln“: Wiederkehr für mehr mündliche Prüfungen",
-      "url": "https://kurier.at/politik/inland/wiederkehr-ki-leistungsbeurteilung-schule-ki-strategie/403188590",
-      "category": "Politik/Inland",
-      "excerpt": "In Österreich nutzt laut Umfragen schon die Mehrheit der Jugendlichen KI-Chatbots wie ChatGPT, um Arbeiten für die Schule zu erledigen.Wie diese selbst mit KI umgehen soll, will das Bildungsministerium in einer neuen KI-Strategie festschreiben. Neben Grundsatzfragen soll es darin darum gehen, welche Tools erlaubt sind oder welche Regeln bei Prüfungen gelten. Bildungsminister Christoph Wiederkehr (Neos) will auch über Anpassungen bei der Leistungsbeurteilung diskutieren.Hausaufgaben verlieren an BedeutungHausaufgaben hätten durch die Möglichkeiten der KI weniger Bedeutung als früher. Im Gegenzug sei das Abprüfen, gemeinsame Argumentieren, Präsentieren und Diskutieren im Klassenzimmer viel wichtiger geworden. „Dort ist es auch wesentlich schwieriger, zu schummeln“, so der Minister im Gespräc",
-      "source": "Kurier",
-      "date": "2026-09-05T07:08:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "b410081da91a",
-      "title": "Vea Kaisers Kolumne „Fabelhafte Welt“: Geschenke, die der Sommer macht",
-      "url": "https://kurier.at/kolumnen/vea-kaisers-kolumne-fabelhafte-welt/403187499",
-      "category": "Kolumnen",
-      "excerpt": "In den letzten Jahren lernte ich, dass Kinder nicht wachsen, sondern sich sprunghaft entwickeln. Kaum hat man sich auf einen Entwicklungsstand eingestellt, ist alles anders. Man organisiert den Tag um ihren Rhythmus, doch zackbumms wird das Mittagsschlafi verweigert und man muss das Leben umkalibrieren, als wäre man Hauptpfleger einer neu entdeckten Spezies. Essensvorlieben, Kleidungswünsche oder Spielzeug: Man glaubt, man hat alles im Griff, und schlagartig ist das Einpacken des Lieblingsteddys eine Majestätsbeleidigung. Diesen Sommer geschah es von einem Tag auf den anderen, dass meine Söhne friedlich und ausdauernd miteinander spielten. Plötzlich musste ich nicht mehr dabeisitzen und ihre Gefühle managen. Sie waren mit sich selbst zufrieden. Das war also die Belohnung für Jahre mit zwei",
-      "source": "Kurier",
-      "date": "2026-09-05T07:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a059748496be",
-      "title": "Integrationsministerin Bauer will Verbot der Muslimbruderschaft",
-      "url": "https://www.diepresse.com/41233260/integrationsministerin-bauer-will-verbot-der-muslimbruderschaft",
-      "category": "Die Presse",
-      "excerpt": "Claudia Bauer arbeitet aktuell an einem Entwurf für ein Verbot des Politischen Islam. Davon könnte auch die Islamische Glaubensgemeinschaft in Österreich (IGGÖ) betroffen sein.",
-      "source": "Die Presse",
-      "date": "2026-09-05T06:50:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "b7faad021212",
-      "title": "Alcaraz änderte Outfit: „Zu oft meinen Nippel gesehen“",
-      "url": "https://kurier.at/sport/tennis/tennis-alcaraz-us-open-sabalenka-nippel/403188587",
-      "category": "Sport/Tennis",
-      "excerpt": "Tennis-Star Carlos Alcaraz hat bei den US Open auf zahlreiche Online-Reaktionen reagiert und sein Outfit gewechselt.„Man hat zuletzt zu oft meinen Nippel gesehen. Ich habe gedacht, ich könnte sie zumindest für ein Match verstecken“, begründete der Spanier lachend seine Entscheidung beim Grand-Slam-Turnier in New York. Es sei seine Entscheidung unabhängig von seinem Ausrüster Nike gewesen, betonte der Titelverteidiger.In den ersten beiden Spielen war der 23-Jährige im weit geschnittenen ärmellosen Basketball-Shirt aufgelaufen. Bei Schlagbewegungen wurden dabei immer wieder seine Brustwarzen freigelegt, was im Internet für reichlich Diskussionen sorgte.Für sein Drittrundenmatch gegen Wu Yibing zog Alcaraz sich nun ein eng anliegendes weißes Shirt unter das Tanktop. „Ich habe mich wirklich wo",
-      "source": "Kurier",
-      "date": "2026-09-05T06:48:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "083e57de78c7",
-      "title": "Wiederkehr will wegen KI Leistungsbeurteilung an Schulen anpassen",
-      "url": "https://www.diepresse.com/41233249/wiederkehr-will-wegen-ki-leistungsbeurteilung-an-schulen-anpassen",
-      "category": "Die Presse",
-      "excerpt": "Hausaufgaben hätten weniger Bedeutung als früher, dafür seien Abprüfen, Argumentieren, Präsentieren und Diskutieren im Klassenzimmer nun wichtiger.",
-      "source": "Die Presse",
-      "date": "2026-09-05T06:33:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "59de66c43d90",
-      "title": "Neue Zahlen zeigen: Mehr ausländische Schüler, aber auch mehr Deutsch im Umgang [premium]",
-      "url": "https://www.diepresse.com/41230198/neue-zahlen-zeigen-mehr-auslaendische-schueler-aber-auch-mehr-deutsch-im-umgang",
-      "category": "Die Presse",
-      "excerpt": "Der Anteil an Schülern mit ausländischer Staatsangehörigkeit hat sich in den letzten zehn Jahren mehr als verdoppelt. Dafür haben mehr Kinder Deutsch als Umgangssprache, es gibt auch weniger „außerordentliche“ Schüler.",
-      "source": "Die Presse",
-      "date": "2026-09-05T06:06:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "c4198272ab9a",
-      "title": "Sachsen-Anhalt: Wahlforscher erwarten diesmal keine Überraschung",
-      "url": "https://kurier.at/politik/ausland/wahl-landtag-sachsen-anhalt-magdeburg-afd-cdu/403188580",
-      "category": "Politik/Ausland",
-      "excerpt": "Am Wahlwochenende werden in Sachsen-Anhalt mehrere tausend Menschen zu Demonstrationen und Kundgebungen erwartet.Nach Polizeiangaben sind ein Dutzend Veranstaltungen in der Landeshauptstadt Magdeburg und mehrere Kundgebungen für Demokratie in Halle (Saale) angemeldet. Die größte findet ab Samstagnachmittag auf dem Magdeburger Domplatz statt: Hier erwartet ein Bündnis aus Gewerkschaften und Zivilgesellschaft rund 8.000 Teilnehmerinnen und Teilnehmer.AfD vor WahlsiegDaneben begeht die in Umfragen haushoch vor der CDU führende und auf eine Alleinregierung hoffende AfD ihren offiziellen Wahlkampfabschluss.Bei der Wahl des neuen Landtags am Sonntag dürfte die erst vor 13 Jahren gegründete AfD aller Voraussicht nach mit Abstand stärkste Kraft werden. Die Frage ist, ob ihr Sieg deutlich genug aus",
-      "source": "Kurier",
-      "date": "2026-09-05T06:03:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "103aae34ca2d",
-      "title": "Politischer Islam: Bauer will Verbot der Muslimbruderschaft",
-      "url": "https://www.derstandard.at/story/3000000338521/politischer-islam-bauer-will-verbot-der-muslimbruderschaft?ref=rss",
+      "id": "833dcea3e1e1",
+      "title": "Geplantes Verbot des politischen Islam: Islamische Kultusgemeinden stellen sich gegen Bauer",
+      "url": "https://www.derstandard.at/story/3000000338595/geplantes-verbot-des-politischen-islam-islamische-kultusgemeinden-stellen-sich-gegen-bauer?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Momentan sind nur Symbole der Muslimbruderschaft verboten. Auch die Islamische Glaubensgemeinschaft in Österreich (IGGÖ) könnte von einem Verbot betroffen sein",
+      "excerpt": "Für Integrationsministerin steht ein Verbot der IGGÖ nicht mehr im Raum. Zuvor hatte sie dieses nicht ausgeschlossen",
       "source": "Der Standard",
-      "date": "2026-09-05T05:55:23+00:00",
+      "date": "2026-09-06T08:01:34+00:00",
       "featured": false
     },
     {
-      "id": "948f33cb93ac",
-      "title": "„Terrororganisation“: Bauer will Muslimbruderschaft verbieten",
-      "url": "https://kurier.at/politik/inland/politischer-islam-bauer-verbot-muslimbruderschaft/403188579",
-      "category": "Politik/Inland",
-      "excerpt": "Integrationsministerin Claudia Bauer (ÖVP) will sich im Zuge des Verbots des Politischen Islam auch für ein Verbot der Muslimbruderschaft und weiterer islamistischer Organisationen in Österreich einsetzen. Deren Symbole seien zwar verboten, Vereine könnten sie hierzulande aber gründen, sah sie im Interview mit der APA Handlungsbedarf. Vom Verbot des Politischen Islam könne indes auch die Islamische Glaubensgemeinschaft in Österreich (IGGÖ) betroffen sein, so die Ministerin.„Ich glaube, man kann es nicht ausschließen“, sagte sie in Bezug auf die IGGÖ. Denn das Schwierige am Politischen Islam sei, dass er sich „auch in etablierten Institutionen schleichend breitgemacht hat.“ Von der Glaubensgemeinschaft forderte Bauer jedenfalls eine klare Stellungnahme dazu, „wo die Grenze hier ist“. In der",
-      "source": "Kurier",
-      "date": "2026-09-05T05:34:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "1039ae6d345c",
-      "title": "Bewegung in Ukraine-Verhandlungen: Trump schickt Vermittler",
-      "url": "https://kurier.at/politik/ausland/ukraine-krieg-russland-trump-vermittler-kushner-witkoff/403188578",
-      "category": "Politik/Ausland",
-      "excerpt": "In die Verhandlungen über ein Ende des Ukraine-Kriegs könnte unter Vermittlung der USA wieder Bewegung kommen.Der ukrainische Präsident Wolodymyr Selenskij kündigte einen Besuch des US-Sondergesandten Steve Witkoff und des Schwiegersohns von Präsident Donald Trump, Jared Kushner, am Wochenende an. Besprochen sei, dass beide zunächst Moskau besuchen und am Sonntag erstmals überhaupt nach Kiew reisen, sagte Selenskij in einer Videobotschaft.Für Medienberichte über den Beginn einer angeblichen Waffenruhe am Wochenende gab es zunächst keine offizielle Bestätigung. Die russische Seite hielt sich bedeckt. Kremlsprecher Dmitri Peskow antwortete der staatlichen russischen Nachrichtenagentur Tass zufolge auf die Frage, wann Witkoff und Kushner in Moskau erwartet würden: „Ich werde nichts ankündigen",
-      "source": "Kurier",
-      "date": "2026-09-05T05:19:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "6495d6b817ca",
-      "title": "„Cat Spanking“ auf Social Media: Was an dem Katzenspaß problematisch ist",
-      "url": "https://kurier.at/trend-hub/cat-spanking-bedeutung-video-trend-social-media/403188497",
-      "category": "Trend Hub",
-      "excerpt": "Videos, in denen Katzen auf den Hinterkörper geklopft oder geschlagen wird, sorgen derzeit in sozialen Netzwerken für Aufmerksamkeit. Manche Halter behaupten, ihren Tieren würden die ungewöhnliche Behandlung gefallen. Doch was sagen Experten dazu?Wenn vermeintlicher Spaß nach Stress aussiehtUnter dem Hashtag „Cat Spanking“ werden Videos verbreitet, in denen Katzen wiederholt auf den hinteren Körperbereich geschlagen oder geklopft wird. Teilweise kommen dabei neben der flachen Hand auch Gegenstände zum Einsatz.Die Clips erzielen zum Teil zehntausende Aufrufe. In den Kommentaren verteidigen sich Halter häufig, indem sie behaupten, dass die Vierbeiner das Unterfangen „mögen“ würden. Bei genauerem Hinsehen zeigen manche Katzen allerdings ein anderes Bild.Welche Zeichen oft missinterpretiert we",
-      "source": "Kurier",
-      "date": "2026-09-05T05:12:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "891c089b27a3",
-      "title": "Strafen für Parkplatzsünder während Sonnenfinsternis",
-      "url": "https://kurier.at/chronik/wien/strafen-parkplatzsuender-sonnenfinsternis-sophienalpe-wien-penzing/403188536",
-      "category": "PLUS - Chronik/Wien",
-      "excerpt": "Die Massen pilgerten Mitte August auf die Sophienalpe, um zu sehen, wie die Sonne hinter dem Mond verschwindet. Zu kämpfen hatten die Schaulustigen an jenem12. August aber wohl nicht nur damit, noch rechtzeitig eine Schutzbrille zu erhalten. Sondern auch, einen Parkplatz auf der Sophienalpe zu erhalten – und dabei nicht gestraft zu werden.Denn wie ein Leser dem KURIER berichtet, sei es bereits bei der Anreise zu „kleineren Staus“ gekommen. „Hunderte Bürgerinnen waren gezwungen, auf diversen Straßenrändern im Bereich des Wienerwaldes zu parken“, so der Leser. Er und sein Bekannter selbst hätten auf dem Großparkplatz des ehemaligen Einkehrgasthofs geparkt. Also genau dort, wo noch bis vor etwas mehr als einem Jahr hohe Summen für das Abstellen von Autos eingeklagt wurden. Die Autos wurden da",
-      "source": "Kurier",
-      "date": "2026-09-05T05:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "12dea082a2e8",
-      "title": "ÖBB-Chef Matthä: Bahnreform soll bis zu 80 Millionen Euro bringen",
-      "url": "https://kurier.at/wirtschaft/andreas-matthae-zib2-oebb/403188577",
+      "id": "5abe5df42edb",
+      "title": "„Nachfrage nach Flugreisen ungebrochen“: Sommerrekorde im heimischen Luftraum",
+      "url": "https://kurier.at/wirtschaft/rekorde-fluege-flugreisen-schwechat-urlaubszeit-passagiere/403188966",
       "category": "Wirtschaft",
-      "excerpt": "Der Gesetzesentwurf für die geplante größte Bahnreform seit mehr als 20 Jahren liegt seit Kurzem vor und wird aktuell in der Bundesregierung akkordiert - der KURIER berichtete.Der Kernpunkt der neuen Bahnstruktur: Die Konzerntöchter Personenverkehr und ÖBB Rail Cargo Group (Fracht), die derzeit noch sehr eigenständige AGs sind und jeweils mehrere tausend Mitarbeiter haben, werden in GmbHs umgewandelt. Damit sollen die Steuerungsmöglichkeiten der Holding gestärkt und die Verantwortlichkeiten innerhalb des Konzerns klarer organisiert werden. Zu der geplanten Reform war am Freitag auch Andreas Matthä, Vorstandsvorsitzender der ÖBB-Holding AG, in der ZIB 2 des ORF zu Gast.„Wir wollen den Konzern schlanker machen, damit auch wettbewerbsfähiger aufstellen“, sagte Matthä. Man sei „seit 25 Jahren ",
+      "excerpt": "Heuer im Sommer sind am Himmel über Österreich zwei Rekorde gefallen. Einerseits gab es mit 250.000 Flügen in der Hauptreisezeit von Ende Juni bis Ende August ein Allzeithoch. Andererseits wurden am 25. Juli mit 4.502 Flügen so viele verzeichnet wie noch nie an einem einzelnen Tag. Bisheriger Rekordtag war der 13. Juli 2025 mit 4.281 Flügen. Heuer wurden also erstmals mehr als 4.500 Flüge an einem Tag verzeichnet, heißt es von der Austro Control auf APA-Anfrage.Die Viertelmillion Flugbewegungen entsprach den Angaben zufolge einem Plus von zwei Prozent gegenüber der Vorjahressaison. Bereits 2025 hatte der Verkehr um 13 Prozent gegenüber derselben Periode 2024 zugenommen. „Die Rekordwerte verdeutlichen, dass die Nachfrage nach Flugreisen weiterhin ungebrochen ist. Auch über ganz Europa war a",
       "source": "Kurier",
-      "date": "2026-09-05T04:44:03+00:00",
+      "date": "2026-09-06T07:49:22+00:00",
       "featured": false
     },
     {
-      "id": "63ea75e92495",
-      "title": "„Favorite Fall“ – wie der Kulturherbst in Favoriten einfällt",
-      "url": "https://kurier.at/chronik/wien/favorite-fall-festival-favoriten-programm/403188500",
-      "category": "PLUS - Chronik/Wien",
-      "excerpt": "Wer Favoriten hört, denkt an Messerstechereien und Waffenverbotszonen, an Keplerplatz und Kriminalität. Laut einer OGM-Umfrage fühlen sich 52 Prozent der Menschen in Favoriten unsicher, tatsächlich ist die Kriminalitätsrate in den Bezirken Mariahilf oder Alsergrund höher.Favoriten ist jedenfalls viel mehr. Und deshalb passt gerade für diesen Bezirk das heurige Festivalmotto „Wie hält eine diverse Stadt zusammen? Wie sprechen wir über Differenzen, ohne uns spalten zu lassen?“ perfekt.Neues Format mit Blick auf die JugendDer Kulturverein Echolot hat ein neues Format für den öffentlichen Raum entwickelt, bei dem Fragen wie Ausgrenzung, Diskriminierung und Zivilcourage thematisiert werden. Das Format heißt Public Polis Process (PPP) und findet an drei Abenden während des Festivals, das vom 21.",
+      "id": "7c80ff10b3a2",
+      "title": "„Pauschale Verdächtigungen“: Islamische Kultusgemeinden gegen Bauer",
+      "url": "https://kurier.at/politik/inland/islam-kultusgemeinde-bauer-oevp-iggoe/403188965",
+      "category": "Politik/Inland",
+      "excerpt": "Die zehn islamischen Kultusgemeinden unter dem Dach der Islamischen Glaubensgemeinschaft (IGGÖ) stellen sich gegen Aussagen von Kanzleramtsministerin Claudia Bauer (ÖVP), die im APA-Interview ein Verbot der IGGÖ nicht ausgeschlossen hatte. Eine gesetzlich anerkannte Religionsgesellschaft, die die offizielle Vertretung der Musliminnen und Muslime in Österreich sei, ohne konkrete Belege in die Nähe eines Verbots zu rücken, werde dem Anspruch eines Rechtsstaates nicht gerecht.„Pauschale Verdächtigungen“In der gemeinsamen Erklärung werden „pauschale Verdächtigungen“ zurückgewiesen. Wer von einer angeblichen Radikalisierung spreche, müsse konkrete Fakten und überprüfbare Fälle benennen. Die Kultusgemeinden stünden zur Verfassung, zum Rechtsstaat und zu einem sachlichen Dialog: „Aber wir erwarte",
       "source": "Kurier",
-      "date": "2026-09-05T04:33:00+00:00",
+      "date": "2026-09-06T07:34:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "67ef9dfa25f9",
+      "title": "Sachsen-Anhalt wählt",
+      "url": "https://orf.at/stories/3440966/",
+      "category": "Ausland",
+      "excerpt": "Die Zahl der Wahlberechtigten erscheint mit rund 1,7 Millionen überschaubar, dennoch richten sich am Sonntag die Blicke über die Landesgrenzen hinaus auf Sachsen-Anhalt. Im Fokus steht die vor einem klaren Wahlsieg stehende Alternative für Deutschland (AfD) und die Frage, ob die von Sachsen-Anhalts Verfassungsschutz als gesichert rechtsextremistisch eingestufte Partei erstmals in einem deutschen Bundesland die Macht übernimmt.",
+      "source": "ORF",
+      "date": "2026-09-06T07:32:44+02:00",
+      "featured": false
+    },
+    {
+      "id": "f47ab2eca770",
+      "title": "Bürgermeister jubelt: „Abraham Lincoln“-Landgang bringt Millionen Dollar",
+      "url": "https://kurier.at/politik/ausland/us-flugzeugtraeger-abraham-lincoln-pattaya-thailand/403188962",
+      "category": "Politik/Ausland",
+      "excerpt": "Nach fünf Tagen Landgang in Thailand haben die 5.000 Matrosen und Marinesoldaten des wegen Missständen in die Negativschlagzeilen geratenen US-Flugzeugträgers „USS Abraham Lincoln“ am Sonntag wieder abgelegt. Der Marine-Koloss verließ gegen 11.00 Uhr Ortszeit den im Süden des Landes gelegenen Hafen von Laem Chabang, wie AFP-Reporter berichteten.Sie hatten sich in der bei Touristen beliebten Stadt Pattaya nach fast zehn Monaten auf See ein paar Tage lang von den Strapazen an Bord der „Abraham Lincoln“ erholen können. US-Medien hatten berichtet, dass die Besatzung angesichts des langen Einsatzes unter einem Mangel an Lebensmitteln, defekten sanitären Anlagen und fehlenden Hygiene-Artikeln litt. Es habe eine große psychische Belastung für die Besatzungsmitglieder und sogar Suizidversuche gege",
+      "source": "Kurier",
+      "date": "2026-09-06T07:23:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "770e99dd9137",
+      "title": "Rachel Cusks Roman „Das Leben der M“: Die Wirklichkeit, ein Film",
+      "url": "https://kurier.at/kultur/buch/rachel-cusk-roman-das-leben-der-m-natalie-portman-kritik/403186758",
+      "category": "PLUS - Kultur/Buch",
+      "excerpt": "Dieses Buch hat schon lange vor seinem Erscheinen Schlagzeilen gemacht. Es tauchte nämlich die pikante Frage auf: Handelt der neue Roman von Rachel Cusk, „Das Leben der M“ von Hollywood-Schauspielerin Natalie Portman? Und: Wie findet das Natalie Portman, wenn es so wäre?Nun ist so eine Frage bei der seriösen Beschäftigung mit einem literarischen Werk ziemlich nichtig. Und die kanadische Schriftstellerin hat kürzlich auch entnervt gemeint: „Darum geht es gar nicht.“ Aber man kann es den Exegeten nicht verübeln, dass sie auf die Idee kommen. Immerhin erinnert die Protagonistin M schon beachtlich an Portman. Auch sie hat bereits als 13-jähriges Kind in einem Film gespielt, den sich Gleichaltrige nicht anschauen hätten dürfen („Leon, der Profi“). Auch sie hat in einem düsteren Ballett-Film („B",
+      "source": "Kurier",
+      "date": "2026-09-06T07:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "3165beda6827",
+      "title": "Passaffäre an österreichischer Botschaft in London",
+      "url": "https://www.diepresse.com/41234743/passaffaere-an-oesterreichischer-botschaft-in-london",
+      "category": "Die Presse",
+      "excerpt": "79 Dokumente wurden in der Botschaft in London rechtswidrig ausgestellt. Die Dokumente wurden für ungültig erklärt und wurden entzogen.",
+      "source": "Die Presse",
+      "date": "2026-09-06T06:57:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "bcbbf905d263",
+      "title": "Schumann über Sozialhilfereform: „Bin optimistisch“",
+      "url": "https://kurier.at/politik/inland/schumann-sozialhilfe-reform-pensionen-kinderbetreuung/403188957",
+      "category": "Politik/Inland",
+      "excerpt": "Sozialministerin Korinna Schumann (SPÖ) gibt sich zuversichtlich, in der Koalition und mit den Bundesländern eine Einigung auf die Reform der Sozialhilfe zu schaffen. „Ich bin optimistisch, dass das gelingen wird“, sagte sie im Interview mit der APA. Im Gesundheitsbereich verteidigte sie die Reformpartnerschaft, in der man einen Ausbau des ambulanten Angebots vereinbart hat. In Sachen ÖVP-Pensionsideen darf aus ihrer Sicht das Umlageverfahren keinesfalls geschwächt werden. „Umfassendes Gesamtpaket“Die Ministerin nennt ihren Entwurf für die Sozialhilfe Neu ein „umfassendes Gesamtpaket“. Sie hat es dieser Tage an ÖVP und Neos sowie die Bundesländer zur Abstimmung übermittelt. Herzeigen will Schumann den Entwurf noch nicht, nennt aber Eckpunkte. „Ganz wesentlich ist die Armutsbekämpfung und d",
+      "source": "Kurier",
+      "date": "2026-09-06T06:49:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "a791b179e909",
+      "title": "Sommerliche Rekorde bei Flügen über Österreich",
+      "url": "https://orf.at/stories/3441337/",
+      "category": "Wirtschaft",
+      "excerpt": "",
+      "source": "ORF",
+      "date": "2026-09-06T06:37:51+02:00",
+      "featured": false
+    },
+    {
+      "id": "8ce5382af52e",
+      "title": "US Open: Tagger auch im Doppel out, Zverev im Eiltempo weiter",
+      "url": "https://kurier.at/sport/tennis/tennis-zverev-us-open-tagger-doppel-osaka/403188956",
+      "category": "Sport/Tennis",
+      "excerpt": "Der topgesetzte Deutsche Alexander Zverev hat bei den US Open das nächste kräftezehrende Mammutmatch vermieden und ist im Eiltempo ins Achtelfinale eingezogen. Der French-Open-Sieger gewann das Duell mit Alejandro Tabilo aus Chile mit 6:2,7:6(2),6:2. Bei den Frauen stehen die als Nummer 2 gesetzte Kasachin Jelena Rybakina und Lokalmatadorin Coco Gauff (4) beim letzten Tennis-Grand-Slam des Jahres im Achtelfinale, für ÖTV-Hoffnung Lilli Tagger war im Doppel hingegen Schluss.Zverev überstand bei seinem Sieg auch kurze Frustmomente. Er warf seinen Schläger im dritten Satz genervt von eigenen Fehlern an die Wand hinter der Grundlinie im Arthur Ashe Stadium - durfte aber dank einer stabilen Leistung nach 2:25 Stunden Spielzeit um 1.09 Uhr Ortszeit jubeln. Für die ersten beiden Siege beim Grand-",
+      "source": "Kurier",
+      "date": "2026-09-06T06:34:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "62413dad9070",
+      "title": "Etwas weniger Taferlklassler, Schülerzahlen stagnieren",
+      "url": "https://www.derstandard.at/story/3000000338586/erneut-etwas-weniger-taferlklassler-sch252lerzahlen-stagnieren?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Am Montag startet für 512.000 Kinder und Jugendliche in Wien, Niederösterreich und Burgenland die Schule, davon 95.000 Taferlklassler. Das sind um rund ein Prozent weniger als zuletzt",
+      "source": "Der Standard",
+      "date": "2026-09-06T06:17:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "e70999adb7c8",
+      "title": "Wanderroute mit ChatGPT planen? Bergrettung warnt vor Gefahren",
+      "url": "https://kurier.at/trend-hub/wanderroute-planen-ki-chatgpt-gefahren/403185962",
+      "category": "Trend Hub",
+      "excerpt": "Wanderkarten waren früher unverzichtbarer Bestandteil der Planung von Wander- und Klettertouren. Heute kann man sich auf Knopfdruck eine Route erstellen lassen. Dafür muss man einen KI-Chatbot lediglich mit ein paar wenigen Informationen füttern und schon erhält man einen detaillierten Tourenplan. Doch was zunächst nach einer praktischen Erleichterung klingt, birgt auch Gefahren. Die Bergrettung Meran warnt davor, sich auf KI-generierte Routen zu verlassen.Bergrettung warnt vor KI-generierten WandertourenWie Rai Südtirol berichtet, erfuhr die Bergrettung kürzlich von einem Fall, bei dem sich eine Gruppe junger Wanderer auf eine mithilfe Künstlicher Intelligenz erstellte Tour verlassen hatte. Die vorgeschlagene Route wollten sie tatsächlich auch begehen. Erst im Gespräch mit dem Eigentümer ",
+      "source": "Kurier",
+      "date": "2026-09-06T06:12:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0ec7c1826949",
+      "title": "Das Kuriositäten-Kabinett der Stadt",
+      "url": "https://kurier.at/chronik/wien/fundservice-stadt-ma48/403188488",
+      "category": "PLUS - Chronik/Wien",
+      "excerpt": "Beinprothese, Gebisse, Reanimationspuppe – Gegenstände, die man wohl nicht täglich verliert. Im Fundservice Wien sind sie trotzdem schon aufgetaucht. „Viele Fundstücke sind auch für uns eine Überraschung“, sagt Esmada Kurbegovic. Sie ist die Leiterin des Fundservices und hat schon vieles erlebt. „Manche Funde bleiben einem ewig im Kopf.“So kurios manche Fundstücke sind, so alltäglich ist der Rest des Geschäfts. Schlüssel, Handys, Geldbörsen und Ausweise kommen täglich ins Fundservice in Margareten, das zur MA48 gehört. Rund 1.000 Gegenstände kommen pro Woche in die Zentrale, in Spitzenzeiten bis zu 1.400. Im vergangenen Jahr waren es rund 126.000 Fundstücke. Etwas weniger als die Hälfte, rund 57.000 Gegenstände, wurden von den Besitzern auch wieder abgeholt. Darunter oft wertvolle Dinge: R",
+      "source": "Kurier",
+      "date": "2026-09-06T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ae29ecef662f",
+      "title": "Lake America: Und wo bitte soll der Österreichsee liegen?",
+      "url": "https://kurier.at/kolumnen/ueber-den-tellerrand/donald-trump-lake-ontario-lake-america-geografie-umbennenungen-kolumne/403188393",
+      "category": "Kolumnen/Über den Tellerrand",
+      "excerpt": "Es ist schon wieder was passiert, würde Autor Wolf Haas die Geschichte beginnen: Der US-Präsident benannte den Grenzsee zu Kanada von Lake Ontario in Lake America um. Nicht, dass wir dort oft hingefahren wären oder uns jetzt wundern würden, aber da muss man den gescholtenen Donald einmal in Schutz nehmen. Geografische Umbenennungen sind in der Menschheitsgeschichte nicht ungewöhnlich, die Nazis eliminierten jede Menge ostpreußische Namen und der ugandische Diktator Idi Amin machte aus dem kolonialen Lake Victoria (wieder) den Nalubaale-See. Jede Menge historische Vorbilder also für den US-Primus, und wenn man bedenkt, dass der Schlächter Idi Amin den Lake Albert auf Lake Idi Amin Dada umbenannte, muss man fürchten, dass wir nur mehr einen nervösen Zucker von einem Donaldic Ocean entfernt s",
+      "source": "Kurier",
+      "date": "2026-09-06T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0c01068503a",
+      "title": "Hallo Herbst: Die wichtigsten Trends der neuen Saison",
+      "url": "https://kurier.at/lifestyle/mode-fashion-beauty-lifestyle/403187527",
+      "category": "Lifestyle",
+      "excerpt": "Mit dem September beginnt die wichtigste Modesaison des Jahres. Denn so gern wir Sommerkleidung kaufen – die größeren Investitionen wie Mäntel, Jacken und Stiefel werden im Herbst getätigt. Die Mode bleibt dabei im Remix-Modus: Bekanntes wird neu kombiniert, Vintage trifft auf Neues, und wichtiger als jeder Trend ist der eigene Stil.Und trotzdem hat die neue Herbst/Winter-Saison einiges zu bieten: mehr Opulenz, mehr Farbe, mehr Textur – von Samt und Transparenz bis zu auffälligem Flausch und Pelzoptiken. Der Herbst darf wieder ein bisschen mehr sein.Leder-LustWieder mal Herbstliebling. Neben Schwarz und Braun kommen auch kräftige Farben wie Rot oder Senf ins Nappa-Spiel. Getragen als Mantel, Kleid, Blouson, Hose, also eh alles. Besonders konsequent als Komplettlook von Kopf bis Fuß.Exzentr",
+      "source": "Kurier",
+      "date": "2026-09-06T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "956790f3d91e",
+      "title": "US-Militär hat iranischen Öltanker versenkt",
+      "url": "https://kurier.at/politik/ausland/us-militaer-iran-oeltanker-usa-hormus/403188955",
+      "category": "Politik/Ausland",
+      "excerpt": "Ein von den USA angegriffener iranischer Öltanker ist nach Angaben des US-Militärs im Golf von Oman gesunken. Das Versenken der „M/T Kylo“ sei der „Präzision und der Professionalität“ der US-Soldaten zu verdanken, erklärte das zuständige US-Regionalkommando Centcom in der Nacht auf Sonntag auf X.Der Tanker war demnach nicht mit Öl beladen. Ein vom US-Militär veröffentlichter Videoclip schien das getroffene Schiff zunächst mit Schlagseite zu zeigen, dann ging es unter.Das US-Militär hatte bereits am Samstag mitgeteilt, drei iranische Öltanker angegriffen zu haben. Das Schiff „M/T Kylo“ sei dabei an „mehreren entscheidenden Stellen“ getroffen worden, um es unbrauchbar zu machen. Die Besatzung sei zuvor angewiesen worden, den Tanker zu verlassen, hieß es. Die Angaben des Militärs ließen sich ",
+      "source": "Kurier",
+      "date": "2026-09-06T05:34:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "b4e0906e1676",
+      "title": "US-Vermittler in Moskau: „Visite hat erwartungsgemäß zu nichts geführt“",
+      "url": "https://kurier.at/politik/ausland/ukraine-us-gesandte-putin-kiew-witkoff-kushner-selenskij/403188954",
+      "category": "Politik/Ausland",
+      "excerpt": "Nach einem Treffen mit Kremlchef Wladimir Putin in Moskau reisen die US-Vermittler Steve Witkoff und Jared Kushner erstmals zu Gesprächen über eine mögliche Beendigung des Ukraine-Kriegs nach Kiew. Präsident Wolodymyr Selenskij will die Gesandten von US-Präsident Donald Trump heute in der ukrainischen Hauptstadt empfangen. Der Besuch soll im Schutz einer von Selenskij und Putin erklärten örtlich und auf drei Tage begrenzten Waffenruhe stattfinden.Moskau hat zugesichert, zur Sicherheit für die US-Gesandten auf Luftangriffe gegen die Stadt Kiew zu verzichten. Witkoff und Trumps Schwiegersohn hatten den Kreml in der Nacht nach einem gut dreistündigen Gespräch mit Putin verlassen. Dem Vernehmen nach brachte die Unterredung zunächst keine greifbaren Ergebnisse. Putins außenpolitischer Berater J",
+      "source": "Kurier",
+      "date": "2026-09-06T05:23:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "5a84253eb2ba",
+      "title": "Finale: Vienna Vikings jagen den Titel in der neuen Liga",
+      "url": "https://kurier.at/sport/vienna-vikings-american-football-afle-lumsden-calaycay-holmes-seikovits/403188920",
+      "category": "PLUS - Sport",
+      "excerpt": "Vier Jahre ohne Titel ist eine lange Zeit. Vor allem, wenn man so knapp dran war, wie die Vienna Vikings zuletzt. Nach dem ELF-Titel 2022 und zwei Final-Niederlagen 2024 und 2025 stehen die Wikinger jetzt wieder im Endspiel. Diesmal in der neu gegründeten AFLE, eine der beiden Nachfolgeligen der ELF.„Wir sind bereit“, tönt Tight End Bernhard Seikovits vor dem finalen Duell mit den Wroclaw Panthers am Sonntag (15.30/live ORF+). Panthers? Da war doch was. Richtig! Das Team aus Polen hat den Wienern in 13 Saisonspielen die einzige Niederlage zugefügt, am Sport-Club-Platz hatten sich die Panthers überraschend 34:31 durchgesetzt. „Wir haben gesehen, dass Wroclaw am Saisonende in Topform war und hart erkämpfte Auswärtssiege gefeiert hat“, sagte Chris Calaycay, der Headcoach der Vikings. „Das wir",
+      "source": "Kurier",
+      "date": "2026-09-06T04:31:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "979f43a1029f",
+      "title": "Der Schulalltag im Zeitalter der KI? „Die Hausübung ist mausetot“",
+      "url": "https://kurier.at/politik/inland/salcher-ki-kuenstliche-intelliegnz-schulsystem-hausuebung/403188554",
+      "category": "PLUS - Politik/Inland",
+      "excerpt": "Morgen beginnt in Ostösterreich das neue Schuljahr. Auch in den Klassenzimmern spielt die Künstliche Intelligenz eine immer wichtigere Rolle. Für Autor Andreas Salcher, der sich intensiv mit dem Thema befasst hat, steht das Schulsystem vor seiner größten Herausforderung.KURIER: Beginnen wir mit einem Sonderfall – auch wenn wir nicht wissen, wie oft das bereits vorkommt: Ein Schüler lässt eine KI die Hausübung schreiben, ändert drei Sätze, um es nach seinem Stil aussehen zu lassen – und die Lehrerin lässt die Hausübung womöglich von einer KI korrigieren. Wenn KI-Texte von KI benotet werden: Wozu gibt es die Hausübung dann noch?Andreas Salcher: Wenn KI-Ergebnisse von KI-Modellen bewertet werden, führt sich das Schulsystem selbst ad absurdum. Da können wir gleich alle nach Hause schicken, um ",
+      "source": "Kurier",
+      "date": "2026-09-06T04:30:00+00:00",
       "featured": false
     }
   ],
@@ -1457,247 +1457,397 @@
       "featured": false
     },
     {
-      "id": "189f90d53551",
-      "title": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
-      "url": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
+      "id": "c22c584374a4",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Falschbehauptungen über Briefwahl ++",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
       "category": "Tagesschau",
-      "excerpt": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
+      "excerpt": "Es ist eine Landtagswahl, die in Deutschland und international genau beobachtet wird: Erstmals könnte die AfD Regierungsverantwortung bekommen. Die Wahllokale haben geöffnet. Etwa 1,7 Millionen Menschen können bis 18 Uhr abstimmen.",
       "source": "Tagesschau",
-      "date": "2026-09-05T09:41:02+02:00",
+      "date": "2026-09-06T09:57:16+02:00",
       "featured": false
     },
     {
-      "id": "be94aea52633",
-      "title": "Flutkatastrophe im Himalaya: Nepals Wut auf die Verursacher des Klimawandels",
-      "url": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-110.html",
+      "id": "ebe1961eeb18",
+      "title": "Polizisten bei Demo mit Metallkugeln beschossen",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html",
       "category": "Tagesschau",
-      "excerpt": "Nach der Sturzflut im Himalaya mit mehr als 1.000 Toten ist die Zerstörung groß. Während die Überlebenden ihre Habseligkeiten bergen, wächst der Zorn: Nepal stößt kaum CO2 aus, wird aber immer härter vom Klimawandel getroffen. Von L. Bodewein.",
+      "excerpt": "In Köln ist eine Anti-Rüstungs-Demo am Samstag mehrfach gestoppt worden, nachdem es zu Zusammenstößen zwischen der Polizei und Demonstranten kam. Vermummte sollen Polizisten mit Metallkugeln beschossen haben.",
       "source": "Tagesschau",
-      "date": "2026-09-05T09:29:51+02:00",
+      "date": "2026-09-06T09:56:44+02:00",
       "featured": false
     },
     {
-      "id": "f245c7cf198e",
-      "title": "Warum Schweden seine Gefangenen in Estland unterbringt",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html",
+      "id": "308aae07b17d",
+      "title": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+      "url": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
       "category": "Tagesschau",
-      "excerpt": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler.",
+      "excerpt": "Innenminister Dobrindt will härter gegen russische Sabotageakte vorgehen. Laut \"BamS\" sollen Einheiten den Luftraum über strategisch wichtigen Städten schützen, Drohnen abfangen und Sprengsätze entschärfen. Auch ein digitales Sicherheitsnetz ist geplant.",
       "source": "Tagesschau",
-      "date": "2026-09-05T08:10:34+02:00",
+      "date": "2026-09-06T09:13:44+02:00",
       "featured": false
     },
     {
-      "id": "0e56bbffc546",
-      "title": "USA genehmigen milliardenschweren Waffenverkauf an Saudi-Arabien",
-      "url": "https://www.derstandard.at/story/3000000338528/usa-genehmigen-milliardenschweren-waffenverkauf-an-saudi-arabien?ref=rss",
+      "id": "b28308dcaf94",
+      "title": "Iran meldet Angriffe auf mehrere US-Tanker in Straße von Hormus",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-tanker-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Die gegenseitigen Angriffe zwischen Iran und den USA dauern an: Die iranische Revolutionsgarde griff nach eigenen Angaben mehrere Schiffe in der Straße von Hormus an. Erst gestern hatten die USA drei iranische Tanker zerstört.",
+      "source": "Tagesschau",
+      "date": "2026-09-06T09:00:08+02:00",
+      "featured": false
+    },
+    {
+      "id": "7a04ae55189c",
+      "title": "AfD erreicht höchsten je gemessenen Wert in einem Bundesland – alle Umfragen zur Wahl in Sachsen-Anhalt",
+      "url": "https://www.nzz.ch/visuals/reicht-es-fuer-eine-absolute-mehrheit-der-afd-in-sachsen-anhalt-alle-umfragen-zur-wahl-ld.10004255",
+      "category": "NZZ",
+      "excerpt": "Wie schneiden die Parteien vor der Wahl am 6. September in Umfragen ab, welche Koalitionen sind möglich – und was treibt die Menschen in Sachsen-Anhalt um? Hier gibt es die aktuellen Zahlen.",
+      "source": "NZZ",
+      "date": "2026-09-06T08:06:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "03ae9484117f",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "source": "BBC World",
+      "date": "2026-09-06T08:05:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "869f62f29a7e",
+      "title": "Nigel Farage to be quizzed as he battles to contain growing donations scandal – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
+      "category": "Politics",
+      "excerpt": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsGood morning and welcome to our live coverage of UK politics. The Reform UK party leader, Nigel Farage, is scheduled to appear on Laura Kuenssberg’s Sunday politics programme at 9am, where he will likely be asked more about an undercover investigation broadcast by Channel 4 News which showed two of his senior aides appearing to plot to get around electoral laws on foreign donations.Accepting donations from a foreign company, including donations in kind such as polling, could constitute a criminal offence and the party has been reported to the police. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-09-06T08:03:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "69f6d28e5520",
+      "title": "Mit viel Jugend und zu viel Rauch zum späten 2:2-Remis – als würde das Zürcher Fussballderby in die Luft fliegen",
+      "url": "https://www.nzz.ch/sport/fussball/kein-sieger-im-295-zuercher-derby-den-grasshoppers-gelingt-spaet-der-ausgleich-ld.10022588",
+      "category": "NZZ",
+      "excerpt": "Erst in der 96. Spielminute gleichen die besseren Grasshoppers den Match gegen den FC Zürich aus. Die unterhaltsame Partie bietet unannehmbare Pyrotechnik, ein kleines Penalty-Drama und Raum für Gedanken, wie es vor über 20 Jahren war.",
+      "source": "NZZ",
+      "date": "2026-09-06T08:02:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "163a744c965f",
+      "title": "Thieves Steal 800 Barrels of Guinness in Britain",
+      "url": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html",
+      "category": "Robberies and Thefts",
+      "excerpt": "The police said they were investigating the theft of about $155,000 worth of the famously creamy Irish stout from an industrial park in northwestern England.",
+      "source": "New York Times",
+      "date": "2026-09-06T07:59:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "691c556f8c7e",
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "category": "Germany",
+      "excerpt": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party.",
+      "source": "New York Times",
+      "date": "2026-09-06T07:58:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "51956de18393",
+      "title": "Zu viele Touristen - wie Dubrovnik gegensteuert",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
+      "category": "Tagesschau",
+      "excerpt": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
+      "source": "Tagesschau",
+      "date": "2026-09-06T07:36:47+02:00",
+      "featured": false
+    },
+    {
+      "id": "5e3340bac3e1",
+      "title": "80 Jahre Pariser Vertrag: Südtirol als europäisches Vorzeigemodell",
+      "url": "https://www.derstandard.at/story/3000000338593/80-jahre-pariser-vertrag-s252dtirol-als-europ228isches-vorzeigemodell?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Damit soll die Luftabwehrfähigkeit Saudi-Arabiens gegen \"aktuelle und zukünftige Bedrohungen\" verbessert werden",
+      "excerpt": "Das Jubiläumsjahr wurde mit Feierlichkeiten in Meran mit Van der Bellen und Mattarella begangen. Beide Staatschefs erhielten den Großen Verdienstorden Südtirols",
       "source": "Der Standard",
-      "date": "2026-09-05T07:39:06+00:00",
+      "date": "2026-09-06T07:33:43+00:00",
       "featured": false
     },
     {
-      "id": "d5d857400ef0",
-      "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+      "id": "0a3982b5f312",
+      "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
+      "category": "Sydney",
+      "excerpt": "Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issueGet our breaking news email, free app or daily news podcastLiza-Jayne Loch was returning home from a business trip to New Zealand when her Qantas flight ran into trouble.The plane was climbing above the scenic South Island’s mountain ranges on Saturday afternoon, bound for Sydney, when a bang shook the cabin. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-09-06T07:32:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "474a0e637081",
+      "title": "Neue israelische Angriffe: Mindestens vier Tote und 20 Verletzte im Südlibanon",
+      "url": "https://www.derstandard.at/story/3000000338592/neue-israelische-angriffe-auf-hisbollah-ziele-im-s252dlibanon?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Unter den Verletzten seien mehrere Frauen und drei Kinder. Die israelische Armee forderte die Einwohner von Arab Salim auf, die Stadt sofort zu verlassen",
+      "source": "Der Standard",
+      "date": "2026-09-06T07:23:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ea85f826663",
+      "title": "Vulkanausbruch in Indonesien legt Flugverkehr in Jakarta lahm",
+      "url": "https://www.derstandard.at/story/3000000338591/vulkanausbruch-in-indonesien-legt-flugverkehr-in-jakarta-lahm?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Hunderte Flüge wurden gestrichen. Die Aschewolke erreichte der Wetterbehörde BMKG zufolge auf einer Seite des Vulkans eine Höhe von 6000 Metern",
+      "source": "Der Standard",
+      "date": "2026-09-06T07:09:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "c8f80140e761",
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "source": "BBC World",
+      "date": "2026-09-06T07:06:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "a29152f2d2ff",
+      "title": "Nach Berichten über Missstände an Bord: US-Flugzeugträger \"Abraham Lincoln\" wieder auf See",
+      "url": "https://www.derstandard.at/story/3000000338590/us-flugzeugtr228ger-abraham-lincoln-wieder-auf-see?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "Das Schiff legte nach fast zehn Monaten auf hoher See für fünf Tage in Thailand an. Medien berichteten von Hygienemängeln an Bord und psychischen Belastungen der Soldaten",
+      "source": "Der Standard",
+      "date": "2026-09-06T07:02:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b099515c8e1d",
+      "title": "England losing tennis courts as number of padel facilities rises exponentially",
+      "url": "https://www.theguardian.com/sport/2026/sep/06/england-losing-tennis-courts-as-number-of-padel-facilities-rises-exponentially",
+      "category": "Padel",
+      "excerpt": "Country loses 200 tennis courts in three years, but they still outnumber padel facilities by a factor of 11 to oneEngland has lost almost 200 tennis courts in three years as padel facilities have grown nearly sixfold.Guardian analysis of Sport England data found that the country has lost 183 tennis courts since 2023 – the first such decline since at least 2000. The data includes local authority and community-owned courts, privately run health facilities, schools and sports clubs. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-09-06T07:00:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "22285e117875",
+      "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
+      "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
+      "category": "GDPR",
+      "excerpt": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.Nearly nine out of 10 (86%) licensed British gambling websites appear to be flouting the general data protection regulation (GDPR), the strict rules governing how organisations can collect, store and process personal data, according to the research. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-09-06T07:00:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "cbbf23e64a8b",
+      "title": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather",
       "category": "Australia weather",
-      "excerpt": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditionsGet our breaking news email, free app or daily news podcastSummer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales.Maximum temperatures in Sydney during the first days of September were on track to match the city’s midsummer average of 26.4C, warmer than any other start to spring since the city’s Observatory Hill station opened in 1858. Continue reading...",
+      "excerpt": "Queensland capital hits 34.4C as firefighters battle fast-moving bushfire in Lockyer Valley west of IpswichGet our breaking news email, free app or daily news podcastResidents have been put on high alert as an unseasonably hot start to spring gives way to blazes and increased fire risks in the nation’s east.Queensland fire authorities issued local fire bans for Ipswich and the Lockyer Valley on Sunday as temperatures typically seen in summer gripped the state’s south-east in early September. Continue reading...",
       "source": "The Guardian",
-      "date": "2026-09-05T07:27:24+00:00",
+      "date": "2026-09-06T06:57:50+00:00",
       "featured": false
     },
     {
-      "id": "93e62d4428a6",
-      "title": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
+      "id": "cffaade2c14b",
+      "title": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
       "category": "Tagesschau",
-      "excerpt": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und es gibt Standort-Vorteile. Von Bianca von der Au.",
+      "excerpt": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von Susanne Petersohn.",
       "source": "Tagesschau",
-      "date": "2026-09-05T07:25:59+02:00",
+      "date": "2026-09-06T06:43:05+02:00",
       "featured": false
     },
     {
-      "id": "a6c6d10b203c",
-      "title": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Vor der Landtagswahl in Sachsen-Anhalt dominieren Unzufriedenheit und Misstrauen. Die AfD führt in Umfragen. Integration, Bildung und Wirtschaft sind die wichtigsten Themen. Von Katharina Gebauer.",
-      "source": "Tagesschau",
-      "date": "2026-09-05T07:25:50+02:00",
-      "featured": false
-    },
-    {
-      "id": "6b4540edb1e1",
-      "title": "Luftalarm und Berichte über Explosionen im Großraum Kyjiw",
-      "url": "https://www.derstandard.at/jetzt/livebericht/3000000338507/luftalarm-und-berichte-ueber-explosionen-im-grossraum-kyjiw?ref=rss",
+      "id": "460c2ee3237e",
+      "title": "Passaffäre an österreichischer Botschaft in London: 79 rechtswidrig ausgestellte Dokumente",
+      "url": "https://www.derstandard.at/story/3000000338587/passaff228re-an-246-botschaft-79-rechtswidrig-ausgestellte-dokumente?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Am Freitag traf eine russische Drohne das Geheimdienst-Hauptquartier in Kyjiw. Die US-Unterhändler Witkoff und Kushner reisen am Wochenende nach Moskau und erstmals auch Kyjiw",
+      "excerpt": "Die Ausstellung der Reisepässe war rechtswidrig, weil laut Angaben von Außenministerin Meinl-Reisinger die Voraussetzung der österreichischen Staatsbürgerschaft nicht erfüllt war",
       "source": "Der Standard",
-      "date": "2026-09-05T07:02:02+00:00",
+      "date": "2026-09-06T06:32:27+00:00",
       "featured": false
     },
     {
-      "id": "9e19c31dfde1",
-      "title": "Chandrababu Naidu’s techno-utopian vision for his Indian state",
-      "url": "https://www.derstandard.at/story/3000000338334/chandrababu-naidus-techno-utopian-vision-for-his-indian-state?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Has Andhra Pradesh’s tech-savvy chief minister bitten off more than he can chew?",
-      "source": "Der Standard",
-      "date": "2026-09-05T07:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "335642120030",
-      "title": "Fall Lindsay Clancy: Dreifache Kindstötung, postpartale Psychose und was die \"Fehlprozess\"-Entscheidung bedeutet",
-      "url": "https://www.derstandard.at/story/3000000338511/fall-lindsay-clancy-dreifache-kindstoetung-postpartale-psychose-und-was-die-fehlprozess-entscheidung-bedeutet?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Anwälte von Lindsay Clancy haben eingeräumt, dass sie ihre drei Kinder getötet, aber unter \"postpartaler Psychose\" gelitten habe. Am Freitag hat der Richter einen \"Fehlprozess\" ausgerufen",
-      "source": "Der Standard",
-      "date": "2026-09-05T06:57:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "80d8e95118e5",
-      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
-      "source": "BBC World",
-      "date": "2026-09-05T06:53:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a46b3120b15",
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "source": "BBC World",
-      "date": "2026-09-05T06:37:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "9c11d1a7f6b8",
-      "title": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
-      "category": "Tagesschau",
-      "excerpt": "US-Präsident Trump entsendet seine Unterhändler Witkoff und Kushner zu neuen Gesprächen über ein Ende des russischen Angriffskrieges gegen die Ukraine. Es sollen diesmal auch Verhandlungen in Kiew geplant sein.",
-      "source": "Tagesschau",
-      "date": "2026-09-05T06:26:54+02:00",
-      "featured": false
-    },
-    {
-      "id": "98b500c2cc10",
-      "title": "Behörden: Tote und Verletzte bei israelischem Beschuss im Südlibanon",
-      "url": "https://www.derstandard.at/story/3000000338523/beh246rden-tote-und-verletzte-bei-israelischem-beschuss-im-s252dlibanon?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Drei Menschen wurden getötet und 23 weitere verletzt. Seit März sind laut libanesischen Behörden 4300 Menschen durch israelischen Beschuss getötet worden",
-      "source": "Der Standard",
-      "date": "2026-09-05T06:24:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "de95e700be9e",
-      "title": "Briefwahl in den USA beginnt,  Rechtsstreit um Regelungen dauert an",
-      "url": "https://www.derstandard.at/story/3000000338522/briefwahl-in-usa-beginnt-8211-ungewissheit-wegen-rechtsstreit?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Eine Richterin hatte eine Verfügung gegen Trumps geplante Verschärfung der Briefwahl-Regeln verlängert, die wohl Vorteile für die Republikaner bedeutet hätte",
-      "source": "Der Standard",
-      "date": "2026-09-05T06:12:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "c34c9c554587",
-      "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html",
-      "category": "Threats and Threatening Messages",
-      "excerpt": "A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives.",
+      "id": "9735a78223fc",
+      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+      "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+      "category": "Nepal-Tibet Floods (August 2026)",
+      "excerpt": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.",
       "source": "New York Times",
-      "date": "2026-09-05T06:04:47+00:00",
+      "date": "2026-09-06T06:27:16+00:00",
       "featured": false
     },
     {
-      "id": "0c8962b1fb9a",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "id": "d371d9aff4af",
+      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "category": "BBC World",
-      "excerpt": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "excerpt": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
       "source": "BBC World",
-      "date": "2026-09-05T06:00:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "06cbe7935108",
-      "title": "Tausende zu Kundgebungen vor Wahl in Sachsen-Anhalt erwartet",
-      "url": "https://www.derstandard.at/story/3000000338520/tausende-zu-kundgebungen-vor-wahl-in-sachsen-anhalt-erwartet?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Die AfD hofft auf eine absolute Mehrheit. Die Wahlforscher erwarten keine überraschend niedrigeren Ergebnisse für die AfD wie im Jahr 2021, weil der Mobilisierungseffekt geringer sei",
-      "source": "Der Standard",
-      "date": "2026-09-05T05:44:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "0895af5a9e3b",
-      "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
-      "url": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
-      "category": "Insects",
-      "excerpt": "Experts say invasive species are creating ‘pollinator deserts’ and could have serious impact on food securityBritish beekeepers have called for a national awareness campaign about the impact of Asian hornets as they warned the invasive species was creating “pollinator deserts” and threatening food security.Native to south-east Asia, the yellow-legged hornet is thought to have arrived in Europe in 2004 and has continued to spread ever since, its numbers probably boosted by increasingly warm springs and summers. Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-09-05T05:00:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "40215e7d688c",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "source": "BBC World",
-      "date": "2026-09-05T04:28:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "02948fa70728",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
-      "source": "BBC World",
-      "date": "2026-09-05T04:03:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "6707faf7e103",
-      "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
-      "category": "Saxony-Anhalt (Germany)",
-      "excerpt": "Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse.",
-      "source": "New York Times",
-      "date": "2026-09-05T04:01:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec27cf3ba30d",
-      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
-      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
-      "category": "Ireland",
-      "excerpt": "Irish boxer lauded for her tenacity and inspiration before her last fight in front of 80,000 people at Croke ParkWhen Katie Taylor steps into the ring on Saturday night to defend her titles and once again enthral Ireland, there will be a bittersweet tinge. After a singular career that pioneered women’s boxing, the super-lightweight champion and Olympic gold medallist is bowing out. She is 40 and it is to be her final bout.“The end of an era, isn’t it?” said Trevor McMahon, her brother-in-law and founder of a gym where she trains. “It’ll be an amazing night but it’ll also be a little bit sad. Everything she did, it might not ever be achieved again.” Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-09-05T04:00:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "a3c8e534545a",
-      "title": "Vom Everest ins Katastrophengebiet: Nepals Höhen-Sherpas helfen nach der Flut",
-      "url": "https://www.derstandard.at/story/3000000338116/vom-everest-ins-katastrophengebiet-nepals-hoehen-sherpas-helfen-nach-der-flut?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Erstmals setzt Nepal beim Katastrophenmanagement auf seine professionellen Höhen-Bergsteiger. Nach der Flut mit über 1000 Toten helfen sie dort, \"wo normale Leute nicht hinkommen\"",
-      "source": "Der Standard",
-      "date": "2026-09-05T04:00:00+00:00",
+      "date": "2026-09-06T06:04:51+00:00",
       "featured": false
     }
   ],
   "finance": [
+    {
+      "id": "d371d9aff4af",
+      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
+      "source": "BBC Business",
+      "date": "2026-09-06T06:04:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "1c0cd09d8148",
+      "title": "‘Go Get Your Kicks’: The Europeans Obsessed With a U.S. Highway",
+      "url": "https://www.nytimes.com/2026/09/06/business/route-66-highway-centennial.html",
+      "category": "Road Trips",
+      "excerpt": "As Route 66 turns 100, tourists in search of Americana try to keep war, inflation and politics in the rearview.",
+      "source": "NYT Business",
+      "date": "2026-09-06T04:02:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a97ce9af02e",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "source": "BBC Business",
+      "date": "2026-09-05T23:20:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6fbbe6fbc144",
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "category": "Artificial Intelligence",
+      "excerpt": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+      "source": "NYT Business",
+      "date": "2026-09-05T21:11:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "b13d13f16d4b",
+      "title": "E. Coli Illnesses Linked to Frozen Blueberries Are Up to 17, F.D.A. Says",
+      "url": "https://www.nytimes.com/2026/09/05/health/frozen-blueberries-recall-e-coli.html",
+      "category": "Food Contamination and Poisoning",
+      "excerpt": "The affected frozen fruit products, which were distributed to 19 states and to retailers like Walmart and Publix, were recalled starting in July.",
+      "source": "NYT Business",
+      "date": "2026-09-05T21:06:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "a5c73e037984",
+      "title": "California Forever’s Ambitious Plan Faces Another Setback",
+      "url": "https://www.nytimes.com/2026/09/05/business/economy/california-forever-shipyard-newsom.html",
+      "category": "Planned Cities and Communities",
+      "excerpt": "A legislative setback for a manufacturing and housing proposal shows how hard it remains to build in the largest state — and why a backlash against billionaires could make it even harder.",
+      "source": "NYT Business",
+      "date": "2026-09-05T19:26:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "4049251f1acb",
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "category": "Markets",
+      "excerpt": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+      "source": "CoinDesk",
+      "date": "2026-09-05T18:05:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "b09db50be37b",
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "category": "Finance",
+      "excerpt": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
+      "source": "CoinDesk",
+      "date": "2026-09-05T16:43:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "c1fcc5789510",
+      "title": "What Led to Maria Bartiromo’s Downfall at Fox News",
+      "url": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
+      "category": "United States Politics and Government",
+      "excerpt": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.",
+      "source": "NYT Business",
+      "date": "2026-09-05T14:31:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "1be6fc743ae7",
+      "title": "Jaguar Land Rover confirms planned job cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "The firm says it needs to save about £1.7bn over the next two years.",
+      "source": "BBC Business",
+      "date": "2026-09-05T13:22:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "be6579d36ac4",
+      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "category": "Finance",
+      "excerpt": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
+      "source": "CoinDesk",
+      "date": "2026-09-05T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "04cf983d4ec6",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
+      "source": "Cointelegraph",
+      "date": "2026-09-05T10:44:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "dedc3c9dd4a6",
+      "title": "Will a Turnaround Plan Revive Volkswagen or Merely Delay Its Demise?",
+      "url": "https://www.nytimes.com/2026/09/05/business/volkswagen-jobs-layoffs-restructuring-future.html",
+      "category": "Automobiles",
+      "excerpt": "The beleaguered auto giant reached a deal with unions to cut tens of thousands of jobs and slash production. Is it enough to revive an iconic German company?",
+      "source": "NYT Business",
+      "date": "2026-09-05T09:03:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "7954d659cb24",
+      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+      "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+      "category": "Books and Literature",
+      "excerpt": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
+      "source": "NYT Business",
+      "date": "2026-09-05T09:03:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "1cce90d675ae",
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Markets",
+      "excerpt": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
+      "source": "Cointelegraph",
+      "date": "2026-09-05T08:03:06+00:00",
+      "featured": false
+    },
     {
       "id": "64284aebd461",
       "title": "Live music to raise cash for Christmas dinners",
@@ -1797,477 +1947,327 @@
       "source": "NYT Business",
       "date": "2026-09-04T19:45:22+00:00",
       "featured": false
-    },
-    {
-      "id": "e58b5f5aa51b",
-      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T19:31:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "f0043946b60b",
-      "title": "FinCEN ties $13B in crypto scams to non-US operations",
-      "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T19:22:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "51947f1a25fa",
-      "title": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
-      "url": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
-      "category": "Women and Girls",
-      "excerpt": "The feminist icon insisted that women were not a niche audience — and proved it in 1971 with the start of an influential publication owned and operated by them.",
-      "source": "NYT Business",
-      "date": "2026-09-04T18:47:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T18:31:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "c53f80dd85d4",
-      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-      "url": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-      "category": "Regulation and Deregulation of Industry",
-      "excerpt": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
-      "source": "NYT Business",
-      "date": "2026-09-04T18:07:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "8e0ff0cdaea0",
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-      "source": "BBC Business",
-      "date": "2026-09-04T17:23:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "60b1d14a29db",
-      "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T17:22:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "14efbca5e817",
-      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
-      "url": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T17:09:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "06fedc39f409",
-      "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
-      "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
-      "source": "Cointelegraph",
-      "date": "2026-09-04T17:05:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff875e94db7a",
-      "title": "Notre Dame’s Jersey Patch Deal With SoFi Divides Alumni and Fans",
-      "url": "https://www.nytimes.com/2026/09/04/business/notre-dame-sofi-jersey-patch.html",
-      "category": "Colleges and Universities",
-      "excerpt": "Alumni have varying opinions about the school’s deal with the personal finance company SoFi to advertise on Notre Dame athletic uniforms.",
-      "source": "NYT Business",
-      "date": "2026-09-04T16:52:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "b5682d86859f",
-      "title": "What to know about the report.",
-      "url": "https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/what-to-know-about-the-report",
-      "category": "NYT Business",
-      "excerpt": "",
-      "source": "NYT Business",
-      "date": "2026-09-04T16:42:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "711686c3cddb",
-      "title": "1986: Manchester's second-hand fashion mecca",
-      "url": "https://www.bbc.co.uk/videos/cj9x1kejd4lo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "Designer Jeff Banks visited Affleck’s Palace, an indoor emporium selling vintage clothing.",
-      "source": "BBC Business",
-      "date": "2026-09-04T15:26:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "be56e543ffb6",
-      "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
-      "url": "https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html",
-      "category": "Oil (Petroleum) and Gasoline",
-      "excerpt": "A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.",
-      "source": "NYT Business",
-      "date": "2026-09-04T15:07:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "1413ec375e13",
-      "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-      "category": "Finance",
-      "excerpt": "AMC boss Adam Aron called Robinhood’s stock tokens “synthetic equity” and threatened legal action. Vlad Tenev says the brokerage stands behind the product.",
-      "source": "CoinDesk",
-      "date": "2026-09-04T14:56:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "dc91b3cc0683",
-      "title": "Firmus Energy customers face price increase",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "Customers in the Ten Towns area will see a 8.98% increase and 12.5% for Greater Belfast.",
-      "source": "BBC Business",
-      "date": "2026-09-04T14:27:02+00:00",
-      "featured": false
     }
   ],
   "crypto": {
-    "btc_eur": 68655,
-    "btc_usd": 79736,
-    "btc_24h": -1.1046685857367413,
-    "eth_eur": 2116.24,
-    "eth_usd": 2457.8,
-    "eth_24h": -1.8000578689228637
+    "btc_eur": 68770,
+    "btc_usd": 79870,
+    "btc_24h": 0.2341686142486738,
+    "eth_eur": 2151.26,
+    "eth_usd": 2498.47,
+    "eth_24h": 1.7070404905384078
   },
   "sport_articles": [
     {
-      "id": "b81e6ea057fb",
-      "title": "Parastar Frühwirth verteidigt WM-Gold im Zeitfahren",
-      "url": "https://sport.orf.at/stories/3162081/",
-      "category": "Radsport",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-09-05T09:06:04+02:00",
-      "featured": false
-    },
-    {
-      "id": "9c64bd0d5c5f",
-      "title": "Williams-Schwestern begeistern trotz Aus",
-      "url": "https://sport.orf.at/stories/3162077/",
-      "category": "Tennis",
-      "excerpt": "Serena und Venus Williams haben sich zwar Freitagabend (Ortszeit) im Doppel-Bewerb der US Open in New York sportlich verabschiedet, wurden aber dennoch wie Siegerinnen gefeiert. Denn die beiden US-Legenden verkauften sich bei der Dreisatzniederlage gegen Maya Joint (AUS) und Chan Hao-ching (TPE) teuer. Weiter im Doppel dabei ist hingegen Lilli Tagger.",
-      "source": "ORF Sport",
-      "date": "2026-09-05T08:46:01+02:00",
-      "featured": false
-    },
-    {
-      "id": "9a7798477b0d",
-      "title": "How bullying led Britain's Campbell to the UFC",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cvgy1km1ynno?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Introduced to combat sports as a seven-year-old after being bullied at school, Kurtis Campbell is now chasing success in the UFC.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T07:33:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "d77e20c1017e",
-      "title": "Williams-Schwestern bei Aus im Doppel der US Open gefeiert",
-      "url": "https://www.derstandard.at/story/3000000338527/williams-schwestern-bei-aus-im-doppel-der-us-open-gefeiert?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "US-Schwestern verloren knapp gegen Maya Joint und Chan Hao-ching. Auftakterfolg für Lilli Tagger mit der Italienerin Errani",
-      "source": "Der Standard Sport",
-      "date": "2026-09-05T07:28:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "a09c9c6af048",
-      "title": "Has there been a changing of guard for London sides in the WSL?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
-      "source": "BBC Sport",
-      "date": "2026-09-05T07:22:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "440e5eb9b120",
-      "title": "Frühwirth sichert sich erneut WM-Gold im Zeitfahren",
-      "url": "https://www.derstandard.at/story/3000000338525/fruehwirth-sichert-sich-erneut-wm-gold-im-zeitfahren?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Für den 45-jährigen Steirer war es im Kampf gegen die Uhr das dritte WM-Gold in Serie",
-      "source": "Der Standard Sport",
-      "date": "2026-09-05T07:22:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "ef9e05efc12b",
-      "title": "Former world champion Ruiz Jr loses comeback fight",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cdx0kvpevlko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "American heavyweight Andy Ruiz Jr, who shocked Anthony Joshua in 2019 to take his world titles, loses comeback fight to Poland's Damian Knyba.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T06:43:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "d6366caed534",
-      "title": "Taylor v Pili - Irish icon's farewell fight predictions",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/crl6x9ey2e8o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Figures from the boxing world give their predictions for Katie Taylor's farewell fight against Flora Pili in Dublin on Saturday. .",
-      "source": "BBC Sport",
-      "date": "2026-09-05T06:37:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ea5d1da1b99",
-      "title": "Is 'disruptor' Antonelli winning hearts in Italy, where Ferrari is F1?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T06:32:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "af8d1144d4f1",
-      "title": "How Yorkshire shaped the Brownlee era",
-      "url": "https://www.bbc.co.uk/news/articles/c3re8xylnvyo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "A Jonny Brownlee retires, former coaches and teachers recall his and brother Alistair's impact.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T06:08:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "10d0fb52365c",
-      "title": "Austria-Gegner Traiskirchen: Das Altstar-Sammelbecken im Speckgürtel",
-      "url": "https://www.derstandard.at/story/3000000338404/austria-gegner-traiskirchen-das-altstar-sammelbecken-im-speckguertel?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Die Wiener Austria gastiert am Samstag im ÖFB-Cup in Traiskirchen – und trifft damit auf eine Truppe mit reichlich Bundesliga-Erfahrung: Ein Verein zwischen ehemaligen Millionenkickern, Familienbetrieb und fehlenden Fans",
-      "source": "Der Standard Sport",
-      "date": "2026-09-05T06:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c9cebee158a2",
-      "title": "Man Utd made midfield recruitment summer priority - what happens now?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
-      "source": "BBC Sport",
-      "date": "2026-09-05T05:56:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "ddfa89e95247",
-      "title": "Putellas debut as London City beat Man Utd in opener",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn74v6krpvno?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Alexia Putellas makes her London City Lionesses debut as the home side beat Manchester United 2-1 in the first game of the Women's Super League season.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T05:28:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "152c1cdfef5b",
-      "title": "Williams sisters exit US Open but excite - what does future hold?",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cjw5vwlq1n3o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Serena and Venus Williams may have lost in their US Open doubles return, but the veteran pair proved they can still compete on an entertaining night in New York.",
-      "source": "BBC Sport",
-      "date": "2026-09-05T04:09:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c328dfad101",
-      "title": "Alcaraz zieht ohne Satzverlust ins Achtelfinale ein",
-      "url": "https://sport.orf.at/stories/3162075/",
-      "category": "Tennis",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-09-04T23:33:44+02:00",
-      "featured": false
-    },
-    {
-      "id": "2239014ec56e",
-      "title": "Real kassiert bei Betis erste Niederlage unter Mourinho",
-      "url": "https://sport.orf.at/stories/3162074/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-09-04T23:20:27+02:00",
-      "featured": false
-    },
-    {
-      "id": "85c00f6932b3",
-      "title": "Liverpool holt bei Ipswich ersten Saisonsieg",
-      "url": "https://sport.orf.at/stories/3162073/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-09-04T23:04:18+02:00",
-      "featured": false
-    },
-    {
-      "id": "651f9f26c87a",
-      "title": "Greaves becomes first woman to win match on European Tour",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/c4gr9nk9rnro?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Beau Greaves makes darts history by beating Daryl Gurney at the Czech Open to become the first woman to win a match on the European Tour.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:40:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "f1b5a368362f",
-      "title": "Improving Alcaraz underlines title credentials in wide-open draw",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Defending champion Carlos Alcaraz underlines his US Open title credentials by sweeping aside Wu Yibing to reach the fourth round as the draw opens up further.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:37:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "2d7f8fc4d37a",
-      "title": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:37:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "662f59c6728d",
-      "title": "Richarlison omission not my decision - De Zerbi",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:33:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "28e5caf2d833",
-      "title": "Stuttgart feiert klaren Heimsieg gegen Köln",
-      "url": "https://sport.orf.at/stories/3162072/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-09-04T22:32:05+02:00",
-      "featured": false
-    },
-    {
-      "id": "f786ce9ca21e",
-      "title": "Duplantis sagt Start bei Diamond-League-Finale ab",
-      "url": "https://sport.orf.at/stories/3162071/",
+      "id": "12f8bfdfd8ee",
+      "title": "Pilz landet in Koper wieder in Top Sechs",
+      "url": "https://sport.orf.at/stories/3162111/",
       "category": "Sport",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-09-04T22:14:21+02:00",
+      "date": "2026-09-06T09:12:46+02:00",
       "featured": false
     },
     {
-      "id": "4e9d0d718bbe",
-      "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:08:20+00:00",
+      "id": "b7478bc368e7",
+      "title": "15. Etappe wegen großer Hitze verkürzt",
+      "url": "https://sport.orf.at/stories/3162110/",
+      "category": "Radsport",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-09-06T09:01:03+02:00",
       "featured": false
     },
     {
-      "id": "5030055fdc38",
-      "title": "Parrott fires Real Betis to win over Real Madrid",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:07:56+00:00",
+      "id": "94a08a4e795d",
+      "title": "Vikings kämpfen um überfälligen Titel",
+      "url": "https://sport.orf.at/stories/3162022/",
+      "category": "US-Sport",
+      "excerpt": "Die Vienna Vikings haben am Sonntag (ab 15.10 Uhr live auf ORF ON, ab 15.55 Uhr in ORF Sport +) vor, einen europäischen Football-Titel wieder nach Wien zu holen. Dieser wäre nach zwei verlorenen Finalteilnahmen in Folge auch überfällig. „Spätestens beim dritten Mal muss man sich den Titel holen. Alles andere geht nicht“, betonte Noel Swancar im ORF. Aber die Wiener sind gewarnt. In der Gold Bowl, dem ersten Endspiel der neuen American Football League Europe (AFLE), wartet in Duisburg mit den Wroclaw Panthers aus Polen jenes Team, das der Mannschaft von Coach Chris Calaycay die einzige Saisonniederlage beschert hatte.",
+      "source": "ORF Sport",
+      "date": "2026-09-06T08:52:48+02:00",
       "featured": false
     },
     {
-      "id": "5a858c85a401",
-      "title": "How London City proved they can live up to the hype",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T22:02:34+00:00",
+      "id": "16db6a4519b1",
+      "title": "Tagger muss sich auch im Doppel geschlagen geben",
+      "url": "https://sport.orf.at/stories/3162107/",
+      "category": "Tennis",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-09-06T08:21:52+02:00",
       "featured": false
     },
     {
-      "id": "ade5a18401f1",
-      "title": "First win as Liverpool boss 'feels good' - Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c93enddzn5eo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Liverpool head coach Andoni Iraola said it \"feels good\" to pick up his first victory in charge as his side beat Ipswich 2-0 at Portman Road.",
-      "source": "BBC Sport",
-      "date": "2026-09-04T21:48:52+00:00",
+      "id": "3c79239ea53c",
+      "title": "Zverev zieht im Eiltempo ins Achtelfinale ein",
+      "url": "https://sport.orf.at/stories/3162106/",
+      "category": "Tennis",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-09-06T08:14:45+02:00",
       "featured": false
     },
     {
-      "id": "14b17680e4ff",
-      "title": "Leigh seal top-six spot as St Helens fail to make play-offs",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gv039e1kvo?at_medium=RSS&at_campaign=rss",
+      "id": "435ab8e97735",
+      "title": "Is Bain on course to be Scotland's number one?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62jn6n0rvlo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Leigh Leopards secure a Super League top-six finish by thrashing St Helens, ending Saints' hopes of reaching the play-offs.",
+      "excerpt": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
       "source": "BBC Sport",
-      "date": "2026-09-04T21:47:57+00:00",
+      "date": "2026-09-06T07:56:52+00:00",
       "featured": false
     },
     {
-      "id": "92d6d299f57e",
-      "title": "'I thought we were excellent' - O'Neil on Liverpool defeat",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4rpj0lx4o?at_medium=RSS&at_campaign=rss",
+      "id": "39538445fb84",
+      "title": "Farewell win at Croke park 'highlight of my career' - Taylor",
+      "url": "https://www.bbc.co.uk/sport/boxing/videos/c17jryd1npjo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
+      "excerpt": "Katie Taylor reflects on a 'dream' career beating Flora Pili by unanimous decision at a sold-out Croke Park to become a three-time undisputed world champion in her final fight before retirement.",
       "source": "BBC Sport",
-      "date": "2026-09-04T21:47:02+00:00",
+      "date": "2026-09-06T07:46:04+00:00",
       "featured": false
     },
     {
-      "id": "ef3f83158fd3",
-      "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss",
+      "id": "5bf976ccaff0",
+      "title": "Zverev bei US Open im Eiltempo weiter",
+      "url": "https://www.derstandard.at/story/3000000338589/zverev-bei-us-open-im-eiltempo-weiter?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Der topgesetzte Deutsche schlägtg Tabilo in drei Sätzen. Bei den Frauen stehen Rybakina, Gauff und Osaka im Achtelfinale. ÖTV-Hoffnung Tagger mit Zweitrunden-Aus im Doppel",
+      "source": "Der Standard Sport",
+      "date": "2026-09-06T06:56:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "4dd169ff3c52",
+      "title": "Taylor's 'dream ending to a dream career'",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.",
+      "excerpt": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
       "source": "BBC Sport",
-      "date": "2026-09-04T21:32:46+00:00",
+      "date": "2026-09-06T06:24:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "9fe8b029e855",
+      "title": "Flex your football brain with our daily quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "date": "2026-09-06T06:02:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "fbe01842cd1c",
+      "title": "'I don't really want to talk' - Fritz and Cobolli shocked as seeds tumble",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cdr7531m7xjo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Taylor Fritz and Flavio Cobolli lose in the third round as six top-10 seeds are knocked out of the men's singles in the first week at the US Open.",
+      "source": "BBC Sport",
+      "date": "2026-09-06T05:16:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "856f2727301b",
+      "title": "Warum es keine \"Superintelligenz\" gibt (und was Schach damit zu tun hat)",
+      "url": "https://www.derstandard.at/story/3000000338544/warum-es-keine-superintelligenz-gibt-und-was-schach-damit-zu-tun-hat?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Das Schachspiel war jahrzehntelang bevorzugtes Probierfeld der Computerforschung. Bis Deep Blue Schachweltmeister Garri Kasparow besiegte und die Wissenschaft feststellte: An Intelligenz lag es nicht",
+      "source": "Der Standard Sport",
+      "date": "2026-09-06T04:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c12b527cc2b3",
+      "title": "Gauff wins but mixed fortunes for home hopes at US Open",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvgy7jxwzg6o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Coco Gauff reaches the US Open fourth round but last year's finalist Amanda Anisimova and Madison Keys go out on a mixed day for home hopes.",
+      "source": "BBC Sport",
+      "date": "2026-09-06T03:01:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ba1248ad22b",
+      "title": "'One of the best' - boxing world reacts to Taylor's farewell win",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/czxzygrgd19o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Some of the biggest names in women's boxing pay tribute to Katie Taylor after the Irish great ended her career with victory over Flora Pili at Croke Park.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T23:48:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "06c28fddc661",
+      "title": "How Crystal Palace exposed Fulham's defence",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y5qpnjgglo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "BBC pundit and ex-Fulham midfielder Danny Murphy gives his analysis on Fulham's performance against Crystal Palace at Craven Cottage.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T23:03:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "9ff26cac8040",
+      "title": "Wurmbrand schießt Rapid in nächste Runde",
+      "url": "https://sport.orf.at/stories/3162101/",
+      "category": "Fußball",
+      "excerpt": "Auch Rapid hat die zweite Runde des Uniqa ÖFB Cups überstanden und ist mit einem 5:2-Sieg gegen Austria Klagenfurt ins Achtelfinale eingezogen. Bis in die zweite Hälfte hinein machten die Kärntner Rapid das Leben schwer. Zum Matchwinner für die Hütteldorfer avancierte Nikolaus Wurmbrand mit drei Toren.",
+      "source": "ORF Sport",
+      "date": "2026-09-05T22:59:55+02:00",
+      "featured": false
+    },
+    {
+      "id": "2861aa669a33",
+      "title": "Tears, blood & triumph - Taylor's iconic career in pictures",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c5ykl9wd7zko?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "As Katie Taylor hangs up her gloves, BBC Sport picks the best pictures of her career.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:55:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "30bf45d7392b",
+      "title": "Jones stuns Trump to set up final against Selby",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/czezl839xpdo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Jak Jones earns a surprise win against Judd Trump at the British Open, and will face Mark Selby in the final.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:49:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "d27e87fce801",
+      "title": "Fans boo as MVP wins in underwhelming UFC farewell",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c0m3rx8jzkjo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Michael 'Venom' Page's last fight on his UFC contract ends in an underwhelming win against Nursulton Ruziboev amid booing fans in Paris.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:45:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "4197f72fb147",
+      "title": "Endstation für Top-Ten-Spieler Cobolli und Fritz",
+      "url": "https://sport.orf.at/stories/3162103/",
+      "category": "Tennis",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-09-05T22:33:51+02:00",
+      "featured": false
+    },
+    {
+      "id": "05720f6d12e3",
+      "title": "Weltrekordler dos Santos siegt auch in Brüssel",
+      "url": "https://sport.orf.at/stories/3162102/",
+      "category": "Sport",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-09-05T22:29:38+02:00",
+      "featured": false
+    },
+    {
+      "id": "0d003dc98b54",
+      "title": "Taylor crowns illustrious career in stylish Croke Park triumph",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:22:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "6833008fbeb9",
+      "title": "KAC verpasst Überraschung in CHL",
+      "url": "https://sport.orf.at/stories/3162100/",
+      "category": "Eishockey",
+      "excerpt": "Der KAC ist am Samstag in der Champions Hockey League (CHL) an einer Überraschung vorbeigeschrammt. Die Klagenfurter unterlagen dem Schweizer Meister Fribourg-Gotteron am Samstag nach Führung zu Hause mit 1:3. Die Moser Medical Graz 99ers kassierten im zweiten Heimspiel die zweite Niederlage. Der heimische Meister unterlag den Boxers de Bordeaux wie zuvor Fribourg-Gotteron mit 2:4. Einzig Red Bull Salzburg gelang mit einem 3:0 gegen Bili Tygri Liberec aus Tschechien ein Sieg.",
+      "source": "ORF Sport",
+      "date": "2026-09-05T22:20:58+02:00",
+      "featured": false
+    },
+    {
+      "id": "faed4386fbf2",
+      "title": "Wrexham boss Parkinson says Swansea captain should have seen red",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:18:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "fed8a5c68011",
+      "title": "Humphries beats Greaves as Littler also wins",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cj4j21k2ep7o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Luke Humphries and Luke Littler came through their second round matches to progress at the Czech Open on the European Tour.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:17:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "1eb76d0ea46f",
+      "title": "Zheng goes from 5-0 and match point down to victory",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c3eq55xznvyo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T22:09:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "349cf56cd86f",
+      "title": "How Man Utd plan to compete at top with big-spending rivals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T21:57:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "34c4f69b65ed",
+      "title": "Wigan crush Leeds to move closer to winning shield",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cvgyd533ye9o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Wigan Warriors move within touching distance of winning the League Leaders' Shield after a superb victory at closest rivals Leeds Rhinos.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T21:11:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "b29bcf202f6a",
+      "title": "Hunt 'not afraid of anyone' after second podium in two days",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T21:03:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "aa7c35359435",
+      "title": "Seven points from three games - are Hull on track to avoid relegation?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
+      "source": "BBC Sport",
+      "date": "2026-09-05T20:56:25+00:00",
       "featured": false
     }
   ],
   "sport_briefing": {
-    "text": "# Sport-Briefing\n\n• Der österreichische Parastar Frühwirth verteidigte seinen WM-Titel im Zeitfahren erfolgreich.\n\n• Die Williams-Schwestern schieden bei den US Open im Doppel aus, begeisterten aber trotzdem das Publikum.\n\n• Der britische Boxer Campbell kämpft nun in der UFC, nachdem er zuvor Mobbing erlebt hat.\n\n• Der ehemalige Weltmeister Ruiz Jr. verlor seinen Comeback-Kampf.\n\n• Putellas debütierte erfolgreich, als London City gegen Manchester United gewann.\n\n• Carlos Alcaraz zog ohne Satzverlust ins Achtelfinale der US Open ein.\n\n• Taylor tritt gegen Pili in seinem Abschiedskampf an.\n\n• In der Londoner WSL gibt es möglicherweise einen Wechsel der Vormachtstellung zwischen den lokalen Clubs.\n\n• Die Brownlee-Ära wurde durch Yorkshire geprägt.\n\n• Antonelli wird als \"Disruptor\" wahrgenommen und gewinnt in Italien an Beliebtheit, wo Ferrari in der Formel 1 dominant ist.",
-    "date": "2026-09-05T07:56:08.356232+00:00"
+    "text": "# Sport-Briefing\n\n• Pilz erreichte beim Turnier in Koper erneut die Top Sechs.\n\n• Die 15. Etappe wurde aufgrund extremer Hitze verkürzt.\n\n• Die Vikings kämpfen um einen lange ausstehenden Titel.\n\n• Tagger unterlag auch im Doppelwettbewerb.\n\n• Zverev zog schnell ins Achtelfinale der US Open ein.\n\n• Coco Gauff gewann, während andere US-amerikanische Spieler enttäuschten.\n\n• Fritz und Cobolli schieden überraschend als gesetzte Spieler aus.\n\n• Die Boxwelt würdigte Taylors Abschiedssieg als außergewöhnlich.\n\n• Crystal Palace offenbarte Schwächen in Fulhams Abwehr.",
+    "date": "2026-09-06T08:12:12.668824+00:00"
   },
   "briefing": {
-    "text": "# MORGENBRIEFING\n\nNACHRICHTEN\n\n**Österreich:**\n\n• **Drittel syrischer Schüler braucht Deutschförderung**\n  → Ein erheblicher Anteil von Schülern mit syrischem Hintergrund in Österreich benötigt zusätzliche Deutschförderung. Dies stellt das Schulsystem vor besondere Herausforderungen bei der Sprachvermittlung und Integration. [LINK:https://orf.at/stories/3441263/]\n\n• **Großer Stresstest für Wiener „Öffi\"-Netz geplant**\n  → Das Wiener Öffentliche Verkehrsnetz steht vor einem umfangreichen Stresstest. Die Prüfung soll die Leistungsfähigkeit und Belastbarkeit der Infrastruktur überprüfen. [LINK:https://orf.at/stories/3440737/]\n\n• **ÖBB-Chef Matthä: Bahnumbau bringt bis zu 80 Millionen im Jahr**\n  → Der Umbau der österreichischen Bahn soll laut ÖBB-Chef Matthä jährliche Einsparungen oder Effizienzgewinne von bis zu 80 Millionen Euro bringen. Das Projekt zielt auf optimierte Bahnabläufe ab. [LINK:https://www.derstandard.at/story/3000000338516/oebb-chef-matthae-bahnumbau-bringt-bis-zu-80-millionen-im-jahr?ref=rss]\n\n• **Teilzeitquote erreicht Höchststand in Österreich**\n  → Die Quote der Teilzeitbeschäftigung in Österreich hat einen neuen Höchststand erreicht. Dies deutet auf verändernde Arbeitsmarktstrukturen und Präferenzen hin. [LINK:https://www.derstandard.at/story/3000000338409/teilzeitquote-erreicht-hoechststand-in-oesterreich?ref=rss]\n\n• **Autoindustrie auf Schleuderkurs – Chancen und Risiken**\n  → Die österreichische Autoindustrie steht unter Druck und muss sich neuen Herausforderungen stellen. Experten diskutieren mögliche Chancen für Transformation und Neuausrichtung. [LINK:https://www.derstandard.at/story/3000000338454/autoindustrie-auf-schleuderkurs-wo-liegen-die-chancen?ref=rss]\n\n• **Insider: KI-Unternehmen Anthropic verschiebt Börsengang**\n  → Das KI-Unternehmen Anthropic soll nach Insiderberichten seinen geplanten Börsengang verschieben. Die genauen Gründe für die Verzögerung sind nicht öffentlich bekannt. [LINK:https://orf.at/stories/3441258/]\n\n• **Spiel auf Website des Weißen Hauses: Tetris distanziert sich**\n  → Ein Tetris-ähnliches Spiel auf der Website des Weißen Hauses führte zu einer Distanzierung durch das Tetris-Unternehmen. Die Gründe für die Unterscheidung sind unklar. [LINK:https://orf.at/stories/3441259/]\n\n**International:**\n\n• **Iranische Agentur Fars: Explosion nahe Insel Charg**\n  → Die iranische Nachrichtenagentur Fars berichtet von einer Explosion in der Nähe der Insel Charg. Details zu Ursachen und Ausmaß sind begrenzt. [LINK:https://orf.at/stories/3441273/]\n\n• **Vor US-Vermittlung: Tote bei Luftangriffen auf Ukraine**\n  → Bei Luftangriffen auf die Ukraine sind Todesfälle zu beklagen. Die Anschläge ereigneten sich vor geplanten Vermittlungsbemühungen durch die USA. [LINK:https://orf.at/stories/3441268/]\n\n• **Tote und Vermisste durch Taifun „Saudel\" in China**\n  → Der Taifun „Saudel\" hat in China zu Todesfällen und Vermissten geführt. Das Naturkatastrophen-Ereignis hinterließ Zerstörungen in betroffenen Regionen. [LINK:https://orf.at/stories/3441266/]\n\n• **Panamakanal: Erlaubte Schiffe wegen „El Niño\" reduziert**\n  → Wegen des Wetterphänomens „El Niño\" wurden die zulässigen Schiffsdurchsätze im Panamakanal reduziert. Dies beeinflusst den globalen Schiffsverkehr erheblich. [LINK:https://orf.at/stories/3441265/]\n\n• **Bolivien: Mindestens zehn Tote bei Explosion in Kaserne**\n  → Eine Explosion in einer bolivianischen Kaserne hat mindestens zehn Todesfälle gefordert. Die Ursache der Explosion wird untersucht. [LINK:https://orf.at/stories/3441264/]\n\n• **USA: Aussetzung von Trumps Briefwahldekret verlängert**\n  → Die Aussetzung eines Briefwahldekretes von Trump wurde verlängert. Dies betrifft die Handhabung von Briefwahlen in den USA. [LINK:https://orf.at/stories/3441257/]\n\n• **Luftalarm und Berichte über Explosionen im Großraum Kyjiw**\n  → Im Großraum Kyjiw wurden Luftalarm ausgelöst und Explosionen gemeldet. Die Lage in der ukrainischen Hauptstadtregion bleibt angespannt. [LINK:https://www.derstandard.at/jetzt/livebericht/3000000338507/luftalarm-und-berichte-ueber-explosionen-im-grossraum-kyjiw?ref=rss]\n\n• **USA genehmigen milliardenschweren Waffenverkauf an Saudi-Arabien**\n  → Die USA haben einen Waffenverkauf in Milliardenhöhe an Saudi-Arabien genehmigt. Das Geschäft unterstreicht die sicherheitspolitischen Beziehungen zwischen beiden Ländern. [LINK:https://www.derstandard.at/story/3000000338528/usa-genehmigen-milliardenschweren-waffenverkauf-an-saudi-arabien?ref=rss]\n\n• **Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem**\n  → Nach Sabotageakten an Umspannwerken in Deutschland fahndet die Polizei nach Verdächtigen. Die Vorfälle werfen Fragen zu Infrastruktur-Sicherheit auf. [LINK:https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html]\n\n• **Flutkatastrophe im Himalaya: Nepals Wut auf die Verursacher des Klimawandels**\n  → Eine Flutkatastrophe im Himalaya hat Nepal schwer getroffen. Offizielle Stimmen kritisieren die globalen Verursacher des Klimawandels. [LINK:https://www.tagesschau.de/ausland/asien/nepal-sturzflut-110.html]\n\n• **Warum Schweden seine Gefangenen in Estland unterbringt**\n  → Schweden lagert Häftlinge in estnischen Gefängnissen aus. Diese ungewöhnliche Lösung ergibt sich aus Kapazitätsproblemen im schwedischen Strafvollzug. [LINK:https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html]\n\n• **Sydney erreicht 33°C in möglicherweise wärmestem Frühlingsbeginn seit Mitte 1800er**\n  → Sydney verzeichnet Temperaturen von 33°C in einem potenziell rekordverdächtig warmen Frühlingsbeginn. Südliches New South Wales erwartet hingegen Schneefälle. [LINK:https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw]\n\n• **Ist Sachsen-Anhalt wirtschaftlich abgehängt?**\n  → Sachsen-Anhalt kämpft mit wirtschaftlichen Herausforderungen und Wettbewerbsnachteilen. Experten analysieren die Strukturprobleme der Region. [LINK:https:",
-    "date": "2026-09-05T07:56:08.356232+00:00"
+    "text": "# MORGENBRIEFING\n\nNACHRICHTEN\n\n**Österreich:**\n\n• **Ausflugsbus mit Schülern auf Kap Verde verunglückt**\n  → Ein Ausflugsbus mit Schülern ist auf Kap Verde in einen Unfall verwickelt worden. Details zu Verletzten und genauen Umständen werden in der Berichterstattung behandelt. [LINK:https://orf.at/stories/3441357/]\n\n• **Länder beim Abholen von Kindergartenmitteln säumig**\n  → Mehrere Bundesländer kommen ihren Verpflichtungen zur Abholung von Kindergartenmitteln nicht rechtzeitig nach. Dies führt zu Verzögerungen bei der Umsetzung entsprechender Programme. [LINK:https://orf.at/stories/3441341/]\n\n• **Geplantes Verbot des politischen Islam: Islamische Kultusgemeinden stellen sich gegen Bauer**\n  → Die Islamischen Kultusgemeinden lehnen das von Innenminister Bauer geplante Verbot des politischen Islam ab. Sie kritisieren die geplante Maßnahme als pauschale Verdächtigung ihrer Gemeinschaften. [LINK:https://www.derstandard.at/story/3000000338595/geplantes-verbot-des-politischen-islam-islamische-kultusgemeinden-stellen-sich-gegen-bauer?ref=rss]\n\n• **„Nachfrage nach Flugreisen ungebrochen\": Sommerrekorde im heimischen Luftraum**\n  → Der österreichische Luftraum verzeichnet Sommerrekorde bei Flugreisen. Die Nachfrage nach Flugreisen bleibt ungebrochen und führt zu neuen Höchstwerten am Flughafen Schwechat. [LINK:https://kurier.at/wirtschaft/rekorde-fluege-flugreisen-schwechat-urlaubszeit-passagiere/403188966]\n\n**International:**\n\n• **Neue Angriffe Israels auf Hisbollah-Ziele im Südlibanon: Tote**\n  → Israel führt neue Angriffe auf Hisbollah-Ziele im Südlibanon durch. Die Anschläge fordern nach Angaben Todesopfer und verschärfen die Spannungen in der Region. [LINK:https://orf.at/stories/3441353/]\n\n• **Iran meldet Angriff auf US-Marinedrohne in Straße von Hormus**\n  → Der Iran erklärt, einen Angriff auf eine US-Marinedrohne in der Straße von Hormus durchgeführt zu haben. Ähnliche Vorfälle wurden auch an mehreren anderen Stellen der Wasserstraße gemeldet. [LINK:https://orf.at/stories/3441343/]\n\n• **Vulkanausbruch: Flughafen Jakarta streicht Flüge**\n  → Ein Vulkanausbruch führt dazu, dass der Flughafen Jakarta Flüge streichen muss. Der Ausbruch beeinträchtigt den Flugverkehr in der Region erheblich. [LINK:https://orf.at/stories/3441342/]\n\n• **Nach Leipzig: Deutschland will Drohnenabwehr ausbauen**\n  → Deutschland kündigt einen Ausbau der Drohnenabwehr an. Dies ist eine Reaktion auf Sicherheitsbedenken nach Vorfällen in Leipzig. [LINK:https://orf.at/stories/3441339/]\n\n• **Sachsen-Anhalt wählt**\n  → In Sachsen-Anhalt findet eine Landtagswahl statt. Die Wahl wird von erheblichem politischem Interesse begleitet. [LINK:https://orf.at/stories/3440966/]\n\n• **Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken**\n  → Der deutsche Politiker Dobrindt plant die Einführung von Schutzschirmen gegen russische Drohnen- und Cyberattacken. Dies ist Teil einer verstärkten Sicherheitsstrategie. [LINK:https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html]\n\n• **Polizisten bei Demo mit Metallkugeln beschossen**\n  → Bei einer Demonstration in Nordrhein-Westfalen sind Polizisten mit Metallkugeln beschossen worden. Der Vorfall ereignete sich bei einer Anti-Rüstungs-Demo in Köln. [LINK:https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html]\n\n• **TV presenter among 12 sentenced to death in Egypt drugs case**\n  → Ein Fernsehpräsentator ist unter 12 Personen zum Tode verurteilt worden in einem ägyptischen Drogenprozess. Die Verurteilung hat erhebliches öffentliches Interesse ausgelöst. [LINK:https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss]\n\n• **Nigel Farage to be quizzed as he battles to contain growing donations scandal**\n  → Der britische Politiker Nigel Farage wird zur Spendenskandal-Affäre befragt. Der Skandal rund um Spendenzahlungen an seine Partei Reform UK wächst. [LINK:https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates]\n\n---\n\nRECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **9Ob18/26a** – Hypothekenkredit-Richtlinie-Gesetz (§ 12 HIKrG), Allgemeines Bürgerliches Gesetzbuch (§ 1000 Abs. 1 ABGB)\n  → Kläger schlossen 2014 einen Hypothekarkreditvertrag über 254.000 EUR mit einer Bank ab. Im März 2023 beantragten sie eine Laufzeitverlängerung mit Umstellung auf Fixzinsen. Die Bank unterbreitete daraufhin ein entsprechendes Angebot. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260831_OGH0002_0090OB00018_26A0000_000]\n\n• **11Os89/26m** – Strafprozessordnung (§ 173 Abs 2 Z 1 StPO), EU-Justizhilfezuständigkeitsgesetz (§ 18 Abs 2 EU-JZG), Auslieferungs- und Rechtshilfegesetz (§ 29 ARHG)\n  → Ein deutscher Staatsangehöriger wurde auf Basis eines Europäischen Haftbefehls des Amtsgerichts Triers wegen schweren Betruges mit einem Strafrahmen bis zu 10 Jahren zur Übergabe an die deutsche Justiz verhandelt. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260825_OGH0002_0110OS00089_26M0000_000]\n\n• **15Ns65/26s** – Strafgesetzbuch (§ 198 Abs 1 StGB – Verletzung der Unterhaltspflicht), Strafprozessordnung (§ 39 Abs 1 StPO), OGH-Gerichtsverfassungsgesetz 2019 (§ 62 Abs 1 zweiter Satz)\n  → Ein Angeklagter wurde wegen Verletzung der Unterhaltspflicht angeklagt. Das Verfahren basierte auf einer Anklage des Bezirksgerichts und behandelt die Verletzung von Unterhaltsverpflichtungen. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260825_OGH0002_0150NS00065_26S0000_000]\n\n• **8ObA22/26g** – Bildungsdirektionen-Einrichtungsgesetz (§ 2 Abs 1, 3 und § 3 Abs 1, 4 BD-EG), Datenschutzgesetz (§ 2 DVG), Verbandsbeschwerdeverfahrensgesetz (§ 2e, § 6 VBG), Zivilprozessordnung (§ 502 Abs 1 ZPO, § 508a Abs 2 ZPO)\n  → Eine als Bundesbedienstete an einer Schule unter der Bildungsdirektion Wien angestellte Magistra erhob Klage bezüglich arbeitsrechtlich",
+    "date": "2026-09-06T08:12:12.668824+00:00"
   },
   "_meta": {
-    "last_updated": "2026-09-05T07:56:08.356232+00:00"
+    "last_updated": "2026-09-06T08:12:12.668824+00:00"
   }
 }
