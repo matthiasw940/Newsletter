@@ -1,70 +1,70 @@
 {
   "weather": {
-    "temp_current": 15.1,
-    "humidity": 72,
-    "wind": 2.2,
-    "temp_max": 17.6,
-    "temp_min": 11.7,
-    "precip": 0.4,
-    "description": "Leichte Regenschauer",
-    "emoji": "🌦️",
-    "code": 80,
+    "temp_current": 16.7,
+    "humidity": 47,
+    "wind": 15.1,
+    "temp_max": 17.4,
+    "temp_min": 11.1,
+    "precip": 0.0,
+    "description": "Überwiegend klar",
+    "emoji": "🌤️",
+    "code": 1,
     "hourly": [
       {
         "hour": "06:00",
-        "temp": 13.2,
+        "temp": 11.9,
         "code": 3,
         "emoji": "☁️",
-        "precip": 14
+        "precip": 0
       },
       {
         "hour": "08:00",
-        "temp": 13.6,
+        "temp": 11.1,
         "code": 3,
         "emoji": "☁️",
-        "precip": 15
+        "precip": 3
       },
       {
         "hour": "10:00",
-        "temp": 13.7,
-        "code": 61,
-        "emoji": "🌦️",
-        "precip": 19
+        "temp": 13.4,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 7
       },
       {
         "hour": "12:00",
-        "temp": 15.1,
-        "code": 80,
-        "emoji": "🌦️",
-        "precip": 25
+        "temp": 16.4,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 8
       },
       {
         "hour": "14:00",
-        "temp": 17.1,
-        "code": 3,
-        "emoji": "☁️",
-        "precip": 30
+        "temp": 17.4,
+        "code": 1,
+        "emoji": "🌤️",
+        "precip": 5
       },
       {
         "hour": "16:00",
-        "temp": 17.6,
-        "code": 61,
-        "emoji": "🌦️",
-        "precip": 35
+        "temp": 16.8,
+        "code": 3,
+        "emoji": "☁️",
+        "precip": 3
       },
       {
         "hour": "18:00",
-        "temp": 16.5,
-        "code": 61,
-        "emoji": "🌦️",
-        "precip": 40
+        "temp": 15.6,
+        "code": 3,
+        "emoji": "☁️",
+        "precip": 3
       },
       {
         "hour": "20:00",
-        "temp": 15.1,
+        "temp": 14.7,
         "code": 3,
         "emoji": "☁️",
-        "precip": 43
+        "precip": 3
       }
     ]
   },
@@ -840,6 +840,56 @@
   ],
   "recht_news": [
     {
+      "id": "e282ff75c89a",
+      "title": "Teure Mieten: Kann die Linke mit der Wohnungsfrage den rechten Vormarsch in Europa stoppen?",
+      "url": "https://www.derstandard.at/story/3000000343492/teure-mieten-kann-die-linke-mit-der-wohnungsfrage-den-rechten-vormarsch-in-europa-stoppen?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Rechten dominieren mit Migrationsfragen den politischen Diskurs. Leistbares Wohnen dagegen bietet der Linken eine Chance, Themenführerschaft zu übernehmen. Ganz einfach wird das freilich nicht",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-10-11T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5d2d847643e6",
+      "title": "Südkorea vollendet erste Frachterrundfahrt über Arktisroute",
+      "url": "https://www.derstandard.at/story/3000000343579/s252dkorea-vollendet-erste-frachterrundfahrt-252ber-arktisroute?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Die Arktis-Passage soll langfristig als neuer Handelsweg etabliert werden",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-10-11T07:46:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "d1b1a2f9a280",
+      "title": "Leerstand, Geierfonds und nun eine Tote: Warum in Spanien der Wohnungsmarkt brennt",
+      "url": "https://www.derstandard.at/story/3000000343395/leerstand-geierfonds-und-nun-eine-tote-warum-in-spanien-der-wohnungsmarkt-brennt?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "3,8 Millionen Wohnungen in Spanien stehen leer, während in Städten wie Madrid Familien einen Großteil ihres Einkommens für Wohnraum aufwenden müssen. Wie kam es dazu?",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-10-10T16:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0b693edabbb9",
+      "title": "America’s blockade is breaking Iran’s economy, but not yet its regime",
+      "url": "https://www.derstandard.at/story/3000000342314/americas-blockade-is-breaking-irans-economy-but-not-yet-its-regime?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Sanctions enforced at gunpoint are tougher than the leaky sort Iran has faced before",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-10-10T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c3ea5361a42e",
+      "title": "Frankreich steckt Milliarden in den Wohnbau, kann aber die Wohnungsnot nicht lindern",
+      "url": "https://www.derstandard.at/story/3000000343405/frankreich-steckt-milliarden-in-den-wohnbau-kann-aber-die-wohnungsnot-nicht-lindern?ref=rss",
+      "category": "Der Standard Wirtschaft",
+      "excerpt": "Der staatliche und der private Wohnbau sollen in Frankreich forciert werden, allerdings versanden viele der privaten Projekte wieder. Was dahinter steckt",
+      "source": "Der Standard Wirtschaft",
+      "date": "2026-10-10T11:10:00+00:00",
+      "featured": false
+    },
+    {
       "id": "74d10bc71a9b",
       "title": "Billa-Kassier gab doppelt so viel Rabatt wie Kollegen und erhält Diversion",
       "url": "https://www.derstandard.at/story/3000000343512/billa-kassier-gab-doppelt-so-viel-rabatt-wie-kollegen-und-erhaelt-diversion?ref=rss",
@@ -1038,59 +1088,19 @@
       "source": "Der Standard Wirtschaft",
       "date": "2026-10-08T09:16:32+00:00",
       "featured": false
-    },
-    {
-      "id": "7d8d011a22be",
-      "title": "\"Free our RaBatman\": Erfolgreiche Spendenaktion für verurteilten Ex-Billa-Mitarbeiter",
-      "url": "https://www.derstandard.at/story/3000000343251/free-our-rabatman-spendenaktion-fuer-verurteilten-ex-billa-mitarbeiter?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Weil er unrechtmäßig Rabatte gewährt hatte, wurde ein 23-Jähriger zu fünf Monaten bedingter Haft verurteilt. Eine Spendenaktion für den Mitarbeiter brachte binnen etwas mehr als eines Tages die gesamte Summe zusammen",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-10-08T09:11:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "3eac9cad51bf",
-      "title": "PR-Ausgaben der Wirtschaftskammer Wien unter Ruck in die Höhe geschossen",
-      "url": "https://www.derstandard.at/story/3000000343209/pr-ausgaben-der-wirtschaftskammer-wien-unter-ruck-in-die-hoehe-geschossen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Die Wiener Wirtschaftskammer gab laut einer ORF-Recherche ein Vermögen für Berater aus: 2024 war es fast eine Million Euro. Die FPÖ will den Stadtrechnungshof einschalten",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-10-08T08:24:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "a8a9035d38ad",
-      "title": "Thomas Brezina über Geld: \"Würde Kinder nicht mit finanziellen Sorgen belasten\"",
-      "url": "https://www.derstandard.at/story/3000000343090/thomas-brezina-ueber-geld-wuerde-kinder-nicht-mit-finanziellen-sorgen-belasten?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Der Bestseller-Autor erklärt in seinem neuen Buch Geld, Inflation und Investieren für junge Leser. Zugleich warnt er davor, Kindern zu vermitteln, dass ein hohes Einkommen das wichtigste Leben sei",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-10-08T07:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8fcf7925595b",
-      "title": "Finanzaufseher Ettl: Ruf nach Deregulierung \"jetzt das falsche Zeichen\"",
-      "url": "https://www.derstandard.at/story/3000000343033/finanzaufseher-ettl-ruf-nach-deregulierung-jetzt-das-falsche-zeichen?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Europa will Kapital am Kontinent halten und bei KI aufholen. Bei der FMA-Konferenz in Wien mahnt Vorstand Helmut Ettl zur Vorsicht, während Europas oberster Bankenaufseher Meldepflichten senken will",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-10-08T06:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1834e4fa25db",
-      "title": "EU-Rechnungshof: 3,8 Prozent aller EU-Ausgaben nicht korrekt",
-      "url": "https://www.derstandard.at/story/3000000343190/eu-rechnungshof-38-prozent-aller-eu-ausgaben-nicht-korrekt?ref=rss",
-      "category": "Der Standard Wirtschaft",
-      "excerpt": "Bei den Ausgaben aus dem EU-Budget stellten die Prüfer erhebliche und weitverbreitete Fehler fest. Auch in Österreich wurden etwa in der Landwirtschaft Unstimmigkeiten gefunden",
-      "source": "Der Standard Wirtschaft",
-      "date": "2026-10-08T05:04:54+00:00",
-      "featured": false
     }
   ],
   "recht_intl": [
+    {
+      "id": "0ae8edd919e1",
+      "title": "Announcements: BIICL-SLS Online Workshop; International Cooperation under the ECHR Conference; Mapping International Law’s Second Worlds Conference; There is No Just War Lecture; Fossil Fuel Feuds at the ICJ Webinar; CfP Writing and Publishing in the Law of the ECHR; Canadian Council on International Law Annual Conference; ESIL Conversations Series; ILA Egyptian Branch Annual Conference",
+      "url": "https://www.ejiltalk.org/announcements-biicl-sls-online-workshop-international-cooperation-under-the-echr-conference-mapping-international-laws-second-worlds-conference-there-is-no-just-war-lecture-fossil-fuel-f/",
+      "category": "Announcements and Events",
+      "excerpt": "1. BIICL-SLS Online Workshop: Daily Life of International Law. The British Institute of International and Comparative Law and the Society of Legal Scholars’ International Law section, together with Dr Jean-Pierre Gauci and Dr Solon Solomon, are inviting interested individuals to the online BIICL-SLS workshop on the daily life of international law that will take place […]",
+      "source": "EJIL:Talk!",
+      "date": "2026-10-11T09:00:39+00:00",
+      "featured": false
+    },
     {
       "id": "0cb1905bb804",
       "title": "Pillars of Society",
@@ -1330,267 +1340,257 @@
       "source": "Verfassungsblog",
       "date": "2026-09-29T17:06:48+00:00",
       "featured": false
-    },
-    {
-      "id": "88e84a1c8050",
-      "title": "Italy’s Ghetto Classrooms",
-      "url": "https://verfassungsblog.de/italys-ghetto-classrooms/",
-      "category": "English Articles",
-      "excerpt": "A few days ago, the Prime Minister announced a strict 30% cap on the number of foreign students in classrooms; mandatory Italian language courses for the parents of foreign students experiencing academic difficulties; and a ban on the Burqa and Niqab in any national school. The announcement has inflamed public and political debate in Italy. The measures illustrate the inadequacy of Italian citizenship law in reflecting social reality. Moreover, they raise the suspicion that, rather than implementing policies for better integration in schools, Meloni is concerned with the upcoming elections. The post Italy’s Ghetto Classrooms appeared first on Verfassungsblog.",
-      "source": "Verfassungsblog",
-      "date": "2026-09-29T11:56:18+00:00",
-      "featured": false
     }
   ],
   "national": [
     {
-      "id": "18dd3f4a7030",
-      "title": "Indische Polizei nahm Gründer fest",
-      "url": "https://orf.at/stories/3444660/",
-      "category": "Ausland",
-      "excerpt": "Im Vorfeld einer Großkundgebung in Neu-Delhi hat die indische Polizei den Gründer der als „Kakerlaken“ bekannten Protestbewegung festgenommen. Abhijeet Dipke sowie zwei weitere Anführer der Bewegung seien nach ihrer Landung am Samstag in Gewahrsam genommen worden, teilte die Gruppierung mit. Die Demonstration richtet sich gegen mutmaßliche Wahlmanipulation.",
-      "source": "ORF",
-      "date": "2026-10-10T12:01:46+02:00",
-      "featured": false
-    },
-    {
-      "id": "3b0c16f34919",
-      "title": "NEOS-Treffen: Meinl-Reisinger verteidigt Regierungsarbeit",
-      "url": "https://orf.at/stories/3444663/",
-      "category": "Inland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T11:56:05+02:00",
-      "featured": false
-    },
-    {
-      "id": "2506990477fb",
-      "title": "Überschwemmungen und Erdrutsche in Süditalien",
-      "url": "https://orf.at/stories/3444657/",
-      "category": "Umwelt",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T11:03:55+02:00",
-      "featured": false
-    },
-    {
-      "id": "a812f85447d2",
-      "title": "NEOS-Mitgliederversammlung in Linz begonnen",
-      "url": "https://orf.at/stories/3444656/",
-      "category": "Inland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T10:28:30+02:00",
-      "featured": false
-    },
-    {
-      "id": "03cd46d2decf",
-      "title": "Ukraine: Tote nach russischen Angriffen in Saporischschja",
-      "url": "https://orf.at/stories/3444654/",
+      "id": "28ad353d698a",
+      "title": "Polen: Hinweise auf Anschlagspläne gegen Regierungsspitze",
+      "url": "https://orf.at/stories/3444733/",
       "category": "Ausland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-10-10T10:22:21+02:00",
+      "date": "2026-10-11T11:54:05+02:00",
       "featured": false
     },
     {
-      "id": "ba94eba1fced",
-      "title": "Haustiere als US-Konjunkturbarometer",
-      "url": "https://orf.at/stories/3444352/",
-      "category": "Lifestyle",
-      "excerpt": "In keinem anderen Land der Erde leben absolut gesehen so viele Hunde wie in den USA. Der beste Freund des Menschen bekommt allerdings auch dort Konkurrenz: Kurz vor dem Welttag des Hundes am Samstag zeigen nun neue Zahlen, dass sich Katzen heranpirschen. Erstmals seit Beginn der Datenerhebungen leben in US-Haushalten mehr Katzenjunge als Welpen. Laut „Washington Post“ ist das nicht einfach nur ein Modetrend, sondern auch Spiegel der wirtschaftlichen Situation.",
+      "id": "b38fccfc3e55",
+      "title": "New York, die „coole Maschine“",
+      "url": "https://orf.at/stories/3444548/",
+      "category": "Kultur",
+      "excerpt": "Aus der schmerzvollen Geschichte des schwarzen Amerika macht er fesselnde, eindringliche Literatur: Colson Whitehead gilt nicht ohne Grund als Superstar der US-Literaturszene. Parallel dazu verfolgte der zweifache Pulitzer-Preisträger über sieben Jahre ein leichtfüßigeres Projekt: eine Krimitrilogie um den New Yorker Möbelhändler Ray Carney. Nun erschien der Abschlussband „Cool Machine“.",
       "source": "ORF",
-      "date": "2026-10-10T10:18:11+02:00",
+      "date": "2026-10-11T11:20:53+02:00",
       "featured": false
     },
     {
-      "id": "bfa9878edf6a",
-      "title": "Saudi-Arabien: Über 100 Huthi-Ziele in Jemen zerstört",
-      "url": "https://orf.at/stories/3444651/",
-      "category": "Ausland",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T10:03:10+02:00",
+      "id": "b5f179ed249d",
+      "title": "Immer mehr Lehrer arbeiten in Teilzeit",
+      "url": "https://www.diepresse.com/41345047/immer-mehr-lehrer-arbeiten-in-teilzeit",
+      "category": "Die Presse",
+      "excerpt": "Insgesamt beträgt die Teilzeitquote unter Lehrkräften an AHS und berufsbildenden mittleren und höheren Schulen 56 Prozent. An den Pflichtschulen ist diese Quote deutlich geringer.",
+      "source": "Die Presse",
+      "date": "2026-10-11T10:22:32+00:00",
       "featured": false
     },
     {
-      "id": "1df5a5ce55a3",
-      "title": "Polizei nahm Mann nach Raub von 40 Cent in Wien fest",
-      "url": "https://kurier.at/chronik/wien/polizei-festnahme-raub-wien-praterstern/403197225",
-      "category": "Chronik/Wien",
-      "excerpt": "Wegen gerade einmal 40 Cent soll am Freitagabend ein Streit am Wiener Praterstern völlig eskaliert sein: Beamte der Polizeidiensthundeeinheit wurden von einem Zeugen auf eine Auseinandersetzung mit einem Messer aufmerksam gemacht. Als die Polizisten zum Einsatzort eilten, bot sich ihnen ein beunruhigendes Bild: Ein Mann bedrohte einen anderen mit einem Messer, das Opfer schrie laut um Hilfe.Fast drei Promille intusDie Beamten schritten rasch ein und sicherten die beiden Männer. Bei der anschließenden Befragung kam der mutmaßliche Auslöser der Auseinandersetzung ans Licht: Ein 32-jähriger Slowake soll seinem 24-jährigen Landsmann zuvor Bargeld in Höhe von 40 Cent geraubt haben. Danach soll die Situation eskaliert sein.Der mutmaßliche Täter war offenbar stark alkoholisiert. Bei ihm wurde ein",
+      "id": "a98d54121264",
+      "title": "Aufstand der Richter und Staatsanwälte: „Das geht so nicht mehr, das ist irre“",
+      "url": "https://kurier.at/politik/inland/justiz-richter-staatsanwaelte-personal-protest/403197394",
+      "category": "PLUS - Politik/Inland",
+      "excerpt": "Lachs, Hüftsteaks, Würstel, Bier und andere Lebensmittel im Wert von 225 Euro hat Herr B. versucht zu stehlen, indem er sein Einkaufswagerl an der Kasse vorbei in Richtung Ausgang schob. Er wurde erwischt und sitzt jetzt im Wiener Straflandesgericht vor Richterin Nicole Baczak. Weil er dann noch einem Betrunkenen am Hauptbahnhof ins Gesicht schlug, verurteilt Baczak ihn zu sechs Monaten Haft, eine frühere bedingte Strafe wird aufgehoben. Die 26 Vorstrafen in seiner Heimat Rumänien bedenkt die Richterin in ihrem Urteil mit.Das sei einer der einfacheren Akte, sagt Baczak: „Nur“ 150 Seiten, in die sie sich eine Woche vor der Verhandlung eingelesen habe. Das Urteil werde sie – wie so oft – wohl am Wochenende, in ihrer Freizeit, schreiben. Nur da habe sie abseits des Tagesgeschäfts die nötige R",
       "source": "Kurier",
-      "date": "2026-10-10T09:48:28+00:00",
+      "date": "2026-10-11T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "742ae963865c",
-      "title": "Indien: Gründer der „Kakerlaken“-Bewegung festgenommen",
-      "url": "https://orf.at/stories/3444644/",
+      "id": "39422a87a5c4",
+      "title": "Aktionswoche für den Rechtsstaat: Die Gerichte stehen still",
+      "url": "https://kurier.at/politik/inland/justiz-richter-staatsanwaelte-protest-aktionswoche-gericht/403197396",
+      "category": "PLUS - Politik/Inland",
+      "excerpt": "Im und um das Landesgericht für Strafsachen in Wien herrscht an Wochentagen üblicherweise geschäftiges Treiben. Speziell am Vormittag ist es ein Kommen und Gehen. Angeklagte, Zeugen, Rechtsanwälte, Dolmetscher, Gerichtsmitarbeiter und Justizwache eilen über die Gänge, halten den Justizapparat im größten Gericht des Landes am Laufen. In der kommenden Woche wird das Bild ein anderes sein.In der „Aktionswoche für den Rechtsstaat“ finden nur die dringendsten Verhandlungen statt. Oder in Zahlen gesprochen: Waren in dieser Woche 168 Prozesse ausgeschrieben, werden es in der kommenden Woche genau 18 sein. Darunter Prozesse wegen Suchtgift-Delikten, Vergewaltigungen oder schweren Betrugs. „Verhandlungen wurden abberaumt oder erst gar nicht in dieser Woche angesetzt“, sagt Christina Salzborn, Sprec",
+      "source": "Kurier",
+      "date": "2026-10-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "01b7725b6770",
+      "title": "Tschechiens Opposition mit Achtungserfolg bei Senatswahl",
+      "url": "https://orf.at/stories/3444725/",
       "category": "Ausland",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-10-10T09:27:37+02:00",
+      "date": "2026-10-11T09:59:43+02:00",
       "featured": false
     },
     {
-      "id": "c77b4577a5de",
-      "title": "Tote Frau in Stiegenhaus: Lebensgefährte verhielt sich „auffällig“",
-      "url": "https://kurier.at/chronik/wien/tote-obdachlose-landstrasse-mann-mordverdacht-festnahme/403197196",
+      "id": "85b1fb6a2ae2",
+      "title": "Nordbahnviertel: Einbrecher hatten es auf mehrere Lokale abgesehen",
+      "url": "https://kurier.at/chronik/wien/einbrueche-nordbahnviertel-diebstaehle-wien/403197470",
       "category": "Chronik/Wien",
-      "excerpt": "Mit Hämatomen am Körper wurde eine 35-Jährige Donnerstagfrüh in einem Stiegenhaus in einem Gebäude in der Landstraße aufgefunden. Rettungskräfte versuchten noch, sie am Leben zu halten, aber die Reanimationsmaßnahmen blieben ohne Erfolg. Unklar war zunächst, ob die Frau Opfer eines Gewaltverbrechens wurde. Wie die Polizei am Samstagvormittag bekanntgab, rückte jedoch ein Augenzeuge, der während der Reanimation auch anwesend war und sich auffällig verhielt, ins Visier der Behörden. Lebensgefährte der FrauDer 40-jährige Rumäne gilt nun als dringend tatverdächtig, die Frau getötet zu haben. „Er wurde nach der Vernehmung wegen dringenden Tatverdachts in den Räumlichkeiten des Landeskriminalamtes Wien festgenommen“, gab die Polizei bekannt. Bei dem Mann soll es sich um den Lebensgefährten der F",
+      "excerpt": "Einbrecher in der Leopoldstadt nahmen zuletzt offenbar gleich mehrere Geschäftslokale im Nordbahnviertel ins Visier. So sollen die Unbekannten laut Angaben des ORF Wien allein in der Nacht auf Freitag in vier Läden eingebrochen sein. Fotos aus Überwachungsvideos zeigen das Vorgehen der Täter: Sie schlagen die Glastüren ein und nahmen die Kassen mit. Gegen 2.15 Uhr sollen sie etwa in das Lokal „Ichiban Tea“ in der Bruno-Marek-Allee 17 eingestiegen sein sowie in das „Café Vogel“, den „Weinshop Weinrudi“, das „Sorso“ und „Der Burgenländer“. Auch in das Bond Pilates-Studio wurde eingebrochen.Sieben EinbrücheLaut ORF Wien soll es allein in dieser Woche sieben Einbrüche gegeben haben. Michael Knoll, Obmann der Einkaufsstraße Bruno-Marek-Allee und Inhaber des Geschäfts „Starbike“, überlegte desha",
       "source": "Kurier",
-      "date": "2026-10-10T09:24:47+00:00",
+      "date": "2026-10-11T09:50:23+00:00",
       "featured": false
     },
     {
-      "id": "28437c9e267f",
-      "title": "Selenskyj sieht „Geschenk an Putin“",
-      "url": "https://orf.at/stories/3444642/",
-      "category": "Ausland",
-      "excerpt": "Nachdem US-Präsident Donald Trump am Freitag eine Vereinbarung zur Lieferung von Hunderttausenden Tonnen Diesel aus Russland verkündet hatte, ist Kritik aus Kiew laut geworden. Die geplante Lieferung sei ein „Geschenk“ an den russischen Präsidenten Wladimir Putin, das „Investitionen in den Krieg“ gleichkomme, so der ukrainische Präsident Wolodymyr Selenskyj. Fachleute verwiesen unterdessen darauf, dass die Lieferung den hohen Dieselpreis in den USA nur wenig beeinflussen könne.",
-      "source": "ORF",
-      "date": "2026-10-10T09:21:41+02:00",
-      "featured": false
-    },
-    {
-      "id": "a39c8fad6ada",
-      "title": "Unwetter in Süditalien: Überschwemmungen und Erdrutsche",
-      "url": "https://kurier.at/chronik/welt/unwetter-in-sueditalien-ueberschwemmungen-und-erdrutsche/403197182",
+      "id": "d7d026b106aa",
+      "title": "Brasilien: Mann wollte Kindergarten anzünden und nahm 13 Kinder als Geiseln",
+      "url": "https://kurier.at/chronik/welt/kindergarten-geiseln-kinder-curitiba-drohung/403197471",
       "category": "Chronik/Welt",
-      "excerpt": "Heftige Unwetter haben den Süden Italiens am Samstag erneut getroffen. In Sizilien, großen Teilen Kalabriens sowie in Gebieten Kampaniens und Apuliens gilt die zweithöchste Warnstufe Orange. Starkregen führte zu Überschwemmungen, Erdrutschen und Verkehrsbehinderungen. In Melito di Porto Salvo in Kalabrien wurden Straßen von Schlamm und Geröll bedeckt. Auch in Neapel, Pozzuoli und Giugliano sowie auf den Liparischen Inseln wurden Schäden gemeldet.Besonders schwer betroffen ist die Gemeinde Melito di Porto Salvo in Kalabrien. Nach heftigen nächtlichen Regenfällen wurden Straßen überschwemmt und mit Schlamm und Trümmern bedeckt. Einsatzkräfte des Zivilschutzes, der Feuerwehr und der Polizei waren vor Ort. Der Ort sei stark betroffen, sagte Bürgermeister Tito Nastasi gegenüber Medien. In der N",
+      "excerpt": "In Brasilien hat die Polizei 13 Kindergartenkinder aus der Gewalt eines Geiselnehmers befreit. Der Geiselnehmer, der sich mit den Kindern im Raum eines Kindergartens im südbrasilianischen Curitiba verschanzt hatte, sei getötet worden, sagte der Chef der Spezialkräfte der Militärpolizei des Bundesstaates Paraná, Alexandre Lopes Dias, am Freitag (Ortszeit) bei einer Pressekonferenz. Ein Kind wurde verletzt.Die zwischen vier und fünf Jahre alten Kinder wurden demnach den Gesundheitsbehörden und der Feuerwehr übergeben. Der Geiselnehmer war laut Polizei mit einem Fahrrad zu dem Kindergarten in der Nähe des Stadtzentrums gekommen und über den Zaun der Einrichtung gesprungen. Dort habe er sich mit den Kindern in einem Raum verschanzt und gedroht, den Kindergarten in Brand zu stecken. Tatsächlich",
       "source": "Kurier",
-      "date": "2026-10-10T09:04:29+00:00",
+      "date": "2026-10-11T09:44:34+00:00",
       "featured": false
     },
     {
-      "id": "f2205cf86152",
-      "title": "Keine Vorsitzwahl, aber Stoff für Diskussion bei Neos-Mitgliederversammlung in Linz",
-      "url": "https://www.derstandard.at/story/3000000343539/keine-vorsitzwahl-aber-stoff-fuer-diskussion-bei-neos-mitgliederversammlung-in-linz?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Parteichefin Meinl-Reisinger will die gerade erst in Kraft getretene Paketsteuer überdenken. Eine Wahl des Vorsitzes steht nicht an",
-      "source": "Der Standard",
-      "date": "2026-10-10T09:00:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "00d2cd996093",
-      "title": "Johanna Sebauer: Am Feld",
-      "url": "https://kurier.at/kolumnen/johanna-sebauer-kolumne/403196480",
-      "category": "Kolumnen",
-      "excerpt": "Von Johanna SebauerIch bin in einem neuen Fitnessstudio. Es hat gedauert, bis ich mich dazu durchgerungen habe, denn ich hab mein altes Studio in der Stadt sehr geschätzt und dachte, alles, was danach komme, könne nur schlechter sein. Dabei war es kein besonderes Luxus-Studio, eher im Gegenteil. Es war ein einfaches Gym. Es wurde von der Universität betrieben. Die Kunden waren dementsprechend Sportstudis und emeritierte Professoren, die gegen Osteoporose anstemmten. Lifestyle-Pumper sah man nicht. Jetzt bin ich in einem Massen-Gym. Unpraktisch am Ortsrand gelegen, neben der Auffahrt zur Schnellstraße, in einem dieser Einkaufszentren mit den ausgeblichenen Schildern der immer gleichen Läden: Tiernahrung, Bürobedarf, Billigmode. Innen alles schwarz. Boden, Wände, Geräte, dunkel wie die Nacht",
-      "source": "Kurier",
-      "date": "2026-10-10T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ef6df93fb90",
-      "title": "Aufstieg und Fall: Wer war Andreas Babler? [premium]",
-      "url": "https://www.diepresse.com/41340301/aufstieg-und-fall-wer-war-andreas-babler",
-      "category": "Die Presse",
-      "excerpt": "Es war eine kurze steile Karriere. Von 2023 bis 2026 war Andreas Babler SPÖ-Vorsitzender. Er hat sich dabei neu erfunden und ist dennoch der Alte geblieben. Das war letztlich auch sein Problem.",
-      "source": "Die Presse",
-      "date": "2026-10-10T08:57:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "2aab58bf8d7f",
-      "title": "Wie nimmt man richtig zu?",
-      "url": "https://kurier.at/kolumnen/wortklauberei/wortklauberei-wie-nimmt-man-richtig-zu/403196890",
-      "category": "PLUS - Kolumnen/Wortklauberei",
-      "excerpt": "Dr. Martin S. hat ein Problem: Er hat zugenommen. „Es hat nur ein Monat gedauert und schon hab ich einen Kilo mehr gehabt. Offensichtlich lade ich ab und zu ein Knödel zu viel auf den Teller.“ An dieser Stelle muss sich der Wortklauber, mit Dr. S. freundschaftlich verbunden (zumindest bis zu dieser Kolumne), ins Spiel bringen. Erstens: Die Gewichtszunahme von Dr. S. betrug nicht einen, sondern mindestens fünf Kilo. Zweitens: Hat Dr. S. bei seinem Outing die Wörter „Monat“, „Kilo“ und „Knödel“ mit den richtigen Artikeln verwendet?Mit dem grammatikalischen Geschlecht deutscher Hauptwörter ist es ja so eine Sache. Anders als z. B. im Englischen muss man dieses für die meisten Wörter extra lernen. Erschwerend kommt dazu, dass einige Nomina je nach Artikel eine unterschiedliche Bedeutung haben:",
-      "source": "Kurier",
-      "date": "2026-10-10T08:56:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "1bfb75046f68",
-      "title": "Volksschule bis 12: „Über 40 Schulen wollen das machen“",
-      "url": "https://kurier.at/politik/ausland/volksschule-bis-12-jahren-oesterreich/403197169",
-      "category": "PLUS - Politik/Ausland",
-      "excerpt": "Es war ein ungewöhnlicher Termin, der Donnerstagabend im Ägydiussaal der Stadtpfarre Korneuburg stattfand: Bildungsminister Christoph Wiederkehr (Neos) und Lehrergewerkschafter Paul Kimberger (FCG) nahmen gemeinsam auf einem Podium Platz, um die Maßnahmen und Ideen des Ministers zu diskutieren.Gleich das erste Thema wurde besonders kontroversiell diskutiert: Wiederkehr will bald einen größeren Schulversuch für eine sechsjährige Volksschule starten. „Wir sind eines der wenigen Länder in der EU, indem die Kinder schon vor dem zehnten Lebensjahr eine gravierende Lebensentscheidung treffen müssen – zur Frage Mittelschule oder Gymnasium. Das zehnte Lebensjahr ist laut allen Psychologen ein ganz sensibles Alter, wo sich Interessen noch enorm verändern können. Ich bin überzeugt, dass ein längeres",
-      "source": "Kurier",
-      "date": "2026-10-10T08:54:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "f6c743dcccdd",
-      "title": "Meinl-Reisinger zur Paketsteuer: „Ich rege es an, dass wir da noch einmal in uns gehen“",
-      "url": "https://www.diepresse.com/41343242/meinl-reisinger-zur-paketsteuer-ich-rege-es-an-dass-wir-da-noch-einmal-in-uns-gehen",
-      "category": "Die Presse",
-      "excerpt": "Die NEOS kommen am Samstag zu einer Mitgliederversammlung in Linz zusammen.",
-      "source": "Die Presse",
-      "date": "2026-10-10T08:40:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "c706911e5bc5",
-      "title": "Bankomat bei Spar im Südburgenland gesprengt",
-      "url": "https://kurier.at/chronik/burgenland/bankomat-supermarkt-oberwart-suedburgenland-gesprengt/403197151",
-      "category": "Chronik/Burgenland",
-      "excerpt": "Ein Bankomat bei einem Supermarkt im südburgenländischen Kohfidisch (Bezirk Oberwart) ist in der Nacht auf Samstag gesprengt worden. Betroffen soll laut KURIER-Informationen die Spar-Filiale in der Obere Hauptstraße 59 sein, etwas außerhalb des Wohngebiets.Die Polizei hat gegen 2.45 Uhr eine Fahndung nach den Tätern eingeleitet und auch Kräfte aus der Steiermark und dem nahen Ungarn eingesetzt. Keine Spur von den VerdächtigenGefunden wurden die Verdächtigen bisher nicht, so die Polizei. Laut ersten Informationen, derzeit noch nicht bestätigten Informationen, soll das Täterfahrzeug in der ungarischen Stadt Szombathely gefunden worden sein. Um wie viele Verdächtige es sich handelt, ist derzeit noch nicht klar. Große Schäden im VerkaufsraumFest steht jedoch, dass wohl eine große Menge Sprengs",
-      "source": "Kurier",
-      "date": "2026-10-10T08:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e4bda3731ab6",
-      "title": "Flughafen Wien-Vorstand fordert Abschaffung der Flugabgabe",
-      "url": "https://kurier.at/wirtschaft/flughafen-wien-vorstand-ofner-abschaffung-der-flugabgabe/403197138",
-      "category": "Wirtschaft",
-      "excerpt": "Der Flughafen Wien-Schwechat hat heuer im ersten Halbjahr einen Rückgang der Passagierzahlen um 3,2 Prozent auf 14,3 Millionen Personen verzeichnet. Günther Ofner, Vorstand der Flughafen Wien AG, verweist in der ZiB2 auf hohe Standortkosten, die den Standort belasten. Billig-Airlines wie Wizz Air kehren daher dem Flughafen den Rücken oder ziehen wie Ryanair Flugzeuge vom Wiener Standort ab und wechseln nach Bratislava mit deutlich niedrigeren Kosten.Die Kosten im 55 Kilometer von Wien entfernten Bratislava seien um ein Drittel niedriger, wie Ofner betonte. Vor allem die Ticketabgabe von 12 Euro bzw. von 30 Euro für Kurzstrecken bis 350 Kilometer kritisierte der Flughafenvorstand. Mehrere Länder hätten diese Abgabe wieder abgeschafft, nur mehr acht Staaten in der EU heben diese Gebühr ein. ",
-      "source": "Kurier",
-      "date": "2026-10-10T08:26:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "69b32e555ee8",
-      "title": "Taiwan fordert klare Haltung gegen Chinas Drohungen",
-      "url": "https://orf.at/stories/3444641/",
+      "id": "c03dc4dde37c",
+      "title": "Neue Eskalation in Saudi-Arabien",
+      "url": "https://orf.at/stories/3444718/",
       "category": "Ausland",
-      "excerpt": "",
+      "excerpt": "Am Samstag ist der Konflikt zwischen den proiranischen Huthi-Rebellen im Jemen und der von Saudi-Arabien angeführten Militärkoalition weiter eskaliert: Bei einem Raketenangriff auf den Hauptflughafen der saudi-arabischen Hauptstadt Riad sind den Behörden zufolge mindestens zwölf Personen getötet und über 300 verletzt worden. Saudi-Arabien kündigte daraufhin eine „entschiedene Reaktion“ gegen die Huthis an. US-Präsident Donald Trump schloss einen US-Eingriff in den Konflikt nicht mehr aus.",
       "source": "ORF",
-      "date": "2026-10-10T08:17:58+02:00",
+      "date": "2026-10-11T09:43:47+02:00",
       "featured": false
     },
     {
-      "id": "6f51698b15eb",
-      "title": "Schwere Schäden nach Erdbeben in Panama",
-      "url": "https://orf.at/stories/3444640/",
-      "category": "Chronik",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T08:00:28+02:00",
+      "id": "93b24ac42a5f",
+      "title": "Die Wiener Austria in der Krise: (K)eine Frage des Systems",
+      "url": "https://kurier.at/sport/fussball/austria-krise-sturm-helm-fischer-ranftl/403197467",
+      "category": "PLUS - Sport/Fußball",
+      "excerpt": "Nur sieben Punkte aus acht Spielen - zu wenig für die Austria. So viel haben sich die Veilchen nach der langen Pause vorgenommen. Und dann das: Gegen Sturm Graz setzte es eine 0:2-Heimniederlage, bei der die Veilchen spielerisch über weite Strecken wieder nicht überzeugen konnten. Erst gegen Ende wurde es besser, als Trainer Stephan Helm das System umstellte.Der Pechvogel der Partie war ganz klar Reinhold Ranftl. Der Routinier verursachte den Elfmeter, der zum 0:2 führte, und vergab kurz vor Schluss auch noch eine Topchance. „Es tut mir leid für die Mannschaft“, sagte er sichtlich geknickt. Das Unheil nahm kurz nach der Pause seinen Lauf. Ranftl attackierte Sturms Diakite, der schon das 0:1 erzielt hatte, im Strafraum. Zunächst gab es Gelb für eine Schwalbe, nach VAR-Intervention aber Elfm",
+      "source": "Kurier",
+      "date": "2026-10-11T09:24:19+00:00",
       "featured": false
     },
     {
-      "id": "5f470952c2bf",
-      "title": "Hurrikan „Isaias“ in Florida auf Land getroffen",
-      "url": "https://orf.at/stories/3444639/",
-      "category": "Umwelt",
-      "excerpt": "",
-      "source": "ORF",
-      "date": "2026-10-10T07:55:16+02:00",
+      "id": "f7306df1e570",
+      "title": "„She'll Never Be Me“: Britney Spears veröffentlicht Song",
+      "url": "https://kurier.at/kultur/shell-never-be-me-britney-spears-veroeffentlicht-song/403197469",
+      "category": "Kultur",
+      "excerpt": "Mehr als drei Jahre nach ihrer letzten Neuveröffentlichung hat sich Popsängerin Britney Spears mit dem Song „She'll Never Be Me“ musikalisch zurückgemeldet. Das Lied wurde bereits 2001 aufgenommen und hätte eigentlich auf ihrem damaligen Album „Britney“ erscheinen sollen, wie mehrere US-Medien berichteten. Doch dazu kam es nicht. Neue Musik hatte die 44-Jährige zuletzt 2023 veröffentlicht, als sie zusammen mit Will.i.am den Song „Mind Your Business“ herausgebracht hatte.Wie das „People“-Magazin nun berichtete, schrieb Spears „She'll Never Be Me“ unter anderem mit ihrem damaligen Freund Justin Timberlake. Die beiden waren von 1999 bis 2002 ein Paar. Dem Magazin zufolge soll der Song ein Vorgeschmack auf die Jubiläumsversion des Albums „Britney“ sein, das am 6. November herauskommen soll - 2",
+      "source": "Kurier",
+      "date": "2026-10-11T09:13:27+00:00",
       "featured": false
     },
     {
-      "id": "59bc7894a09d",
-      "title": "Ist die SPÖ zu retten? Warum das gerade Holzleitner und Kucher gelingen soll",
-      "url": "https://www.derstandard.at/story/3000000343276/ist-die-spoe-zu-retten-warum-das-gerade-holzleitner-und-kucher-gelingen-soll?ref=rss",
+      "id": "b00a7dc41a55",
+      "title": "Nach Flucht aus Justizanstalt: Häftling (22) tot gefunden",
+      "url": "https://kurier.at/chronik/steiermark/flucht-justizanstalt-graz-karlau-haeftling-tot-suche/403197468",
+      "category": "Chronik/Steiermark",
+      "excerpt": "Ein tragisches Ende nahm die Flucht jenes 22-jährigen Häftlings, der am Freitag aus der Justizanstalt Graz-Karlau getürmt und seither von der Polizei gesucht worden war: Bei Seiersberg wurde am Samstag die Leiche des Österreichers gefunden, er hatte sich das Leben genommen. Der 22-Jährige war zuvor im gelockerten Strafvollzug untergebracht. Laut einem Online-Bericht der Kleinen Zeitung hatte der Mann seine Haftstrafe nicht in einer Zelle verbüßt, sondern im sogenannten „Freigängerhaus“ der Justizanstalt.Insassen, die dort untergebracht sind, können einer geregelten Arbeit nachgehen. So wie auch der 22-Jährige am Freitag, als er mit Arbeiten im Außenbereich der Justizanstalt beschäftigt war. Er hätte nach vorheriger Abmeldung die Justizanstalt auch jederzeit verlassen können, hieß es.Über M",
+      "source": "Kurier",
+      "date": "2026-10-11T09:02:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "d544c0f1a968",
+      "title": "Honcharova ist Österreichs Zukunftshoffnung",
+      "url": "https://kurier.at/chronik/oberoesterreich/honcharova-ist-oesterreichs-zukunftshoffnung/403197423",
+      "category": "PLUS - Chronik/Oberösterreich",
+      "excerpt": "Veronika Honcharova ist eine der großen Zukunftshoffnungen des Österreichischen Gewichtheberverbands (ÖGV). Mit erst 18 Jahren stellt sie einen nationalen Rekord nach dem anderen auf. Das hat sie auch bei der morgen, Montag, in Durres/Albanien beginnenden Junioren & U23-Europameisterschaft vor, bei der sie in der Gewichtsklasse bis 61 Kilogramm an den Start gehen wird.Honcharova ist in Donezk aufgewachsen, einer Großstadt im Osten der Ukraine, die sich mittlerweile unter russischer Kontrolle befindet. 2022 flüchtete sie nach Österreich und landete auf der Suche nach einer neuen Heimat in der Stemmerhochburg SK VÖEST Linz. Bereits mit sechs Jahren hatte Honcharova mit dem Gewichtheben begonnen. Ihre Familie sei anfangs skeptisch gewesen, erzählt sie, weil das nicht als Sport für Frauen erac",
+      "source": "Kurier",
+      "date": "2026-10-11T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b91dbb533050",
+      "title": "Von Bürgermeister Ludwig: Große Ehre für die Resetarits-Brüder",
+      "url": "https://kurier.at/stars/austropromis/von-buergermeister-ludwig-grosse-ehre-fuer-die-resetarits-brueder/403197466",
+      "category": "Stars/Austropromis",
+      "excerpt": "Richtig familiär wurde es jetzt im Wiener Rathaus, denn Bürgermeister Michael Ludwig überreichte dort gleich zwei Goldene Ehrenzeichen für Verdienste um das Land Wien.Die Geehrten sind die Brüder Lukas und Peter Resetarits.„Lukas Resetarits und Peter Resetarits haben auf sehr unterschiedlichen Wegen ein gemeinsames Ziel verfolgt: Sie haben die Öffentlichkeit mitgestaltet und dabei stets auf Qualität, Haltung und gesellschaftliche Verantwortung gesetzt. Der eine auf der Bühne und vor der Kamera, der andere im journalistischen Einsatz für die Anliegen der Menschen – beide haben das öffentliche Leben in Österreich nachhaltig geprägt“, so Ludwig in seiner Ansprache.Ludwig würdigte Lukas Resetarits als Künstler, der über Jahrzehnte hinweg Kabarett, Schauspiel und gesellschaftspolitische Einmisc",
+      "source": "Kurier",
+      "date": "2026-10-11T08:55:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "ea8fe233f933",
+      "title": "Aufregung in Rom: Ein neuer Urlaubs-Trend sorgt für massiven Ärger",
+      "url": "https://kurier.at/chronik/welt/rom-golfcarts-urlaub-touristen-kolosseum-pantheon/403197463",
+      "category": "Chronik/Welt",
+      "excerpt": "Sie stehen am Pantheon, kurven am Kolosseum vorbei - und verstopfen die engen Straßen von Rom: Scharen von Golfcarts kutschieren Urlauber durch die historische Innenstadt. Mit dem Trend wächst auch der Ärger. Taxifahrer und Mietwagenanbieter sind verärgert - und sprechen mindestens von einer rechtlichen Grauzone. Die Behörden suchen nach Regelungen. Was eine umweltfreundliche Alternative sein könnte, entwickelt sich zum Konflikt um Massentourismus und Verkehrschaos.Nach Schätzung des römischen Verkehrsdezernenten sind etwa 400 der Fahrzeuge unterwegs. Einem Bericht der Nachrichtenagentur Adnkronos zufolge wurden Ende September 131 Golfwagen rund um die Touristen-Hotspots Pantheon, Piazza Navona und Piazza del Popolo kontrolliert. Zehn Fahrzeuge wurden dem Bericht zufolge vorübergehend stil",
+      "source": "Kurier",
+      "date": "2026-10-11T08:46:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "9ef2d5117c75",
+      "title": "Forderung nach Selenskij-Aus: „Trump stellt sich auf die Seite des Mörders“",
+      "url": "https://kurier.at/politik/ausland/strack-zimmermann-donald-trump-selenskij-ukraine-russland-putin/403197465",
+      "category": "Politik/Ausland",
+      "excerpt": "Die Vorsitzende des Verteidigungsausschusses im Europaparlament, Marie-Agnes Strack-Zimmermann (FDP), hat die Forderung von US-Präsident Donald Trump nach einem Präsidentenwechsel in der Ukraine scharf zurückgewiesen. „Wenn Trump Selenskij zum Rücktritt auffordert, stellt er sich unmissverständlich auf die Seite des Mörders“, sagte Strack-Zimmermann dem Tagesspiegel laut Mitteilung vom Sonntag.Die FDP-Politikerin forderte, Kreml-Chef Wladimir Putin wegen des russischen Angriffskrieges vor den Internationalen Strafgerichtshof zu stellen. „Putin gehört nach Den Haag, seine Opfer unterstützt.“ „Über die Führung der Ukraine entscheiden alleine die Ukrainerinnen und Ukrainer in freien Wahlen, nicht das Weiße Haus und schon gar nicht der Kreml“, so Strack-Zimmerman.Trump hatte am Samstag vor Rep",
+      "source": "Kurier",
+      "date": "2026-10-11T08:42:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "42db21422db7",
+      "title": "„Bergretter“-Aus für den Schauspieler Heinz Marecek",
+      "url": "https://kurier.at/stars/austropromis/bergretter-aus-fuer-den-schauspieler-heinz-marecek/403197464",
+      "category": "Stars/Austropromis",
+      "excerpt": "Seit 17 Jahren verkörpert Heinz Marecek den Pensionswirt Franz Marthaler in der TV-Serie „Die Bergretter“. Doch damit soll jetzt Schluss sein. Denn wie aus der Beschreibung der Folge „Bruchstelle“ hervorgeht, wird Marecek in der neuen Staffel den Serientod sterben.Auch eine Sprecherin des ZDF bestätigte gegenüber t-online den Ausstieg des Publikumslieblings. „Aus dramaturgischen Gründen geht die Geschichte der Rolle Franz Marthaler in der neuen Staffel 'Die Bergretter' zu Ende“.Man bedanke sich „für die Zusammenarbeit in 17 großartigen Jahren, in denen er mit seinem Humor und seiner Unnachahmlichkeit als Franz Marthaler für viele heitere Momente gesorgt hat“.Trotz seiner langen Karriere in der Serie mag Marecek die Berge eigentlich gar nicht so gerne, wie er einmal in einem KURIER-Intervie",
+      "source": "Kurier",
+      "date": "2026-10-11T08:40:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "f0fe99a3e248",
+      "title": "Oh, Schreck! Hund störte Lili Paul-Roncallis Zirkusnummer",
+      "url": "https://kurier.at/stars/austropromis/oh-schreck-hund-stoerte-lili-paul-roncallis-zirkusnummer-verstehen-sie-spass/403197461",
+      "category": "Stars/Austropromis",
+      "excerpt": "Diese Vorstellung wird Zirkusartistin Lili Paul-Roncalli so schnell sicher nicht vergessen. Denn da war Chaos pur angesagt.Geplant ist, dass sie anlässlich des 50-Jahre-Jubiläums des Circus Roncalli ihre Trapez- und Kontorsionsnummer noch erweitert und mit ihrem „Let's Dance“-Partner Massimo Sinató noch ein Tänzchen hinlegt.Doch während Lili am Trapez hängt, läuft plötzlich Hund Willi in die Manege, Massimo hinterher.„Entschuldigung, liebe Zuschauer, ich sollte eigentlich gerade mit Lilli tanzen. Dieser Hund hat einen Narren an mir gefressen und läuft mir die ganze Zeit hinterher. Der sollte eigentlich nicht Teil des Acts sein. Wir müssen nochmal von vorne anfangen“, ruft er dann ins Megafon.Beim zweiten Anlauf ist Massimo zwar rechtzeitig da, Hund Willi läuft aber weiter durch die Manege.",
+      "source": "Kurier",
+      "date": "2026-10-11T08:22:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "39d3955cff3d",
+      "title": "Nationalrat erleichtert Abschiebung von Häftlingen",
+      "url": "https://www.derstandard.at/story/3000000343590/nationalrat-erleichtert-abschiebung-von-h228ftlingen?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Sie haben Andreas Babler lange verteidigt und ihm nun dennoch die Macht genommen: Eva-Maria Holzleitner und Philip Kucher sollen die SPÖ aus dem Strudel des Streits ziehen. Ihre Trümpfe sind Disziplin, Leutseligkeit und ein Draht zu allen",
+      "excerpt": "Die Freiheitlichen haben angesichts des Vorsitzendenwechsels bei der SPÖ einen Misstrauensantrag gegen die Regierung angekündigt",
       "source": "Der Standard",
-      "date": "2026-10-10T07:45:17+00:00",
+      "date": "2026-10-11T08:18:20+00:00",
       "featured": false
     },
     {
-      "id": "c6b09e630caa",
-      "title": "Anthropic-KI reichte falschen Hinweis auf Polizeiseite ein",
-      "url": "https://orf.at/stories/3444635/",
-      "category": "IT",
+      "id": "1a3b12c5919c",
+      "title": "Streit eskaliert: Mann (32) geht mit Totschläger auf Lokalgäste los",
+      "url": "https://kurier.at/chronik/kaernten/wolfsberg-totschlaeger-lokal-angriff-streit/403197462",
+      "category": "Chronik/Kärnten",
+      "excerpt": "Ein 32-jähriger Kärntner ist in der Nacht auf Sonntag bei einem Streit mit Lokalgästen mit einem illegalen Totschläger auf diese losgegangen. Zumindest ein Mann wurde dadurch verletzt, hieß es in einer Aussendung der Landespolizeidirektion Kärnten. Der Verdächtige konnte am Boden fixiert werden, bis die Einsatzkräfte eintrafen. Gegen ihn wurde ein vorläufiges Waffenverbot ausgesprochen und es wurden Suchtmittelutensilien bei ihm sichergestellt.Der Streit zwischen dem 32-Jährigen und anderen Gästen eines Lokals in Wolfsberg war gegen 0.40 Uhr entbrannt. Ein Security-Mitarbeiter verwies den Mann schließlich aus dem Lokal. Zunächst folgte der Kärntner dem auch, drohte aber noch den Anwesenden mit dem Umbringen. Dann fuhr er mit seinem Pkw davon, doch kurze Zeit später kam er zurück und geriet",
+      "source": "Kurier",
+      "date": "2026-10-11T08:02:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "f5b582f3ad0a",
+      "title": "ÖSV-Star Anna Gasser: Grande Dame mit großer Motivation",
+      "url": "https://kurier.at/sport/wintersport/snowboard-oesv-anna-gasser-big-air-slopestyle/403197411",
+      "category": "Sport/Wintersport",
+      "excerpt": "Im Nachhinein war es gar nicht so schlecht, dass Anna Gasser bei den Olympischen Winterspielen 2026 in Mailand-Cortina leer ausgegangen ist. Das für ihre Verhältnisse mittelprächtige Abschneiden hat das Kämpferherz der Snowboard-Artistin geweckt und noch einmal neue Motivation entfacht. Welche Doppel-Olympiasiegerin will schon mit den Rängen 8 (Big Air) und 10 (Slopestyle) abdanken?„Ich hatte das Gefühl, dass ich bei Olympia nicht das zeigen konnte, was ich drauf habe“, erklärt Anna Gasser. Spätestens als der Wettkampfkalender für den kommenden Winter präsentiert wurde, war es endgültig um sie geschehen und das Karriereende vom Brett. „Sie machen mir so viele Zuckerln, dass es mir schwer gemacht wird, aufzuhören.“Drei HöhepunkteDer Reigen der spektakulären Bewerbe beginnt Ende November mit",
+      "source": "Kurier",
+      "date": "2026-10-11T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ee8eff4cd8e5",
+      "title": "Der Titel sagt schon alles: „Die Waffen nieder!“ als grelle Revue",
+      "url": "https://kurier.at/kultur/bertha-von-suttner-schauspielhaus-graz-die-waffen-nieder-als-grelle-revue/403197060",
+      "category": "PLUS - Kultur",
+      "excerpt": "Bertha von Suttner, 1843 in Prag geboren, wurde, auch aufgrund persönlicher Umstände, zur Pazifistin. Um ihre Botschaft zu vermitteln, veröffentlichte sie 1889 keine theoretische Schrift, sondern einen autobiografisch gefärbten Roman: Sie erzählte über die Schrecken wie die Folgen des Krieges aus der Sicht einer Ehefrau. 1905 wurde sie mit dem Friedensnobelpreis ausgezeichnet. Geblieben ist bloß der programmatische Titel. Das Schauspielhaus Graz wagte sich trotzdem an eine Dramatisierung von „Die Waffen nieder!“.Die sehr gewollte Inszenierung von Sandra Strunz erinnert an ein Lehrstück von Bert Brecht: Sie ist holzschnittartig, artifiziell, grell. Die Antikriegsrevue hebt mit einer Vorstellung der Protagonisten an: Jede der sieben Figuren, zum Teil crossgender besetzt, gibt mit einer Geste",
+      "source": "Kurier",
+      "date": "2026-10-11T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8d43bbfc95bd",
+      "title": "Talarico als Shootingstar der Demokraten",
+      "url": "https://orf.at/stories/3442895/",
+      "category": "Ausland",
+      "excerpt": "Seit Jahrzehnten ist der US-Bundesstaat Texas eine Bastion der Republikanischen Partei. Mit James Talarico will ausgerechnet ein in der US-Politik als links-progressiv geltender Demokrat, der mit der Botschaft Jesu wirbt, bei den Zwischenwahlen Anfang November texanischer Senator werden. Eine am Samstag veröffentlichte Umfrage gibt Talarico durchaus realistische Chancen auf einen Sieg. Sollte ihm das gelingen, würde das zumindest für Texas, wenn nicht für das ganze Land eine politische Zäsur bedeuten.",
+      "source": "ORF",
+      "date": "2026-10-11T07:52:02+02:00",
+      "featured": false
+    },
+    {
+      "id": "da2299373386",
+      "title": "Südkorea vollendet erste Frachterrundfahrt über Arktisroute",
+      "url": "https://orf.at/stories/3444715/",
+      "category": "Wirtschaft",
       "excerpt": "",
       "source": "ORF",
-      "date": "2026-10-10T07:42:42+02:00",
+      "date": "2026-10-11T07:40:03+02:00",
+      "featured": false
+    },
+    {
+      "id": "e55ee403f22b",
+      "title": "Riesige Versteigerung: Heino trennt sich von mehr als 1.200 Gegenständen",
+      "url": "https://kurier.at/stars/austropromis/riesige-versteigerung-heino-trennt-sich-von-mehr-als-1200-gegenstaenden/403197458",
+      "category": "Stars/Austropromis",
+      "excerpt": "Fans von Schlagerstar Heino sollten jetzt ganz genau aufpassen, denn jetzt gibt es die Möglichkeit, selbst einen Gegenstand, der einst dem Schlagerbarden gehörte, zu ergattern.Denn wie auf der Auktionsplattform „topversteigerung.at“ zu lesen ist, versteigert Heino in insgesamt acht Auktionen über 1.200 Gegenstände aus seinem persönlichen Besitz.Denn über die Jahre hat sich einiges angesammelt im Leben von Heino und seiner 2023 verstorbenen Frau Hannelore. Die einzelnen Auktionen gliedern sich in „Haushaltsartikel und Zubehör“, „Gemälde und Bilder“, „Möbel“, „Bühnenoutfits und Bekleidung“, „Hannelores Handtaschen“, „Silber und Versilbertes“, „Fahrzeuge“ und „Schönes und Seltenes“ (ausgefallene Sammlergegenstände).Am 17. November können die Exponate in Klagenfurt besichtigt werden und an den",
+      "source": "Kurier",
+      "date": "2026-10-11T07:37:55+00:00",
       "featured": false
     }
   ],
@@ -1606,247 +1606,387 @@
       "featured": false
     },
     {
-      "id": "8b28d7cb7ace",
-      "title": "Schweres Erdbeben erschüttert Panama",
-      "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+      "id": "75069cd82bc4",
+      "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+      "url": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
       "category": "Tagesschau",
-      "excerpt": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
+      "excerpt": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
       "source": "Tagesschau",
-      "date": "2026-10-10T11:34:50+02:00",
+      "date": "2026-10-11T11:20:40+02:00",
       "featured": false
     },
     {
-      "id": "55b14a00114c",
-      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+      "id": "f80d82958461",
+      "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
       "category": "Tagesschau",
-      "excerpt": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer. Die Partei will raus aus dem Tief und dafür - so ein Vorschlag - wieder näher an den Alltag der Menschen heranrücken.",
+      "excerpt": "Der Konflikt zwischen Saudi-Arabien und der Huthi-Miliz verschärft sich: Nun gab es bei einem Angriff in Riad mindestens zwölf Tote und Hunderte Verletzte. Der Flughafenbetrieb blieb zunächst ausgesetzt.",
       "source": "Tagesschau",
-      "date": "2026-10-10T11:04:58+02:00",
+      "date": "2026-10-11T11:05:29+02:00",
       "featured": false
     },
     {
-      "id": "77affc8c1e38",
-      "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
-      "url": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
-      "source": "Tagesschau",
-      "date": "2026-10-10T10:46:02+02:00",
-      "featured": false
-    },
-    {
-      "id": "fd5ed628cf79",
-      "title": "Quebec Independence Is Unlikely, but Some Will Still Dream",
-      "url": "https://www.nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html",
-      "category": "Canada",
-      "excerpt": "The idea of independence remains deeply unpopular in Quebec, yet the separatist Parti Québécois was re-elected to a minority government this week.",
-      "source": "New York Times",
-      "date": "2026-10-10T10:00:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "24b9a3eeb124",
-      "title": "Kreml: Putin übermittelte Trump Irans Position zur Konfliktlösung",
-      "url": "https://www.derstandard.at/story/3000000343543/kreml-putin-uebermittelte-trump-irans-position-zur-konfliktloesung?ref=rss",
+      "id": "9c371dda5c18",
+      "title": "Saudi-Arabien steht nackt da",
+      "url": "https://www.derstandard.at/story/3000000343586/saudi-arabien-steht-nackt-da?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Der russische Präsident hat sich nach Darstellung des Kreml als Vermittler in den Konflikt zwischen den USA und dem Iran eingeschaltet",
+      "excerpt": "Das enge Bündnis mit den USA und Milliarden-Waffenkäufe können den Flughafen Riad nicht vor einer hochgerüsteten Miliz schützen",
       "source": "Der Standard",
-      "date": "2026-10-10T09:53:30+00:00",
+      "date": "2026-10-11T10:12:52+00:00",
       "featured": false
     },
     {
-      "id": "be503d1f45a0",
-      "title": "Hurricane Isaias live updates: hundreds of thousands without power as storm batters US Gulf Coast",
-      "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-      "category": "Hurricanes",
-      "excerpt": "First Atlantic hurricane of the 2026 season makes landfall in the USFull story: Hurricane Isaias hammers Gulf coastSign up for the US Breaking News emailThe storm is expected to move across Alabama and into the Tennessee Valley later today and Sunday, the National Hurricane Center (NHC) said in its latest advisory.“Maximum sustained winds have decreased to near 35 mph (55 km/h) with higher gusts. Slow weakening is forecast today, and Isaias is forecast to dissipate on Sunday,” the center said. Continue reading...",
+      "id": "658ace34f28f",
+      "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "category": "Houthis",
+      "excerpt": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed HouthisAn American citizen was among the 12 killed in the airport attack yesterday. For weeks now there’s been speculation over whether the US will join Saudi Arabia in carrying out air strikes against the Iran-backed Houthis in Yemen.When fighting recommenced last month with the Houthis, Saudi Crown ​Prince Mohammed bin Salman had reportedly called Donald Trump requested military assistance. But the US president committed only military intelligence and targeting help rather than send war planes. On Saturday, following the deadly airport attack, Trump was asked by reporters if the US would take a more active position and join in the Saudi strikes. “We may. We’re going to look at it.",
       "source": "The Guardian",
-      "date": "2026-10-10T09:45:06+00:00",
+      "date": "2026-10-11T10:05:41+00:00",
       "featured": false
     },
     {
-      "id": "5f851635b6b8",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest",
-      "category": "New York Times",
-      "excerpt": "",
-      "source": "New York Times",
-      "date": "2026-10-10T09:43:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "1743272b00df",
-      "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
-      "category": "Tagesschau",
-      "excerpt": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
-      "source": "Tagesschau",
-      "date": "2026-10-10T09:37:37+02:00",
-      "featured": false
-    },
-    {
-      "id": "80c715a010be",
-      "title": "Unwetter in Süditalien führt zu Überschwemmungen und Erdrutschen",
-      "url": "https://www.derstandard.at/story/3000000343540/unwetter-in-s252ditalien-220berschwemmungen-und-erdrutsche?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Kalabrien, Kampanien und Sizilien sind besonders betroffen. Laut Behörden wurden Fahrzeuge bis ins Meer gespült, Mauern sind eingestürzt und Straßen sind teils nicht passierbar",
-      "source": "Der Standard",
-      "date": "2026-10-10T09:26:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "db8e77e7aef7",
-      "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
-      "source": "BBC World",
-      "date": "2026-10-10T09:17:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "7113247ee6db",
-      "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-      "category": "Tagesschau",
-      "excerpt": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
-      "source": "Tagesschau",
-      "date": "2026-10-10T09:15:42+02:00",
-      "featured": false
-    },
-    {
-      "id": "ea35ac6cb648",
-      "title": "Bürgermeister in Peru heißt Hitler Mussolini Simeón Flores",
-      "url": "https://www.derstandard.at/story/3000000343538/b252rgermeister-in-peru-hei223t-hitler-mussolini-sime243n-flores?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Der 45-Jährige wurde im kleinem Andenort Queropalca an die Spitze gewählt. Er ist Linkspolitiker",
-      "source": "Der Standard",
-      "date": "2026-10-10T09:05:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "0de57a37d387",
-      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
-      "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
-      "category": "Deaths (Fatalities)",
-      "excerpt": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
-      "source": "New York Times",
-      "date": "2026-10-10T09:01:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "cf898a19126b",
-      "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
-      "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
-      "category": "France",
-      "excerpt": "Students say they are desperate to get back to class but conditions are so bad that the protests must continueOn a normal school day, Mohammed, 17, wakes at 6am, cares for his younger siblings to help his single mother who works as a security guard, then takes two crowded buses and a local train to get to his high school in Sevran, a low-income banlieue town in the suburbs north-east of Paris.“There aren’t enough chairs or desks to go round, so some students have to stand up,” Mohammed said. “Classes can be so packed you can’t interact with the teacher. In this year’s heatwaves, it felt like 40 degrees in overcrowded classrooms with no shade or curtains. It was so hot my brain couldn’t function.” Continue reading...",
-      "source": "The Guardian",
-      "date": "2026-10-10T09:00:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "089e56fe1524",
-      "title": "Diesel-Deal: Trump macht Putin ein großes Geburtstagsgeschenk und schädigt die Kriegsstrategie der Ukraine",
-      "url": "https://www.derstandard.at/story/3000000343527/diesel-deal-trump-macht-putin-ein-grosses-geburtstagsgeschenk-und-schaedigt-die-kriegsstrategie-der-ukraine?ref=rss",
-      "category": "Der Standard",
-      "excerpt": "Nach einem Telefonat mit dem russischen Staatschef kündigte Trump den Import russischen Diesels in die USA an. Die Preise wird das angesichts der geringen Mengen kaum senken. In Kyjiw sieht man sich betrogen",
-      "source": "Der Standard",
-      "date": "2026-10-10T08:43:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "0f39b0686257",
-      "title": "An International Career Forged by the Struggles of Apartheid",
-      "url": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
-      "category": "Pillay, Navi",
-      "excerpt": "Navi Pillay, who won this year’s Nobel Peace Prize, fought racism in South Africa, shaping her international career as a judge and advocate for justice and human rights.",
-      "source": "New York Times",
-      "date": "2026-10-10T08:39:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ca7987fe33e",
-      "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
-      "source": "Tagesschau",
-      "date": "2026-10-10T08:32:43+02:00",
-      "featured": false
-    },
-    {
-      "id": "c49457303636",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC World",
-      "excerpt": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-      "source": "BBC World",
-      "date": "2026-10-10T08:29:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "4759bb06edc2",
-      "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
-      "url": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html",
-      "category": "Tagesschau",
-      "excerpt": "Kinder, die ohne Eltern aufwachsen, kennen Erwachsene oft nur als Betreuer, Erzieher oder Lehrer. Ein Kölner Verein will ihnen Erwachsene an die Seite stellen, die bleiben - und damit eine Lücke schließen. Von Rupert Wiederwald.",
-      "source": "Tagesschau",
-      "date": "2026-10-10T08:16:51+02:00",
-      "featured": false
-    },
-    {
-      "id": "a9197ed5e757",
-      "title": "LIVE-TICKER - Krieg in der Ukraine: Sieben Tote nach russischen Angriffen in Saporischja",
-      "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-aktuelle-news-und-entwicklungen-ld.10021245",
+      "id": "b2b6a913b304",
+      "title": "Universelle Gerechtigkeit und radikaler Humanismus: Der Jurist und Schriftsteller Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels",
+      "url": "https://www.nzz.ch/feuilleton/universelle-gerechtigkeit-und-radikaler-humanismus-der-jurist-und-schriftsteller-philippe-sands-erhaelt-den-friedenspreis-des-deutschen-buchhandels-ld.10027032",
       "category": "NZZ",
-      "excerpt": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+      "excerpt": "Philippe Sands’ Bücher haben ihre Wurzeln in Archiven und Gerichtssälen. Sie verbinden hohen literarischen Anspruch und historische Präzision.",
       "source": "NZZ",
-      "date": "2026-10-10T08:12:21+00:00",
+      "date": "2026-10-11T10:05:00+00:00",
       "featured": false
     },
     {
-      "id": "4e5d63292e81",
-      "title": "Proteste in Indien: Gründer der Kakerlaken-Jugendbewegung festgenommen",
-      "url": "https://www.derstandard.at/story/3000000343534/proteste-in-indien-gruender-der-kakerlaken-jugendbewegung-festgenommen?ref=rss",
+      "id": "17c67022fd92",
+      "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "category": "Foreign policy",
+      "excerpt": "Defence secretary backs Ukrainian president and says priority is to maintain western unity over Russia conflictBritain stands behind Volodymyr Zelenskyy, the defence secretary has said, after Donald Trump called for the Ukrainian president to be replaced and the US announced a controversial agreement to buy Russian diesel.Wes Streeting said Ukrainians alone should be able to decide who led their country as he indicated Trump was facing domestic political pressure over fuel prices ahead of next month’s US midterm elections. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T10:03:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "22b44d3a8bf2",
+      "title": "Polen geht Hinweis auf Anschlagspläne nach: Tusk und Verteidigungsminister im Fokus",
+      "url": "https://www.derstandard.at/story/3000000343603/polen-geht-hinweis-auf-anschlagspl228ne-nach-tusk-und-verteidigungsminister-im-fokus?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Abhijeet Dipke wurde im Vorfeld einer geplanten Großdemonstration in Neu-Delhi in Gewahrsam genommen. Die Bewegung gilt als eine der größten Herausforderungen von Indiens Premier Modi",
+      "excerpt": "Die Polizei hat eigenen Angaben nach Hinweise auf einen möglichen Anschlag auf Ministerpräsident Donald Tusk und Verteidigungsminister Władysław Kosiniak-Kamysz erhalten",
       "source": "Der Standard",
-      "date": "2026-10-10T07:57:57+00:00",
+      "date": "2026-10-11T10:02:12+00:00",
       "featured": false
     },
     {
-      "id": "d5874c44d09f",
-      "title": "Blocked by Police, India’s Youth Voice Their Fury",
-      "url": "https://www.nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html",
+      "id": "d924278a79c7",
+      "title": "In China, people get unusually long public holidays",
+      "url": "https://www.derstandard.at/story/3000000343355/in-china-people-get-unusually-long-public-holidays?ref=rss",
+      "category": "Der Standard",
+      "excerpt": "So why do they complain about them so much?",
+      "source": "Der Standard",
+      "date": "2026-10-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e7366cb65cbe",
+      "title": "Indiens Regierung riegelt die Hauptstadt ab, um neue Proteste gegen die Wahlkommission zu unterdrücken",
+      "url": "https://www.nzz.ch/international/indiens-regierung-riegelt-die-hauptstadt-ab-um-neue-proteste-gegen-die-wahlkommission-zu-unterdruecken-ld.10030623",
+      "category": "NZZ",
+      "excerpt": "Premierminister Modi hat es mit drastischen Massnahmen geschafft, eine geplante Grosskundgebung der Kakerlaken-Bewegung in Delhi zu verhindern. Der Preis für die Bevölkerung ist jedoch hoch.",
+      "source": "NZZ",
+      "date": "2026-10-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7b7d226bfd93",
+      "title": "Entscheidung in Taiz – warum die belagerte Stadt für die Zukunft Jemens so wichtig ist",
+      "url": "https://www.nzz.ch/international/entscheidung-in-taiz-warum-die-belagerte-stadt-fuer-die-zukunft-jemens-so-wichtig-ist-ld.10029175",
+      "category": "NZZ",
+      "excerpt": "Kämpfer der Huthi-Miliz haben die von der Regierung gehaltene Millionenstadt umzingelt. Sollte Taiz fallen, wäre das nicht nur für die Anti-Huthi-Koalition in Jemen eine Katastrophe, sondern auch für Saudiarabien.",
+      "source": "NZZ",
+      "date": "2026-10-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2d0f3d9f6e68",
+      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
       "category": "Demonstrations, Protests and Riots",
-      "excerpt": "Members of a youth protest movement are outraged after being intercepted at airports and stopped by barricades. “Aren’t we children of this nation?”",
+      "excerpt": "The leaders of the Cockroach Janta Party, an Indian youth movement, were detained by the police on Saturday before they could lead protests over voting rights.",
       "source": "New York Times",
-      "date": "2026-10-10T07:54:09+00:00",
+      "date": "2026-10-11T09:40:47+00:00",
       "featured": false
     },
     {
-      "id": "b60ed81f528a",
-      "title": "Militärkoalition: Mehr als hundert Ziele der Huthi-Miliz im Jemen zerstört",
-      "url": "https://www.derstandard.at/story/3000000343533/militaerkoalition-mehr-als-hundert-ziele-der-huthi-miliz-im-jemen-zerstoert?ref=rss",
+      "id": "d889b1d572a1",
+      "title": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+      "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced",
+      "category": "Ireland",
+      "excerpt": "Gibney, 77, will face justice for abusing athletes in the 1970s and 80s after decades of effort to track and extradite himMore than half a century after he started sexually abusing children, and enjoyed prestige as Ireland’s Olympic swimming coach before fleeing to the United States, George Gibney is to face justice.The 77-year-old is to be sentenced at the central criminal court in Dublin on Monday for abusing four young female athletes in the 1970s and 1980s. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T09:38:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed45357616e8",
+      "title": "Untersuchung gegen fünf US-Medien wegen Trump-Sende-Stopp",
+      "url": "https://www.derstandard.at/story/3000000343601/untersuchung-gegen-f252nf-us-medien-wegen-trump-sende-stopp?ref=rss",
       "category": "Der Standard",
-      "excerpt": "Die von Saudi-Arabien geführte Militärkoalition unterstützt die international anerkannte Regierung des Jemen im Kampf gegen die Huthis",
+      "excerpt": "Die Querelen nach dem Ausschluss von Reportern aus dem Weißen Haus reißen nicht ab. Mit dem gemeinsamen Boykott verstoßen die US-Medien möglicherweise gegen das Kartellrecht",
       "source": "Der Standard",
-      "date": "2026-10-10T07:49:32+00:00",
+      "date": "2026-10-11T09:36:34+00:00",
       "featured": false
     },
     {
-      "id": "316ceb69cc66",
-      "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
-      "category": "Tagesschau",
-      "excerpt": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
-      "source": "Tagesschau",
-      "date": "2026-10-10T07:48:52+02:00",
+      "id": "03a4ddaf8417",
+      "title": "‘She was swaying, zoning out’: UK pets poisoned in record numbers by illicit drugs",
+      "url": "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets",
+      "category": "Drugs",
+      "excerpt": "Toxicology helplines report 42% increase in calls involving animals poisoned by drugs and nicotineA record number of pets are ingesting recreational drugs and requiring veterinary care in the UK, figures shared with the Guardian reveal.Last year, the UK’s only emergency poison centre for animals received its highest ever number of calls involving animals poisoned by cannabis, cocaine, magic mushrooms and nicotine, and it is on course to do so again this year. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T09:30:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "8f310d11659d",
+      "title": "Chaostage im Königreich: Die Huthi greifen den Flughafen von Riad an – jetzt steht Mohammed bin Salman unter Druck",
+      "url": "https://www.nzz.ch/international/saudiarabien-nach-dem-huthi-angriff-eindruecke-aus-riad-ld.10030645",
+      "category": "NZZ",
+      "excerpt": "Zwölf Menschen wurden am Samstag bei der Attacke getötet und über 300 verletzt – es ist einer der schlimmsten Angriffe in der Geschichte Saudiarabiens. Zwar demonstrieren die Bewohner von Riad Gelassenheit. Doch dem Königreich stehen schwere Zeiten bevor.",
+      "source": "NZZ",
+      "date": "2026-10-11T09:18:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e6e0a6a4788",
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "category": "vis-photo",
+      "excerpt": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
+      "source": "New York Times",
+      "date": "2026-10-11T09:01:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "f65095d57076",
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "category": "Canada",
+      "excerpt": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+      "source": "New York Times",
+      "date": "2026-10-11T09:00:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "ade946611524",
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "category": "Russian Invasion of Ukraine (2022)",
+      "excerpt": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
+      "source": "New York Times",
+      "date": "2026-10-11T09:00:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "616411cba70e",
+      "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
+      "category": "Home Office",
+      "excerpt": "UK classifies Syria as safe to return to despite UN refugee body’s adviceA Syrian plastic surgeon is facing deportation from the UK after the Home Office revoked his refugee status, declaring it is now safe for him and his family to return to their home country.Despite Foreign Office guidance advising against all travel to Syria because of the “volatile” security situation, the government has classified it as a safe place for refugees to return to. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T09:00:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "535a6a568ec9",
+      "title": "Man accused of child rape set to become police chief in small Louisiana town",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/child-rape-police-chief-louisiana",
+      "category": "Louisiana",
+      "excerpt": "Republican Christopher Paul is running unopposed for seat despite allegations he raped two girls 20 years agoA candidate for police chief in a small Louisiana town candidate is on course to be elected unopposed despite two charges of child rape pending against him, leaving his community to weigh whether to convert the position into an appointed office rather than one determined at the ballot box.Christopher Paul, a Republican who on 6 August signed up to run for chief of police in the south-western Louisiana village of Elizabeth, was arrested on 8 September on allegations that he raped two girls in 2005 and 2006. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T09:00:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "a90f50dae653",
+      "title": "After RAF Fairford incident, how big a threat to the UK is Iran?",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/11/after-raf-fairford-how-big-threat-uk-iran",
+      "category": "UK security and counter-terrorism",
+      "excerpt": "Although there is scepticism about Tehran’s capabilities, it has become clear it wants Britain to feel it poses a riskBritain may have been only peripherally involved in the bombing of Iran that Donald Trump and Benjamin Netanyahu started, but in the past fortnight it has become clear that Tehran wants to pose a threat inside the UK in response.In the aftermath of the confused incident near RAF Fairford, western officials are weighing up whether to warn publicly that Iran now has US military targets in Europe on its mind, such as the air force base in Gloucestershire. Continue reading...",
+      "source": "The Guardian",
+      "date": "2026-10-11T09:00:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "33ef2ae6534e",
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "category": "China",
+      "excerpt": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
+      "source": "New York Times",
+      "date": "2026-10-11T09:00:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "728601f2bcff",
+      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+      "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+      "category": "War and Armed Conflicts",
+      "excerpt": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
+      "source": "New York Times",
+      "date": "2026-10-11T08:55:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "8e1ef5e77e7b",
+      "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC World",
+      "excerpt": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
+      "source": "BBC World",
+      "date": "2026-10-11T08:50:21+00:00",
       "featured": false
     }
   ],
   "finance": [
+    {
+      "id": "7a1c5088f014",
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
+      "source": "Cointelegraph",
+      "date": "2026-10-11T09:01:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "dbd8658e772e",
+      "title": "A Contagious Aversion to Overhead Lights",
+      "url": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+      "category": "Workplace Environment",
+      "excerpt": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
+      "source": "NYT Business",
+      "date": "2026-10-11T09:01:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "860bae7d91ca",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "category": "Actors and Actresses",
+      "excerpt": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "source": "NYT Business",
+      "date": "2026-10-11T09:01:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "34e4d8ed7857",
+      "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+      "url": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+      "category": "San Francisco (Calif)",
+      "excerpt": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
+      "source": "NYT Business",
+      "date": "2026-10-11T09:00:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "34a9aacc4070",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+      "source": "Cointelegraph",
+      "date": "2026-10-11T07:44:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "244745c7046b",
+      "title": "Charities and businesses wrestle with diesel cost",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "Cancer charity Daft as a Brush and Teesside Minibus Hire say they are struggling with pump prices.",
+      "source": "BBC Business",
+      "date": "2026-10-11T06:23:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "629b6b773d39",
+      "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+      "category": "United States Politics and Government",
+      "excerpt": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+      "source": "NYT Business",
+      "date": "2026-10-11T02:40:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "f91fdf29664a",
+      "title": "Clara Wu Tsai, the Billionaire Who Wants Brooklyn to Win",
+      "url": "https://www.nytimes.com/2026/10/09/style/clara-wu-tsai-liberty-wnba.html",
+      "category": "Tsai, Clara Wu",
+      "excerpt": "Clara Wu Tsai, a co-owner of the Liberty and Nets, split from her husband of 30 years. Now she is turning her attention to leaving her mark on the borough.",
+      "source": "NYT Business",
+      "date": "2026-10-10T18:45:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "881d4a4deee7",
+      "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+      "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+      "category": "Artificial Intelligence",
+      "excerpt": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
+      "source": "NYT Business",
+      "date": "2026-10-10T14:28:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "8b501c69606f",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "category": "Markets",
+      "excerpt": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+      "source": "CoinDesk",
+      "date": "2026-10-10T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5852a274d3a6",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "category": "Finance",
+      "excerpt": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+      "source": "CoinDesk",
+      "date": "2026-10-10T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb5a9609ef00",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "category": "Latest News",
+      "excerpt": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+      "source": "Cointelegraph",
+      "date": "2026-10-10T11:52:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "f22271ff9241",
+      "title": "Money Box",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Business",
+      "excerpt": "What age will you get your state pension?",
+      "source": "BBC Business",
+      "date": "2026-10-10T11:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "db524963fe38",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "category": "Markets",
+      "excerpt": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+      "source": "CoinDesk",
+      "date": "2026-10-10T11:00:00+00:00",
+      "featured": false
+    },
     {
       "id": "6594f2311f0f",
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
@@ -1956,467 +2096,327 @@
       "source": "NYT Business",
       "date": "2026-10-09T22:24:25+00:00",
       "featured": false
-    },
-    {
-      "id": "9eb3eab2a359",
-      "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-      "url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
-      "category": "Health Insurance and Managed Care",
-      "excerpt": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.",
-      "source": "NYT Business",
-      "date": "2026-10-09T22:04:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "57466e648079",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "category": "Policy",
-      "excerpt": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
-      "source": "CoinDesk",
-      "date": "2026-10-09T21:21:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "5b2f8590890c",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T20:39:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "48166d9b7458",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T20:14:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c78f723d66e",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Business",
-      "excerpt": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-      "source": "BBC Business",
-      "date": "2026-10-09T19:32:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "eaabc5caec00",
-      "title": "Target Says It’s Not Working With ICE Amid Uproar Over Parking Lot Use",
-      "url": "https://www.nytimes.com/2026/10/09/nyregion/target-parking-lot-ice.html",
-      "category": "Illegal Immigration",
-      "excerpt": "The retailer came under attack for being a staging area for immigration officers after Thursday’s shooting in New York City.",
-      "source": "NYT Business",
-      "date": "2026-10-09T19:11:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "b70294536a76",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T19:04:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "22c8e72290f2",
-      "title": "China and Europe Step Back From Trade War With Limits on Chinese Car Exports",
-      "url": "https://www.nytimes.com/2026/10/09/business/china-european-union-trade.html",
-      "category": "European Union",
-      "excerpt": "The European Union said the deal could roughly halve shipments of hybrid vehicles from China in the next four years. But it also could lead to an even stronger Chinese auto industry.",
-      "source": "NYT Business",
-      "date": "2026-10-09T18:54:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "d842ec8237ed",
-      "title": "How Correspondent Banking Can Enable Sanctions Evasion",
-      "url": "https://www.nytimes.com/2026/10/09/business/correspondent-banking-russia-sanctions-evasion.html",
-      "category": "Banking and Financial Institutions",
-      "excerpt": "The correspondent system for banking has enabled globalism — and has been exploited by companies trying to skirt U.S. sanctions.",
-      "source": "NYT Business",
-      "date": "2026-10-09T18:34:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T18:30:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "f62f1f0609cd",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "category": "Finance",
-      "excerpt": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
-      "source": "CoinDesk",
-      "date": "2026-10-09T18:11:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7cb3752403dc",
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T17:21:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "f43ad8e6ee20",
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "category": "Latest News",
-      "excerpt": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
-      "source": "Cointelegraph",
-      "date": "2026-10-09T17:02:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "a8569bbe9bba",
-      "title": "Trump Sends Obamacare ‘Refund’ Checks Ahead of Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/09/business/trump-obamacare-refund-checks.html",
-      "category": "United States Politics and Government",
-      "excerpt": "The $500 checks are accompanied by a letter signed by the president that criticizes the Biden administration for overcharging Americans for health insurance.",
-      "source": "NYT Business",
-      "date": "2026-10-09T16:41:24+00:00",
-      "featured": false
     }
   ],
   "crypto": {
-    "btc_eur": 73864,
-    "btc_usd": 82750,
-    "btc_24h": 0.2857304087910701,
-    "eth_eur": 2225.24,
-    "eth_usd": 2492.93,
-    "eth_24h": -0.08345574455630617
+    "btc_eur": 74030,
+    "btc_usd": 82935,
+    "btc_24h": 0.2394814660950703,
+    "eth_eur": 2231.6,
+    "eth_usd": 2500.06,
+    "eth_24h": 0.3227508401040995
   },
   "sport_articles": [
     {
-      "id": "e86471dd6501",
-      "title": "Bayern trifft auf Stolperstein Augsburg",
-      "url": "https://sport.orf.at/stories/3163408/",
-      "category": "Fußball:GER",
-      "excerpt": "Der Begriff „Angstgegner“ und Bayern München passen in der deutschen Bundesliga eigentlich nicht zusammen. Am Samstag gastiert der Rekordmeister aber beim bisher einzigen Stolperstein in den vergangenen saisonübergreifend 47 Spielen. Anfang des Jahres fügte der FC Augsburg den Münchnern die einzige Niederlage zu. Mit dem richtigen Glauben wollen die Augsburger mit Michael Gregoritsch die Überraschung wiederholen.",
-      "source": "ORF Sport",
-      "date": "2026-10-10T11:30:06+02:00",
-      "featured": false
-    },
-    {
-      "id": "f5eeaab4e857",
-      "title": "Stand und Stream des Singapur-Sprints",
-      "url": "https://sport.orf.at/stories/3163432/",
-      "category": "Formel1",
-      "excerpt": "Im Rahmen des Grand Prix von Singapur steht am Samstag erstmals auch ein Sprintrennen auf dem Programm. 20 Runden müssen die Fahrer auf dem Marina Bay Street Circuit absolvieren, ehe der letzte Sprintsieger in dieser Saison feststeht. Die beste Ausgangsposition dafür schuf sich Red-Bull-Pilot Max Verstappen mit der Pole. Das Rennen ist nach einer regenbedingten Verzögerung derzeit live in ORF1 und im Livestream zu sehen.",
-      "source": "ORF Sport",
-      "date": "2026-10-10T11:30:05+02:00",
-      "featured": false
-    },
-    {
-      "id": "0e8069c007fb",
-      "title": "Sprint in Singapur auf 11.30 Uhr verschoben",
-      "url": "https://sport.orf.at/stories/3163434/",
-      "category": "Motorsport",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-10-10T11:00:06+02:00",
-      "featured": false
-    },
-    {
-      "id": "5ae8c321fa14",
-      "title": "Ronaldo trifft nach Rückkehr für al-Nassr",
-      "url": "https://sport.orf.at/stories/3163433/",
-      "category": "Fußball",
-      "excerpt": "",
-      "source": "ORF Sport",
-      "date": "2026-10-10T10:12:00+02:00",
-      "featured": false
-    },
-    {
-      "id": "883e5a9cae81",
-      "title": "Marquez erobert mit Sprintsieg WM-Führung",
-      "url": "https://sport.orf.at/stories/3163429/",
-      "category": "Motorsport",
-      "excerpt": "Marc Marquez hat sich am Samstag in Indonesien seinen 23. Sprintsieg in der MotoGP gesichert. Der spanische Ducati-Pilot setzte sich nach 13 Runden mit einem Vorsprung von 0,509 Sekunden auf den Japaner Ai Ogura (Aprilia) durch. Der überlegen führende Jorge Martin (Aprilia) bekam am Ende des Rennens Probleme, wurde nur Vierter und verlor damit auch vor dem Grand Prix am Sonntag (9.00 Uhr MESZ) die WM-Führung an Marquez.",
-      "source": "ORF Sport",
-      "date": "2026-10-10T10:00:07+02:00",
-      "featured": false
-    },
-    {
-      "id": "222232a195f8",
-      "title": "Wales hope pattern continues in Albania return",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r4y6x4p2lzo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "After an unconvincing win in Albania, Wales hope a return home will rejuvenate their Women's World Cup bid.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T09:57:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "4c2967981943",
-      "title": "Palmer signs new Chelsea contract until 2034",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T09:51:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "3d72739df906",
-      "title": "Lombardei-Rundfahrt sucht neuen Gewinner",
-      "url": "https://sport.orf.at/stories/3163395/",
-      "category": "Radsport",
-      "excerpt": "Nach fünf Erfolgen in Serie des slowenischen Superstars Tadej Pogacar gibt es am Samstag bei der Lombardei-Rundfahrt einen neuen Sieger. Der 28-Jährige beendete seine Saison nach dem Sturz bei der Vuelta bereits, für das rund 240 km lange Rennen von Bergamo nach Como rückt Remco Evenepoel in die Favoritenrolle. Auch drei Österreicher sind am Start.",
-      "source": "ORF Sport",
-      "date": "2026-10-10T09:45:05+02:00",
-      "featured": false
-    },
-    {
-      "id": "fb672f898149",
-      "title": "Salzburg hat beim GAK klares Ziel",
-      "url": "https://sport.orf.at/stories/3163400/",
+      "id": "84fc50b54a45",
+      "title": "LASK gegen Rapid besonders motiviert",
+      "url": "https://sport.orf.at/stories/3163402/",
       "category": "Fußball:BLG",
-      "excerpt": "Red Bull Salzburg hat nach der dreiwöchigen Länderspielpause die Chance, zumindest einen Tag an der Tabellenspitze der Admiral Bundesliga zu stehen. Das wäre schon bei einem Remis beim achtplatzierten GAK am Samstag (17.00 Uhr) zum Auftakt der achten Runde der Fall. Klares Ziel ist, auch das 15. Pflichtspiel unter Danny Röhl ungeschlagen zu überstehen.",
+      "excerpt": "Am Sonntag (ab 16.40 Uhr live in ORF1, Anpfiff: 17.00 Uhr) steigt im Rahmen der achten Runde der Admiral Bundesliga der Schlager zwischen Meister LASK und Rapid. Nach drei Pflichtspielen ohne Sieg und nur einem Punkt sind die Linzer heiß auf einen Restart nach der Länderspielpause. Grün-Weiß will ein Statement im Titelkampf abgeben, mit einem Sieg läge man schon fünf Punkte vor den Linzern.",
       "source": "ORF Sport",
-      "date": "2026-10-10T09:45:05+02:00",
+      "date": "2026-10-11T12:00:20+02:00",
       "featured": false
     },
     {
-      "id": "9d8a7a52efc4",
-      "title": "ÖFB-Team nach „erstem Schritt“ erleichtert",
-      "url": "https://sport.orf.at/stories/3163427/",
+      "id": "0455dbc1dba5",
+      "title": "Skandal überschattet Liverpool – ManCity",
+      "url": "https://sport.orf.at/stories/3163404/",
       "category": "Fußball",
-      "excerpt": "Für Österreichs Fußballerinnen stimmt der Kurs in Richtung zweite Play-off-Runde zur Weltmeisterschaft 2027 in Brasilien. Die ÖFB-Auswahl konnte im Erstrundenhinspiel am Freitag in Prishtina gegen den Kosovo zwar nicht glänzen, hat nach einem spät fixierten 2:1 nach frühem 0:1-Rückstand aber alle Trümpfe in der Hand. „Das Spiel so zu drehen, zeugt von Mentalität. Der erste Schritt ist getan“, resümierte ÖFB-Rückkehrerin Sarah Zadrazil. Am Dienstag (17.45 Uhr, live in ORF1, Anpfiff um 18.00 Uhr) folgt die Retourpartie in Wien.",
+      "excerpt": "Im Trubel um schwere Verstöße gegen Finanzregeln der englischen Premier League gastiert Manchester City am Sonntag (17.30 Uhr) beim FC Liverpool. Die Fans der „Reds“ werden den Titelrivalen wohl in feindseliger Atmosphäre empfangen, auf Social Media wurde zur „Begrüßung“ des ManCity-Mannschaftsbusses aufgerufen. „Es wird brutal“, vermutete der als TV-Experte agierende Ex-Teamspieler Gary Neville.",
       "source": "ORF Sport",
-      "date": "2026-10-10T09:45:04+02:00",
+      "date": "2026-10-11T12:00:19+02:00",
       "featured": false
     },
     {
-      "id": "7a18d486a6c2",
-      "title": "Marc Marquez gewinnt Sprint in Indonesien",
-      "url": "https://sport.orf.at/stories/3163428/",
+      "id": "0eb319077685",
+      "title": "Kraus in Wuhan-Quali out, Tagger trifft auf Bartunkova",
+      "url": "https://sport.orf.at/stories/3163484/",
+      "category": "Tennis",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-10-11T10:58:13+02:00",
+      "featured": false
+    },
+    {
+      "id": "dca8926b74a4",
+      "title": "Bezzecchi führt Aprilia-Vierfachsieg an",
+      "url": "https://sport.orf.at/stories/3163476/",
+      "category": "Motorsport",
+      "excerpt": "Marco Bezzecchi hat sich am Sonntag den Sieg beim Grand Prix von Indonesien gesichert. Der Italiener führte bei seinem fünften Saisonerfolg erstmals in der MotoGP-Geschichte einen Vierfachsieg für Aprilia an. Hinter Bezzecchi landeten die Spanier Raul Fernandez (+4,260) und Jorge Martin (+6,890) sowie der Japaner Ai Ogura (9,378). Mit Platz drei sorgte Martin auch wieder für einen Führungswechsel in der WM-Wertung, da sich Marc Marquez mit Rang sechs begnügen musste.",
+      "source": "ORF Sport",
+      "date": "2026-10-11T10:17:54+02:00",
+      "featured": false
+    },
+    {
+      "id": "c73309045303",
+      "title": "Zweiter Einsatz für Gishamer in Königsklasse",
+      "url": "https://sport.orf.at/stories/3163479/",
+      "category": "Fußball:ECL",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-10-11T10:05:59+02:00",
+      "featured": false
+    },
+    {
+      "id": "456db1ce7004",
+      "title": "Bezzecchi gewinnt MotoGP-Rennen in Indonesien",
+      "url": "https://sport.orf.at/stories/3163478/",
       "category": "Motorsport",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-10-10T09:29:23+02:00",
+      "date": "2026-10-11T09:50:07+02:00",
       "featured": false
     },
     {
-      "id": "62badeef5523",
-      "title": "All Blacks power past Australia to retain Bledisloe Cup",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T09:21:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e4fb021deac",
-      "title": "NI debut 'something I thought had passed' - Elmore",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpdz0lnmvo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Northern Ireland's World Cup hopes may have all but come to an end against Portugal, but for Kess Elmore the 4-0 defeat marks the start of a long-awaited international journey.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T09:19:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "969f8eec6350",
-      "title": "Crocker sets sights on route back to the top",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cw073kk3800lo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Lewis Crocker is looking forward and not back at his world title defeat by Liam Paro as he prepares for his return against Owen Cooper in December at Belfast's 02.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T09:10:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ff9a7a46683",
-      "title": "Fernandez holt in Indonesien erstmals MotoGP-Pole",
-      "url": "https://sport.orf.at/stories/3163426/",
-      "category": "Motorsport",
+      "id": "a5367368f51c",
+      "title": "Rot für Haareziehen: Vinicius entschuldigt sich",
+      "url": "https://sport.orf.at/stories/3163477/",
+      "category": "Fußball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-10-10T08:39:25+02:00",
+      "date": "2026-10-11T09:38:46+02:00",
       "featured": false
     },
     {
-      "id": "6cb6ad4790e6",
-      "title": "Frauen-Nationalteam kam der WM einen Schritt näher, aber: \"Wir müssen noch schneller spielen\"",
-      "url": "https://www.derstandard.at/story/3000000343531/frauen-nationalteam-kam-der-wm-einen-schritt-naeher-aber-wir-muessen-noch-schneller-spielen?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der späte 2:1-Sieg in Prishtina war laut Sarah Zadrazil nur der \"erste Schritt\", die Kräfteverhältnisse sprechen aber klar für die ÖFB-Frauen",
-      "source": "Der Standard Sport",
-      "date": "2026-10-10T08:30:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "dc860de7c6c0",
-      "title": "Delight for Scotland's Cuthbert after long summer of recovery",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&at_campaign=rss",
+      "id": "82e895693cc5",
+      "title": "Bezzecchi wins as Martin retakes championship lead",
+      "url": "https://www.bbc.co.uk/sport/motorsport/articles/cm79p8dgqyp8o?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic.",
+      "excerpt": "Marco Bezzecchi triumphs at the Indonesian Grand Prix, while Jorge Martin finishes third to retake the lead from Marc Marquez in the MotoGP world championship.",
       "source": "BBC Sport",
-      "date": "2026-10-10T08:28:17+00:00",
+      "date": "2026-10-11T09:27:37+00:00",
       "featured": false
     },
     {
-      "id": "d40d623a94e8",
-      "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T08:27:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "16c32ad333a7",
-      "title": "Marc Marquez übernimmt mit Sprint-Sieg in Indonesien die Führung in der MotoGP-WM",
-      "url": "https://www.derstandard.at/story/3000000343535/marc-marquez-uebernimmt-mit-sprint-sieg-in-indonesien-die-fuehrung-in-der-motogp-wm?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Jorge Martin fiel mit Reifendruckproblemen zurück und musste seinem Hauptkonkurrenten um den WM-Titel den Sieg kampflos überlassen",
-      "source": "Der Standard Sport",
-      "date": "2026-10-10T08:06:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "42a294db97e3",
-      "title": "Sturms Lazarett muss bei der Austria bestehen, Salzburg will beim GAK die Tabellenführung",
-      "url": "https://www.derstandard.at/story/3000000343502/sturms-lazarett-muss-bei-der-austria-bestehen-salzburg-will-beim-gak-die-tabellenfuehrung?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der Bundesliga-Samstag bringt neben zwei Matches mit Spitzenteam-Beteiligung auch noch das Duell der WSG Tirol mit der SV Ried",
-      "source": "Der Standard Sport",
-      "date": "2026-10-10T05:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1132e988e41b",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T05:28:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "0e77402e3062",
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
-      "source": "BBC Sport",
-      "date": "2026-10-10T05:14:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "2443cb5c8c4f",
-      "title": "George Russells erfolgreichste Formel-1-Saison ist seine schwierigste",
-      "url": "https://www.derstandard.at/story/3000000343126/george-russells-erfolgreichste-formel-1-saison-ist-seine-schwierigste?ref=rss",
-      "category": "Der Standard Sport",
-      "excerpt": "Der Brite ging als WM-Favorit in die Saison und muss nun wohl mitansehen, wie sein junger Mercedes-Teamkollege Kimi Antonelli Weltmeister wird",
-      "source": "Der Standard Sport",
-      "date": "2026-10-10T04:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "995b99119df0",
-      "title": "Renshaw hits century for Australia to thwart South Africa - scorecard",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
-      "source": "BBC Sport",
-      "date": "2026-10-10T00:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1ec3171cc930",
-      "title": "VSV bezwingt Spitzenreiter Bozen",
-      "url": "https://sport.orf.at/stories/3163418/",
+      "id": "ea9c4a889d72",
+      "title": "NHL-Niederlagen für Österreicherclubs",
+      "url": "https://sport.orf.at/stories/3163475/",
       "category": "Eishockey",
-      "excerpt": "Die Steinbach Black Wings Linz haben in der win2day ICE Hockey League mit dem vierten Sieg in Folge die Lücke zu Tabellenführer Bozen Südtirol Alperia geschlossen. Die Linzer feierten am Freitag einen 5:2-Heimsieg gegen Falkensteiner Pustertal, die Bozener mussten sich beim EC iDM VSV nach Verlängerung mit 3:4 geschlagen geben. Die Pioneers Vorarlberg holten mit einer 4:5-Niederlage nach Penaltyschießen gegen den KAC im neunten Spiel den ersten Punkt.",
-      "source": "ORF Sport",
-      "date": "2026-10-09T23:23:40+02:00",
-      "featured": false
-    },
-    {
-      "id": "08e8b9399627",
-      "title": "Lens siegt bei Baidoo-Comeback gegen Lyon",
-      "url": "https://sport.orf.at/stories/3163421/",
-      "category": "Fußball",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-10-09T23:19:22+02:00",
+      "date": "2026-10-11T09:12:09+02:00",
       "featured": false
     },
     {
-      "id": "6fe1426a076a",
-      "title": "Man City whistleblower to remain in witness protection",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
-      "source": "BBC Sport",
-      "date": "2026-10-09T22:59:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec1df3fa7bf0",
-      "title": "Bremen fügt Dortmund ersten Punkteverlust zu",
-      "url": "https://sport.orf.at/stories/3163420/",
-      "category": "Fußball",
+      "id": "1114b61337d1",
+      "title": "Hartberg hofft auf Trendfortsetzung",
+      "url": "https://sport.orf.at/stories/3163403/",
+      "category": "Fußball:BLG",
       "excerpt": "",
       "source": "ORF Sport",
-      "date": "2026-10-09T22:50:03+02:00",
+      "date": "2026-10-11T09:08:40+02:00",
       "featured": false
     },
     {
-      "id": "4a3e7d3a3a8a",
-      "title": "'Bored' White credits Hearn for Fury-Joshua being in UK",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/ckz7xeljeqepo?at_medium=RSS&at_campaign=rss",
-      "category": "BBC Sport",
-      "excerpt": "Dana White gives credit to Eddie Hearn, but says he is \"bored\" of the ongoing feud between him and his rival promoter.",
-      "source": "BBC Sport",
-      "date": "2026-10-09T22:34:34+00:00",
+      "id": "cc8370553429",
+      "title": "WAC-Gastspiel in Altach als Kellerduell",
+      "url": "https://sport.orf.at/stories/3163405/",
+      "category": "Fußball:BLG",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-10-11T09:08:40+02:00",
       "featured": false
     },
     {
-      "id": "b5c5a64da136",
-      "title": "Arteta's conscience clear over Man City charges",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+      "id": "13242407bf1c",
+      "title": "Quiles erobert WM-Titel in Moto3-Klasse",
+      "url": "https://sport.orf.at/stories/3163474/",
+      "category": "Motorsport",
+      "excerpt": "",
+      "source": "ORF Sport",
+      "date": "2026-10-11T09:06:50+02:00",
+      "featured": false
+    },
+    {
+      "id": "ba30cda3c027",
+      "title": "Verstappen fehlt noch „richtiger“ Sieg",
+      "url": "https://sport.orf.at/stories/3163457/",
+      "category": "Formel1",
+      "excerpt": "Max Verstappen ist der Mann des bisherigen Wochenendes in Singapur: Der Red-Bull-Star gewann mit dem Sprintrennen nicht nur erstmals auf dem Marina Bay Street Circuit, sondern legte auch gleich mit seiner insgesamt 50. Poleposition nach. Zufrieden war der Niederländer vor dem Grand Prix am Sonntag (ab 13.25 Uhr live in ORF1, Start: 14.00 Uhr) aber dennoch nicht, ihm fehle noch der „richtige“ Sieg.",
+      "source": "ORF Sport",
+      "date": "2026-10-11T09:00:12+02:00",
+      "featured": false
+    },
+    {
+      "id": "1247903a2f1b",
+      "title": "Marco Bezzecchi holt MotoGP-Sieg in Indonesien, WM-Fight spitzt sich immer mehr zu",
+      "url": "https://www.derstandard.at/story/3000000343592/marco-bezzecchi-holt-motogp-sieg-in-indonesien-wm-fight-spitzt-sich-immer-mehr-zu?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Aprilia feiert Vierfach-Triumph. Fernandez mit zwei gebrochenen Fingern an der Bremshand Zweiter. Jorge Martin führt nach Rang drei nun in der WM zwei Punkte vor Marc Marquez, der nur Sechster wurde",
+      "source": "Der Standard Sport",
+      "date": "2026-10-11T08:33:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed8e6526f1df",
+      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
       "category": "BBC Sport",
-      "excerpt": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
+      "excerpt": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
       "source": "BBC Sport",
-      "date": "2026-10-09T21:30:52+00:00",
+      "date": "2026-10-11T08:19:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "04374bfa19f7",
+      "title": "Nach Abschied aus Nationalteam: Lionel Messi glänzt schon wieder",
+      "url": "https://www.derstandard.at/story/3000000343582/nach-abschied-aus-nationalteam-lionel-messi-glaenzt-schon-wieder?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Argentinischer Superstar steuert zwei Treffer zum 4:0 von Inter Miami gegen DC United bei und führt mit 23 Goals überlegen die Torschützenliste der MLS an",
+      "source": "Der Standard Sport",
+      "date": "2026-10-11T08:05:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "20f1d3026d5f",
+      "title": "Highlights and analysis on Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
+      "source": "BBC Sport",
+      "date": "2026-10-11T08:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f82cdf43e457",
+      "title": "Ulster need 'honest conversations' after winless start",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n8dx3xvm59o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Ulster hooker Tom Stewart admits \"I don't think I've come to the party well enough\" and says the squad must have \"honest conversations\" after an underwhelming start to the season.",
+      "source": "BBC Sport",
+      "date": "2026-10-11T07:37:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "7061efa7d605",
+      "title": "Lisa Perterer glänzt als Ironman-WM-Sechste auf Hawaii, umgekehrtes Drama an der Spitze",
+      "url": "https://www.derstandard.at/story/3000000343573/lisa-perterer-glaenzt-als-ironman-wm-sechste-auf-hawaii-umgekehrtes-drama-an-der-spitze?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Diesmal brach die norwegische Titelverteidigerin Solveigh Lovseth knapp vor dem Ziel zusammen, und Taylor Knibb (USA) erbte den Sieg. Bei den Männern überraschte der Franzose Vincent Luis",
+      "source": "Der Standard Sport",
+      "date": "2026-10-11T07:10:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "c42c946ef0e9",
+      "title": "Allen submits Duncan to derail Briton's title hopes",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq5yn05n6k1do?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Brendan Allen submits Christian Leroy Duncan in the fifth round in Las Vegas to derail the Briton's middleweight title aspirations.",
+      "source": "BBC Sport",
+      "date": "2026-10-11T06:23:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e31483170f8",
+      "title": "Sand im Getriebe: Meister LASK gegen Rapid auf Restart aus",
+      "url": "https://www.derstandard.at/story/3000000343510/sand-im-getriebe-meister-lask-gegen-rapid-auf-restart-aus?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Hütteldorfer wollen nach dem besten Ligastart seit Jahrzehnten weiter im Flow bleiben. Hartberg empfängt Lustenau, der WAC kommt zum Kellerderby nach Altach",
+      "source": "Der Standard Sport",
+      "date": "2026-10-11T06:03:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b63ee6509ecd",
+      "title": "Top five Liverpool-Man City moments",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg0m1my97go?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Relive five classic moments between Liverpool and Manchester City before Sunday's Premier League game at Anfield (16:30 BST).",
+      "source": "BBC Sport",
+      "date": "2026-10-11T05:37:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "a53aea5368e4",
+      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "source": "BBC Sport",
+      "date": "2026-10-11T05:27:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "cecfc4c37d05",
+      "title": "Fight for Wales spots heats up as under-threat regions win",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c69vzm2pxznxo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "The talking points from round three of URC as Ospreys and Scarlets get first win and players try to impress Wales boss Steve Tandy.",
+      "source": "BBC Sport",
+      "date": "2026-10-11T05:01:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "8e312aaf13d2",
+      "title": "Von Carl Haffner bis Beth Harmon: Schach in der Literatur",
+      "url": "https://www.derstandard.at/story/3000000343557/von-carl-haffner-bis-beth-harmon-schach-in-der-literatur?ref=rss",
+      "category": "Der Standard Sport",
+      "excerpt": "Die Schachnovelle ist längst nicht das einzige literarische Werk, das sich am königlichen Spiel abarbeitet. Über Erzählungen auf 64 Feldern",
+      "source": "Der Standard Sport",
+      "date": "2026-10-11T04:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "492e60ab571e",
+      "title": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Speaking on Match of the Day, Alan Shearer explains why the performance of Moises Caicedo was pivotal in Chelsea's 5-1 win against Bournemouth in the Premier League.",
+      "source": "BBC Sport",
+      "date": "2026-10-10T23:00:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "0179ac195915",
+      "title": "Man Utd midfield can't control games - Murphy",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham.",
+      "source": "BBC Sport",
+      "date": "2026-10-10T22:58:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "cdb7d958d8bf",
+      "title": "Ex-UFC fighter MVP signs with KSI's Misfits Boxing",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c9ly0543nnx3o?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Former UFC fighter Michael 'Venom' Page says he is \"coming to show the boxing world what I can do\".",
+      "source": "BBC Sport",
+      "date": "2026-10-10T22:25:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "b481d3548774",
+      "title": "AC Milan keen on Scott - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "AC Milan are looking at Bournemouth's Alex Scott, Bayern Munich have held fresh talks with Manchester United's JJ Gabriel, Liverpool interested in Barcelona defender Jules Kounde, plus more.",
+      "source": "BBC Sport",
+      "date": "2026-10-10T22:01:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "5b01a436e9a9",
+      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
+      "category": "BBC Sport",
+      "excerpt": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
+      "source": "BBC Sport",
+      "date": "2026-10-10T20:58:39+00:00",
       "featured": false
     }
   ],
   "sport_briefing": {
-    "text": "# Sport-Briefing\n\n• Bayern München trifft im kommenden Spiel auf Augsburg.\n\n• Der Sprint in Singapur wurde auf 11:30 Uhr verschoben.\n\n• Cristiano Ronaldo traf nach seiner Rückkehr für al-Nassr.\n\n• Marc Marquez übernahm mit einem Sprintsieg die WM-Führung in der MotoGP.\n\n• Salzburg hat beim GAK ein klares Ziel für das anstehende Spiel.\n\n• Das ÖFB-Team zeigte sich nach dem ersten Schritt erleichtert.\n\n• Marc Marquez gewann den Sprint in Indonesien.\n\n• Die All Blacks behielten die Bledisloe Cup gegen Australien.\n\n• Die Lombardei-Rundfahrt sucht einen neuen Gewinner.\n\n• Fernandez holte sich in Indonesien erstmals die MotoGP-Pole-Position.",
-    "date": "2026-10-10T10:14:02.752009+00:00"
+    "text": "# Sport-Briefing\n\n• Der LASK tritt mit besonderer Motivation gegen Rapid an.\n\n• Ein Skandal überschattet das Spiel zwischen Liverpool und Manchester City.\n\n• Tennisprofi Kraus ist in der Qualifikation von Wuhan ausgeschieden.\n\n• Bezzecchi gewinnt das MotoGP-Rennen in Indonesien mit einem Aprilia-Vierfachsieg.\n\n• Vinicius Junior erhielt Rot für Haareziehen und entschuldigte sich dafür.\n\n• Martin übernimmt nach dem Rennen wieder die Führung in der MotoGP-Weltmeisterschaft.\n\n• Österreichische NHL-Spieler verzeichnen Niederlagen mit ihren Clubs.\n\n• Quiles wird Weltmeister in der Moto3-Klasse.\n\n• Verstappen fehlt noch ein echter Sieg in dieser Saison.\n\n• Der 41-jährige Kipchoge stellt Streckenrekord beim Melbourne Marathon auf.",
+    "date": "2026-10-11T10:25:29.337582+00:00"
   },
   "briefing": {
-    "text": "# MORGENBRIEFING\n\nNACHRICHTEN\n\n**Österreich:**\n\n• **Indische Polizei nahm Gründer fest**\n  → Der Gründer einer indischen Bewegung wurde von der Polizei festgenommen. Die Festnahme erfolgte im Zusammenhang mit Aktivitäten der sogenannten „Kakerlaken\"-Bewegung. [LINK:https://orf.at/stories/3444660/]\n\n• **NEOS-Treffen: Meinl-Reisinger verteidigt Regierungsarbeit**\n  → NEOS-Chefin Beate Meinl-Reisinger verteidigte die Regierungsarbeit bei einem Treffen der Partei. Die Äußerungen erfolgten im Rahmen parteiinterner Diskussionen. [LINK:https://orf.at/stories/3444663/]\n\n• **NEOS-Mitgliederversammlung in Linz begonnen**\n  → Die NEOS-Mitgliederversammlung hat in Linz begonnen. Das Treffen dient der parteiinternen Abstimmung und Diskussion. [LINK:https://orf.at/stories/3444656/]\n\n• **Polizei nahm Mann nach Raub von 40 Cent in Wien fest**\n  → Die Wiener Polizei nahm einen Mann fest, der einen Raub mit geringem Wert begangen haben soll. Der Vorfall ereignete sich in Wien. [LINK:https://kurier.at/chronik/wien/polizei-festnahme-raub-wien-praterstern/403197225]\n\n• **Tote Frau in Stiegenhaus: Lebensgefährte verhielt sich „auffällig\"**\n  → Eine tote Frau wurde in einem Stiegenhaus gefunden. Der Lebensgefährte befindet sich unter Mordverdacht und wurde festgenommen; er verhielt sich laut Polizeibericht auffällig. [LINK:https://kurier.at/chronik/wien/tote-obdachlose-landstrasse-mann-mordverdacht-festnahme/403197196]\n\n**International:**\n\n• **Ukraine: Tote nach russischen Angriffen in Saporischschja**\n  → In der ukrainischen Region Saporischschja gab es russische Angriffe mit Todesfällen. Die Anschläge verursachten Schäden in der Zivilbevölkerung. [LINK:https://orf.at/stories/3444654/]\n\n• **Saudi-Arabien: Über 100 Huthi-Ziele im Jemen zerstört**\n  → Saudi-Arabien gab an, über 100 Ziele der Huthi im Jemen zerstört zu haben. Die Militäraktion ist Teil des Konflikts in der Region. [LINK:https://orf.at/stories/3444651/]\n\n• **Überschwemmungen und Erdrutsche in Süditalien**\n  → Schwere Unwetter führten in Süditalien zu massiven Überschwemmungen und Erdrutschen. Die Naturkatastrophe verursachte erhebliche Schäden. [LINK:https://orf.at/stories/3444657/]\n\n• **Haustiere als US-Konjunkturbarometer**\n  → In den USA werden Haustiere als Indikatoren für die wirtschaftliche Situation untersucht. Der Haustiersektor gilt als Spiegel der Konsumentenausgaben. [LINK:https://orf.at/stories/3444352/]\n\n• **Schweres Erdbeben erschüttert Panama**\n  → Ein starkes Erdbeben hat Panama erschüttert. Das Beben verursachte Schäden und beunruhigte die Bevölkerung. [LINK:https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html]\n\n• **Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise**\n  → Die CDU bereitet sich auf eine Präsidiumsklausur vor und sucht Lösungsansätze zur Bewältigung ihrer Krise. Strategische Neuorientierung steht auf der Agenda. [LINK:https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html]\n\n• **Gründer der indischen Kakerlaken-Bewegung festgenommen**\n  → Der Gründer der indischen „Kakerlaken\"-Bewegung wurde festgenommen. Die Festnahme markiert einen Wendepunkt für die Protestbewegung. [LINK:https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html]\n\n• **Kreml: Putin übermittelte Trump Irans Position zur Konfliktlösung**\n  → Der Kreml gab bekannt, dass Präsident Putin der US-Administration die Position des Iran zur Konfliktlösung übermittelt habe. Dies erfolgte im Kontext von Vermittlungsbemühungen. [LINK:https://www.derstandard.at/story/3000000343543/kreml-putin-uebermittelte-trump-irans-position-zur-konfliktloesung?ref=rss]\n\n• **Ein Jahr brüchige Waffenruhe Gaza: „Der Krieg lässt uns nicht in Ruhe\"**\n  → Ein Jahr nach Beginn der Waffenruhe im Gaza-Konflikt bleibt die Situation angespannt. Augenzeugenberichte deuten darauf hin, dass die Auswirkungen des Krieges fortbestehen. [LINK:https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html]\n\n---\n\nRECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **OGH 8Ob86/26v**\n  Normen: § 62 Abs. 1 AußStrG (Voraussetzungen außerordentlicher Revisionsrekurs); Bestimmungen des AußStrG zu Rechtsmittelschriften; materielle Obsorge- und Kontaktrechtsnormen\n  → Verfahren betrifft nicht verheiratete Eltern eines 2022 geborenen Minderjährigen und deren Vereinbarung zu Obsorge und Kontaktrecht. Das Verfahren behandelt Fragen der außerordentlichen Revision im Familienrecht. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260924_OGH0002_0080OB00086_26V0000_000]\n\n• **OGH 8Ob97/26m**\n  Normen: VO 715/2007/EG (Art. 3 Nr. 10, Art. 5 Abs. 1 und 2), Durchführungs-VO 692/2008/EG (Art. 3); österreichisches Zivilprozessrecht (Revisionsverfahren)\n  → Klägerin erhob Klage gegen Beklagte auf Zahlung von 11.040 EUR sowie Feststellung einer unzulässigen Abschalteinrichtung. Das Verfahren befasst sich mit Regulierungsverstößen im Emissionsbereich und deren zivilrechtliche Folgen. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260924_OGH0002_0080OB00097_26M0000_000]\n\n• **OGH 11Ns57/26k**\n  Normen: § 146 StGB (Betrug); § 36 Abs. 1 StPO (örtliche Zuständigkeit); § 38 letzter Satz StPO (negativer Kompetenzkonflikt)\n  → Angeklagter schloss im Februar 2026 in Wien mehrere Mobilfunkverträge mit Ratenzahlung ab und verursachte dadurch Schäden. Das Strafverfahren behandelt Betrugsvorwürfe und Zuständigkeitsfragen. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260923_OGH0002_0110NS00057_26K0000_000]\n\n• **OGH 16Ok6/26g**\n  Normen: § 29 Abs. 1 Z. 1 lit. a iVm § 17 Abs. 1 KartG\n  → Deutsche Unternehmensgruppe im Handel und Service von Baumaschinen erwarb am 1. Juli 2018 50 % der Anteile an der S* AG. Das Kartellverfahren befasst sich mit Wettbewerbsrechtlichen Aspekten dieser Beteiligung im Bereich der Elektrifizierung. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260923_OGH0002_0160OK00006_26G0000_000]\n\n• **OG",
-    "date": "2026-10-10T10:14:02.752009+00:00"
+    "text": "# MORGENBRIEFING\n\n## NACHRICHTEN\n\n**Österreich:**\n\n• **Aufstand der Richter und Staatsanwälte: „Das geht so nicht mehr, das ist irre\"**\n  → Richter und Staatsanwälte protestieren gegen Zustände in der österreichischen Justiz. Der Unmut in der Judikative wächst sichtbar, wie Aussagen von Justizakteuren zeigen. [LINK:https://kurier.at/politik/inland/justiz-richter-staatsanwaelte-personal-protest/403197394]\n\n• **Aktionswoche für den Rechtsstaat: Die Gerichte stehen still**\n  → Mit einer Aktionswoche zeigen Richter und Staatsanwälte ihre Kritik an der Justizsituation. Die Gerichte werden dabei zur Demonstration der Proteste herangezogen. [LINK:https://kurier.at/politik/inland/justiz-richter-staatsanwaelte-protest-aktionswoche-gericht/403197396]\n\n• **Immer mehr Lehrer arbeiten in Teilzeit**\n  → Der Anteil der Teilzeitkräfte im österreichischen Lehrberuf wächst kontinuierlich an. Dieser Trend prägt das Schulsystem zunehmend. [LINK:https://www.diepresse.com/41345047/immer-mehr-lehrer-arbeiten-in-teilzeit]\n\n• **Nordbahnviertel: Einbrecher hatten es auf mehrere Lokale abgesehen**\n  → Im Wiener Nordbahnviertel kam es zu einer Serie von Einbrüchen in Gastronomiebetriebe. Mehrere Lokale wurden von Einbrechern heimgesucht. [LINK:https://kurier.at/chronik/wien/einbrueche-nordbahnviertel-diebstaehle-wien/403197470]\n\n• **Die Wiener Austria in der Krise: (K)eine Frage des Systems**\n  → Der Wiener Fußballclub Austria befindet sich in einer schwierigen sportlichen Phase. Die Krise wird intensiv analysiert und diskutiert. [LINK:https://kurier.at/sport/fussball/austria-krise-sturm-helm-fischer-ranftl/403197467]\n\n**International:**\n\n• **Polen geht Hinweis auf Anschlagspläne nach: Tusk und Verteidigungsminister im Fokus**\n  → Polen untersucht Hinweise auf mögliche Anschlagspläne gegen hochrangige Regierungsmitglieder, darunter Ministerpräsident Tusk und der Verteidigungsminister. [LINK:https://www.derstandard.at/story/3000000343603/polen-geht-hinweis-auf-anschlagspl228ne-nach-tusk-und-verteidigungsminister-im-fokus?ref=rss]\n\n• **Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad**\n  → Der Flughafen in Riyadh wurde angegriffen, wobei zahlreiche Todesfälle zu beklagen sind. Die Houthis warnten in Folge vor der Nutzung des Airports. [LINK:https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html]\n\n• **Britain stands behind Zelenskyy, says Streating after Trump's call for new leader in Ukraine**\n  → Großbritannien bekräftigt seine Unterstützung für den ukrainischen Präsidenten Zelenskyy, nachdem Trump eine Forderung nach neuer Führung in der Ukraine äußerte. [LINK:https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine]\n\n• **Tschechiens Opposition mit Achtungserfolg bei Senatswahl**\n  → Bei der tschechischen Senatswahl konnte die Opposition beachtliche Erfolge erzielen. Das Wahlergbenis wird als bedeutsam für die politische Kräfteverhältnisse bewertet. [LINK:https://orf.at/stories/3444725/]\n\n• **Indiens Regierung riegelt die Hauptstadt ab, um neue Proteste gegen die Wahlkommission zu unterdrücken**\n  → Indien verhängt Zugangsbeschränkungen auf Delhi, um geplante Protestkundgebungen gegen die Wahlkommission zu unterbinden. [LINK:https://www.nzz.ch/international/indiens-regierung-riegelt-die-hauptstadt-ab-um-neue-proteste-gegen-die-wahlkommission-zu-unterdruecken-ld.10030623]\n\n---\n\n## RECHTSPRECHUNG\n\n**OGH (neu veröffentlicht):**\n\n• **OGH 8Ob86/26v**\n  Normen: § 62 Abs. 1 AußStrG (Voraussetzungen außerordentlicher Revisionsrekurs); Bestimmungen des AußStrG zu Rechtsmittelschriften; materielle Obsorge- und Kontaktrechtsnormen\n  → Der OGH behandelt außerordentliche Revisionsrekurse in einer Familiensache unverheirateter Eltern eines 2022 geborenen Minderjährigen. Die Entscheidung befasst sich mit formalen Anforderungen und Voraussetzungen außerordentlicher Revisionsrekurse im Familienrecht. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260924_OGH0002_0080OB00086_26V0000_000]\n\n• **OGH 8Ob97/26m**\n  Normen: VO 715/2007/EG (Art. 3 Nr. 10, Art. 5 Abs. 1 und 2), Durchführungs-VO 692/2008/EG (Art. 3); österreichisches Zivilprozessrecht (Revisionsverfahren)\n  → Eine Klägerin verlangt von einer beklagten AG die Zahlung von 11.040 EUR und die Feststellung einer unzulässigen Abschalteinrichtung. Der OGH prüft die europäischen Vorgaben zur Emissionsregelierung im Revisionsverfahren. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260924_OGH0002_0080OB00097_26M0000_000]\n\n• **OGH 11Ns57/26k**\n  Normen: § 146 StGB (Betrug); § 36 Abs. 1 StPO (örtliche Zuständigkeit); § 38 letzter Satz StPO (negativer Kompetenzkonflikt)\n  → Ein Angeklagter schloss im Februar 2026 in Wien (Bezirksgericht Fünfhaus) mehrere Mobilfunkverträge mit Ratenzahlung ab und verursachte dadurch erhebliche Schäden. Der OGH entscheidet über Zuständigkeitsfragen im Betrugsstrafverfahren. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260923_OGH0002_0110NS00057_26K0000_000]\n\n• **OGH 16Ok6/26g**\n  Normen: § 29 Abs. 1 Z. 1 lit. a iVm § 17 Abs. 1 KartG\n  → Eine deutsche Unternehmensgruppe im Handel und Service von Baumaschinen mit Präsenz in zehn europäischen Ländern erwarb am 1. Juli 2018 50 % der Anteile an der S* AG im Bereich Elektrifizierung. Der OGH prüft kartellrechtliche Fragen zu dieser Unternehmenstransaktion. [LINK:https://ogd.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260923_OGH0002_0160OK00006_26G0000_000]\n\n• **OGH 11Os96/26s**\n  Normen: §§ 127, 128 Abs. 1 Z. 5, 129 Abs. 1 Z. 1, 130 Abs. 2 iVm 130 Abs. 1 (erster Fall), § 15 StGB (gewerbsmäßig schwerer Diebstahl durch Einbruch); § 241e Abs. 1 StGB (Entfremdung unbarer Zahlungsmittel); § 229 Abs. 1 StGB (Urkundenunterdrückung)\n  → Der OGH entscheidet in einer Strafsache mit gewerbsmäßigen Diebstählen durch Einbruch. Die Entscheidung behandelt die Strafbarkeit von Entfremdung unbarer Zahlungsmittel und Urkundenunterdrüc",
+    "date": "2026-10-11T10:25:29.337582+00:00"
   },
   "_meta": {
-    "last_updated": "2026-10-10T10:14:02.752009+00:00"
+    "last_updated": "2026-10-11T10:25:29.337582+00:00"
   }
 }
